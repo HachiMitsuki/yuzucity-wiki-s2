@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>配信中 | Yuzu City Wiki</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-page="twitch-status">
+<header class="topbar" id="topbar"></header>
+<div class="app">
+  <aside class="sidebar" id="sidebar"></aside>
+  <main>
+    <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><span>配信中</span></nav>
+    <section>
+      <div class="section-header">
+        <h1 class="section-title"><span class="section-title-icon">🟣</span>配信中の住民</h1>
+        <p class="section-subtitle">Discord で共有された Twitch 配信の現在の状況</p>
+      </div>
+
+      <div class="twitch-meta" id="twitchMeta">
+        <span>更新: <span id="updatedAt">—</span></span>
+        <span class="meta-dot"></span>
+        <span>5分ごとに自動更新</span>
+      </div>
+
+      <div class="twitch-summary" id="twitchSummary"></div>
+
+      <div class="streamer-grid" id="streamerGrid">
+        <div class="twitch-empty" id="loadingState">
+          <h3>読み込み中…</h3>
+          <p>配信情報を取得しています</p>
+        </div>
+      </div>
+    </section>
+    <div id="pageNav"></div>
+  </main>
+</div>
+<footer>
+  🍋 <strong>Yuzu City Wiki</strong> · 非公式ガイド &nbsp;|&nbsp;
+  <a href="https://x.com/yuzu_server" target="_blank">𝕏 @yuzu_server</a> ·
+  <a href="https://discord.gg/gHCeUWFyyc" target="_blank">Discord</a>
+</footer>
+<script src="common.js"></script>
+<script>
+(function(){
+  const grid = document.getElementById('streamerGrid');
+  const updatedAtEl = document.getElementById('updatedAt');
+  const summaryEl = document.getElementById('twitchSummary');
+
+  function escapeHtml(s){
+    return String(s ?? '')
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+
+  function formatJst(iso){
+    if(!iso) return '—';
+    try{
+      const d = new Date(iso);
+      const fmt = new Intl.DateTimeFormat('ja-JP',{
+        timeZone:'Asia/Tokyo',
+        year:'numeric',month:'2-digit',day:'2-digit',
+        hour:'2-digit',minute:'2-digit',
+      });
+      return fmt.format(d);
+    }catch(_){ return iso; }
+  }
+
+  function formatViewers(n){
+    if(typeof n !== 'number' || !isFinite(n)) return '';
+    if(n >= 10000) return (n/1000).toFixed(1) + 'K';
+    if(n >= 1000) return (n/1000).toFixed(1) + 'K';
+    return String(n);
+  }
+
+  function thumbUrl(s){
+    if(!s.thumbnail_url) return null;
+    return s.thumbnail_url.replace('{width}','480').replace('{height}','270');
+  }
+
+  function renderCard(s){
+    const live = !!s.is_live;
+    const name = s.display_name || s.login || s.user_login || 'Unknown';
+    const login = s.login || s.user_login || '';
+    const channelUrl = login ? `https://www.twitch.tv/${encodeURIComponent(login)}` : '#';
+    const cls = live ? 'is-live' : 'is-offline';
+    const badge = live
+      ? '<span class="status-badge live">LIVE</span>'
+      : '<span class="status-badge offline">OFFLINE</span>';
+
+    let thumb;
+    if(live){
+      const url = thumbUrl(s);
+      thumb = url
+        ? `<div class="card-thumb"><img src="${escapeHtml(url)}?cb=${Date.now()}" alt="" loading="lazy"></div>`
+        : `<div class="card-thumb"><div class="card-thumb-placeholder">🎥</div></div>`;
+    }else{
+      thumb = `<div class="card-thumb"><div class="card-thumb-placeholder">💤</div></div>`;
+    }
+
+    const viewers = live && typeof s.viewer_count === 'number'
+      ? `<span class="stream-viewers">${escapeHtml(formatViewers(s.viewer_count))}</span>`
+      : '';
+
+    const titleBlock = live
+      ? `<div class="stream-title">${escapeHtml(s.title || '無題の配信')}</div>`
+      : `<div class="offline-msg">現在オフラインです</div>`;
+
+    const gameBlock = live && s.game_name
+      ? `<div class="stream-game">${escapeHtml(s.game_name)}${viewers}</div>`
+      : '';
+
+    return `
+      <div class="streamer-card ${cls}">
+        ${thumb}
+        <div class="streamer-head">
+          <div class="streamer-name"><a href="${channelUrl}" target="_blank" rel="noopener">${escapeHtml(name)}</a></div>
+          ${badge}
+        </div>
+        ${titleBlock}
+        ${gameBlock}
+        <a href="${channelUrl}" target="_blank" rel="noopener" class="btn-twitch">
+          ${live ? '視聴する →' : 'チャンネルを見る →'}
+        </a>
+      </div>
+    `;
+  }
+
+  function renderEmpty(){
+    return `
+      <div class="twitch-empty">
+        <h3>配信者がまだ登録されていません</h3>
+        <p>Discord の指定チャンネルに Twitch URL を投稿すると、ここに表示されます。</p>
+      </div>
+    `;
+  }
+
+  function renderError(msg){
+    return `
+      <div class="twitch-empty">
+        <h3>取得に失敗しました</h3>
+        <p>${escapeHtml(msg || 'status.json を読み込めませんでした')}</p>
+      </div>
+    `;
+  }
+
+  function renderSummary(streamers){
+    const live = streamers.filter(s => s.is_live).length;
+    const total = streamers.length;
+    summaryEl.innerHTML = `
+      <span class="pill pill-live">🔴 LIVE ${live}</span>
+      <span class="pill pill-twitch">登録 ${total}</span>
+    `;
+  }
+
+  async function load(){
+    try{
+      const res = await fetch('status.json?cb=' + Date.now(), {cache:'no-store'});
+      if(!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      const streamers = Array.isArray(data.streamers) ? data.streamers : [];
+
+      updatedAtEl.textContent = formatJst(data.updated_at);
+
+      if(streamers.length === 0){
+        summaryEl.innerHTML = '';
+        grid.innerHTML = renderEmpty();
+        return;
+      }
+
+      streamers.sort((a,b) => {
+        if(a.is_live !== b.is_live) return a.is_live ? -1 : 1;
+        const av = a.viewer_count || 0;
+        const bv = b.viewer_count || 0;
+        if(av !== bv) return bv - av;
+        const an = (a.display_name || a.login || '').toLowerCase();
+        const bn = (b.display_name || b.login || '').toLowerCase();
+        return an.localeCompare(bn);
+      });
+
+      renderSummary(streamers);
+      grid.innerHTML = streamers.map(renderCard).join('');
+    }catch(e){
+      summaryEl.innerHTML = '';
+      grid.innerHTML = renderError(e.message);
+    }
+  }
+
+  load();
+  setInterval(load, 60_000);
+})();
+</script>
+</body>
+</html>

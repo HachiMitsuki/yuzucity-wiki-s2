@@ -24,6 +24,7 @@ const NAV = [
   {title:"最新情報", links:[
     {slug:"news", label:"お知らせ", icon:"📢"},
     {slug:"updates", label:"機能変更", icon:"🔄"},
+    {slug:"twitch-status", label:"配信中", icon:"🟣"},
   ]},
   {title:"外部リンク", links:[
     {url:"https://x.com/yuzu_server", label:"公式 Twitter", icon:"𝕏"},
