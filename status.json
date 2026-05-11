@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T12:18:53+09:00",
+  "updated_at": "2026-05-11T12:25:07+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -149,7 +149,12 @@
       "display_name": "水無瀬九炉",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfc4b856-14bc-4aa3-8104-bf88ecb3ae48-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/k6o_minase",
-      "is_live": false
+      "is_live": true,
+      "title": "【Civ6】暇つぶし",
+      "game_name": "Sid Meier's Civilization VI",
+      "viewer_count": 0,
+      "started_at": "2026-05-11T03:22:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_k6o_minase-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
