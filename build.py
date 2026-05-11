@@ -112,6 +112,7 @@ def home_page():
   <a href="updates.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">🔄 機能変更</div><p style="color:var(--text-dim);">サーバー機能のアップデート履歴</p></a>
   <a href="streams.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">📺 配信中</div><p style="color:var(--text-dim);">住民のTwitch・YouTube配信状況</p></a>
   <a href="socials.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">𝕏 住民SNS</div><p style="color:var(--text-dim);">住民のX(Twitter)アカウント一覧</p></a>
+  <a href="dealer.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">🚗 ディーラー</div><p style="color:var(--text-dim);">街で購入可能な車両・バイク・航空機・ボート</p></a>
 </div>
 """
     return page('index', '街の概要', '🏙️',

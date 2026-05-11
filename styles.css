@@ -632,3 +632,121 @@ ul.styled-list li::before{content:"🍋";position:absolute;left:0;font-size:.85e
 @media (max-width:900px){
   .socials-grid{grid-template-columns:1fr;gap:.6rem}
 }
+
+/* Dealer / vehicle catalog */
+.dealer-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:.85rem;margin-bottom:1.5rem}
+.dealer-stat{
+  background:var(--panel);border:1px solid var(--border);
+  border-radius:10px;padding:.85rem 1rem;text-align:center;
+}
+.dealer-stat-num{font-size:1.4rem;font-weight:800;color:var(--yuzu-bright);font-family:"Rajdhani","Bebas Neue",sans-serif}
+.dealer-stat-label{font-size:.65rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:.1em;margin-top:.15rem}
+
+.dealer-controls{
+  display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;
+  margin-bottom:1rem;
+}
+.dealer-search{
+  flex:1;min-width:200px;position:relative;
+}
+.dealer-search input{
+  width:100%;background:var(--panel);border:1px solid var(--border);
+  border-radius:8px;padding:.55rem .85rem .55rem 2.2rem;
+  color:var(--text);font-size:.88rem;outline:none;
+  font-family:inherit;
+}
+.dealer-search input:focus{border-color:var(--yuzu);box-shadow:0 0 0 3px rgba(244,196,48,.15)}
+.dealer-search-icon{position:absolute;left:.7rem;top:50%;transform:translateY(-50%);color:var(--text-muted);font-size:.9rem;pointer-events:none}
+.dealer-sort{
+  background:var(--panel);border:1px solid var(--border);
+  border-radius:8px;padding:.55rem .85rem;color:var(--text);
+  font-size:.85rem;cursor:pointer;outline:none;font-family:inherit;
+}
+.dealer-count{font-size:.78rem;color:var(--text-muted);margin-left:auto}
+.dealer-count strong{color:var(--yuzu);font-weight:700}
+
+.shop-tabs{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:.85rem}
+.shop-tab{
+  display:inline-flex;align-items:center;gap:.4rem;
+  padding:.5rem .85rem;border-radius:8px;cursor:pointer;
+  border:1px solid var(--border);background:var(--panel);
+  color:var(--text-muted);font-size:.8rem;font-weight:700;letter-spacing:.05em;
+  transition:all .15s;
+}
+.shop-tab:hover{color:var(--text)}
+.shop-tab.active{color:var(--yuzu);background:rgba(244,196,48,.08);border-color:var(--yuzu)}
+.shop-tab .tab-count{background:rgba(255,255,255,.06);padding:.05rem .45rem;border-radius:999px;font-size:.7rem;font-weight:600}
+.shop-tab.active .tab-count{background:rgba(244,196,48,.2)}
+
+.cat-filters{display:flex;flex-wrap:wrap;gap:.4rem;margin-bottom:1.25rem}
+.cat-pill{
+  padding:.25rem .7rem;border-radius:999px;
+  font-size:.7rem;font-weight:700;letter-spacing:.05em;
+  cursor:pointer;border:1px solid transparent;
+  opacity:.6;transition:opacity .15s,filter .15s;
+  text-transform:uppercase;
+}
+.cat-pill:hover,.cat-pill.active{opacity:1;filter:brightness(1.15)}
+
+.vehicle-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(220px,1fr));
+  gap:.85rem;margin-bottom:2rem;
+}
+.vehicle-card{
+  background:var(--panel);
+  border:1px solid var(--border);
+  border-radius:12px;overflow:hidden;
+  transition:transform .2s,box-shadow .2s,border-color .2s;
+  position:relative;
+}
+.vehicle-card:hover{transform:translateY(-3px);box-shadow:var(--shadow);border-color:rgba(244,196,48,.3)}
+.vehicle-card.out-of-stock{opacity:.45}
+.vehicle-card .card-img-wrap{
+  position:relative;height:140px;overflow:hidden;
+  background:linear-gradient(135deg,#1a1a2e 0%,#0d0d1a 100%);
+  display:flex;align-items:center;justify-content:center;
+}
+.vehicle-card .card-img-wrap img{width:100%;height:100%;object-fit:cover;transition:transform .3s;display:block}
+.vehicle-card:hover .card-img-wrap img{transform:scale(1.04)}
+.vehicle-card .img-fallback{font-size:3rem;opacity:.4;display:none;align-items:center;justify-content:center;width:100%;height:100%}
+.vehicle-card .cat-bar{position:absolute;bottom:0;left:0;right:0;height:3px}
+.vehicle-card .stock-badge{
+  position:absolute;top:.5rem;right:.5rem;
+  background:rgba(239,68,68,.85);color:#fff;
+  font-size:.6rem;font-weight:700;letter-spacing:.06em;
+  padding:.15rem .5rem;border-radius:4px;text-transform:uppercase;
+}
+.vehicle-card .card-body{padding:.7rem .9rem .85rem}
+.vehicle-card .card-model{
+  font-family:"Rajdhani","Bebas Neue",sans-serif;
+  font-size:1.05rem;font-weight:700;letter-spacing:.04em;
+  text-transform:uppercase;color:var(--text);margin-bottom:.4rem;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+}
+.vehicle-card .card-meta{display:flex;align-items:center;justify-content:space-between;gap:.5rem}
+.vehicle-card .cat-tag{
+  font-size:.62rem;font-weight:700;letter-spacing:.06em;
+  padding:.18rem .5rem;border-radius:4px;text-transform:uppercase;
+  white-space:nowrap;
+}
+.vehicle-card .card-price{
+  font-family:"Rajdhani","Bebas Neue",sans-serif;
+  font-size:1rem;font-weight:700;color:var(--yuzu);
+}
+
+.vehicle-empty{
+  grid-column:1 / -1;
+  text-align:center;padding:3rem 1.5rem;
+  background:var(--panel);border:1px dashed var(--border);border-radius:12px;
+  color:var(--text-dim);
+}
+.vehicle-empty .big-icon{font-size:3rem;margin-bottom:.5rem;opacity:.5}
+
+@media (max-width:900px){
+  .vehicle-grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:.6rem}
+  .vehicle-card .card-img-wrap{height:100px}
+  .vehicle-card .card-model{font-size:.9rem}
+  .vehicle-card .card-price{font-size:.85rem}
+  .dealer-count{margin-left:0;flex-basis:100%}
+}

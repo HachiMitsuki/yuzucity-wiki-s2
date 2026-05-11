@@ -5,6 +5,7 @@ const NAV = [
     {slug:"guide", label:"初心者ガイド", icon:"📖"},
     {slug:"commands", label:"コマンド一覧", icon:"⌨️"},
     {slug:"terms", label:"配信用語集", icon:"💬"},
+    {slug:"dealer", label:"ディーラー", icon:"🚗"},
   ]},
   {title:"ルール", links:[
     {slug:"rules-general", label:"一般ルール", icon:"📜"},
