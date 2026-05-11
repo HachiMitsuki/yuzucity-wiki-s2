@@ -801,6 +801,23 @@ ul.styled-list li::before{content:"🍋";position:absolute;left:0;font-size:.85e
   .menu-name{font-size:.88rem}
 }
 
+/* Price group header (Icarus / Jointshop catalogs) */
+.price-group-header{
+  display:flex;align-items:center;gap:.8rem;
+  margin:1.5rem 0 .75rem;
+  font-family:"Rajdhani","Bebas Neue",sans-serif;
+  font-size:1.05rem;font-weight:700;letter-spacing:.05em;
+}
+.price-group-header:first-child{margin-top:0}
+.price-group-price{color:var(--yuzu-bright)}
+.price-group-line{flex:1;height:1px;background:linear-gradient(90deg,var(--border),transparent)}
+.price-group-count{
+  font-size:.7rem;font-weight:600;color:var(--text-muted);
+  letter-spacing:.04em;text-transform:uppercase;
+  padding:.1rem .55rem;border-radius:999px;
+  background:rgba(255,255,255,.04);border:1px solid var(--border);
+}
+
 /* Clips page */
 .clips-filters{display:flex;flex-wrap:wrap;gap:.4rem;margin-bottom:1.25rem}
 .clips-grid{

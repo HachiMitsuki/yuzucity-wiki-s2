@@ -40,7 +40,7 @@
       </div>
 
       <div class="cat-filters" id="cat-filters"></div>
-      <div class="menu-grid" id="menu-grid"></div>
+      <div id="menu-grid"></div>
     </section>
     <div id="pageNav"></div>
   </main>
@@ -122,6 +122,36 @@
     renderIcarus();
   };
 
+  function renderItemCard(it){
+    const cat = CATEGORIES[it.category] || { label: it.category, color: "#888", icon: "🍽" };
+    const setBadge = it.setNote
+      ? `<span class="menu-set-badge">${escapeHtml(it.setNote)}</span>`
+      : '';
+    const imgs = Array.isArray(it.images) && it.images.length > 0 ? it.images : [it.image];
+    const pairClass = imgs.length > 1 ? ' menu-img-pair' : '';
+    const imageHtml = imgs.map(img => `
+        <img
+          src="${IMG_BASE}${encodeURIComponent(img)}"
+          onerror="this.style.display='none'"
+          alt="${escapeHtml(it.name)}"
+          loading="lazy">
+    `).join('');
+    return `<div class="menu-card${imgs.length > 1 ? ' menu-card-set' : ''}">
+      <div class="menu-img-wrap${pairClass}">
+        ${imageHtml}
+        ${setBadge}
+        <div class="cat-bar" style="background:${cat.color}"></div>
+      </div>
+      <div class="card-body">
+        <div class="menu-name">${escapeHtml(it.name)}</div>
+        <div class="card-meta">
+          <span class="cat-tag" style="background:${cat.color}22;color:${cat.color}">${cat.icon} ${escapeHtml(cat.label)}</span>
+          <span class="card-price">${formatPrice(it.price)}</span>
+        </div>
+      </div>
+    </div>`;
+  }
+
   window.renderIcarus = function(){
     const q = (document.getElementById("icarusSearch").value || '').toLowerCase();
     const sort = document.getElementById("icarusSort").value;
@@ -132,47 +162,40 @@
       return true;
     });
 
-    if(sort === "price-asc") list.sort((a,b) => a.price - b.price);
-    else if(sort === "price-desc") list.sort((a,b) => b.price - a.price);
-    else list.sort((a,b) => a.name.localeCompare(b.name));
-
     document.getElementById("display-count").textContent = list.length;
 
     const grid = document.getElementById("menu-grid");
     if(list.length === 0){
-      grid.innerHTML = `<div class="vehicle-empty"><div class="big-icon">🔍</div><p>該当するメニューが見つかりません</p></div>`;
+      grid.innerHTML = `<div class="menu-grid"><div class="vehicle-empty"><div class="big-icon">🔍</div><p>該当するメニューが見つかりません</p></div></div>`;
       return;
     }
 
-    grid.innerHTML = list.map(it => {
-      const cat = CATEGORIES[it.category] || { label: it.category, color: "#888", icon: "🍽" };
-      const setBadge = it.setNote
-        ? `<span class="menu-set-badge">${escapeHtml(it.setNote)}</span>`
-        : '';
-      const imgs = Array.isArray(it.images) && it.images.length > 0 ? it.images : [it.image];
-      const pairClass = imgs.length > 1 ? ' menu-img-pair' : '';
-      const imageHtml = imgs.map(img => `
-          <img
-            src="${IMG_BASE}${encodeURIComponent(img)}"
-            onerror="this.style.display='none'"
-            alt="${escapeHtml(it.name)}"
-            loading="lazy">
-      `).join('');
-      return `<div class="menu-card${imgs.length > 1 ? ' menu-card-set' : ''}">
-        <div class="menu-img-wrap${pairClass}">
-          ${imageHtml}
-          ${setBadge}
-          <div class="cat-bar" style="background:${cat.color}"></div>
+    // Group by price, sort items within each group by name.
+    const byPrice = new Map();
+    for(const it of list){
+      if(!byPrice.has(it.price)) byPrice.set(it.price, []);
+      byPrice.get(it.price).push(it);
+    }
+    for(const items of byPrice.values()){
+      items.sort((a,b) => a.name.localeCompare(b.name));
+    }
+
+    // Order price groups: desc when "price-desc" sort, else ascending.
+    const prices = [...byPrice.keys()].sort((a,b) => sort === "price-desc" ? b - a : a - b);
+
+    grid.innerHTML = prices.map(price => {
+      const items = byPrice.get(price);
+      const note = items.find(i => i.setNote)?.setNote;
+      const priceLabel = note ? `${formatPrice(price)} <span style="font-size:.7em;opacity:.7">(${escapeHtml(note)})</span>` : formatPrice(price);
+      return `
+        <div class="price-group-header">
+          <span class="price-group-price">${priceLabel}</span>
+          <div class="price-group-line"></div>
+          <span class="price-group-count">${items.length}品</span>
         </div>
-        <div class="card-body">
-          <div class="menu-name">${escapeHtml(it.name)}</div>
-          <div class="card-meta">
-            <span class="cat-tag" style="background:${cat.color}22;color:${cat.color}">${cat.icon} ${escapeHtml(cat.label)}</span>
-            <span class="card-price">${formatPrice(it.price)}</span>
-          </div>
-        </div>
-      </div>`;
-    }).join("");
+        <div class="menu-grid">${items.map(renderItemCard).join('')}</div>
+      `;
+    }).join('');
   };
 
   function initStats(){
