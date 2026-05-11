@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T12:29:53+09:00",
+  "updated_at": "2026-05-11T12:37:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -152,7 +152,7 @@
       "is_live": true,
       "title": "【Civ6】暇つぶし",
       "game_name": "Sid Meier's Civilization VI",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-11T03:22:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_k6o_minase-{width}x{height}.jpg"
     },
@@ -464,6 +464,146 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCvBuuc0br_wbzStIkFUTlSQ",
+      "channel_id": "UCvBuuc0br_wbzStIkFUTlSQ",
+      "handle": "@藤紫ゆん",
+      "display_name": "藤紫ゆん(Fujishi yun)",
+      "profile_image_url": "https://yt3.ggpht.com/WtcGpB47CMUSVQhD4Q5tQSMtCoS1zUB5rWkXpR6IslYUYZRXFirHRswjs1aCc660_H-lgTop=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E8%97%A4%E7%B4%AB%E3%82%86%E3%82%93",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCjtNUzbnglluVtV7ZH8lz5Q",
+      "channel_id": "UCjtNUzbnglluVtV7ZH8lz5Q",
+      "handle": "@zuu_hayasaki",
+      "display_name": "早崎ずぅ",
+      "profile_image_url": "https://yt3.ggpht.com/QRabUm0I7vRMi2DcSPYvWHyYy2n9MCYVG7z3pGo-72ic_8b4G3yS4PM0WPkNC_sGBKVg6L8ZvA=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40zuu_hayasaki",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UC1qC9RknNaUyAf9ShCAT9Ww",
+      "channel_id": "UC1qC9RknNaUyAf9ShCAT9Ww",
+      "handle": "@crossashmare69",
+      "display_name": "Asähi -Ash- │ あっしゅちゃん",
+      "profile_image_url": "https://yt3.ggpht.com/aj2wRUB2qtJCyJGIm-vSXpUir3gX4abDYkiR0h-krdKtfF6NdX8D_oumLmCf1k1upQh7WnXg=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40crossashmare69",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UClJvn9BquXxWlW_HFcFqVOQ",
+      "channel_id": "UClJvn9BquXxWlW_HFcFqVOQ",
+      "handle": "@ハクア25-1v",
+      "display_name": "夢響ハクア",
+      "profile_image_url": "https://yt3.ggpht.com/Oh3jT3wDo7T1FPIg3PRSKm5vlIlf9MsVgIu-ZHE2ONZqIs8QjhKB64A5OIIXd-MPaLb-kRMinw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E3%83%8F%E3%82%AF%E3%82%A225-1v",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCYB8HjSpK7jkfEc2PD2Rmow",
+      "channel_id": "UCYB8HjSpK7jkfEc2PD2Rmow",
+      "handle": "@白藍ルド",
+      "display_name": "白藍ルド　byakuran rud",
+      "profile_image_url": "https://yt3.ggpht.com/ge256EXK3dmwUcy4Oi1e42IzaMndwPezM8CsCKoEwCYE6gMmSihbfGQ0yUJwiZctdhfxBmAhhQ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E7%99%BD%E8%97%8D%E3%83%AB%E3%83%89",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCF_jPkJBlWxpvTgSt6PUALw",
+      "channel_id": "UCF_jPkJBlWxpvTgSt6PUALw",
+      "handle": "@etoaosushil",
+      "display_name": "おすしえる",
+      "profile_image_url": "https://yt3.ggpht.com/6SxHBNnF1443TGrw_HzQrp0Br7Ja-RyAMUHJQ8bXMZBFOBhnmmIpB-1cy3s-QokA7MU5nIkEhw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40etoaosushil",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCuRPizKyVSmDQThwJlNSVNw",
+      "channel_id": "UCuRPizKyVSmDQThwJlNSVNw",
+      "handle": "@雷音_雅",
+      "display_name": "雷音雅",
+      "profile_image_url": "https://yt3.ggpht.com/gOEfK2lUndDvPJRXnPdJGSyZi14euSqf6Ihm5pN4Wd1IyygzKuBxY33jBcucjUE_WwLwFWU5xw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E9%9B%B7%E9%9F%B3_%E9%9B%85",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCmRIK2CLLg47EBymzdUTGpQ",
+      "channel_id": "UCmRIK2CLLg47EBymzdUTGpQ",
+      "handle": "@memekohitsuzi",
+      "display_name": "子羊めぇめ",
+      "profile_image_url": "https://yt3.ggpht.com/793cqsLmOEQa4unxkxMg6LWLwliYZLRBwjZE8pULJtGrL5xtFX-34CBiqUyqaWcGbyohT8J0cQ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40memekohitsuzi",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCmWWYhl0o7rYL-tf-PJo1NA",
+      "channel_id": "UCmWWYhl0o7rYL-tf-PJo1NA",
+      "handle": "@hanakozombch",
+      "display_name": "樺音ハナコ",
+      "profile_image_url": "https://yt3.ggpht.com/ytc/AIdro_nVPY0Ujc6pcJJpVwyFfGvq8R8GgLih30zclDshNuWSbQ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40hanakozombch",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCqo20kZACOTNu28QHyLaMmQ",
+      "channel_id": "UCqo20kZACOTNu28QHyLaMmQ",
+      "handle": "@三庭雪彦",
+      "display_name": "三庭雪彦-MitsuniwaYukihiko-",
+      "profile_image_url": "https://yt3.ggpht.com/xCw6ZyePOakfO0EuglOGNZ6WDsVu4uYu3SDN6hD0jPQzpI1gp40luksJtLSVwJrn5lt1cVsZ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E4%B8%89%E5%BA%AD%E9%9B%AA%E5%BD%A6",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCLfCajF6YSvQWawno86QZAw",
+      "channel_id": "UCLfCajF6YSvQWawno86QZAw",
+      "handle": "@結雲みる",
+      "display_name": "結雲みる🧸立ち絵公開チャレンジ中",
+      "profile_image_url": "https://yt3.ggpht.com/77L6HygEKbD5gZe0pPyDSiav2HV7iHavLmFrpSfO7EnSnA3maJfUyIK5j5D2gcn3tYl0qayiPx4=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E7%B5%90%E9%9B%B2%E3%81%BF%E3%82%8B",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCyS1Nj3zc6Mhl5e2DY19Cvg",
+      "channel_id": "UCyS1Nj3zc6Mhl5e2DY19Cvg",
+      "handle": "@miui_babu",
+      "display_name": "宝幼ばぶ",
+      "profile_image_url": "https://yt3.ggpht.com/NGGlQ9CWfRO2gkwdZhdbgAI-Hwe_iTCO1VyZ29PBtr2-8ndcwhKDqRvsmC48u5fmEuKwTULk=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40miui_babu",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCs7FZooMdwPb_AZ7c6t6LUQ",
+      "channel_id": "UCs7FZooMdwPb_AZ7c6t6LUQ",
+      "handle": "@kqzkuk1",
+      "display_name": "一ノ瀬和輝🐙🥂",
+      "profile_image_url": "https://yt3.ggpht.com/HTODHMzyIiho07LeiY_AXyIWdQLDjqJ6d4wGtBnwhiewtolBuxSO_1mXbYNihAPUhHnHzwLa=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40kqzkuk1",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCNIqoCqqO4vvaEUzfjJ4vEA",
+      "channel_id": "UCNIqoCqqO4vvaEUzfjJ4vEA",
+      "handle": "@舞鶴びき",
+      "display_name": "舞鶴びき",
+      "profile_image_url": "https://yt3.ggpht.com/WqBCnT8QXd1zc1XrHBFHjaeZySMRLuXPPjU5ZU4eUM0POfaO6yzWWuIRgALjlFnz5TfG07Aq=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E8%88%9E%E9%B6%B4%E3%81%B3%E3%81%8D",
       "is_live": false
     }
   ]
