@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T22:55:42+09:00",
+  "updated_at": "2026-05-11T23:00:43+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -42,7 +42,7 @@
       "is_live": true,
       "title": "【#YCGTA】10本指を地面に着けて【水樹らこ丸視点】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-05-11T12:43:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -77,7 +77,7 @@
       "is_live": true,
       "title": "【YuzuCity】この町一番の大金持ちになる#6",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-11T10:12:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiita0813-{width}x{height}.jpg"
     },
@@ -117,7 +117,7 @@
       "is_live": true,
       "title": "[#YCGTA] 10日目 海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-11T11:02:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -332,7 +332,7 @@
       "is_live": true,
       "title": "【#Yuzucity】店舗経営を詰めていく Day6 | GTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-11T12:00:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -422,7 +422,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた9【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 19,
+      "viewer_count": 18,
       "started_at": "2026-05-11T11:52:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -497,7 +497,7 @@
       "is_live": true,
       "title": "【YUZU CITY⇒ウィズグラ】Day１１ 今日は何しよっかね/抗争するぞ～",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-11T11:36:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -542,7 +542,7 @@
       "is_live": true,
       "title": "ここ最近負けが多いはかない  #VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-11T10:13:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
