@@ -24,6 +24,7 @@ const NAV = [
   {title:"カタログ", links:[
     {slug:"dealer", label:"ディーラー", icon:"🚗"},
     {slug:"icarus", label:"Icarus", icon:"🍰"},
+    {slug:"jointshop", label:"Jointshop", icon:"🍃"},
   ]},
   {title:"最新情報", links:[
     {slug:"news", label:"お知らせ", icon:"📢"},

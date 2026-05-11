@@ -115,6 +115,7 @@ def home_page():
   <a href="clips.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">🎬 クリップ</div><p style="color:var(--text-dim);">配信の面白かった瞬間まとめ</p></a>
   <a href="dealer.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">🚗 ディーラー</div><p style="color:var(--text-dim);">街で購入可能な車両・バイク・航空機・ボート</p></a>
   <a href="icarus.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">🍰 Icarus</div><p style="color:var(--text-dim);">食べ物・飲み物メニュー</p></a>
+  <a href="jointshop.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">🍃 Jointshop</div><p style="color:var(--text-dim);">ジョイント・食べ物・飲み物</p></a>
 </div>
 """
     return page('index', '街の概要', '🏙️',
