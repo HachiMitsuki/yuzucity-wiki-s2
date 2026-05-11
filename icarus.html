@@ -78,9 +78,10 @@
     { id: 9,  name: "Sunset Soda",           image: "SunsetSoda.png",         category: "drink", price: 30000 },
     { id: 10, name: "Twilight Highball",     image: "TwilightHighball.png",   category: "drink", price: 30000 },
 
-    // セット (2点で¥60,000)
-    { id: 11, name: "Cloud Milktea",         image: "CloudMilktea.png",       category: "set",   price: 60000, setNote: "2点セット" },
-    { id: 12, name: "Sky Teafoods",          image: "SkyTeafoods.png",        category: "set",   price: 60000, setNote: "2点セット" },
+    // セット (2品で¥60,000)
+    { id: 11, name: "Cloud Milktea + Sky Teafoods",
+      images: ["CloudMilktea.png", "SkyTeafoods.png"],
+      category: "set", price: 60000, setNote: "2品セット" },
   ];
 
   let currentCat = "all";
@@ -141,14 +142,18 @@
       const setBadge = it.setNote
         ? `<span class="menu-set-badge">${escapeHtml(it.setNote)}</span>`
         : '';
-      return `<div class="menu-card">
-        <div class="menu-img-wrap">
+      const imgs = Array.isArray(it.images) && it.images.length > 0 ? it.images : [it.image];
+      const pairClass = imgs.length > 1 ? ' menu-img-pair' : '';
+      const imageHtml = imgs.map(img => `
           <img
-            src="${IMG_BASE}${encodeURIComponent(it.image)}"
-            onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
+            src="${IMG_BASE}${encodeURIComponent(img)}"
+            onerror="this.style.display='none'"
             alt="${escapeHtml(it.name)}"
             loading="lazy">
-          <div class="img-fallback">${cat.icon}</div>
+      `).join('');
+      return `<div class="menu-card${imgs.length > 1 ? ' menu-card-set' : ''}">
+        <div class="menu-img-wrap${pairClass}">
+          ${imageHtml}
           ${setBadge}
           <div class="cat-bar" style="background:${cat.color}"></div>
         </div>

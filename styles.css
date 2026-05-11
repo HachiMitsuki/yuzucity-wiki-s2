@@ -775,6 +775,12 @@ ul.styled-list li::before{content:"🍋";position:absolute;left:0;font-size:.85e
 }
 .menu-img-wrap img{width:100%;height:100%;object-fit:cover;transition:transform .3s;display:block}
 .menu-card:hover .menu-img-wrap img{transform:scale(1.04)}
+
+/* Paired (set) image — show two images side by side filling the square */
+.menu-img-wrap.menu-img-pair{display:grid;grid-template-columns:1fr 1fr;gap:2px;background:var(--border)}
+.menu-img-wrap.menu-img-pair img{width:100%;height:100%;object-fit:cover}
+.menu-card-set{border-color:rgba(244,196,48,.4)}
+.menu-card-set:hover{border-color:rgba(244,196,48,.7);box-shadow:0 8px 24px rgba(244,196,48,.12)}
 .menu-img-wrap .img-fallback{font-size:3.5rem;opacity:.4;display:none;align-items:center;justify-content:center;width:100%;height:100%}
 .menu-img-wrap .cat-bar{position:absolute;bottom:0;left:0;right:0;height:3px}
 .menu-set-badge{
