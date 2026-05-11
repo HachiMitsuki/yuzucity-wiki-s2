@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>クリップ | Yuzu City Wiki</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-page="clips">
+<header class="topbar" id="topbar"></header>
+<div class="app">
+  <aside class="sidebar" id="sidebar"></aside>
+  <main>
+    <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><span>クリップ</span></nav>
+    <section>
+      <div class="section-header">
+        <h1 class="section-title"><span class="section-title-icon">🎬</span>面白クリップ</h1>
+        <p class="section-subtitle">街の住民が配信から切り抜いた面白かった瞬間</p>
+      </div>
+
+      <div class="twitch-meta" id="clipsMeta">
+        <span>更新: <span id="updatedAt">—</span></span>
+        <span class="meta-dot"></span>
+        <span id="countLabel">— クリップ</span>
+      </div>
+
+      <div class="clips-filters" id="clips-filters"></div>
+
+      <div class="clips-grid" id="clips-grid">
+        <div class="vehicle-empty"><h3>読み込み中…</h3><p>クリップを取得しています</p></div>
+      </div>
+    </section>
+    <div id="pageNav"></div>
+  </main>
+</div>
+<footer>
+  🍋 <strong>Yuzu City Wiki</strong> · 非公式ガイド &nbsp;|&nbsp;
+  <a href="https://x.com/yuzu_server" target="_blank">𝕏 @yuzu_server</a> ·
+  <a href="https://discord.gg/gHCeUWFyyc" target="_blank">Discord</a>
+</footer>
+<script src="common.js"></script>
+<script>
+(function(){
+  const grid = document.getElementById('clips-grid');
+  const updatedAtEl = document.getElementById('updatedAt');
+  const countLabelEl = document.getElementById('countLabel');
+  const filtersEl = document.getElementById('clips-filters');
+
+  const SOURCE_INFO = {
+    all:        { label: "すべて",     icon: "🎬", color: "#f4c430" },
+    twitch:     { label: "Twitch",     icon: "🟣", color: "#9146FF" },
+    youtube:    { label: "YouTube",    icon: "▶️",  color: "#FF0000" },
+    streamable: { label: "Streamable", icon: "🔵", color: "#0F90FA" },
+    discord:    { label: "Discord動画", icon: "💜", color: "#5865F2" },
+  };
+
+  let currentSource = "all";
+
+  function escapeHtml(s){
+    return String(s ?? '')
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+
+  function formatJst(iso){
+    if(!iso) return '—';
+    try{
+      const d = new Date(iso);
+      const fmt = new Intl.DateTimeFormat('ja-JP',{
+        timeZone:'Asia/Tokyo',
+        year:'numeric',month:'2-digit',day:'2-digit',
+        hour:'2-digit',minute:'2-digit',
+      });
+      return fmt.format(d);
+    }catch(_){ return iso; }
+  }
+
+  function formatDuration(s){
+    if(!s || s <= 0) return '';
+    const m = Math.floor(s/60);
+    const r = s % 60;
+    return m > 0 ? `${m}:${String(r).padStart(2,'0')}` : `0:${String(r).padStart(2,'0')}`;
+  }
+
+  function buildFilters(clips){
+    const counts = {all: clips.length};
+    for(const c of clips){ counts[c.source] = (counts[c.source]||0) + 1; }
+    const sources = ['all', 'twitch', 'youtube', 'discord', 'streamable']
+      .filter(s => s === 'all' || (counts[s] || 0) > 0);
+    filtersEl.innerHTML = sources.map(s => {
+      const info = SOURCE_INFO[s];
+      const active = s === currentSource ? ' active' : '';
+      return `<div class="cat-pill${active}"
+        style="background:${info.color}22;color:${info.color};border-color:${info.color}55"
+        onclick="selectClipSource('${s}')">${info.icon} ${escapeHtml(info.label)} <span style="opacity:.7">${counts[s]||0}</span></div>`;
+    }).join('');
+  }
+
+  window.selectClipSource = function(src){
+    currentSource = src;
+    document.querySelectorAll('.clips-filters .cat-pill').forEach((p,i,arr) => {
+      const isActive = p.textContent.trim().includes(SOURCE_INFO[src].label);
+      p.classList.toggle('active', isActive);
+    });
+    render();
+  };
+
+  let allClips = [];
+
+  function render(){
+    let list = currentSource === 'all' ? allClips : allClips.filter(c => c.source === currentSource);
+    if(list.length === 0){
+      grid.innerHTML = `<div class="vehicle-empty"><div class="big-icon">🎬</div><p>該当するクリップがありません</p></div>`;
+      return;
+    }
+
+    grid.innerHTML = list.map(c => {
+      const info = SOURCE_INFO[c.source] || { label: c.source, icon: "🎬", color: "#888" };
+      const title = c.title || (c.source === 'discord' ? 'Discord動画' : `${info.label} クリップ`);
+      const author = c.author_name || '匿名';
+      const dur = formatDuration(c.duration_seconds);
+
+      // Thumbnail: image for twitch/youtube/streamable, <video> for discord
+      let media;
+      if(c.source === 'discord'){
+        media = `<video class="clip-thumb-video" src="${escapeHtml(c.url)}#t=0.1" preload="metadata" muted playsinline></video>`;
+      }else if(c.thumbnail_url){
+        media = `<img class="clip-thumb-img" src="${escapeHtml(c.thumbnail_url)}" alt="" loading="lazy"
+          onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+          <div class="clip-thumb-fallback" style="display:none">${info.icon}</div>`;
+      }else{
+        media = `<div class="clip-thumb-fallback" style="display:flex">${info.icon}</div>`;
+      }
+
+      return `<a href="${escapeHtml(c.url)}" target="_blank" rel="noopener" class="clip-card">
+        <div class="clip-thumb">
+          ${media}
+          <div class="clip-play">▶</div>
+          ${dur ? `<span class="clip-duration">${dur}</span>` : ''}
+          <span class="clip-source-badge" style="background:${info.color}">${info.icon} ${escapeHtml(info.label)}</span>
+        </div>
+        <div class="clip-body">
+          <div class="clip-title" title="${escapeHtml(title)}">${escapeHtml(title)}</div>
+          <div class="clip-meta">
+            <span class="clip-author">
+              ${c.author_avatar ? `<img src="${escapeHtml(c.author_avatar)}" class="clip-author-avatar" alt="">` : ''}
+              ${escapeHtml(author)}
+            </span>
+            <span class="clip-date">${escapeHtml(formatJst(c.posted_at))}</span>
+          </div>
+          ${c.broadcaster_name ? `<div class="clip-broadcaster">📺 ${escapeHtml(c.broadcaster_name)}</div>` : ''}
+        </div>
+      </a>`;
+    }).join('');
+  }
+
+  async function load(){
+    try{
+      const res = await fetch('clips.json?cb=' + Date.now(), {cache:'no-store'});
+      if(!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      allClips = Array.isArray(data.clips) ? data.clips : [];
+      updatedAtEl.textContent = formatJst(data.updated_at);
+      countLabelEl.textContent = `${allClips.length} クリップ`;
+
+      if(allClips.length === 0){
+        filtersEl.innerHTML = '';
+        grid.innerHTML = `<div class="vehicle-empty"><div class="big-icon">🎬</div><h3>まだクリップがありません</h3><p>Discordの指定チャンネルにTwitchクリップ・YouTube動画・Streamable・動画ファイルを投稿するとここに表示されます。</p></div>`;
+        return;
+      }
+
+      buildFilters(allClips);
+      render();
+    }catch(e){
+      grid.innerHTML = `<div class="vehicle-empty"><h3>取得に失敗しました</h3><p>${escapeHtml(e.message)}</p></div>`;
+    }
+  }
+
+  load();
+  setInterval(load, 60_000);
+})();
+</script>
+</body>
+</html>

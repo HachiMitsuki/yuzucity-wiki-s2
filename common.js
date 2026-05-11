@@ -30,6 +30,7 @@ const NAV = [
     {slug:"updates", label:"機能変更", icon:"🔄"},
     {slug:"streams", label:"配信中", icon:"📺"},
     {slug:"socials", label:"住民SNS", icon:"𝕏"},
+    {slug:"clips", label:"クリップ", icon:"🎬"},
   ]},
   {title:"外部リンク", links:[
     {url:"https://x.com/yuzu_server", label:"公式 Twitter", icon:"𝕏"},
