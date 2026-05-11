@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T00:15:41+09:00",
+  "updated_at": "2026-05-12T00:20:42+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -427,7 +427,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた9【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 26,
+      "viewer_count": 22,
       "started_at": "2026-05-11T11:52:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
