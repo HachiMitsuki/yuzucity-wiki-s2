@@ -420,7 +420,37 @@ ul.styled-list li::before{content:"🍋";position:absolute;left:0;font-size:.85e
 .twitch-summary .pill-twitch{background:rgba(145,70,255,.15);color:var(--twitch-bright);border:1px solid rgba(145,70,255,.4)}
 .twitch-summary .pill-youtube{background:rgba(255,0,0,.12);color:var(--youtube-bright);border:1px solid rgba(255,0,0,.35)}
 
-.streamer-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1rem;margin-bottom:2rem}
+.streamer-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1rem;margin-bottom:1.25rem}
+
+.streams-section-header{
+  display:flex;align-items:center;gap:.55rem;
+  font-size:.95rem;font-weight:700;
+  padding:.65rem .85rem;margin-bottom:.75rem;
+  border-radius:8px;
+  border:1px solid var(--border);
+  background:var(--panel);
+}
+.streams-section-header.live{
+  color:var(--live);
+  border-color:rgba(239,68,68,.4);
+  background:linear-gradient(90deg,rgba(239,68,68,.10),rgba(239,68,68,.02));
+}
+.streams-section-header.offline{
+  color:var(--text-muted);
+  background:linear-gradient(90deg,rgba(45,51,70,.4),rgba(45,51,70,.05));
+}
+.streams-section-header .live-dot{
+  width:9px;height:9px;border-radius:50%;
+  background:var(--live);box-shadow:0 0 10px var(--live);
+  animation:live-pulse 1.6s ease-in-out infinite;
+}
+.streams-section-count{
+  margin-left:auto;
+  font-size:.78rem;font-weight:600;
+  padding:.1rem .55rem;border-radius:999px;
+  background:rgba(255,255,255,.06);
+  color:inherit;
+}
 .streamer-card{
   background:var(--panel);
   border:1px solid var(--border);

@@ -26,10 +26,12 @@
 
       <div class="twitch-summary" id="twitchSummary"></div>
 
-      <div class="streamer-grid" id="streamerGrid">
-        <div class="twitch-empty" id="loadingState">
-          <h3>読み込み中…</h3>
-          <p>配信情報を取得しています</p>
+      <div id="streamerGrid">
+        <div class="streamer-grid">
+          <div class="twitch-empty" id="loadingState">
+            <h3>読み込み中…</h3>
+            <p>配信情報を取得しています</p>
+          </div>
         </div>
       </div>
     </section>
@@ -150,18 +152,22 @@
 
   function renderEmpty(){
     return `
-      <div class="twitch-empty">
-        <h3>配信者がまだ登録されていません</h3>
-        <p>Discord の指定チャンネルに Twitch / YouTube の URL を投稿すると、ここに表示されます。</p>
+      <div class="streamer-grid">
+        <div class="twitch-empty">
+          <h3>配信者がまだ登録されていません</h3>
+          <p>Discord の指定チャンネルに Twitch / YouTube の URL を投稿すると、ここに表示されます。</p>
+        </div>
       </div>
     `;
   }
 
   function renderError(msg){
     return `
-      <div class="twitch-empty">
-        <h3>取得に失敗しました</h3>
-        <p>${escapeHtml(msg || 'status.json を読み込めませんでした')}</p>
+      <div class="streamer-grid">
+        <div class="twitch-empty">
+          <h3>取得に失敗しました</h3>
+          <p>${escapeHtml(msg || 'status.json を読み込めませんでした')}</p>
+        </div>
       </div>
     `;
   }
@@ -191,18 +197,30 @@
         return;
       }
 
-      streamers.sort((a,b) => {
-        if(a.is_live !== b.is_live) return a.is_live ? -1 : 1;
+      const byName = (s) => (s.display_name || s.login || s.handle || '').toLowerCase();
+      const liveSort = (a,b) => {
         const av = a.viewer_count || 0;
         const bv = b.viewer_count || 0;
         if(av !== bv) return bv - av;
-        const an = (a.display_name || a.login || a.handle || '').toLowerCase();
-        const bn = (b.display_name || b.login || b.handle || '').toLowerCase();
-        return an.localeCompare(bn);
-      });
+        return byName(a).localeCompare(byName(b));
+      };
+      const offlineSort = (a,b) => byName(a).localeCompare(byName(b));
+
+      const liveOnes = streamers.filter(s => s.is_live).sort(liveSort);
+      const offlineOnes = streamers.filter(s => !s.is_live).sort(offlineSort);
 
       renderSummary(streamers);
-      grid.innerHTML = streamers.map(renderCard).join('');
+
+      const parts = [];
+      if(liveOnes.length > 0){
+        parts.push(`<div class="streams-section-header live"><span class="live-dot"></span>配信中 <span class="streams-section-count">${liveOnes.length}</span></div>`);
+        parts.push(`<div class="streamer-grid">${liveOnes.map(renderCard).join('')}</div>`);
+      }
+      if(offlineOnes.length > 0){
+        parts.push(`<div class="streams-section-header offline">オフライン <span class="streams-section-count">${offlineOnes.length}</span></div>`);
+        parts.push(`<div class="streamer-grid">${offlineOnes.map(renderCard).join('')}</div>`);
+      }
+      grid.innerHTML = parts.join('');
     }catch(e){
       summaryEl.innerHTML = '';
       grid.innerHTML = renderError(e.message);
