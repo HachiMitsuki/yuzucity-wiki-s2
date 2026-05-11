@@ -730,9 +730,11 @@ ul.styled-list li::before{content:"🍋";position:absolute;left:0;font-size:.85e
   padding:.18rem .5rem;border-radius:4px;text-transform:uppercase;
   white-space:nowrap;
 }
-.vehicle-card .card-price{
+.vehicle-card .card-price,
+.menu-card .card-price{
   font-family:"Rajdhani","Bebas Neue",sans-serif;
-  font-size:1rem;font-weight:700;color:var(--yuzu);
+  font-size:1.05rem;font-weight:700;color:var(--yuzu);
+  letter-spacing:.02em;
 }
 
 .vehicle-empty{
@@ -747,7 +749,8 @@ ul.styled-list li::before{content:"🍋";position:absolute;left:0;font-size:.85e
   .vehicle-grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:.6rem}
   .vehicle-card .card-img-wrap{height:100px}
   .vehicle-card .card-model{font-size:.9rem}
-  .vehicle-card .card-price{font-size:.85rem}
+  .vehicle-card .card-price,
+  .menu-card .card-price{font-size:.95rem}
   .dealer-count{margin-left:0;flex-basis:100%}
 }
 
