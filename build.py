@@ -1,7 +1,7 @@
 """Build all wiki pages from content definitions."""
 import os
 
-OUT = r'D:\claude\yuzucity_wiki'
+OUT = r'D:\yuzucity-wiki'
 
 def page(slug, title, icon, subtitle, body, breadcrumb=None):
     crumb = ''
@@ -110,6 +110,7 @@ def home_page():
   <a href="job-crime.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">💀 犯罪ルール</div><p style="color:var(--text-dim);">人質・受注・利確・歪み対応など</p></a>
   <a href="news.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">📢 お知らせ</div><p style="color:var(--text-dim);">最新情報・ルール改定タイムライン</p></a>
   <a href="updates.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">🔄 機能変更</div><p style="color:var(--text-dim);">サーバー機能のアップデート履歴</p></a>
+  <a href="streams.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">📺 配信中</div><p style="color:var(--text-dim);">住民のTwitch・YouTube配信状況</p></a>
 </div>
 """
     return page('index', '街の概要', '🏙️',
