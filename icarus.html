@@ -22,6 +22,7 @@
         <div class="dealer-stat"><div class="dealer-stat-num" id="total-count">0</div><div class="dealer-stat-label">総メニュー数</div></div>
         <div class="dealer-stat"><div class="dealer-stat-num" id="food-count">0</div><div class="dealer-stat-label">食べ物</div></div>
         <div class="dealer-stat"><div class="dealer-stat-num" id="drink-count">0</div><div class="dealer-stat-label">飲み物</div></div>
+        <div class="dealer-stat"><div class="dealer-stat-num" id="joint-count">0</div><div class="dealer-stat-label">ジョイント</div></div>
         <div class="dealer-stat"><div class="dealer-stat-num" id="set-count">0</div><div class="dealer-stat-label">セット</div></div>
       </div>
 
@@ -57,6 +58,7 @@
   const CATEGORIES = {
     food:  { label: "食べ物",   color: "#ff8866", icon: "🍰" },
     drink: { label: "飲み物",   color: "#66bbff", icon: "🥤" },
+    joint: { label: "ジョイント", color: "#9bd66b", icon: "🌿" },
     set:   { label: "セット",   color: "#f4c430", icon: "🎁" },
   };
 
@@ -69,6 +71,7 @@
     { id: 2,  name: "Evening Pancakes",      image: "EveningPancakes.png",    category: "food",  price: 30000 },
     { id: 3,  name: "Midnight Parfait",      image: "MidnightParfait.png",    category: "food",  price: 30000 },
     { id: 4,  name: "Sunrise French Toast",  image: "SunriseFrenchToast.png", category: "food",  price: 30000 },
+    { id: 13, name: "Haruty Cookie",         image: "harutycookie.png",       category: "food",  price: 30000 },
 
     // 飲み物 (¥30,000 each)
     { id: 5,  name: "Morning Glow Latte",    image: "MorningGlowLatte.png",   category: "drink", price: 30000 },
@@ -77,6 +80,10 @@
     { id: 8,  name: "Nightsky Coffee",       image: "NightskyCoffee.png",     category: "drink", price: 30000 },
     { id: 9,  name: "Sunset Soda",           image: "SunsetSoda.png",         category: "drink", price: 30000 },
     { id: 10, name: "Twilight Highball",     image: "TwilightHighball.png",   category: "drink", price: 30000 },
+    { id: 14, name: "Haruty Juice",          image: "harutyjuice.png",        category: "drink", price: 30000 },
+
+    // ジョイント (¥30,000 each)
+    { id: 15, name: "Haruty Candle",         image: "harutycandle.png",       category: "joint", price: 30000 },
 
     // セット (2品で¥60,000)
     { id: 11, name: "Cloud Milktea + Sky Teafoods",
@@ -172,6 +179,7 @@
     document.getElementById("total-count").textContent = ITEMS.length;
     document.getElementById("food-count").textContent  = ITEMS.filter(i => i.category === "food").length;
     document.getElementById("drink-count").textContent = ITEMS.filter(i => i.category === "drink").length;
+    document.getElementById("joint-count").textContent = ITEMS.filter(i => i.category === "joint").length;
     document.getElementById("set-count").textContent   = ITEMS.filter(i => i.category === "set").length;
   }
 
