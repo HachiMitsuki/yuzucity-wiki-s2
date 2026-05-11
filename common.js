@@ -5,7 +5,6 @@ const NAV = [
     {slug:"guide", label:"初心者ガイド", icon:"📖"},
     {slug:"commands", label:"コマンド一覧", icon:"⌨️"},
     {slug:"terms", label:"配信用語集", icon:"💬"},
-    {slug:"dealer", label:"ディーラー", icon:"🚗"},
   ]},
   {title:"ルール", links:[
     {slug:"rules-general", label:"一般ルール", icon:"📜"},
@@ -21,6 +20,9 @@ const NAV = [
     {slug:"job-mechanic", label:"メカニック", icon:"🔧"},
     {slug:"job-food", label:"飲食店", icon:"🍔"},
     {slug:"job-crime", label:"犯罪", icon:"💀"},
+  ]},
+  {title:"カタログ", links:[
+    {slug:"dealer", label:"ディーラー", icon:"🚗"},
   ]},
   {title:"最新情報", links:[
     {slug:"news", label:"お知らせ", icon:"📢"},
