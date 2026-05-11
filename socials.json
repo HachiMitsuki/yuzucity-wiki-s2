@@ -1,0 +1,761 @@
+{
+  "updated_at": "2026-05-11T12:18:55+09:00",
+  "accounts": [
+    {
+      "platform": "x",
+      "handle": "ugetsushiramine",
+      "display_name": "@ugetsushiramine",
+      "profile_image_url": "https://unavatar.io/x/ugetsushiramine",
+      "profile_url": "https://x.com/ugetsushiramine"
+    },
+    {
+      "platform": "x",
+      "handle": "ringt_t_vt",
+      "display_name": "@ringt_t_vt",
+      "profile_image_url": "https://unavatar.io/x/ringt_t_vt",
+      "profile_url": "https://x.com/ringt_t_vt"
+    },
+    {
+      "platform": "x",
+      "handle": "raki_vs",
+      "display_name": "@raki_vs",
+      "profile_image_url": "https://unavatar.io/x/raki_vs",
+      "profile_url": "https://x.com/raki_vs"
+    },
+    {
+      "platform": "x",
+      "handle": "reizaemon00",
+      "display_name": "@reizaemon00",
+      "profile_image_url": "https://unavatar.io/x/reizaemon00",
+      "profile_url": "https://x.com/reizaemon00"
+    },
+    {
+      "platform": "x",
+      "handle": "ic4isdead",
+      "display_name": "@ic4isdead",
+      "profile_image_url": "https://unavatar.io/x/ic4isdead",
+      "profile_url": "https://x.com/ic4isdead"
+    },
+    {
+      "platform": "x",
+      "handle": "dec29_25",
+      "display_name": "@dec29_25",
+      "profile_image_url": "https://unavatar.io/x/dec29_25",
+      "profile_url": "https://x.com/dec29_25"
+    },
+    {
+      "platform": "x",
+      "handle": "kyan_game_v",
+      "display_name": "@kyan_game_v",
+      "profile_image_url": "https://unavatar.io/x/kyan_game_v",
+      "profile_url": "https://x.com/kyan_game_v"
+    },
+    {
+      "platform": "x",
+      "handle": "kagetoranahato",
+      "display_name": "@kagetoranahato",
+      "profile_image_url": "https://unavatar.io/x/kagetoranahato",
+      "profile_url": "https://x.com/kagetoranahato"
+    },
+    {
+      "platform": "x",
+      "handle": "m4k41on",
+      "display_name": "@m4k41on",
+      "profile_image_url": "https://unavatar.io/x/m4k41on",
+      "profile_url": "https://x.com/m4k41on"
+    },
+    {
+      "platform": "x",
+      "handle": "rito_mqru",
+      "display_name": "@rito_mqru",
+      "profile_image_url": "https://unavatar.io/x/rito_mqru",
+      "profile_url": "https://x.com/rito_mqru"
+    },
+    {
+      "platform": "x",
+      "handle": "cognac__ttv",
+      "display_name": "@cognac__ttv",
+      "profile_image_url": "https://unavatar.io/x/cognac__ttv",
+      "profile_url": "https://x.com/cognac__ttv"
+    },
+    {
+      "platform": "x",
+      "handle": "ino_zekkyou",
+      "display_name": "@ino_zekkyou",
+      "profile_image_url": "https://unavatar.io/x/ino_zekkyou",
+      "profile_url": "https://x.com/ino_zekkyou"
+    },
+    {
+      "platform": "x",
+      "handle": "kannagi_rui",
+      "display_name": "@kannagi_rui",
+      "profile_image_url": "https://unavatar.io/x/kannagi_rui",
+      "profile_url": "https://x.com/kannagi_rui"
+    },
+    {
+      "platform": "x",
+      "handle": "ukigumo_twitch",
+      "display_name": "@ukigumo_twitch",
+      "profile_image_url": "https://unavatar.io/x/ukigumo_twitch",
+      "profile_url": "https://x.com/ukigumo_twitch"
+    },
+    {
+      "platform": "x",
+      "handle": "takutakuenjo",
+      "display_name": "@takutakuenjo",
+      "profile_image_url": "https://unavatar.io/x/takutakuenjo",
+      "profile_url": "https://x.com/takutakuenjo"
+    },
+    {
+      "platform": "x",
+      "handle": "suzuhanekaon",
+      "display_name": "@suzuhanekaon",
+      "profile_image_url": "https://unavatar.io/x/suzuhanekaon",
+      "profile_url": "https://x.com/suzuhanekaon"
+    },
+    {
+      "platform": "x",
+      "handle": "yoiyami_noa",
+      "display_name": "@yoiyami_noa",
+      "profile_image_url": "https://unavatar.io/x/yoiyami_noa",
+      "profile_url": "https://x.com/yoiyami_noa"
+    },
+    {
+      "platform": "x",
+      "handle": "hungrybot2022",
+      "display_name": "@hungrybot2022",
+      "profile_image_url": "https://unavatar.io/x/hungrybot2022",
+      "profile_url": "https://x.com/hungrybot2022"
+    },
+    {
+      "platform": "x",
+      "handle": "mozuku_umn",
+      "display_name": "@mozuku_umn",
+      "profile_image_url": "https://unavatar.io/x/mozuku_umn",
+      "profile_url": "https://x.com/mozuku_umn"
+    },
+    {
+      "platform": "x",
+      "handle": "shinonomemeu",
+      "display_name": "@shinonomemeu",
+      "profile_image_url": "https://unavatar.io/x/shinonomemeu",
+      "profile_url": "https://x.com/shinonomemeu"
+    },
+    {
+      "platform": "x",
+      "handle": "kqede_kuroha",
+      "display_name": "@kqede_kuroha",
+      "profile_image_url": "https://unavatar.io/x/kqede_kuroha",
+      "profile_url": "https://x.com/kqede_kuroha"
+    },
+    {
+      "platform": "x",
+      "handle": "zzer0_gaming",
+      "display_name": "@zzer0_gaming",
+      "profile_image_url": "https://unavatar.io/x/zzer0_gaming",
+      "profile_url": "https://x.com/zzer0_gaming"
+    },
+    {
+      "platform": "x",
+      "handle": "rukimafu",
+      "display_name": "@rukimafu",
+      "profile_image_url": "https://unavatar.io/x/rukimafu",
+      "profile_url": "https://x.com/rukimafu"
+    },
+    {
+      "platform": "x",
+      "handle": "kurosimamisogi",
+      "display_name": "@kurosimamisogi",
+      "profile_image_url": "https://unavatar.io/x/kurosimamisogi",
+      "profile_url": "https://x.com/kurosimamisogi"
+    },
+    {
+      "platform": "x",
+      "handle": "ryusakigamech",
+      "display_name": "@ryusakigamech",
+      "profile_image_url": "https://unavatar.io/x/ryusakigamech",
+      "profile_url": "https://x.com/ryusakigamech"
+    },
+    {
+      "platform": "x",
+      "handle": "natsuna_ch",
+      "display_name": "@natsuna_ch",
+      "profile_image_url": "https://unavatar.io/x/natsuna_ch",
+      "profile_url": "https://x.com/natsuna_ch"
+    },
+    {
+      "platform": "x",
+      "handle": "crossashmare69",
+      "display_name": "@crossashmare69",
+      "profile_image_url": "https://unavatar.io/x/crossashmare69",
+      "profile_url": "https://x.com/crossashmare69"
+    },
+    {
+      "platform": "x",
+      "handle": "tadanopannda",
+      "display_name": "@tadanopannda",
+      "profile_image_url": "https://unavatar.io/x/tadanopannda",
+      "profile_url": "https://x.com/tadanopannda"
+    },
+    {
+      "platform": "x",
+      "handle": "shiyouizuri",
+      "display_name": "@shiyouizuri",
+      "profile_image_url": "https://unavatar.io/x/shiyouizuri",
+      "profile_url": "https://x.com/shiyouizuri"
+    },
+    {
+      "platform": "x",
+      "handle": "snownevesnow",
+      "display_name": "@snownevesnow",
+      "profile_image_url": "https://unavatar.io/x/snownevesnow",
+      "profile_url": "https://x.com/snownevesnow"
+    },
+    {
+      "platform": "x",
+      "handle": "toshio300",
+      "display_name": "@toshio300",
+      "profile_image_url": "https://unavatar.io/x/toshio300",
+      "profile_url": "https://x.com/toshio300"
+    },
+    {
+      "platform": "x",
+      "handle": "tqkanashi_emo",
+      "display_name": "@tqkanashi_emo",
+      "profile_image_url": "https://unavatar.io/x/tqkanashi_emo",
+      "profile_url": "https://x.com/tqkanashi_emo"
+    },
+    {
+      "platform": "x",
+      "handle": "yy_on613",
+      "display_name": "@yy_on613",
+      "profile_image_url": "https://unavatar.io/x/yy_on613",
+      "profile_url": "https://x.com/yy_on613"
+    },
+    {
+      "platform": "x",
+      "handle": "nonkakure",
+      "display_name": "@nonkakure",
+      "profile_image_url": "https://unavatar.io/x/nonkakure",
+      "profile_url": "https://x.com/nonkakure"
+    },
+    {
+      "platform": "x",
+      "handle": "rakomr_3",
+      "display_name": "@rakomr_3",
+      "profile_image_url": "https://unavatar.io/x/rakomr_3",
+      "profile_url": "https://x.com/rakomr_3"
+    },
+    {
+      "platform": "x",
+      "handle": "koyo_630",
+      "display_name": "@koyo_630",
+      "profile_image_url": "https://unavatar.io/x/koyo_630",
+      "profile_url": "https://x.com/koyo_630"
+    },
+    {
+      "platform": "x",
+      "handle": "rtsn_2",
+      "display_name": "@rtsn_2",
+      "profile_image_url": "https://unavatar.io/x/rtsn_2",
+      "profile_url": "https://x.com/rtsn_2"
+    },
+    {
+      "platform": "x",
+      "handle": "nito_kisaragi",
+      "display_name": "@nito_kisaragi",
+      "profile_image_url": "https://unavatar.io/x/nito_kisaragi",
+      "profile_url": "https://x.com/nito_kisaragi"
+    },
+    {
+      "platform": "x",
+      "handle": "rindou_azuki",
+      "display_name": "@rindou_azuki",
+      "profile_image_url": "https://unavatar.io/x/rindou_azuki",
+      "profile_url": "https://x.com/rindou_azuki"
+    },
+    {
+      "platform": "x",
+      "handle": "usjkh2",
+      "display_name": "@usjkh2",
+      "profile_image_url": "https://unavatar.io/x/usjkh2",
+      "profile_url": "https://x.com/usjkh2"
+    },
+    {
+      "platform": "x",
+      "handle": "bob_desu_0923",
+      "display_name": "@bob_desu_0923",
+      "profile_image_url": "https://unavatar.io/x/bob_desu_0923",
+      "profile_url": "https://x.com/bob_desu_0923"
+    },
+    {
+      "platform": "x",
+      "handle": "ayayahz",
+      "display_name": "@ayayahz",
+      "profile_image_url": "https://unavatar.io/x/ayayahz",
+      "profile_url": "https://x.com/ayayahz"
+    },
+    {
+      "platform": "x",
+      "handle": "shiro46_ny",
+      "display_name": "@shiro46_ny",
+      "profile_image_url": "https://unavatar.io/x/shiro46_ny",
+      "profile_url": "https://x.com/shiro46_ny"
+    },
+    {
+      "platform": "x",
+      "handle": "u2gi2u",
+      "display_name": "@u2gi2u",
+      "profile_image_url": "https://unavatar.io/x/u2gi2u",
+      "profile_url": "https://x.com/u2gi2u"
+    },
+    {
+      "platform": "x",
+      "handle": "touhou_1560",
+      "display_name": "@touhou_1560",
+      "profile_image_url": "https://unavatar.io/x/touhou_1560",
+      "profile_url": "https://x.com/touhou_1560"
+    },
+    {
+      "platform": "x",
+      "handle": "byakuran_rud",
+      "display_name": "@byakuran_rud",
+      "profile_image_url": "https://unavatar.io/x/byakuran_rud",
+      "profile_url": "https://x.com/byakuran_rud"
+    },
+    {
+      "platform": "x",
+      "handle": "raionmiyabi",
+      "display_name": "@raionmiyabi",
+      "profile_image_url": "https://unavatar.io/x/raionmiyabi",
+      "profile_url": "https://x.com/raionmiyabi"
+    },
+    {
+      "platform": "x",
+      "handle": "pooh_019",
+      "display_name": "@pooh_019",
+      "profile_image_url": "https://unavatar.io/x/pooh_019",
+      "profile_url": "https://x.com/pooh_019"
+    },
+    {
+      "platform": "x",
+      "handle": "nekommn",
+      "display_name": "@nekommn",
+      "profile_image_url": "https://unavatar.io/x/nekommn",
+      "profile_url": "https://x.com/nekommn"
+    },
+    {
+      "platform": "x",
+      "handle": "aroe_nasi__dayo",
+      "display_name": "@aroe_nasi__dayo",
+      "profile_image_url": "https://unavatar.io/x/aroe_nasi__dayo",
+      "profile_url": "https://x.com/aroe_nasi__dayo"
+    },
+    {
+      "platform": "x",
+      "handle": "akatuki_hikaru",
+      "display_name": "@akatuki_hikaru",
+      "profile_image_url": "https://unavatar.io/x/akatuki_hikaru",
+      "profile_url": "https://x.com/akatuki_hikaru"
+    },
+    {
+      "platform": "x",
+      "handle": "jura_fluppy",
+      "display_name": "@jura_fluppy",
+      "profile_image_url": "https://unavatar.io/x/jura_fluppy",
+      "profile_url": "https://x.com/jura_fluppy"
+    },
+    {
+      "platform": "x",
+      "handle": "mukyouhakua",
+      "display_name": "@mukyouhakua",
+      "profile_image_url": "https://unavatar.io/x/mukyouhakua",
+      "profile_url": "https://x.com/mukyouhakua"
+    },
+    {
+      "platform": "x",
+      "handle": "komugisui",
+      "display_name": "@komugisui",
+      "profile_image_url": "https://unavatar.io/x/komugisui",
+      "profile_url": "https://x.com/komugisui"
+    },
+    {
+      "platform": "x",
+      "handle": "kota_nosukemaru",
+      "display_name": "@kota_nosukemaru",
+      "profile_image_url": "https://unavatar.io/x/kota_nosukemaru",
+      "profile_url": "https://x.com/kota_nosukemaru"
+    },
+    {
+      "platform": "x",
+      "handle": "neonxcat",
+      "display_name": "@neonxcat",
+      "profile_image_url": "https://unavatar.io/x/neonxcat",
+      "profile_url": "https://x.com/neonxcat"
+    },
+    {
+      "platform": "x",
+      "handle": "marl__kuro",
+      "display_name": "@marl__kuro",
+      "profile_image_url": "https://unavatar.io/x/marl__kuro",
+      "profile_url": "https://x.com/marl__kuro"
+    },
+    {
+      "platform": "x",
+      "handle": "himari_yuzu_",
+      "display_name": "@himari_yuzu_",
+      "profile_image_url": "https://unavatar.io/x/himari_yuzu_",
+      "profile_url": "https://x.com/himari_yuzu_"
+    },
+    {
+      "platform": "x",
+      "handle": "sizuki_nanane",
+      "display_name": "@sizuki_nanane",
+      "profile_image_url": "https://unavatar.io/x/sizuki_nanane",
+      "profile_url": "https://x.com/sizuki_nanane"
+    },
+    {
+      "platform": "x",
+      "handle": "yukana38",
+      "display_name": "@yukana38",
+      "profile_image_url": "https://unavatar.io/x/yukana38",
+      "profile_url": "https://x.com/yukana38"
+    },
+    {
+      "platform": "x",
+      "handle": "momotarou_v",
+      "display_name": "@momotarou_v",
+      "profile_image_url": "https://unavatar.io/x/momotarou_v",
+      "profile_url": "https://x.com/momotarou_v"
+    },
+    {
+      "platform": "x",
+      "handle": "koito_sato35",
+      "display_name": "@koito_sato35",
+      "profile_image_url": "https://unavatar.io/x/koito_sato35",
+      "profile_url": "https://x.com/koito_sato35"
+    },
+    {
+      "platform": "x",
+      "handle": "not_ahuro",
+      "display_name": "@not_ahuro",
+      "profile_image_url": "https://unavatar.io/x/not_ahuro",
+      "profile_url": "https://x.com/not_ahuro"
+    },
+    {
+      "platform": "x",
+      "handle": "mitora_shino",
+      "display_name": "@mitora_shino",
+      "profile_image_url": "https://unavatar.io/x/mitora_shino",
+      "profile_url": "https://x.com/mitora_shino"
+    },
+    {
+      "platform": "x",
+      "handle": "tomoeru_",
+      "display_name": "@tomoeru_",
+      "profile_image_url": "https://unavatar.io/x/tomoeru_",
+      "profile_url": "https://x.com/tomoeru_"
+    },
+    {
+      "platform": "x",
+      "handle": "sabaku_bersek",
+      "display_name": "@sabaku_bersek",
+      "profile_image_url": "https://unavatar.io/x/sabaku_bersek",
+      "profile_url": "https://x.com/sabaku_bersek"
+    },
+    {
+      "platform": "x",
+      "handle": "muiff14s2",
+      "display_name": "@muiff14s2",
+      "profile_image_url": "https://unavatar.io/x/muiff14s2",
+      "profile_url": "https://x.com/muiff14s2"
+    },
+    {
+      "platform": "x",
+      "handle": "wing7720",
+      "display_name": "@wing7720",
+      "profile_image_url": "https://unavatar.io/x/wing7720",
+      "profile_url": "https://x.com/wing7720"
+    },
+    {
+      "platform": "x",
+      "handle": "molpochi",
+      "display_name": "@molpochi",
+      "profile_image_url": "https://unavatar.io/x/molpochi",
+      "profile_url": "https://x.com/molpochi"
+    },
+    {
+      "platform": "x",
+      "handle": "mataj_tkg",
+      "display_name": "@mataj_tkg",
+      "profile_image_url": "https://unavatar.io/x/mataj_tkg",
+      "profile_url": "https://x.com/mataj_tkg"
+    },
+    {
+      "platform": "x",
+      "handle": "nix_yuki0",
+      "display_name": "@nix_yuki0",
+      "profile_image_url": "https://unavatar.io/x/nix_yuki0",
+      "profile_url": "https://x.com/nix_yuki0"
+    },
+    {
+      "platform": "x",
+      "handle": "otonagi_riu",
+      "display_name": "@otonagi_riu",
+      "profile_image_url": "https://unavatar.io/x/otonagi_riu",
+      "profile_url": "https://x.com/otonagi_riu"
+    },
+    {
+      "platform": "x",
+      "handle": "yuruyuru4070",
+      "display_name": "@yuruyuru4070",
+      "profile_image_url": "https://unavatar.io/x/yuruyuru4070",
+      "profile_url": "https://x.com/yuruyuru4070"
+    },
+    {
+      "platform": "x",
+      "handle": "necomanma_r6",
+      "display_name": "@necomanma_r6",
+      "profile_image_url": "https://unavatar.io/x/necomanma_r6",
+      "profile_url": "https://x.com/necomanma_r6"
+    },
+    {
+      "platform": "x",
+      "handle": "airu031",
+      "display_name": "@airu031",
+      "profile_image_url": "https://unavatar.io/x/airu031",
+      "profile_url": "https://x.com/airu031"
+    },
+    {
+      "platform": "x",
+      "handle": "nell_vb_",
+      "display_name": "@nell_vb_",
+      "profile_image_url": "https://unavatar.io/x/nell_vb_",
+      "profile_url": "https://x.com/nell_vb_"
+    },
+    {
+      "platform": "x",
+      "handle": "gekka_shigure",
+      "display_name": "@gekka_shigure",
+      "profile_image_url": "https://unavatar.io/x/gekka_shigure",
+      "profile_url": "https://x.com/gekka_shigure"
+    },
+    {
+      "platform": "x",
+      "handle": "sourei_2525",
+      "display_name": "@sourei_2525",
+      "profile_image_url": "https://unavatar.io/x/sourei_2525",
+      "profile_url": "https://x.com/sourei_2525"
+    },
+    {
+      "platform": "x",
+      "handle": "mitsuniwa_vt",
+      "display_name": "@mitsuniwa_vt",
+      "profile_image_url": "https://unavatar.io/x/mitsuniwa_vt",
+      "profile_url": "https://x.com/mitsuniwa_vt"
+    },
+    {
+      "platform": "x",
+      "handle": "aito_mus",
+      "display_name": "@aito_mus",
+      "profile_image_url": "https://unavatar.io/x/aito_mus",
+      "profile_url": "https://x.com/aito_mus"
+    },
+    {
+      "platform": "x",
+      "handle": "milktea_milkuma",
+      "display_name": "@milktea_milkuma",
+      "profile_image_url": "https://unavatar.io/x/milktea_milkuma",
+      "profile_url": "https://x.com/milktea_milkuma"
+    },
+    {
+      "platform": "x",
+      "handle": "56s_",
+      "display_name": "@56s_",
+      "profile_image_url": "https://unavatar.io/x/56s_",
+      "profile_url": "https://x.com/56s_"
+    },
+    {
+      "platform": "x",
+      "handle": "frcl_orito",
+      "display_name": "@frcl_orito",
+      "profile_image_url": "https://unavatar.io/x/frcl_orito",
+      "profile_url": "https://x.com/frcl_orito"
+    },
+    {
+      "platform": "x",
+      "handle": "kqzuk1official",
+      "display_name": "@kqzuk1official",
+      "profile_image_url": "https://unavatar.io/x/kqzuk1official",
+      "profile_url": "https://x.com/kqzuk1official"
+    },
+    {
+      "platform": "x",
+      "handle": "nekkopan",
+      "display_name": "@nekkopan",
+      "profile_image_url": "https://unavatar.io/x/nekkopan",
+      "profile_url": "https://x.com/nekkopan"
+    },
+    {
+      "platform": "x",
+      "handle": "zero11046968",
+      "display_name": "@zero11046968",
+      "profile_image_url": "https://unavatar.io/x/zero11046968",
+      "profile_url": "https://x.com/zero11046968"
+    },
+    {
+      "platform": "x",
+      "handle": "rose_mary412",
+      "display_name": "@rose_mary412",
+      "profile_image_url": "https://unavatar.io/x/rose_mary412",
+      "profile_url": "https://x.com/rose_mary412"
+    },
+    {
+      "platform": "x",
+      "handle": "tatunokoryuuta",
+      "display_name": "@tatunokoryuuta",
+      "profile_image_url": "https://unavatar.io/x/tatunokoryuuta",
+      "profile_url": "https://x.com/tatunokoryuuta"
+    },
+    {
+      "platform": "x",
+      "handle": "umisakiyuu_",
+      "display_name": "@umisakiyuu_",
+      "profile_image_url": "https://unavatar.io/x/umisakiyuu_",
+      "profile_url": "https://x.com/umisakiyuu_"
+    },
+    {
+      "platform": "x",
+      "handle": "hanakozomb",
+      "display_name": "@hanakozomb",
+      "profile_image_url": "https://unavatar.io/x/hanakozomb",
+      "profile_url": "https://x.com/hanakozomb"
+    },
+    {
+      "platform": "x",
+      "handle": "asahimukuto",
+      "display_name": "@asahimukuto",
+      "profile_image_url": "https://unavatar.io/x/asahimukuto",
+      "profile_url": "https://x.com/asahimukuto"
+    },
+    {
+      "platform": "x",
+      "handle": "dm1oe",
+      "display_name": "@dm1oe",
+      "profile_image_url": "https://unavatar.io/x/dm1oe",
+      "profile_url": "https://x.com/dm1oe"
+    },
+    {
+      "platform": "x",
+      "handle": "kn_cn_",
+      "display_name": "@kn_cn_",
+      "profile_image_url": "https://unavatar.io/x/kn_cn_",
+      "profile_url": "https://x.com/kn_cn_"
+    },
+    {
+      "platform": "x",
+      "handle": "rikkun__tw",
+      "display_name": "@rikkun__tw",
+      "profile_image_url": "https://unavatar.io/x/rikkun__tw",
+      "profile_url": "https://x.com/rikkun__tw"
+    },
+    {
+      "platform": "x",
+      "handle": "yuzuriha_012",
+      "display_name": "@yuzuriha_012",
+      "profile_image_url": "https://unavatar.io/x/yuzuriha_012",
+      "profile_url": "https://x.com/yuzuriha_012"
+    },
+    {
+      "platform": "x",
+      "handle": "yun_fujishi",
+      "display_name": "@yun_fujishi",
+      "profile_image_url": "https://unavatar.io/x/yun_fujishi",
+      "profile_url": "https://x.com/yun_fujishi"
+    },
+    {
+      "platform": "x",
+      "handle": "bikichan528",
+      "display_name": "@bikichan528",
+      "profile_image_url": "https://unavatar.io/x/bikichan528",
+      "profile_url": "https://x.com/bikichan528"
+    },
+    {
+      "platform": "x",
+      "handle": "tokiwaharuto",
+      "display_name": "@tokiwaharuto",
+      "profile_image_url": "https://unavatar.io/x/tokiwaharuto",
+      "profile_url": "https://x.com/tokiwaharuto"
+    },
+    {
+      "platform": "x",
+      "handle": "f774_005",
+      "display_name": "@f774_005",
+      "profile_image_url": "https://unavatar.io/x/f774_005",
+      "profile_url": "https://x.com/f774_005"
+    },
+    {
+      "platform": "x",
+      "handle": "hakanai_8",
+      "display_name": "@hakanai_8",
+      "profile_image_url": "https://unavatar.io/x/hakanai_8",
+      "profile_url": "https://x.com/hakanai_8"
+    },
+    {
+      "platform": "x",
+      "handle": "omchang1217",
+      "display_name": "@omchang1217",
+      "profile_image_url": "https://unavatar.io/x/omchang1217",
+      "profile_url": "https://x.com/omchang1217"
+    },
+    {
+      "platform": "x",
+      "handle": "avaronnn",
+      "display_name": "@avaronnn",
+      "profile_image_url": "https://unavatar.io/x/avaronnn",
+      "profile_url": "https://x.com/avaronnn"
+    },
+    {
+      "platform": "x",
+      "handle": "0wennoe",
+      "display_name": "@0wennoe",
+      "profile_image_url": "https://unavatar.io/x/0wennoe",
+      "profile_url": "https://x.com/0wennoe"
+    },
+    {
+      "platform": "x",
+      "handle": "kyondere",
+      "display_name": "@kyondere",
+      "profile_image_url": "https://unavatar.io/x/kyondere",
+      "profile_url": "https://x.com/kyondere"
+    },
+    {
+      "platform": "x",
+      "handle": "reilafps",
+      "display_name": "@reilafps",
+      "profile_image_url": "https://unavatar.io/x/reilafps",
+      "profile_url": "https://x.com/reilafps"
+    },
+    {
+      "platform": "x",
+      "handle": "mugimugi230926",
+      "display_name": "@mugimugi230926",
+      "profile_image_url": "https://unavatar.io/x/mugimugi230926",
+      "profile_url": "https://x.com/mugimugi230926"
+    },
+    {
+      "platform": "x",
+      "handle": "cambrh88",
+      "display_name": "@cambrh88",
+      "profile_image_url": "https://unavatar.io/x/cambrh88",
+      "profile_url": "https://x.com/cambrh88"
+    },
+    {
+      "platform": "x",
+      "handle": "shua_panda2525",
+      "display_name": "@shua_panda2525",
+      "profile_image_url": "https://unavatar.io/x/shua_panda2525",
+      "profile_url": "https://x.com/shua_panda2525"
+    }
+  ]
+}
