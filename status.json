@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T22:42:17+09:00",
+  "updated_at": "2026-05-11T22:45:43+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -12,7 +12,7 @@
       "is_live": true,
       "title": "【ゆずシティGTA】金に余裕ができた男ののんびりライフ",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-05-11T12:21:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
@@ -42,7 +42,7 @@
       "is_live": true,
       "title": "【#YCGTA】10本指を地面に着けて【水樹らこ丸視点】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-11T12:43:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -332,7 +332,7 @@
       "is_live": true,
       "title": "【#Yuzucity】店舗経営を詰めていく Day6 | GTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 6,
       "started_at": "2026-05-11T12:00:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -422,7 +422,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた9【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 16,
+      "viewer_count": 22,
       "started_at": "2026-05-11T11:52:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
