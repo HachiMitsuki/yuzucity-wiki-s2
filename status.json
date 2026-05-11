@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T19:18:10+09:00",
+  "updated_at": "2026-05-11T19:19:54+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -490,6 +490,21 @@
       "viewer_count": 1,
       "started_at": "2026-05-11T10:13:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "azuma1111",
+      "login": "azuma1111",
+      "user_id": "606082439",
+      "display_name": "アズマさん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/054dd533-9763-4de8-b0ea-c47283b7fd23-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/azuma1111",
+      "is_live": true,
+      "title": "EMSnoNICHIJOU #YCGTA #ゆず鯖",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 3,
+      "started_at": "2026-05-11T08:36:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
