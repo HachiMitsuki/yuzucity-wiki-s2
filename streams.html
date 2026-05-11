@@ -6,7 +6,7 @@
 <title>配信中 | Yuzu City Wiki</title>
 <link rel="stylesheet" href="styles.css">
 </head>
-<body data-page="twitch-status">
+<body data-page="streams">
 <header class="topbar" id="topbar"></header>
 <div class="app">
   <aside class="sidebar" id="sidebar"></aside>
@@ -14,8 +14,8 @@
     <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><span>配信中</span></nav>
     <section>
       <div class="section-header">
-        <h1 class="section-title"><span class="section-title-icon">🟣</span>配信中の住民</h1>
-        <p class="section-subtitle">Discord で共有された Twitch 配信の現在の状況</p>
+        <h1 class="section-title"><span class="section-title-icon">📺</span>配信中の住民</h1>
+        <p class="section-subtitle">Discord で共有された Twitch / YouTube チャンネルの配信状況</p>
       </div>
 
       <div class="twitch-meta" id="twitchMeta">
@@ -74,53 +74,74 @@
     return String(n);
   }
 
-  function thumbUrl(s){
+  function platformBadge(p){
+    if(p === 'twitch') return '<span class="platform-tag platform-twitch">Twitch</span>';
+    if(p === 'youtube') return '<span class="platform-tag platform-youtube">YouTube</span>';
+    return '';
+  }
+
+  function twitchThumb(s){
     if(!s.thumbnail_url) return null;
     return s.thumbnail_url.replace('{width}','480').replace('{height}','270');
   }
 
   function renderCard(s){
     const live = !!s.is_live;
-    const name = s.display_name || s.login || s.user_login || 'Unknown';
-    const login = s.login || s.user_login || '';
-    const channelUrl = login ? `https://www.twitch.tv/${encodeURIComponent(login)}` : '#';
-    const cls = live ? 'is-live' : 'is-offline';
+    const platform = s.platform || 'twitch';
+    const name = s.display_name || s.login || s.handle || s.channel_id || 'Unknown';
+    const channelUrl = s.channel_url || '#';
+    const liveUrl = s.live_url || s.channel_url || '#';
+    const visitUrl = live ? (s.live_url || channelUrl) : channelUrl;
+    const cls = `streamer-card ${live ? 'is-live' : 'is-offline'} platform-${platform}`;
     const badge = live
       ? '<span class="status-badge live">LIVE</span>'
       : '<span class="status-badge offline">OFFLINE</span>';
 
-    let thumb;
+    const avatar = s.profile_image_url
+      ? `<img class="streamer-avatar" src="${escapeHtml(s.profile_image_url)}" alt="" loading="lazy">`
+      : `<div class="streamer-avatar streamer-avatar-fallback">${escapeHtml((name || '?')[0])}</div>`;
+
+    // Thumbnail when live: Twitch uses interpolated url, YouTube uses ytimg.
+    let thumb = '';
     if(live){
-      const url = thumbUrl(s);
-      thumb = url
-        ? `<div class="card-thumb"><img src="${escapeHtml(url)}?cb=${Date.now()}" alt="" loading="lazy"></div>`
+      let thumbUrl = null;
+      if(platform === 'twitch') thumbUrl = twitchThumb(s);
+      else if(platform === 'youtube') thumbUrl = s.thumbnail_url || null;
+      thumb = thumbUrl
+        ? `<a href="${escapeHtml(visitUrl)}" target="_blank" rel="noopener" class="card-thumb"><img src="${escapeHtml(thumbUrl)}?cb=${Date.now()}" alt="" loading="lazy"></a>`
         : `<div class="card-thumb"><div class="card-thumb-placeholder">🎥</div></div>`;
-    }else{
-      thumb = `<div class="card-thumb"><div class="card-thumb-placeholder">💤</div></div>`;
     }
 
-    const viewers = live && typeof s.viewer_count === 'number'
+    const viewers = live && typeof s.viewer_count === 'number' && s.viewer_count > 0
       ? `<span class="stream-viewers">${escapeHtml(formatViewers(s.viewer_count))}</span>`
       : '';
 
-    const titleBlock = live
-      ? `<div class="stream-title">${escapeHtml(s.title || '無題の配信')}</div>`
-      : `<div class="offline-msg">現在オフラインです</div>`;
+    const titleBlock = live && s.title
+      ? `<div class="stream-title">${escapeHtml(s.title)}</div>`
+      : '';
 
     const gameBlock = live && s.game_name
       ? `<div class="stream-game">${escapeHtml(s.game_name)}${viewers}</div>`
+      : (live && viewers ? `<div class="stream-game"><span style="visibility:hidden">.</span>${viewers}</div>` : '');
+
+    const offlineMsg = !live
+      ? '<div class="offline-msg">現在オフラインです</div>'
       : '';
 
     return `
-      <div class="streamer-card ${cls}">
+      <div class="${cls}">
         ${thumb}
         <div class="streamer-head">
-          <div class="streamer-name"><a href="${channelUrl}" target="_blank" rel="noopener">${escapeHtml(name)}</a></div>
-          ${badge}
+          <a href="${escapeHtml(channelUrl)}" target="_blank" rel="noopener" class="streamer-avatar-link">${avatar}</a>
+          <div class="streamer-name-block">
+            <div class="streamer-name"><a href="${escapeHtml(channelUrl)}" target="_blank" rel="noopener">${escapeHtml(name)}</a></div>
+            <div class="streamer-platform-row">${platformBadge(platform)} ${badge}</div>
+          </div>
         </div>
         ${titleBlock}
         ${gameBlock}
-        <a href="${channelUrl}" target="_blank" rel="noopener" class="btn-twitch">
+        ${offlineMsg}
+        <a href="${escapeHtml(visitUrl)}" target="_blank" rel="noopener" class="btn-stream btn-${platform}">
           ${live ? '視聴する →' : 'チャンネルを見る →'}
         </a>
       </div>
@@ -131,7 +152,7 @@
     return `
       <div class="twitch-empty">
         <h3>配信者がまだ登録されていません</h3>
-        <p>Discord の指定チャンネルに Twitch URL を投稿すると、ここに表示されます。</p>
+        <p>Discord の指定チャンネルに Twitch / YouTube の URL を投稿すると、ここに表示されます。</p>
       </div>
     `;
   }
@@ -147,11 +168,12 @@
 
   function renderSummary(streamers){
     const live = streamers.filter(s => s.is_live).length;
-    const total = streamers.length;
-    summaryEl.innerHTML = `
-      <span class="pill pill-live">🔴 LIVE ${live}</span>
-      <span class="pill pill-twitch">登録 ${total}</span>
-    `;
+    const twitchN = streamers.filter(s => s.platform === 'twitch').length;
+    const youtubeN = streamers.filter(s => s.platform === 'youtube').length;
+    const parts = [`<span class="pill pill-live">🔴 LIVE ${live}</span>`];
+    if(twitchN > 0) parts.push(`<span class="pill pill-twitch">Twitch ${twitchN}</span>`);
+    if(youtubeN > 0) parts.push(`<span class="pill pill-youtube">YouTube ${youtubeN}</span>`);
+    summaryEl.innerHTML = parts.join('');
   }
 
   async function load(){
@@ -174,8 +196,8 @@
         const av = a.viewer_count || 0;
         const bv = b.viewer_count || 0;
         if(av !== bv) return bv - av;
-        const an = (a.display_name || a.login || '').toLowerCase();
-        const bn = (b.display_name || b.login || '').toLowerCase();
+        const an = (a.display_name || a.login || a.handle || '').toLowerCase();
+        const bn = (b.display_name || b.login || b.handle || '').toLowerCase();
         return an.localeCompare(bn);
       });
 
