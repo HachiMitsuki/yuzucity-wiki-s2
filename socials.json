@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T22:46:07+09:00",
+  "updated_at": "2026-05-12T06:52:05+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -763,6 +763,13 @@
       "display_name": "AMCH アズマ いつかはバズりたい",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1349617801837699074/TznWfm1z_400x400.jpg",
       "profile_url": "https://x.com/amchannel_azuma"
+    },
+    {
+      "platform": "x",
+      "handle": "yk032611",
+      "display_name": "yoshi",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2026536994256596997/rVuB0ul-_400x400.jpg",
+      "profile_url": "https://x.com/yk032611"
     }
   ]
 }
