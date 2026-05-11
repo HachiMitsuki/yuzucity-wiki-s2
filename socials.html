@@ -67,20 +67,34 @@
 
   function renderCard(a){
     const handle = a.handle || '';
-    const name = a.display_name || `@${handle}`;
+    const handleAt = `@${handle}`;
+    // display_name is the X account "Name". If scraping failed, it'll be @handle —
+    // in that case suppress the duplicate second line.
+    const name = a.display_name || handleAt;
+    const showHandleRow = name !== handleAt;
     const profileUrl = a.profile_url || `https://x.com/${encodeURIComponent(handle)}`;
-    const avatarUrl = a.profile_image_url || `https://unavatar.io/x/${encodeURIComponent(handle)}`;
-    const fallback = escapeHtml((handle || '?')[0]);
+    // Primary avatar: real CDN URL from og:image if available.
+    // Fallback chain handled by chained <img onerror>: real → unavatar.io → letter.
+    const primaryAvatar = a.profile_image_url
+      || `https://unavatar.io/x/${encodeURIComponent(handle)}`;
+    const unavatarFallback = `https://unavatar.io/x/${encodeURIComponent(handle)}`;
+    const fallbackLetter = escapeHtml((name.replace(/^@/, '') || '?')[0]);
+    // Only chain to unavatar if the primary isn't already unavatar
+    const useUnavatarChain = !primaryAvatar.includes('unavatar.io');
+    const imgOnError = useUnavatarChain
+      ? `if(this.dataset.fallback!=='1'){this.dataset.fallback='1';this.src='${unavatarFallback}';}else{this.style.display='none';this.nextElementSibling.style.display='flex';}`
+      : `this.style.display='none';this.nextElementSibling.style.display='flex'`;
     return `
       <a href="${escapeHtml(profileUrl)}" target="_blank" rel="noopener" class="social-card">
         <div class="social-avatar-wrap">
-          <img class="social-avatar" src="${escapeHtml(avatarUrl)}" alt=""
-               onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-          <div class="social-avatar-fallback" style="display:none">${fallback}</div>
+          <img class="social-avatar" src="${escapeHtml(primaryAvatar)}" alt=""
+               referrerpolicy="no-referrer"
+               onerror="${imgOnError}">
+          <div class="social-avatar-fallback" style="display:none">${fallbackLetter}</div>
         </div>
         <div class="social-info">
           <div class="social-name">${escapeHtml(name)}</div>
-          <div class="social-handle">@${escapeHtml(handle)}</div>
+          ${showHandleRow ? `<div class="social-handle">${escapeHtml(handleAt)}</div>` : ''}
         </div>
         <div class="social-arrow">→</div>
       </a>
