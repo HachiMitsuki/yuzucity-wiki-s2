@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T19:19:54+09:00",
+  "updated_at": "2026-05-11T19:23:09+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -62,7 +62,7 @@
       "is_live": true,
       "title": "【YuzuCity】この町一番の大金持ちになる#6",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-11T10:12:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiita0813-{width}x{height}.jpg"
     },
@@ -132,7 +132,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day11 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 6,
       "started_at": "2026-05-11T09:20:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -502,7 +502,7 @@
       "is_live": true,
       "title": "EMSnoNICHIJOU #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-11T08:36:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
     },
