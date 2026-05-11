@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T02:36:07+09:00",
+  "updated_at": "2026-05-12T02:41:07+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -212,7 +212,7 @@
       "is_live": true,
       "title": "【ゆず鯖】EMSとして大型対応？？ 8日目 Re:黒島へへ  GTA【初見歓迎】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 7,
+      "viewer_count": 4,
       "started_at": "2026-05-11T14:02:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -322,7 +322,7 @@
       "is_live": true,
       "title": "【#Yuzucity】店舗経営を詰めていく Day6 | GTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-11T12:00:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
