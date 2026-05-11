@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T20:03:09+09:00",
+  "updated_at": "2026-05-11T20:08:10+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -97,7 +97,7 @@
       "is_live": true,
       "title": "[#YCGTA] 10日目 海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-11T11:02:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -137,7 +137,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day11 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "started_at": "2026-05-11T09:20:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
