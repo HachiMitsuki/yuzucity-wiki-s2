@@ -750,3 +750,47 @@ ul.styled-list li::before{content:"🍋";position:absolute;left:0;font-size:.85e
   .vehicle-card .card-price{font-size:.85rem}
   .dealer-count{margin-left:0;flex-basis:100%}
 }
+
+/* Menu catalog (Icarus etc.) */
+.menu-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(240px,1fr));
+  gap:1rem;margin-bottom:2rem;
+}
+.menu-card{
+  background:var(--panel);
+  border:1px solid var(--border);
+  border-radius:12px;overflow:hidden;
+  transition:transform .2s,box-shadow .2s,border-color .2s;
+  position:relative;
+}
+.menu-card:hover{transform:translateY(-3px);box-shadow:var(--shadow);border-color:rgba(244,196,48,.3)}
+.menu-img-wrap{
+  position:relative;
+  width:100%;
+  aspect-ratio:1/1;
+  overflow:hidden;
+  background:linear-gradient(135deg,#1a1a2e 0%,#0d0d1a 100%);
+  display:flex;align-items:center;justify-content:center;
+}
+.menu-img-wrap img{width:100%;height:100%;object-fit:cover;transition:transform .3s;display:block}
+.menu-card:hover .menu-img-wrap img{transform:scale(1.04)}
+.menu-img-wrap .img-fallback{font-size:3.5rem;opacity:.4;display:none;align-items:center;justify-content:center;width:100%;height:100%}
+.menu-img-wrap .cat-bar{position:absolute;bottom:0;left:0;right:0;height:3px}
+.menu-set-badge{
+  position:absolute;top:.55rem;right:.55rem;
+  background:rgba(244,196,48,.92);color:#1a1a1a;
+  font-size:.65rem;font-weight:800;letter-spacing:.06em;
+  padding:.18rem .5rem;border-radius:4px;
+  box-shadow:0 2px 6px rgba(0,0,0,.3);
+}
+.menu-name{
+  font-size:.98rem;font-weight:700;color:var(--text);
+  margin-bottom:.5rem;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+}
+
+@media (max-width:900px){
+  .menu-grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:.7rem}
+  .menu-name{font-size:.88rem}
+}
