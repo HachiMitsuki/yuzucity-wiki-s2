@@ -111,6 +111,7 @@ def home_page():
   <a href="news.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">📢 お知らせ</div><p style="color:var(--text-dim);">最新情報・ルール改定タイムライン</p></a>
   <a href="updates.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">🔄 機能変更</div><p style="color:var(--text-dim);">サーバー機能のアップデート履歴</p></a>
   <a href="streams.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">📺 配信中</div><p style="color:var(--text-dim);">住民のTwitch・YouTube配信状況</p></a>
+  <a href="socials.html" class="card" style="text-decoration:none;color:inherit;"><div class="card-title">𝕏 住民SNS</div><p style="color:var(--text-dim);">住民のX(Twitter)アカウント一覧</p></a>
 </div>
 """
     return page('index', '街の概要', '🏙️',
