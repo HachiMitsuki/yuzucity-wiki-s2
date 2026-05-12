@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T01:13:52+09:00",
+  "updated_at": "2026-05-13T01:18:51+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -12,7 +12,7 @@
       "is_live": true,
       "title": "【ゆずシティGTA】ぷりんってなんでうまいんだろう",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-12T11:50:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
@@ -117,7 +117,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #11",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-12T08:13:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -332,7 +332,7 @@
       "is_live": true,
       "title": "【#Yuzucity】俺たちの店舗の行く末は？ Day7 | GTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-12T13:01:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
