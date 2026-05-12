@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T20:33:53+09:00",
+  "updated_at": "2026-05-12T20:38:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -102,7 +102,7 @@
       "is_live": true,
       "title": "[#YCGTA] 11日目 海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-12T11:01:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -117,7 +117,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #11",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-12T08:13:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -334,7 +334,12 @@
       "display_name": "浮雲わたあめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2804604-888f-422d-b447-109abc4443f6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ukigumo_watame",
-      "is_live": false
+      "is_live": true,
+      "title": "[YUZU city]メカニック。わたあめ。七億貯める",
+      "game_name": "",
+      "viewer_count": 0,
+      "started_at": "2026-05-12T11:36:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ukigumo_watame-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -392,7 +397,7 @@
       "is_live": true,
       "title": "魂のタンクOTPランクマ",
       "game_name": "Overwatch",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-12T11:00:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -477,7 +482,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day１２ 犯罪もしたいしチルもしたい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-12T11:18:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -539,7 +544,12 @@
       "display_name": "楽希",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raki_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】#8 今日は何か起こすぞ！",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-12T11:34:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
