@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T02:53:49+09:00",
+  "updated_at": "2026-05-13T02:58:49+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -164,12 +164,7 @@
       "display_name": "夢見弖ねこむ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38876e09-d270-4394-be4c-a339ea8535e9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekommn",
-      "is_live": true,
-      "title": "YCGTA#10 ちるこふ後の街出勤",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-12T15:05:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -442,7 +437,7 @@
       "is_live": true,
       "title": "[GTA] day11    大型いこかーーーー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-12T14:13:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -547,7 +542,7 @@
       "is_live": true,
       "title": "【#gta 】#5 yuzucity 三姉妹が初めて揃う日❣ ～詩ノ雲めめ視点～【#新人Vtuber】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-12T11:01:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
