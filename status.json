@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T20:48:52+09:00",
+  "updated_at": "2026-05-12T20:53:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,7 +9,12 @@
       "display_name": "藍音です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f86960a-38c3-4412-85aa-6405f054f8d3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aito_mus01",
-      "is_live": false
+      "is_live": true,
+      "title": "【ゆずシティGTA】ぷりんってなんでうまいんだろう",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-12T11:50:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -97,7 +102,7 @@
       "is_live": true,
       "title": "[#YCGTA] 11日目 海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-12T11:01:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -277,7 +282,7 @@
       "is_live": true,
       "title": "【#星の翼】虐される固定【#vtuber /雷音雅】with〆鯖のざめ",
       "game_name": "StarWard",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-12T11:38:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -302,7 +307,7 @@
       "is_live": true,
       "title": "【12日目】チルいきもち #yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-12T11:00:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
@@ -397,7 +402,7 @@
       "is_live": true,
       "title": "魂のタンクOTPランクマ",
       "game_name": "Overwatch",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-12T11:00:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -482,7 +487,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day１２ 犯罪もしたいしチルもしたい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-12T11:18:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
