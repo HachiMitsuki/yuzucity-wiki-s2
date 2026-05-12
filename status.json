@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T04:05:48+09:00",
+  "updated_at": "2026-05-13T04:10:48+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -282,7 +282,7 @@
       "is_live": true,
       "title": "【#Yuzucity】俺たちの店舗の行く末は？ Day7 | GTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-12T13:01:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
