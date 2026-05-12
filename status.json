@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T20:58:53+09:00",
+  "updated_at": "2026-05-12T21:03:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -117,7 +117,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #11",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-12T08:13:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -174,12 +174,7 @@
       "display_name": "水無瀬九炉",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfc4b856-14bc-4aa3-8104-bf88ecb3ae48-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/k6o_minase",
-      "is_live": true,
-      "title": "【#YCGTA 】街のおまわりさん 7日目-2",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-12T10:28:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_k6o_minase-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -212,7 +207,7 @@
       "is_live": true,
       "title": "【ゆず鯖】もっとお金が欲しいなぁ… 9日目 Re:黒島へへ  GTA【初見歓迎】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-12T11:25:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -282,7 +277,7 @@
       "is_live": true,
       "title": "【#星の翼】虐される固定【#vtuber /雷音雅】with〆鯖のざめ",
       "game_name": "StarWard",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-12T11:38:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -322,7 +317,7 @@
       "is_live": true,
       "title": "【1周年】やっぱりこれだよな【俺たちの青春街道】",
       "game_name": "Dokapon! Ikari no Tetsuken",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-12T11:57:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
     },
@@ -407,7 +402,7 @@
       "is_live": true,
       "title": "魂のタンクOTPランクマ",
       "game_name": "Overwatch",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-12T11:00:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -449,7 +444,12 @@
       "display_name": "伏屋ななし",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7de1254-d9ef-45cd-b8c8-ab4490c3e9b1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/248774",
-      "is_live": false
+      "is_live": true,
+      "title": "【 ドカポン 】 RE：ゼロ ドカポンしてみた 【 伏屋ななし / Vtuber / #俺たちの青春街道 】",
+      "game_name": "Dokapon! Ikari no Tetsuken",
+      "viewer_count": 2,
+      "started_at": "2026-05-12T12:01:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -492,7 +492,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day１２ 犯罪もしたいしチルもしたい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-12T11:18:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -572,7 +572,7 @@
       "is_live": true,
       "title": "【#gta 】#5 yuzucity 三姉妹が初めて揃う日❣ ～詩ノ雲めめ視点～【#新人Vtuber】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-12T11:01:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
