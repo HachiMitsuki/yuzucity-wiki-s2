@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T23:48:55+09:00",
+  "updated_at": "2026-05-12T23:53:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "is_live": true,
       "title": "【YuzuCity】#4半ぐれ110Ø活動日記~お散歩~〖初見さんコメント大歓迎〗",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-12T14:09:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
@@ -132,7 +132,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #11",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-05-12T08:13:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -189,7 +189,12 @@
       "display_name": "水無瀬九炉",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfc4b856-14bc-4aa3-8104-bf88ecb3ae48-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/k6o_minase",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YCGTA 】街のおまわりさん 7日目-3",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-12T14:48:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_k6o_minase-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -322,7 +327,7 @@
       "is_live": true,
       "title": "【12日目】チルいきもち #yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-12T11:00:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
@@ -442,7 +447,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた10【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 16,
+      "viewer_count": 13,
       "started_at": "2026-05-12T12:33:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -469,12 +474,7 @@
       "display_name": "伏屋ななし",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7de1254-d9ef-45cd-b8c8-ab4490c3e9b1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/248774",
-      "is_live": true,
-      "title": "【 ドカポン 】 RE：ゼロ ドカポンしてみた 【 伏屋ななし / Vtuber / #俺たちの青春街道 】",
-      "game_name": "Dokapon! Ikari no Tetsuken",
-      "viewer_count": 1,
-      "started_at": "2026-05-12T12:01:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
