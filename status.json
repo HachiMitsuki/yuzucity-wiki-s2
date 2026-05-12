@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T18:58:50+09:00",
+  "updated_at": "2026-05-12T19:03:36+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -107,7 +107,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #11",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-12T08:13:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "[yuzucity]新しい一歩な12日目[FiveM]",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-12T07:57:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
@@ -659,6 +659,16 @@
       "display_name": "Komugisui",
       "profile_image_url": "https://yt3.ggpht.com/mfiXarTCExY0iKaDQCcutZUB5-APIN8kgD7LONWrRwpPCUpl7sTIHcZgIB4i7RqtfDe2gkoR=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40komugisui",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCX7qRPr5JfdxsXCn2Cf0kzw",
+      "channel_id": "UCX7qRPr5JfdxsXCn2Cf0kzw",
+      "handle": "@ringt-tougenvt",
+      "display_name": "透玄凛音 ｰトウゲン リントｰ",
+      "profile_image_url": "https://yt3.ggpht.com/pRcl13o_0tzjukphXEPI4l4W2rSAzpHPEtt62B-n9MHhUkHwENQRnA69nBKzbmjOZIe-FlWRNZI=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40ringt-tougenvt",
       "is_live": false
     }
   ]
