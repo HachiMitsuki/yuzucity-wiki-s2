@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T04:40:48+09:00",
+  "updated_at": "2026-05-13T04:50:48+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -279,12 +279,7 @@
       "display_name": "絶叫者イノ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": true,
-      "title": "【#Yuzucity】俺たちの店舗の行く末は？ Day7 | GTA",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
-      "started_at": "2026-05-12T13:01:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -337,7 +332,7 @@
       "is_live": true,
       "title": "【Apex】深夜のコソ練ソロランク",
       "game_name": "Apex Legends",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-12T17:59:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanasenon-{width}x{height}.jpg"
     },
