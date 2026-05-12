@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T19:48:52+09:00",
+  "updated_at": "2026-05-12T19:53:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -62,7 +62,7 @@
       "is_live": true,
       "title": "【YuzuCity】この町一番の大金持ちになる#7",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-12T10:47:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiita0813-{width}x{height}.jpg"
     },
@@ -87,7 +87,7 @@
       "is_live": true,
       "title": "【YCGTA】ｼｹﾓｸﾓｱﾙﾖ",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-12T09:16:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sourei_2525-{width}x{height}.jpg"
     },
@@ -127,7 +127,7 @@
       "is_live": true,
       "title": "[yuzucity]新しい一歩な12日目[FiveM]",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-12T07:57:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
@@ -514,12 +514,7 @@
       "display_name": "楽希",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raki_vt",
-      "is_live": true,
-      "title": "【Yuzu City】#8 今日は何か起こすぞ！",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-12T08:36:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
