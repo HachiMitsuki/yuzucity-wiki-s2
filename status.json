@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T19:58:51+09:00",
+  "updated_at": "2026-05-12T20:03:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -62,7 +62,7 @@
       "is_live": true,
       "title": "【YuzuCity】この町一番の大金持ちになる#7",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-12T10:47:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiita0813-{width}x{height}.jpg"
     },
@@ -99,7 +99,12 @@
       "display_name": "海咲ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1945630a-ec37-440a-b530-3524be376090-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/umisaki3",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YCGTA] 11日目 海咲ゆうのすけ成長日記",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-12T11:01:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -112,7 +117,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #11",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "started_at": "2026-05-12T08:13:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -284,7 +289,12 @@
       "display_name": "東月方璃",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c09f3497-68e9-4f54-bf5f-5f728740f7b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/touhou_1560",
-      "is_live": false
+      "is_live": true,
+      "title": "【12日目】チルいきもち #yuzucity #YCGTA #ゆず鯖",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-12T11:00:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -334,12 +344,7 @@
       "display_name": "竜胆小豆",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaf01dbf-da30-41ce-8d0c-eabb3d8c0b31-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rindou_azuki",
-      "is_live": true,
-      "title": "Yuzu city RP 草紙智和々 ＃8 出勤4日目",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-12T09:29:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rindou_azuki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -369,7 +374,12 @@
       "display_name": "usjkh",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdeca576-ddee-421f-beea-07e47ddfd179-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/usjkh",
-      "is_live": false
+      "is_live": true,
+      "title": "魂のタンクOTPランクマ",
+      "game_name": "Overwatch",
+      "viewer_count": 2,
+      "started_at": "2026-05-12T11:00:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
