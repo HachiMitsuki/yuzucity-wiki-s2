@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T01:03:52+09:00",
+  "updated_at": "2026-05-13T01:08:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -12,7 +12,7 @@
       "is_live": true,
       "title": "【ゆずシティGTA】ぷりんってなんでうまいんだろう",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-12T11:50:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
@@ -117,7 +117,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #11",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-12T08:13:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -167,7 +167,7 @@
       "is_live": true,
       "title": "YCGTA#10 ちるこふ後の街出勤",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-12T15:05:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -217,7 +217,7 @@
       "is_live": true,
       "title": "【ゆず鯖】もっとお金が欲しいなぁ… 9日目 Re:黒島へへ  GTA【初見歓迎】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-12T11:25:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -242,7 +242,7 @@
       "is_live": true,
       "title": "ゆずシティーEMS",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-12T16:02:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -257,7 +257,7 @@
       "is_live": true,
       "title": "ゆずシティ6日目  いろいろ遊ぶかな？",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-12T11:03:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
@@ -452,7 +452,7 @@
       "is_live": true,
       "title": "[GTA] day11    大型いこかーーーー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 5,
       "started_at": "2026-05-12T14:13:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -557,7 +557,7 @@
       "is_live": true,
       "title": "【#gta 】#5 yuzucity 三姉妹が初めて揃う日❣ ～詩ノ雲めめ視点～【#新人Vtuber】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-12T11:01:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
