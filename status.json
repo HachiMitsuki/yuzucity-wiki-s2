@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T23:38:54+09:00",
+  "updated_at": "2026-05-12T23:43:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -132,7 +132,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #11",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-12T08:13:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -297,7 +297,7 @@
       "is_live": true,
       "title": "【#星の翼】虐される固定【#vtuber /雷音雅】with〆鯖のざめ",
       "game_name": "StarWard",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-12T11:38:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -379,12 +379,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "ノッキングマスターパンダになる！！！",
-      "game_name": "Deep Dish Dungeon",
-      "viewer_count": 1,
-      "started_at": "2026-05-12T12:29:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -407,7 +402,7 @@
       "is_live": true,
       "title": "ゆずしてぃチルDay",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-12T11:10:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tokiwaharuto-{width}x{height}.jpg"
     },
@@ -452,7 +447,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた10【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 10,
+      "viewer_count": 17,
       "started_at": "2026-05-12T12:33:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -482,7 +477,7 @@
       "is_live": true,
       "title": "【 ドカポン 】 RE：ゼロ ドカポンしてみた 【 伏屋ななし / Vtuber / #俺たちの青春街道 】",
       "game_name": "Dokapon! Ikari no Tetsuken",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-12T12:01:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
