@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T21:23:53+09:00",
+  "updated_at": "2026-05-12T21:28:54+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -12,7 +12,7 @@
       "is_live": true,
       "title": "【ゆずシティGTA】ぷりんってなんでうまいんだろう",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-12T11:50:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
@@ -57,7 +57,7 @@
       "is_live": true,
       "title": "[YuzuCity]おかねかせぐぞー day7  #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-12T12:21:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
@@ -107,7 +107,7 @@
       "is_live": true,
       "title": "[#YCGTA] 11日目 海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 4,
       "started_at": "2026-05-12T11:01:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -307,7 +307,7 @@
       "is_live": true,
       "title": "【12日目】チルいきもち #yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-12T11:00:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
@@ -382,7 +382,7 @@
       "is_live": true,
       "title": "ゆずしてぃチルDay",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-12T11:10:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tokiwaharuto-{width}x{height}.jpg"
     },
@@ -407,7 +407,7 @@
       "is_live": true,
       "title": "魂のタンクOTPランクマ",
       "game_name": "Overwatch",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-12T11:00:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -439,7 +439,12 @@
       "display_name": "ねこまんま81",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77e6cdc5-e419-4b43-864c-ef66abfdc32b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/necomanma81",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】Day.7 体がいくつあっても足らないねこ",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-12T12:27:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_necomanma81-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -497,7 +502,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day１２ 犯罪もしたいしチルもしたい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-12T11:18:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -577,7 +582,7 @@
       "is_live": true,
       "title": "【#gta 】#5 yuzucity 三姉妹が初めて揃う日❣ ～詩ノ雲めめ視点～【#新人Vtuber】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "started_at": "2026-05-12T11:01:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
