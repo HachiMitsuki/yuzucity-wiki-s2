@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T18:00:06+09:00",
+  "updated_at": "2026-05-12T18:01:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -502,7 +502,7 @@
       "is_live": true,
       "title": "【Yuzu City】#8 今日は何か起こすぞ！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-12T08:36:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
@@ -644,6 +644,16 @@
       "display_name": "舞鶴びき",
       "profile_image_url": "https://yt3.ggpht.com/WqBCnT8QXd1zc1XrHBFHjaeZySMRLuXPPjU5ZU4eUM0POfaO6yzWWuIRgALjlFnz5TfG07Aq=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40%E8%88%9E%E9%B6%B4%E3%81%B3%E3%81%8D",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCsRxwj50vO9V4ue01qpiHlA",
+      "channel_id": "UCsRxwj50vO9V4ue01qpiHlA",
+      "handle": "@komugisui",
+      "display_name": "Komugisui",
+      "profile_image_url": "https://yt3.ggpht.com/mfiXarTCExY0iKaDQCcutZUB5-APIN8kgD7LONWrRwpPCUpl7sTIHcZgIB4i7RqtfDe2gkoR=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40komugisui",
       "is_live": false
     }
   ]
