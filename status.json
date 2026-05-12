@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T09:58:50+09:00",
+  "updated_at": "2026-05-12T10:03:46+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -462,7 +462,7 @@
       "is_live": true,
       "title": "朝からヴァロ活   #VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-12T00:44:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
