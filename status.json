@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T17:58:49+09:00",
+  "updated_at": "2026-05-12T18:00:06+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -102,7 +102,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #11",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 7,
+      "viewer_count": 4,
       "started_at": "2026-05-12T08:13:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -490,6 +490,21 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/054dd533-9763-4de8-b0ea-c47283b7fd23-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/azuma1111",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "raki_vt",
+      "login": "raki_vt",
+      "user_id": "1095433260",
+      "display_name": "楽希",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/raki_vt",
+      "is_live": true,
+      "title": "【Yuzu City】#8 今日は何か起こすぞ！",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 2,
+      "started_at": "2026-05-12T08:36:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
