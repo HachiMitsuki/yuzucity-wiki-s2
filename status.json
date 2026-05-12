@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T23:13:55+09:00",
+  "updated_at": "2026-05-12T23:18:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -52,7 +52,7 @@
       "is_live": true,
       "title": "のんびり！～7日目～【龍咲】【#YCGTA #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-12T12:34:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -222,7 +222,7 @@
       "is_live": true,
       "title": "【ゆず鯖】もっとお金が欲しいなぁ… 9日目 Re:黒島へへ  GTA【初見歓迎】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-05-12T11:25:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -297,7 +297,7 @@
       "is_live": true,
       "title": "【#星の翼】虐される固定【#vtuber /雷音雅】with〆鯖のざめ",
       "game_name": "StarWard",
-      "viewer_count": 3,
+      "viewer_count": 6,
       "started_at": "2026-05-12T11:38:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -452,7 +452,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた10【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "started_at": "2026-05-12T12:33:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -497,7 +497,7 @@
       "is_live": true,
       "title": "[GTA] day11    大型いこかーーーー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-12T14:13:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -612,7 +612,7 @@
       "is_live": true,
       "title": "【#gta 】#5 yuzucity 三姉妹が初めて揃う日❣ ～詩ノ雲めめ視点～【#新人Vtuber】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-12T11:01:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
