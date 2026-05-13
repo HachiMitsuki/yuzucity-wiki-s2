@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T17:45:51+09:00",
+  "updated_at": "2026-05-13T17:55:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -497,7 +497,7 @@
       "is_live": true,
       "title": "【Yuzu City】#9 今日は島取イベントあるみたいだ！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 2,
       "started_at": "2026-05-13T08:45:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
