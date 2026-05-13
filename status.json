@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T20:50:55+09:00",
+  "updated_at": "2026-05-13T20:55:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -107,7 +107,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #12",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-13T10:36:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -297,7 +297,7 @@
       "is_live": true,
       "title": "【13日目】ナワバリバトル #yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-13T11:29:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
