@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T16:40:52+09:00",
+  "updated_at": "2026-05-13T17:00:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "[yuzucity]新天地でお疲れさまといえる13日目[FiveM]",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-13T07:30:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
