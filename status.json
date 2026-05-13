@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T02:45:51+09:00",
+  "updated_at": "2026-05-14T02:50:50+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -167,7 +167,7 @@
       "is_live": true,
       "title": "YCGTA#11 今日はどんなもん？",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-13T15:18:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -252,7 +252,7 @@
       "is_live": true,
       "title": "ゆずシティ7日目   忙しいかも",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-13T11:17:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
@@ -439,12 +439,7 @@
       "display_name": "黒田りと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef9f74-3e0f-4327-b7df-e192b317cea9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuro__chan96",
-      "is_live": true,
-      "title": "[GTA] day12    大型いこかーーー寝坊した！！！！",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
-      "started_at": "2026-05-13T14:49:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -477,7 +472,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day１３ 抗争あるってさ",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-13T11:15:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
