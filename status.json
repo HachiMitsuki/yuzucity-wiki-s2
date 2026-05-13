@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T00:00:56+09:00",
+  "updated_at": "2026-05-14T00:05:54+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -427,7 +427,7 @@
       "is_live": true,
       "title": "【VTuber】今日はこっちの抗争でい【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 70,
+      "viewer_count": 58,
       "started_at": "2026-05-13T12:25:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -467,7 +467,7 @@
       "is_live": true,
       "title": "[GTA] day12    大型いこかーーー寝坊した！！！！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-13T14:49:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -502,7 +502,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day１３ 抗争あるってさ",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-13T11:15:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -567,7 +567,7 @@
       "is_live": true,
       "title": "【Yuzu City】#9 今日は島取イベントあるみたいだ！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-13T08:45:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
