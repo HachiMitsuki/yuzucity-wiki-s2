@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T18:05:52+09:00",
+  "updated_at": "2026-05-13T18:10:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -179,7 +179,12 @@
       "display_name": "しろなみ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f22f6895-f99b-45cb-9388-b9c9d3a55f86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sh1ronami",
-      "is_live": false
+      "is_live": true,
+      "title": "【YCGTA】EMSサボり魔視点",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-13T09:06:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sh1ronami-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -209,7 +214,12 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティーEMS",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-13T09:06:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
