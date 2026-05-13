@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T18:30:51+09:00",
+  "updated_at": "2026-05-13T18:35:51+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -217,7 +217,7 @@
       "is_live": true,
       "title": "ゆずシティーEMS",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-13T09:06:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
