@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T17:25:52+09:00",
+  "updated_at": "2026-05-13T17:30:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -82,7 +82,7 @@
       "is_live": true,
       "title": "【YCGTA】やること考えてなかった",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-13T08:14:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sourei_2525-{width}x{height}.jpg"
     },
