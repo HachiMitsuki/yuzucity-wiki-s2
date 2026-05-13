@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T00:30:53+09:00",
+  "updated_at": "2026-05-14T00:35:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #12",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-13T10:36:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -167,7 +167,7 @@
       "is_live": true,
       "title": "YCGTA#11 今日はどんなもん？",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-13T15:18:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -427,7 +427,7 @@
       "is_live": true,
       "title": "【VTuber】今日はこっちの抗争でい【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 60,
+      "viewer_count": 62,
       "started_at": "2026-05-13T12:25:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -467,7 +467,7 @@
       "is_live": true,
       "title": "[GTA] day12    大型いこかーーー寝坊した！！！！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-13T14:49:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -567,7 +567,7 @@
       "is_live": true,
       "title": "【Yuzu City】#9 今日は島取イベントあるみたいだ！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-13T08:45:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
