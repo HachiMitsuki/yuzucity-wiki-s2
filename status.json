@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T01:20:52+09:00",
+  "updated_at": "2026-05-14T01:25:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "is_live": true,
       "title": "【YuzuCity】#5半ぐれ110Ø活動日記~大競り公衆便所~〖初見さんコメント大歓迎〗",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-13T12:33:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
@@ -237,7 +237,7 @@
       "is_live": true,
       "title": "ゆずシティーEMS",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-13T09:06:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -339,12 +339,7 @@
       "display_name": "浮雲わたあめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2804604-888f-422d-b447-109abc4443f6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ukigumo_watame",
-      "is_live": true,
-      "title": "[YUZU city]メカニック。わたあめ。七億貯める",
-      "game_name": "",
-      "viewer_count": 1,
-      "started_at": "2026-05-13T12:02:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ukigumo_watame-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
