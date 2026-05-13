@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T20:10:54+09:00",
+  "updated_at": "2026-05-13T20:15:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -79,12 +79,7 @@
       "display_name": "蒼澪",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8da2be83-6ebf-4a70-b4d5-443eba1ea393-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sourei_2525",
-      "is_live": true,
-      "title": "【YCGTA】やること考えてなかった",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-13T08:14:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sourei_2525-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -112,7 +107,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #12",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "started_at": "2026-05-13T10:36:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -197,7 +192,7 @@
       "is_live": true,
       "title": "【YCGTA】EMSサボり魔視点",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "started_at": "2026-05-13T09:06:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sh1ronami-{width}x{height}.jpg"
     },
@@ -277,7 +272,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】抗争があるらしい １０日目【#vtuber /雷音雅】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-13T10:56:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -464,7 +459,12 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY】Day１３ 抗争あるってさ",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-13T11:15:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
