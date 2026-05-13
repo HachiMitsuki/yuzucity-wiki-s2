@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T20:45:55+09:00",
+  "updated_at": "2026-05-13T20:50:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -297,7 +297,7 @@
       "is_live": true,
       "title": "【13日目】ナワバリバトル #yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-13T11:29:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
@@ -347,7 +347,7 @@
       "is_live": true,
       "title": "ゆずシティ Re:釣りが世界を救う １０日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-13T11:39:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
