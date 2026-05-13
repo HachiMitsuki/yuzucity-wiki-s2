@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T03:05:50+09:00",
+  "updated_at": "2026-05-14T03:20:49+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -269,7 +269,12 @@
       "display_name": "ひもぉ0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a14d94-7d4a-4913-89e2-fa76064f5cf8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himoo_ttvt",
-      "is_live": false
+      "is_live": true,
+      "title": "【NTE】朝までかも【寝落ちにどぞ】",
+      "game_name": "NTE: Neverness to Everness",
+      "viewer_count": 2,
+      "started_at": "2026-05-13T18:18:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -279,12 +284,7 @@
       "display_name": "絶叫者イノ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": true,
-      "title": "高難易度音ゲー | 7DtD→A Dance of Fire and Ice→何か",
-      "game_name": "",
-      "viewer_count": 4,
-      "started_at": "2026-05-13T12:25:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
