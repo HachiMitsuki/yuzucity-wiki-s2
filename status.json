@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T23:20:57+09:00",
+  "updated_at": "2026-05-13T23:25:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -42,7 +42,7 @@
       "is_live": true,
       "title": "【#YCGTA】See u later, Helicopter【水樹らこ丸視点】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-13T12:51:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -127,7 +127,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #12",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 8,
+      "viewer_count": 5,
       "started_at": "2026-05-13T10:36:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -437,7 +437,7 @@
       "is_live": true,
       "title": "【VTuber】今日はこっちの抗争でい【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 49,
+      "viewer_count": 43,
       "started_at": "2026-05-13T12:25:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -577,7 +577,7 @@
       "is_live": true,
       "title": "【Yuzu City】#9 今日は島取イベントあるみたいだ！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-13T08:45:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
@@ -592,7 +592,7 @@
       "is_live": true,
       "title": "【#ff14 】ソロFF14！紅蓮編突入🔥メイン進めるよんっ",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-13T12:02:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
