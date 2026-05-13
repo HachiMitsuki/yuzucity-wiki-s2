@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T01:45:52+09:00",
+  "updated_at": "2026-05-14T01:50:51+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -167,7 +167,7 @@
       "is_live": true,
       "title": "YCGTA#11 今日はどんなもん？",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-13T15:18:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -327,7 +327,7 @@
       "is_live": true,
       "title": "高難易度音ゲー | 7DtD→A Dance of Fire and Ice→何か",
       "game_name": "",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-13T12:25:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -412,7 +412,7 @@
       "is_live": true,
       "title": "【VTuber】今日はこっちの抗争でい【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 52,
+      "viewer_count": 46,
       "started_at": "2026-05-13T12:25:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -452,7 +452,7 @@
       "is_live": true,
       "title": "[GTA] day12    大型いこかーーー寝坊した！！！！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-13T14:49:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
