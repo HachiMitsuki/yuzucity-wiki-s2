@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T22:56:00+09:00",
+  "updated_at": "2026-05-13T23:00:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -127,7 +127,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #12",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "started_at": "2026-05-13T10:36:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -340,8 +340,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
       "is_live": true,
-      "title": "◯んだらワールドリセットのハードモード | 7DtD",
-      "game_name": "7 Days to Die",
+      "title": "高難易度音ゲー | A Dance of Fire and Ice",
+      "game_name": "A Dance of Fire and Ice",
       "viewer_count": 6,
       "started_at": "2026-05-13T12:25:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
@@ -442,7 +442,7 @@
       "is_live": true,
       "title": "【VTuber】今日はこっちの抗争でい【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 55,
+      "viewer_count": 58,
       "started_at": "2026-05-13T12:25:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -517,7 +517,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day１３ 抗争あるってさ",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-05-13T11:15:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -597,7 +597,7 @@
       "is_live": true,
       "title": "【#ff14 】ソロFF14！紅蓮編突入🔥メイン進めるよんっ",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-13T12:02:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
