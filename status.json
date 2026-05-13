@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T21:40:55+09:00",
+  "updated_at": "2026-05-13T21:45:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "is_live": true,
       "title": "【YuzuCity】#5半ぐれ110Ø活動日記~大競り公衆便所~〖初見さんコメント大歓迎〗",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-13T12:33:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
@@ -107,7 +107,7 @@
       "is_live": true,
       "title": "[#YCGTA] 12日目 海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-13T11:04:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -312,7 +312,7 @@
       "is_live": true,
       "title": "【13日目】ナワバリバトル #yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-13T11:29:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
@@ -432,7 +432,7 @@
       "is_live": true,
       "title": "【VTuber】今日はこっちの抗争でい【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 31,
+      "viewer_count": 42,
       "started_at": "2026-05-13T12:25:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -502,7 +502,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day１３ 抗争あるってさ",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-13T11:15:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -547,7 +547,7 @@
       "is_live": true,
       "title": "落ちた人のヴァロです   #VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-13T12:29:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -572,7 +572,7 @@
       "is_live": true,
       "title": "【Yuzu City】#9 今日は島取イベントあるみたいだ！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-13T08:45:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
@@ -587,7 +587,7 @@
       "is_live": true,
       "title": "【#ff14 】ソロFF14！紅蓮編突入🔥メイン進めるよんっ",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-13T12:02:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
