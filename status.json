@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T08:30:47+09:00",
+  "updated_at": "2026-05-15T08:35:47+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "久しぶりの焚き火",
       "game_name": "Just Chatting",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-14T23:23:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
@@ -127,7 +127,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #VALORANT】ネオンかえってきたらしいじゃん？？実際どう？？",
       "game_name": "VALORANT",
-      "viewer_count": 19,
+      "viewer_count": 9,
       "started_at": "2026-05-14T21:00:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
