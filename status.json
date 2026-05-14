@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T05:35:46+09:00",
+  "updated_at": "2026-05-15T05:40:47+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -277,7 +277,7 @@
       "is_live": true,
       "title": "【NTE】朝までかも【寝落ちにどぞ】",
       "game_name": "NTE: Neverness to Everness",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-14T17:49:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
     },
