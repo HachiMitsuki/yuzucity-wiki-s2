@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-05-14T21:19:47+09:00",
+  "updated_at": "2026-05-14T21:27:10+09:00",
   "clips": [
+    {
+      "id": 26,
+      "source": "twitch",
+      "source_id": "ExuberantFaintBearDendiFace-Er6m_QMlcGZYLviH",
+      "url": "https://www.twitch.tv/sakazuki_kyan/clip/ExuberantFaintBearDendiFace-Er6m_QMlcGZYLviH",
+      "embed_url": "https://clips.twitch.tv/embed?clip=ExuberantFaintBearDendiFace-Er6m_QMlcGZYLviH",
+      "title": "守に不思議な力が...",
+      "description": "https://www.twitch.tv/sakazuki_kyan/clip/ExuberantFaintBearDendiFace-Er6m_QMlcGZYLviH",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9dc0f4cc-6a80-46dd-9b41-35eca7db2512/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "酒月きゃん",
+      "author_name": "酒煙 きゃん/酒月 きゃん",
+      "author_avatar": "https://cdn.discordapp.com/avatars/802022260868907050/3e9ba8b4c4beb70f4ecabda1034fcae2.png?size=128",
+      "posted_at": "2026-05-14T21:27:10+09:00"
+    },
     {
       "id": 25,
       "source": "discord",
