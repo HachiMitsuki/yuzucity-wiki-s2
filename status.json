@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T21:50:55+09:00",
+  "updated_at": "2026-05-14T21:55:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -117,7 +117,7 @@
       "is_live": true,
       "title": "[#YCGTA] 13日目 海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-14T11:01:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -257,7 +257,7 @@
       "is_live": true,
       "title": "ゆずシティ8日目   なんか遊びたいな",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-14T11:02:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
@@ -342,7 +342,7 @@
       "is_live": true,
       "title": "ワイワイエンジョイフルカスタム | VALORANT",
       "game_name": "VALORANT",
-      "viewer_count": 6,
+      "viewer_count": 4,
       "started_at": "2026-05-14T12:34:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -432,7 +432,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた10【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 11,
+      "viewer_count": 6,
       "started_at": "2026-05-14T12:19:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
