@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T16:25:52+09:00",
+  "updated_at": "2026-05-14T16:30:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -342,7 +342,7 @@
       "is_live": true,
       "title": "機体練習しながらミッション消化～",
       "game_name": "Mecha BREAK",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-14T07:00:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
