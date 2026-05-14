@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T02:25:52+09:00",
+  "updated_at": "2026-05-15T02:30:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -107,7 +107,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #13",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-14T17:18:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -157,7 +157,7 @@
       "is_live": true,
       "title": "YCGTA#12 深夜の男ねこむ",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-14T15:06:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -437,7 +437,7 @@
       "is_live": true,
       "title": "[GTA] day13    今日も一日がんばろか",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-14T13:15:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
