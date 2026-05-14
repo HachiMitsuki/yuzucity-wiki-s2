@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T02:55:52+09:00",
+  "updated_at": "2026-05-15T03:00:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -307,7 +307,7 @@
       "is_live": true,
       "title": "【NTE】朝までかも【寝落ちにどぞ】",
       "game_name": "NTE: Neverness to Everness",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-14T17:49:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
     },
@@ -414,12 +414,7 @@
       "display_name": "ねこまんま81",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77e6cdc5-e419-4b43-864c-ef66abfdc32b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/necomanma81",
-      "is_live": true,
-      "title": "【Yuzu City】Day.9 シノビが欲しい。",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-14T12:41:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_necomanma81-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -442,7 +437,7 @@
       "is_live": true,
       "title": "[GTA] day13    今日も一日がんばろか",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-14T13:15:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
