@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T21:10:55+09:00",
+  "updated_at": "2026-05-14T21:15:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -59,7 +59,12 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": false
+      "is_live": true,
+      "title": "[VALO]カスタム顔合わせ！",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-14T12:11:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -82,7 +87,7 @@
       "is_live": true,
       "title": "【#NEITH_ROOM】いざ、頂点へ【30層攻略最前線TV】",
       "game_name": "Minecraft",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-14T11:59:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
     },
@@ -247,7 +252,7 @@
       "is_live": true,
       "title": "ゆずシティ8日目   なんか遊びたいな",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-14T11:02:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
@@ -307,7 +312,7 @@
       "is_live": true,
       "title": "【14日目】チルデーです #yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-14T11:11:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
@@ -512,7 +517,7 @@
       "is_live": true,
       "title": "LOL]  SunRiseLOLカスタム よちよちらしい",
       "game_name": "League of Legends",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-14T12:10:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
@@ -537,7 +542,7 @@
       "is_live": true,
       "title": "EMSnoNICHIJOU #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-14T10:10:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
     },
