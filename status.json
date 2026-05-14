@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T17:05:52+09:00",
+  "updated_at": "2026-05-14T17:10:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -119,7 +119,12 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": false
+      "is_live": true,
+      "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day14 #ゆず鯖 #YCGTA #FiveM",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 7,
+      "started_at": "2026-05-14T08:05:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -342,7 +347,7 @@
       "is_live": true,
       "title": "機体練習しながらミッション消化～",
       "game_name": "Mecha BREAK",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-14T07:00:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
