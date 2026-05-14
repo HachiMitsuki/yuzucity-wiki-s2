@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T21:25:56+09:00",
+  "updated_at": "2026-05-14T21:30:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "is_live": true,
       "title": "【#YCGTA】ここマダガスカルまだ助かる【水樹らこ丸視点】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-14T11:58:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -127,7 +127,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #13",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-14T10:31:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -287,7 +287,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】お金の稼ぎ方 １１日目【#vtuber /雷音雅】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-14T12:06:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -347,7 +347,7 @@
       "is_live": true,
       "title": "[YUZU city]メカニック。わたあめ。七億貯める",
       "game_name": "",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-14T11:35:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ukigumo_watame-{width}x{height}.jpg"
     },
@@ -422,7 +422,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた10【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 9,
       "started_at": "2026-05-14T12:19:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -547,7 +547,7 @@
       "is_live": true,
       "title": "EMSnoNICHIJOU #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-14T10:10:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
     },
