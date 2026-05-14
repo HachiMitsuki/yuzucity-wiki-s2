@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T21:45:55+09:00",
+  "updated_at": "2026-05-14T21:50:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -52,7 +52,7 @@
       "is_live": true,
       "title": "あまりにも日常！～8日目～【龍咲】【#YCGTA #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-14T12:42:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -342,7 +342,7 @@
       "is_live": true,
       "title": "ワイワイエンジョイフルカスタム | VALORANT",
       "game_name": "VALORANT",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "started_at": "2026-05-14T12:34:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -432,7 +432,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた10【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 13,
+      "viewer_count": 11,
       "started_at": "2026-05-14T12:19:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
