@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T06:00:48+09:00",
+  "updated_at": "2026-05-15T06:05:47+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -119,7 +119,12 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": false
+      "is_live": true,
+      "title": "🔴LIVE【 #VALORANT】ネオンかえってきたらしいじゃん？？実際どう？？",
+      "game_name": "VALORANT",
+      "viewer_count": 3,
+      "started_at": "2026-05-14T21:00:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -202,7 +207,7 @@
       "is_live": true,
       "title": "フルパ",
       "game_name": "VALORANT",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-14T18:53:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -299,12 +304,7 @@
       "display_name": "浮雲わたあめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2804604-888f-422d-b447-109abc4443f6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ukigumo_watame",
-      "is_live": true,
-      "title": "[YUZU city]メカニック。わたあめ。七億貯める",
-      "game_name": "",
-      "viewer_count": 1,
-      "started_at": "2026-05-14T11:35:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ukigumo_watame-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
