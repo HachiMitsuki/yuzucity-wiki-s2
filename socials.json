@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T10:53:10+09:00",
+  "updated_at": "2026-05-14T16:32:02+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -798,6 +798,13 @@
       "display_name": "静住 ゆう🚬🎮",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1983016226206179328/Vbs75QiY_400x400.jpg",
       "profile_url": "https://x.com/shizumi_yuu10"
+    },
+    {
+      "platform": "x",
+      "handle": "sammys0820",
+      "display_name": "さみぃ(Sammy)@ VTuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1774643809772871680/tBKPA4-r_400x400.jpg",
+      "profile_url": "https://x.com/sammys0820"
     }
   ]
 }
