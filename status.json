@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T18:40:53+09:00",
+  "updated_at": "2026-05-14T18:45:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -132,7 +132,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day14 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 8,
+      "viewer_count": 10,
       "started_at": "2026-05-14T08:05:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
