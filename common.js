@@ -59,15 +59,15 @@ function renderSidebar(currentSlug){
   return html;
 }
 
-// Render top bar
+// Render top bar — editorial masthead
 function renderTopbar(){
   return `
-    <a href="index.html" class="topbar-brand">🍋 Yuzu City Wiki</a>
-    <input type="text" class="topbar-search" id="topSearch" placeholder="🔍 このページを検索">
+    <a href="index.html" class="topbar-brand">Yuzu City Wiki</a>
+    <input type="text" class="topbar-search" id="topSearch" placeholder="このページを検索 ／ Search">
     <div class="topbar-actions">
-      <a href="https://x.com/yuzu_server" target="_blank">𝕏</a>
-      <a href="https://discord.gg/gHCeUWFyyc" target="_blank">Discord</a>
-      <button class="menu-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">☰</button>
+      <a href="https://x.com/yuzu_server" target="_blank" aria-label="X">𝕏</a>
+      <a href="https://discord.gg/gHCeUWFyyc" target="_blank">DISCORD</a>
+      <button class="menu-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')" aria-label="menu">☰</button>
     </div>
   `;
 }
@@ -127,6 +127,40 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('sidebar').classList.remove('open');
     });
   });
+
+  // Cursor-following spotlight on cards
+  function bindSpotlight(el){
+    el.addEventListener('mousemove', e => {
+      const r = el.getBoundingClientRect();
+      el.style.setProperty('--mx', ((e.clientX - r.left) / r.width  * 100) + '%');
+      el.style.setProperty('--my', ((e.clientY - r.top)  / r.height * 100) + '%');
+    });
+  }
+  document.querySelectorAll('.card, .vehicle-card, .menu-card, .clip-card, .streamer-card, .social-card').forEach(bindSpotlight);
+
+  // Scroll-triggered reveal — for elements outside the initial viewport
+  if ('IntersectionObserver' in window){
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(e => {
+        if (e.isIntersecting){
+          e.target.style.animation = 'reveal .7s cubic-bezier(.22,.61,.36,1) both';
+          io.unobserve(e.target);
+        }
+      });
+    }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
+
+    // Only observe cards/sections that are below the fold on initial paint
+    setTimeout(() => {
+      document.querySelectorAll('section, .card, .stat, .menu-card, .vehicle-card, .clip-card, .streamer-card, .social-card, .rule-item, .cmd-item, .term-item, .timeline-item').forEach(el => {
+        const r = el.getBoundingClientRect();
+        if (r.top > window.innerHeight){
+          el.style.animation = 'none';
+          el.style.opacity = '0';
+          io.observe(el);
+        }
+      });
+    }, 50);
+  }
 });
 
 // Tab switching (used on some pages)
