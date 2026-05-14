@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T20:30:54+09:00",
+  "updated_at": "2026-05-14T20:35:54+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #13",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 2,
       "started_at": "2026-05-14T10:31:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -324,7 +324,12 @@
       "display_name": "浮雲わたあめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2804604-888f-422d-b447-109abc4443f6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ukigumo_watame",
-      "is_live": false
+      "is_live": true,
+      "title": "[YUZU city]メカニック。わたあめ。七億貯める",
+      "game_name": "",
+      "viewer_count": 0,
+      "started_at": "2026-05-14T11:35:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ukigumo_watame-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
