@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T21:00:54+09:00",
+  "updated_at": "2026-05-14T21:05:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -82,7 +82,7 @@
       "is_live": true,
       "title": "【#NEITH_ROOM】いざ、頂点へ【30層攻略最前線TV】",
       "game_name": "Minecraft",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-14T11:59:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omchang-{width}x{height}.jpg"
     },
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #13",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-14T10:31:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -527,7 +527,7 @@
       "is_live": true,
       "title": "EMSnoNICHIJOU #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-14T10:10:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
     },
