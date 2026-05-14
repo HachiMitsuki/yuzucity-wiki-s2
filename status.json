@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T20:25:54+09:00",
+  "updated_at": "2026-05-14T20:30:54+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -12,7 +12,7 @@
       "is_live": true,
       "title": "【ゆずシティGTA】ボイスを売る男",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-14T08:20:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #13",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 5,
       "started_at": "2026-05-14T10:31:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -292,7 +292,7 @@
       "is_live": true,
       "title": "【14日目】チルデーです #yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-14T11:11:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
