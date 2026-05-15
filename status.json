@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T05:15:47+09:00",
+  "updated_at": "2026-05-16T05:20:47+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -207,7 +207,7 @@
       "is_live": true,
       "title": "バロ",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-15T18:11:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
