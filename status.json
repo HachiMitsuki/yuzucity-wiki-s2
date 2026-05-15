@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T03:05:49+09:00",
+  "updated_at": "2026-05-16T03:10:48+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,12 +19,7 @@
       "display_name": "碧甘ぐみ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e0bd64f-84d3-4830-a711-0b44c9f675fe-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mikamo_gumi_247",
-      "is_live": true,
-      "title": "【YuzuCity】#6半ぐれ110Ø活動日記~パレード~〖初見さんコメント大歓迎〗",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-15T13:55:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -180,9 +175,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f22f6895-f99b-45cb-9388-b9c9d3a55f86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sh1ronami",
       "is_live": true,
-      "title": "【YCGTA】EMSサボり魔視点",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "title": "【YCGTA】EMS VALO",
+      "game_name": "VALORANT",
+      "viewer_count": 5,
       "started_at": "2026-05-15T12:42:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sh1ronami-{width}x{height}.jpg"
     },
