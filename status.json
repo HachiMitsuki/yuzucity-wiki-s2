@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T19:10:51+09:00",
+  "updated_at": "2026-05-15T19:15:51+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -102,7 +102,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #14",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-15T08:12:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
