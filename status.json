@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T08:10:47+09:00",
+  "updated_at": "2026-05-16T08:30:47+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -172,7 +172,7 @@
       "is_live": true,
       "title": "【YCGTA】EMS VALO",
       "game_name": "VALORANT",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-15T12:42:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sh1ronami-{width}x{height}.jpg"
     },
