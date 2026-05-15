@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T19:10:07+09:00",
+  "updated_at": "2026-05-15T14:54:54+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -812,6 +812,13 @@
       "display_name": "黒苺みるく🐈‍⬛ྀི.*･ﾟ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2003746766475395072/8M20vSwd_400x400.jpg",
       "profile_url": "https://x.com/x__ixi__x"
+    },
+    {
+      "platform": "x",
+      "handle": "mashiro_rai",
+      "display_name": "魔白らい😈🌩️/個人VTuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2055164086460219392/9aWA-nL__400x400.jpg",
+      "profile_url": "https://x.com/mashiro_rai"
     }
   ]
 }
