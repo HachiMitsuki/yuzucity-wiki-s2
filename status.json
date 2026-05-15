@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T00:35:53+09:00",
+  "updated_at": "2026-05-16T00:40:52+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -159,12 +159,7 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": true,
-      "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day15 #ゆず鯖 #YCGTA #FiveM",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
-      "started_at": "2026-05-15T08:19:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -187,7 +182,7 @@
       "is_live": true,
       "title": "YCGTA#13 昇進したらしい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-15T15:23:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -227,7 +222,7 @@
       "is_live": true,
       "title": "【YCGTA】EMSサボり魔視点",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-15T12:42:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sh1ronami-{width}x{height}.jpg"
     },
@@ -357,7 +352,7 @@
       "is_live": true,
       "title": "LoL初心者交流カスタム | リーグオブレジェンド",
       "game_name": "League of Legends",
-      "viewer_count": 6,
+      "viewer_count": 4,
       "started_at": "2026-05-15T11:00:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -447,7 +442,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた11【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 12,
+      "viewer_count": 9,
       "started_at": "2026-05-15T12:07:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -602,7 +597,7 @@
       "is_live": true,
       "title": "【#gta 】#6 yuzucity 三姉妹で遊びまくるっ！～詩ノ雲めめ視点～【#新人Vtuber】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-15T11:31:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
