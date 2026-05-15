@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T18:30:51+09:00",
+  "updated_at": "2026-05-15T18:32:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -102,7 +102,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #14",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-15T08:12:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -132,7 +132,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day15 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-15T08:19:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -519,6 +519,16 @@
       "display_name": "子羊めぇめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf33ed9a-caf0-42ac-9f8b-7cad32a7fecc-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/not_ahuro",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "lil_yu__",
+      "login": "lil_yu__",
+      "user_id": "957769356",
+      "display_name": "ゆうてゃ_",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/lil_yu__",
       "is_live": false
     },
     {
