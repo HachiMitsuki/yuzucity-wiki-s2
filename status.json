@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T22:25:53+09:00",
+  "updated_at": "2026-05-15T22:30:54+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -117,7 +117,7 @@
       "is_live": true,
       "title": "[#YCGTA] 14日目 海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-15T11:02:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -162,7 +162,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day15 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-15T08:19:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -427,7 +427,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた11【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 23,
+      "viewer_count": 15,
       "started_at": "2026-05-15T12:07:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -519,7 +519,12 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5980bf5-28a6-4886-b78e-86bca2f6fc76-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "#ゆず鯖 #YCGTA]  隊長絶不調メカ 体温38℃超えたら寝ます",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-15T13:29:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
