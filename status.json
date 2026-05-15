@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T22:55:54+09:00",
+  "updated_at": "2026-05-15T23:00:54+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -10,10 +10,10 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f86960a-38c3-4412-85aa-6405f054f8d3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aito_mus01",
       "is_live": true,
-      "title": "【ゆずシティGTA】昇格チャンスきちゃ？！",
-      "game_name": "Grand Theft Auto V",
+      "title": "【乱入APEX】藍星水ではぶられてるやつがいたらしい",
+      "game_name": "Apex Legends",
       "viewer_count": 2,
-      "started_at": "2026-05-15T10:21:24Z",
+      "started_at": "2026-05-15T13:57:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
     {
@@ -24,7 +24,12 @@
       "display_name": "碧甘ぐみ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e0bd64f-84d3-4830-a711-0b44c9f675fe-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mikamo_gumi_247",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】#6半ぐれ110Ø活動日記~パレード~〖初見さんコメント大歓迎〗",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-15T13:55:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -67,7 +72,7 @@
       "is_live": true,
       "title": "[YuzuCity]day8 お友達を案内 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-15T12:25:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
@@ -122,7 +127,7 @@
       "is_live": true,
       "title": "[#YCGTA] 14日目 海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-15T11:02:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -162,7 +167,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day15 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-15T08:19:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -437,7 +442,7 @@
       "is_live": true,
       "title": "【VTuber】あいまにぱぶじ【PUBG】",
       "game_name": "PUBG: BATTLEGROUNDS",
-      "viewer_count": 19,
+      "viewer_count": 16,
       "started_at": "2026-05-15T12:07:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -532,7 +537,7 @@
       "is_live": true,
       "title": "#ゆず鯖 #YCGTA]  体調絶不調メカ 体温38℃超えたら寝ます",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-15T13:29:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
@@ -592,7 +597,7 @@
       "is_live": true,
       "title": "【#gta 】#6 yuzucity 三姉妹で遊びまくるっ！～詩ノ雲めめ視点～【#新人Vtuber】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-15T11:31:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
