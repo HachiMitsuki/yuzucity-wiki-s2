@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T06:01:46+09:00",
+  "updated_at": "2026-05-16T06:12:10+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -840,6 +840,13 @@
       "display_name": "ぽか助",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1983087655043964928/vEffPawI_400x400.jpg",
       "profile_url": "https://x.com/poka_suke333"
+    },
+    {
+      "platform": "x",
+      "handle": "merunn_ha",
+      "display_name": "ハーメルン",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1997871114115264512/nAwQNh-S_400x400.jpg",
+      "profile_url": "https://x.com/merunn_ha"
     }
   ]
 }
