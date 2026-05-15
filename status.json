@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T03:00:49+09:00",
+  "updated_at": "2026-05-16T03:05:49+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,12 +9,7 @@
       "display_name": "藍音です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f86960a-38c3-4412-85aa-6405f054f8d3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aito_mus01",
-      "is_live": true,
-      "title": "【ゆずシティ】古池や蛙飛び込む俺も飛び込む",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-15T13:57:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -154,12 +149,7 @@
       "display_name": "夢見弖ねこむ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38876e09-d270-4394-be4c-a339ea8535e9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekommn",
-      "is_live": true,
-      "title": "YCGTA#13 昇進したらしい",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
-      "started_at": "2026-05-15T15:23:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -192,7 +182,7 @@
       "is_live": true,
       "title": "【YCGTA】EMSサボり魔視点",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-15T12:42:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sh1ronami-{width}x{height}.jpg"
     },
@@ -264,12 +254,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#ゆず鯖 】生きる理由をください １２日目【#vtuber /雷音雅】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-15T13:39:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -389,12 +374,7 @@
       "display_name": "火影こたつ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": true,
-      "title": "【VTuber】知らない街でラフに生きてみた11【FiveM/#yuzucity】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 13,
-      "started_at": "2026-05-15T12:07:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -519,12 +499,7 @@
       "display_name": "楽希",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raki_vt",
-      "is_live": true,
-      "title": "【Yuzu City】#11 色々なことにチャレンジするぞー！",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-15T08:49:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -557,7 +532,7 @@
       "is_live": true,
       "title": "gta!!YuzuCity",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-15T15:58:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
