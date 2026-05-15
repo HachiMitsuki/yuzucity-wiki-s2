@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T09:50:48+09:00",
+  "updated_at": "2026-05-15T09:55:48+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #VALORANT】ネオンかえってきたらしいじゃん？？実際どう？？",
       "game_name": "VALORANT",
-      "viewer_count": 7,
+      "viewer_count": 12,
       "started_at": "2026-05-14T21:00:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
