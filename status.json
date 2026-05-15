@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T03:30:48+09:00",
+  "updated_at": "2026-05-16T03:35:48+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -207,7 +207,7 @@
       "is_live": true,
       "title": "バロ",
       "game_name": "VALORANT",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-15T18:11:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -472,7 +472,7 @@
       "is_live": true,
       "title": "アイアン３からスタート元に帰れるかな？？   #VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-15T10:55:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
