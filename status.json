@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T20:00:51+09:00",
+  "updated_at": "2026-05-15T20:05:51+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -12,7 +12,7 @@
       "is_live": true,
       "title": "【ゆずシティGTA】昇格チャンスきちゃ？！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-15T10:21:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
@@ -64,7 +64,12 @@
       "display_name": "つだきいた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61aed0c5-556b-454c-9b4a-3b5c43d8208c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kiita0813",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】この町一番の大金持ちになる#8",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-15T11:04:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiita0813-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -94,7 +99,12 @@
       "display_name": "海咲ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1945630a-ec37-440a-b530-3524be376090-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/umisaki3",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YCGTA] 14日目 海咲ゆうのすけ成長日記",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-15T11:02:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -304,7 +314,12 @@
       "display_name": "絶叫者イノ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": false
+      "is_live": true,
+      "title": "LoL初心者交流カスタム | リーグオブレジェンド",
+      "game_name": "League of Legends",
+      "viewer_count": 2,
+      "started_at": "2026-05-15T11:00:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -459,7 +474,12 @@
       "display_name": "東雲めう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/74dff1e7-1c2e-4d2d-a29d-77870331b937-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shinonomemeu",
-      "is_live": false
+      "is_live": true,
+      "title": "正真正銘の五月病です",
+      "game_name": "Just Chatting",
+      "viewer_count": 3,
+      "started_at": "2026-05-15T11:02:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinonomemeu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -542,7 +562,7 @@
       "is_live": true,
       "title": "【#YCGTA】伝説の男復活。1日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 5,
       "started_at": "2026-05-15T11:00:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
