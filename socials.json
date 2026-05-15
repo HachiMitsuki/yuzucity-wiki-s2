@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T18:31:45+09:00",
+  "updated_at": "2026-05-16T01:46:56+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -826,6 +826,13 @@
       "display_name": "ゆう",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1955215121032298496/2OaKu4B7_400x400.jpg",
       "profile_url": "https://x.com/lil_yu__"
+    },
+    {
+      "platform": "x",
+      "handle": "teitokumori2",
+      "display_name": "ていとく",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1887162649743605760/AjoSipDL_400x400.jpg",
+      "profile_url": "https://x.com/teitokumori2"
     }
   ]
 }
