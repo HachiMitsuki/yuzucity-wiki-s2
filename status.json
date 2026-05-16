@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T03:25:51+09:00",
+  "updated_at": "2026-05-17T03:30:50+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -107,7 +107,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #15",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "started_at": "2026-05-16T12:41:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -222,7 +222,7 @@
       "is_live": true,
       "title": "ゆずシティーEMS16日",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-16T14:08:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -437,7 +437,7 @@
       "is_live": true,
       "title": "《Yuzucity》│ずっと微熱🎀ིྀ day14｜#YuzuCtiy",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-16T09:20:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
