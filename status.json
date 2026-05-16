@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T22:50:55+09:00",
+  "updated_at": "2026-05-16T22:55:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -22,7 +22,7 @@
       "is_live": true,
       "title": "【YuzuCity】#7緑ギャング活動日記〖初見さんコメント大歓迎〗",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-16T12:46:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
@@ -37,7 +37,7 @@
       "is_live": true,
       "title": "【#YCGTA】守っちゃうよ治安も君も【水樹らこ丸視点】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-16T13:37:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -222,7 +222,7 @@
       "is_live": true,
       "title": "【YCGTA】EMSサボり魔視点",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-16T12:03:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sh1ronami-{width}x{height}.jpg"
     },
@@ -237,7 +237,7 @@
       "is_live": true,
       "title": "【ゆず鯖】残り半月… 13日目 Re:黒島へへ  GTA【初見歓迎】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-16T11:07:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -307,7 +307,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】今日も抗争があるらしい １３日目【#vtuber /雷音雅】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-16T08:55:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -332,7 +332,7 @@
       "is_live": true,
       "title": "【16日目】スプラトゥーン2 #yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-16T09:17:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
@@ -357,7 +357,7 @@
       "is_live": true,
       "title": "【#Yuzucity】久々の街 Day8 | GTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-16T12:16:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -429,12 +429,7 @@
       "display_name": "usjkh",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdeca576-ddee-421f-beea-07e47ddfd179-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/usjkh",
-      "is_live": true,
-      "title": "うるさい4人組で廃品回収 w/ 月海りんね3 lilithie3 ツーシマ",
-      "game_name": "MIMESIS",
-      "viewer_count": 1,
-      "started_at": "2026-05-16T12:04:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -457,7 +452,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた12【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 15,
+      "viewer_count": 13,
       "started_at": "2026-05-16T11:56:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -502,7 +497,7 @@
       "is_live": true,
       "title": "[GTA] day15  抗争日",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-16T11:57:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -517,7 +512,7 @@
       "is_live": true,
       "title": "《Yuzucity》│ずっと微熱🎀ིྀ day14｜#YuzuCtiy",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-16T09:20:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -577,7 +572,7 @@
       "is_live": true,
       "title": "#ゆず鯖 #YCGTA]  体調復活マンはスタバと酒 両手にメカニック",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-16T08:23:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
