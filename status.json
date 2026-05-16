@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T04:00:53+09:00",
+  "updated_at": "2026-05-17T04:05:50+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -99,12 +99,7 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": true,
-      "title": "【YCGTA】警察署長観測所 #15",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
-      "started_at": "2026-05-16T12:41:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -114,12 +109,7 @@
       "display_name": "frcl_orito",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68ada1b8-e896-4e74-ae7d-d862bb5e6116-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "[yuzucity]新店舗が開くらしい16日目[FiveM]",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
-      "started_at": "2026-05-16T16:18:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -249,12 +239,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#ゆず鯖 】今日も抗争があるらしい １３日目【#vtuber /雷音雅】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-16T08:55:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -409,12 +394,7 @@
       "display_name": "黒田りと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef9f74-3e0f-4327-b7df-e192b317cea9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuro__chan96",
-      "is_live": true,
-      "title": "[GTA] day15  抗争日",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-16T16:59:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -427,7 +407,7 @@
       "is_live": true,
       "title": "《Yuzucity》│ずっと微熱🎀ིྀ day14｜#YuzuCtiy",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-16T09:20:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -449,12 +429,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day１6 街で一番のギャング目指して抗争だ！！",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-16T08:12:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -524,12 +499,7 @@
       "display_name": "子羊めぇめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf33ed9a-caf0-42ac-9f8b-7cad32a7fecc-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/not_ahuro",
-      "is_live": true,
-      "title": "【#gta 】#7 yuzucity 最終日前日❣沢山楽しむ！ ～詩ノ雲めめ視点～【#新人Vtuber】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
-      "started_at": "2026-05-16T11:17:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -552,7 +522,7 @@
       "is_live": true,
       "title": "REPO",
       "game_name": "R.E.P.O.",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-16T15:32:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
