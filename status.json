@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T20:10:52+09:00",
+  "updated_at": "2026-05-16T20:10:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -734,6 +734,16 @@
       "display_name": "透玄凛音 ｰトウゲン リントｰ",
       "profile_image_url": "https://yt3.ggpht.com/pRcl13o_0tzjukphXEPI4l4W2rSAzpHPEtt62B-n9MHhUkHwENQRnA69nBKzbmjOZIe-FlWRNZI=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40ringt-tougenvt",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCmIUqEv4JaJQniS6OddFXog",
+      "channel_id": "UCmIUqEv4JaJQniS6OddFXog",
+      "handle": "@yonerun1",
+      "display_name": "よねるん",
+      "profile_image_url": "https://yt3.ggpht.com/-5sjK8AakqdkP49bQNDrBktclIYKvHTm3FRs_D0H4rKo-zGqzhdkFi0o1RQGB7K1AmUhWLn8s14=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40yonerun1",
       "is_live": false
     }
   ]
