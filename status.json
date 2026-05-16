@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T04:05:50+09:00",
+  "updated_at": "2026-05-17T04:10:48+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -404,12 +404,7 @@
       "display_name": "黒苺みるく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdf3aa29-5b5a-4c8a-a53b-313c78d354da-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/milk_black_",
-      "is_live": true,
-      "title": "《Yuzucity》│ずっと微熱🎀ིྀ day14｜#YuzuCtiy",
-      "game_name": "Just Chatting",
-      "viewer_count": 3,
-      "started_at": "2026-05-16T09:20:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -522,7 +517,7 @@
       "is_live": true,
       "title": "REPO",
       "game_name": "R.E.P.O.",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-16T15:32:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
