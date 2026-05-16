@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T03:40:50+09:00",
+  "updated_at": "2026-05-17T03:45:50+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -107,7 +107,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #15",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-16T12:41:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -187,7 +187,7 @@
       "is_live": true,
       "title": "【YCGTA】EMSサボり魔視点",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-16T12:03:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sh1ronami-{width}x{height}.jpg"
     },
@@ -437,7 +437,7 @@
       "is_live": true,
       "title": "《Yuzucity》│ずっと微熱🎀ིྀ day14｜#YuzuCtiy",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-16T09:20:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -527,7 +527,7 @@
       "is_live": true,
       "title": "【Yuzu City】大型犯罪たくさんしたいね！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-16T12:01:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
@@ -567,7 +567,7 @@
       "is_live": true,
       "title": "REPO",
       "game_name": "R.E.P.O.",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-16T15:32:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
