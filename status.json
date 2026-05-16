@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T23:25:55+09:00",
+  "updated_at": "2026-05-16T23:30:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -177,7 +177,7 @@
       "is_live": true,
       "title": "---潜水艦乗りとして/w @mmutari @altenoid @nekommn @tukikage_kurou @t_rekus @togaibard_vtuber",
       "game_name": "Barotrauma",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-16T12:21:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -217,7 +217,7 @@
       "is_live": true,
       "title": "【YCGTA】EMSサボり魔視点",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-16T12:03:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sh1ronami-{width}x{height}.jpg"
     },
@@ -257,7 +257,7 @@
       "is_live": true,
       "title": "ゆずシティーEMS16日",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-16T14:08:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -452,7 +452,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた12【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 11,
+      "viewer_count": 13,
       "started_at": "2026-05-16T11:56:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -627,7 +627,7 @@
       "is_live": true,
       "title": "【#gta 】#7 yuzucity 最終日前日❣沢山楽しむ！ ～詩ノ雲めめ視点～【#新人Vtuber】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-16T11:17:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
