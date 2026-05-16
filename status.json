@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T20:10:58+09:00",
+  "updated_at": "2026-05-16T20:15:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -137,7 +137,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day16 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-16T08:13:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -172,7 +172,7 @@
       "is_live": true,
       "title": "【#YCGTA 】 そろそろ車買いたい 11日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-16T08:37:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_k6o_minase-{width}x{height}.jpg"
     },
@@ -207,7 +207,7 @@
       "is_live": true,
       "title": "【ゆず鯖】残り半月… 13日目 Re:黒島へへ  GTA【初見歓迎】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 2,
       "started_at": "2026-05-16T11:07:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -239,7 +239,12 @@
       "display_name": "静住ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b170283c-117d-43b7-b9dc-adcdd161bbf5-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shizumi_yuu",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティ9日目   なんか遊びたいな",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-16T11:12:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -422,7 +427,7 @@
       "is_live": true,
       "title": "【 REPO 】 REPO、シンプルにREPO 【 伏屋ななし / Vtuber / コラボ】",
       "game_name": "R.E.P.O.",
-      "viewer_count": 5,
+      "viewer_count": 7,
       "started_at": "2026-05-16T10:59:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
@@ -507,7 +512,7 @@
       "is_live": true,
       "title": "#ゆず鯖 #YCGTA]  体調復活マンはスタバと酒 両手にメカニック",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-16T08:23:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
@@ -564,7 +569,12 @@
       "display_name": "ゆうてゃ_",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
-      "is_live": false
+      "is_live": true,
+      "title": "【#可愛い子を愛でる会】合法的に愛の告白できるゲーム",
+      "game_name": "Cursed Companions",
+      "viewer_count": 1,
+      "started_at": "2026-05-16T11:12:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
