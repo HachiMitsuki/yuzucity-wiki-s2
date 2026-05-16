@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T04:10:48+09:00",
+  "updated_at": "2026-05-17T04:40:48+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -514,12 +514,7 @@
       "display_name": "海月織",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": true,
-      "title": "REPO",
-      "game_name": "R.E.P.O.",
-      "viewer_count": 1,
-      "started_at": "2026-05-16T15:32:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
