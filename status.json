@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T20:15:55+09:00",
+  "updated_at": "2026-05-16T20:20:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -137,7 +137,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day16 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-16T08:13:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -172,7 +172,7 @@
       "is_live": true,
       "title": "【#YCGTA 】 そろそろ車買いたい 11日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-16T08:37:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_k6o_minase-{width}x{height}.jpg"
     },
@@ -427,7 +427,7 @@
       "is_live": true,
       "title": "【 REPO 】 REPO、シンプルにREPO 【 伏屋ななし / Vtuber / コラボ】",
       "game_name": "R.E.P.O.",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "started_at": "2026-05-16T10:59:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
@@ -559,7 +559,12 @@
       "display_name": "子羊めぇめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf33ed9a-caf0-42ac-9f8b-7cad32a7fecc-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/not_ahuro",
-      "is_live": false
+      "is_live": true,
+      "title": "【#gta 】#7 yuzucity 最終日前日❣沢山楽しむ！ ～詩ノ雲めめ視点～【#新人Vtuber】",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-16T11:17:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -572,7 +577,7 @@
       "is_live": true,
       "title": "【#可愛い子を愛でる会】合法的に愛の告白できるゲーム",
       "game_name": "Cursed Companions",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-16T11:12:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
