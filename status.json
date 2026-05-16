@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T00:45:52+09:00",
+  "updated_at": "2026-05-17T00:50:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -359,12 +359,7 @@
       "display_name": "浮雲わたあめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2804604-888f-422d-b447-109abc4443f6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ukigumo_watame",
-      "is_live": true,
-      "title": "[YUZU city]メカニック。わたあめ。七億貯める",
-      "game_name": "",
-      "viewer_count": 1,
-      "started_at": "2026-05-16T12:21:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ukigumo_watame-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -442,7 +437,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた12【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 16,
+      "viewer_count": 18,
       "started_at": "2026-05-16T11:56:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -497,7 +492,7 @@
       "is_live": true,
       "title": "《Yuzucity》│ずっと微熱🎀ིྀ day14｜#YuzuCtiy",
       "game_name": "Just Chatting",
-      "viewer_count": 6,
+      "viewer_count": 3,
       "started_at": "2026-05-16T09:20:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -557,7 +552,7 @@
       "is_live": true,
       "title": "#ゆず鯖 #YCGTA]  体調復活マンはスタバと酒 両手にメカニック",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-16T08:23:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
@@ -607,7 +602,7 @@
       "is_live": true,
       "title": "【#gta 】#7 yuzucity 最終日前日❣沢山楽しむ！ ～詩ノ雲めめ視点～【#新人Vtuber】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-16T11:17:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
@@ -632,7 +627,7 @@
       "is_live": true,
       "title": "REPO",
       "game_name": "R.E.P.O.",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-16T15:32:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
