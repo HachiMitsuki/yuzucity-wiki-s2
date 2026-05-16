@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T06:12:10+09:00",
+  "updated_at": "2026-05-16T20:01:26+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -847,6 +847,13 @@
       "display_name": "ハーメルン",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1997871114115264512/nAwQNh-S_400x400.jpg",
       "profile_url": "https://x.com/merunn_ha"
+    },
+    {
+      "platform": "x",
+      "handle": "yonerun1",
+      "display_name": "よねるん＠新人Vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2055365815109857280/3c2S_vsu_400x400.jpg",
+      "profile_url": "https://x.com/yonerun1"
     }
   ]
 }
