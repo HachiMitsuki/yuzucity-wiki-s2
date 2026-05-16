@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T20:55:54+09:00",
+  "updated_at": "2026-05-16T21:00:54+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -117,7 +117,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #15",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "started_at": "2026-05-16T11:30:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -414,7 +414,12 @@
       "display_name": "火影こたつ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": false
+      "is_live": true,
+      "title": "【VTuber】知らない街でラフに生きてみた12【FiveM/#yuzucity】",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-16T11:56:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -437,7 +442,7 @@
       "is_live": true,
       "title": "【 REPO 】 REPO、シンプルにREPO 【 伏屋ななし / Vtuber / コラボ】",
       "game_name": "R.E.P.O.",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-16T10:59:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
@@ -449,7 +454,12 @@
       "display_name": "黒田りと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef9f74-3e0f-4327-b7df-e192b317cea9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuro__chan96",
-      "is_live": false
+      "is_live": true,
+      "title": "[GTA] day15  抗争日",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-16T11:57:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -522,7 +532,7 @@
       "is_live": true,
       "title": "#ゆず鯖 #YCGTA]  体調復活マンはスタバと酒 両手にメカニック",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-16T08:23:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
@@ -572,7 +582,7 @@
       "is_live": true,
       "title": "【#gta 】#7 yuzucity 最終日前日❣沢山楽しむ！ ～詩ノ雲めめ視点～【#新人Vtuber】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-16T11:17:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
@@ -587,7 +597,7 @@
       "is_live": true,
       "title": "【#可愛い子を愛でる会】合法的に愛の告白できるゲーム",
       "game_name": "Cursed Companions",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-16T11:12:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
