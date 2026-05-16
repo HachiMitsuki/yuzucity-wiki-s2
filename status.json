@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T01:50:52+09:00",
+  "updated_at": "2026-05-17T01:55:51+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -237,7 +237,7 @@
       "is_live": true,
       "title": "ゆずシティーEMS16日",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-16T14:08:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -467,7 +467,7 @@
       "is_live": true,
       "title": "《Yuzucity》│ずっと微熱🎀ིྀ day14｜#YuzuCtiy",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-16T09:20:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
