@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T02:35:51+09:00",
+  "updated_at": "2026-05-17T02:40:51+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -32,7 +32,7 @@
       "is_live": true,
       "title": "【#YCGTA】守っちゃうよ治安も君も【水樹らこ丸視点】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-16T13:37:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -67,7 +67,7 @@
       "is_live": true,
       "title": "【YuzuCity】この町一番の大金持ちになる#9",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-16T11:03:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiita0813-{width}x{height}.jpg"
     },
@@ -447,7 +447,7 @@
       "is_live": true,
       "title": "《Yuzucity》│ずっと微熱🎀ིྀ day14｜#YuzuCtiy",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-16T09:20:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -557,7 +557,7 @@
       "is_live": true,
       "title": "【#gta 】#7 yuzucity 最終日前日❣沢山楽しむ！ ～詩ノ雲めめ視点～【#新人Vtuber】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "started_at": "2026-05-16T11:17:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
