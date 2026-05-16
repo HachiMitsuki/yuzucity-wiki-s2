@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-05-17T02:29:30+09:00",
+  "updated_at": "2026-05-17T04:01:03+09:00",
   "clips": [
+    {
+      "id": 41,
+      "source": "discord",
+      "source_id": "1505283958601154773",
+      "url": "https://media.discordapp.net/attachments/1493171311768371290/1505283958601154773/20260517_BlueAlertTireVoHiYo-BvVh4pak22Kn_Ebj_source.mp4?ex=6a0a106e&is=6a08beee&hm=756b2bbfcc72ff3acc722c8e532ce820ad5e63bc7ec9e245d3a1900a567f3adc&",
+      "embed_url": null,
+      "title": "20260517_BlueAlertTireVoHiYo-BvVh4pak22Kn_Ebj_source.mp4",
+      "description": null,
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "星音 そら",
+      "author_avatar": "https://cdn.discordapp.com/avatars/822397220224892948/94e5c82709d3cc3040eeb52a770be8e6.png?size=128",
+      "posted_at": "2026-05-17T04:01:02+09:00"
+    },
     {
       "id": 40,
       "source": "discord",
