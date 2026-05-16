@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T19:50:52+09:00",
+  "updated_at": "2026-05-16T19:55:51+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -497,7 +497,7 @@
       "is_live": true,
       "title": "#ゆず鯖 #YCGTA]  体調復活マンはスタバと酒 両手にメカニック",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-16T08:23:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
@@ -534,12 +534,7 @@
       "display_name": "楽希",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raki_vt",
-      "is_live": true,
-      "title": "【Yuzu City】大型犯罪たくさんしたいね！",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-16T08:11:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
