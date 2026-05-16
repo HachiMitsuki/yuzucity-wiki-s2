@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T09:30:47+09:00",
+  "updated_at": "2026-05-16T13:00:48+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -409,7 +409,12 @@
       "display_name": "藤堂リモ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba8b9316-ecc8-41a4-9d51-b0e0324c194a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/todo_rimo",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ff14  】記憶忘れのサブでFF14 ～ソロ紅蓮編！IDまで！♯16～【#vtuber #藤堂リモ】",
+      "game_name": "FINAL FANTASY XIV ONLINE",
+      "viewer_count": 0,
+      "started_at": "2026-05-16T03:59:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_todo_rimo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
