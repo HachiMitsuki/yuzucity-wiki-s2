@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T06:30:48+09:00",
+  "updated_at": "2026-05-17T06:35:48+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #VALORANT】新しいちゃねぽ追加！20000ためると、、、",
       "game_name": "VALORANT",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-16T21:04:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -337,7 +337,7 @@
       "is_live": true,
       "title": "【飲雑】猛烈に酒を飲みたい！！！【ツイキャス同時雑談】",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-16T18:50:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanasenon-{width}x{height}.jpg"
     },
