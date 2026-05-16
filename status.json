@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T15:30:49+09:00",
+  "updated_at": "2026-05-16T15:35:48+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -382,7 +382,7 @@
       "is_live": true,
       "title": "【 FF14 】 イシュガルドに来てみました 【 伏屋ななし / Vtuber 】",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-16T04:41:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
@@ -414,12 +414,7 @@
       "display_name": "藤堂リモ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba8b9316-ecc8-41a4-9d51-b0e0324c194a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/todo_rimo",
-      "is_live": true,
-      "title": "【#ff14  】記憶忘れのサブでFF14 ～ソロ紅蓮編！IDまで！♯16～【#vtuber #藤堂リモ】",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 1,
-      "started_at": "2026-05-16T03:59:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_todo_rimo-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -472,7 +467,7 @@
       "is_live": true,
       "title": "ブロンズ１からスタート   #VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-16T05:21:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
