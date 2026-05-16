@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T05:50:48+09:00",
+  "updated_at": "2026-05-17T06:00:48+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -332,7 +332,7 @@
       "is_live": true,
       "title": "【飲雑】猛烈に酒を飲みたい！！！【ツイキャス同時雑談】",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-16T18:50:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanasenon-{width}x{height}.jpg"
     },
