@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-05-16T22:45:43+09:00",
+  "updated_at": "2026-05-17T02:29:30+09:00",
   "clips": [
+    {
+      "id": 40,
+      "source": "discord",
+      "source_id": "1505260919045750794",
+      "url": "https://media.discordapp.net/attachments/1493171311768371290/1505260919045750794/airu.mp4?ex=6a09faf9&is=6a08a979&hm=7bd9f2df41d67415e4077622c445026016560d975d5bbce0f05d471180a89127&",
+      "embed_url": null,
+      "title": "airu.mp4",
+      "description": "警視総監バカにしてる",
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "ヴァルハラタンプルプ\\ユズリハ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1334699305046638654/aac666d208ca28f88bcd13aae8e6e639.png?size=128",
+      "posted_at": "2026-05-17T02:29:29+09:00"
+    },
     {
       "id": 39,
       "source": "discord",
