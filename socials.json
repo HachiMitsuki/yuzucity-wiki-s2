@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T20:01:26+09:00",
+  "updated_at": "2026-05-16T23:35:00+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -854,6 +854,13 @@
       "display_name": "よねるん＠新人Vtuber",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2055365815109857280/3c2S_vsu_400x400.jpg",
       "profile_url": "https://x.com/yonerun1"
+    },
+    {
+      "platform": "x",
+      "handle": "inukuma_ryou",
+      "display_name": "社畜犬(伊貫隈 怜)",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1569729162839228416/5cC2iFLs_400x400.jpg",
+      "profile_url": "https://x.com/inukuma_ryou"
     }
   ]
 }
