@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T01:45:52+09:00",
+  "updated_at": "2026-05-17T01:46:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -237,7 +237,7 @@
       "is_live": true,
       "title": "ゆずシティーEMS16日",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-16T14:08:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -282,7 +282,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】今日も抗争があるらしい １３日目【#vtuber /雷音雅】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-16T08:55:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -332,7 +332,7 @@
       "is_live": true,
       "title": "【#Yuzucity】久々の街 Day8 | GTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "started_at": "2026-05-16T12:16:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -774,6 +774,16 @@
       "display_name": "よねるん",
       "profile_image_url": "https://yt3.ggpht.com/-5sjK8AakqdkP49bQNDrBktclIYKvHTm3FRs_D0H4rKo-zGqzhdkFi0o1RQGB7K1AmUhWLn8s14=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40yonerun1",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCwf1bfMSGSayEuz-GtaBzOw",
+      "channel_id": "UCwf1bfMSGSayEuz-GtaBzOw",
+      "handle": "@orino_in_uhho",
+      "display_name": "折野中しょへ.🦍",
+      "profile_image_url": "https://yt3.ggpht.com/VOy89BjZ8N1yfG-S4054JZBoPnhqCGoE5jnXbpAW4ekrIwU9ZSAK8mYQ-qJ7xxVze6ph7Ca6Jw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40orino_in_uhho",
       "is_live": false
     }
   ]
