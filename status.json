@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T17:20:50+09:00",
+  "updated_at": "2026-05-16T17:25:50+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "[yuzucity]新店舗が開くらしい16日目[FiveM]",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-16T07:39:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
@@ -127,7 +127,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day16 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 7,
       "started_at": "2026-05-16T08:13:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -432,7 +432,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day１6 街で一番のギャング目指して抗争だ！！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-16T08:12:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -464,7 +464,12 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5980bf5-28a6-4886-b78e-86bca2f6fc76-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "#ゆず鯖 #YCGTA]  体調復活マンはスタバと酒 両手にメカニック",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-16T08:23:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -477,7 +482,7 @@
       "is_live": true,
       "title": "ブロンズ１からスタート   #VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-16T05:21:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -489,7 +494,12 @@
       "display_name": "アズマさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/054dd533-9763-4de8-b0ea-c47283b7fd23-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/azuma1111",
-      "is_live": false
+      "is_live": true,
+      "title": "EMSnoNICHIJOU #YCGTA #ゆず鯖",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-16T08:20:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
