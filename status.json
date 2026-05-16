@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T03:55:50+09:00",
+  "updated_at": "2026-05-17T04:00:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -59,12 +59,7 @@
       "display_name": "つだきいた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61aed0c5-556b-454c-9b4a-3b5c43d8208c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kiita0813",
-      "is_live": true,
-      "title": "【YuzuCity】この町一番の大金持ちになる#9",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-16T11:03:48Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiita0813-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -214,12 +209,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "ゆずシティーEMS16日",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
-      "started_at": "2026-05-16T14:08:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
