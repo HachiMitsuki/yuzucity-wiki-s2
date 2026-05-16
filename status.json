@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T16:05:49+09:00",
+  "updated_at": "2026-05-16T16:10:49+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -462,7 +462,7 @@
       "is_live": true,
       "title": "ブロンズ１からスタート   #VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-16T05:21:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
