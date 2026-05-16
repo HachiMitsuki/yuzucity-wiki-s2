@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T17:45:50+09:00",
+  "updated_at": "2026-05-16T17:50:50+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -59,7 +59,12 @@
       "display_name": "つだきいた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61aed0c5-556b-454c-9b4a-3b5c43d8208c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kiita0813",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】この町一番の大金持ちになる#9",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-16T08:49:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiita0813-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -127,7 +132,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day16 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-16T08:13:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -162,7 +167,7 @@
       "is_live": true,
       "title": "【#YCGTA 】 そろそろ車買いたい 11日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-16T08:37:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_k6o_minase-{width}x{height}.jpg"
     },
@@ -484,12 +489,7 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": true,
-      "title": "ブロンズ１からスタート   #VALORANT #VALORANTコンペ #VTuber",
-      "game_name": "VALORANT",
-      "viewer_count": 4,
-      "started_at": "2026-05-16T05:21:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
