@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T15:55:51+09:00",
+  "updated_at": "2026-05-17T16:00:50+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -92,7 +92,7 @@
       "is_live": true,
       "title": "久々のお三方とトリオAPEX",
       "game_name": "Apex Legends",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-17T04:13:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
