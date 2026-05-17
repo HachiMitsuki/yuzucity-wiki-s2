@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T18:05:51+09:00",
+  "updated_at": "2026-05-17T18:10:51+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -127,7 +127,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day17 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-05-17T08:47:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -324,7 +324,12 @@
       "display_name": "竜胆小豆",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaf01dbf-da30-41ce-8d0c-eabb3d8c0b31-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rindou_azuki",
-      "is_live": false
+      "is_live": true,
+      "title": "Yuzu city RP 草紙智和々 ＃11 出勤7日目",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-17T09:08:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rindou_azuki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
