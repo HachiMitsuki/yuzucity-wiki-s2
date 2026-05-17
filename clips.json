@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T11:46:07+09:00",
+  "updated_at": "2026-05-17T14:30:45+09:00",
   "clips": [
     {
       "id": 45,
@@ -30,6 +30,21 @@
       "author_name": "星音 そら",
       "author_avatar": "https://cdn.discordapp.com/avatars/822397220224892948/94e5c82709d3cc3040eeb52a770be8e6.png?size=128",
       "posted_at": "2026-05-17T04:01:02+09:00"
+    },
+    {
+      "id": 46,
+      "source": "discord",
+      "source_id": "1505260919045750794",
+      "url": "https://media.discordapp.net/attachments/1493171311768371290/1505260919045750794/airu.mp4?ex=6a0aa3b9&is=6a095239&hm=c6d47cd87375f9c5be1c7c47182acef571e9ef9c1863924afd6f1f8731dba963&",
+      "embed_url": null,
+      "title": "airu.mp4",
+      "description": "警視総監バカにしてる",
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "h048402",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1334699305046638654/aac666d208ca28f88bcd13aae8e6e639.png?size=128",
+      "posted_at": "2026-05-17T02:29:29+09:00"
     },
     {
       "id": 40,
