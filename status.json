@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T16:20:50+09:00",
+  "updated_at": "2026-05-17T16:30:50+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -92,7 +92,7 @@
       "is_live": true,
       "title": "久々のお三方とトリオAPEX",
       "game_name": "Apex Legends",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-17T04:13:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -114,7 +114,12 @@
       "display_name": "frcl_orito",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68ada1b8-e896-4e74-ae7d-d862bb5e6116-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "[yuzucity]新商品はじめました17日目[FiveM]",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-17T07:26:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
