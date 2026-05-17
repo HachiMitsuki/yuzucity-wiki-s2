@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T20:25:54+09:00",
+  "updated_at": "2026-05-17T20:30:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -132,7 +132,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day17 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-17T08:47:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -194,7 +194,12 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【ゆず鯖】今日も事件対応かな 14日目 Re:黒島へへ  GTA【初見歓迎】",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 2,
+      "started_at": "2026-05-17T11:26:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -262,7 +267,7 @@
       "is_live": true,
       "title": "【#星の翼】ブラホに駆け込みたいシャフラン配信【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-17T10:49:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -527,7 +532,7 @@
       "is_live": true,
       "title": "【#gta 】#8 yuzucity 最終日❣ 詩ノ雲三姉妹ENDを見届けてねっ ～詩ノ雲めめ視点～【#新人Vtuber】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 8,
+      "viewer_count": 4,
       "started_at": "2026-05-17T11:01:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
