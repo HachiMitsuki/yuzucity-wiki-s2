@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T11:05:49+09:00",
+  "updated_at": "2026-05-17T11:10:49+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #VALORANT】新しいちゃねぽ追加！20000ためると、、、",
       "game_name": "VALORANT",
-      "viewer_count": 27,
+      "viewer_count": 26,
       "started_at": "2026-05-16T21:04:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
