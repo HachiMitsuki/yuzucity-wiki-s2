@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T13:10:50+09:00",
+  "updated_at": "2026-05-17T13:15:50+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -89,7 +89,12 @@
       "display_name": "海咲ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1945630a-ec37-440a-b530-3524be376090-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/umisaki3",
-      "is_live": false
+      "is_live": true,
+      "title": "久々のお三方とトリオAPEX",
+      "game_name": "Apex Legends",
+      "viewer_count": 1,
+      "started_at": "2026-05-17T04:13:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -412,7 +417,7 @@
       "is_live": true,
       "title": "♯21【#ff14  】 サブキャラで行くFF14！IDからスタート！ 【#vtuber #藤堂リモ #めぇりもふぁんたじぃ 】",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-17T04:02:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_todo_rimo-{width}x{height}.jpg"
     },
@@ -497,7 +502,7 @@
       "is_live": true,
       "title": "【#ff14 】紅蓮編突入🔥IDからスタートするぞっ❣【#めぇリモふぁんたじぃ】",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-17T04:02:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
