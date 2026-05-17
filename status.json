@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T13:15:50+09:00",
+  "updated_at": "2026-05-17T13:20:50+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -417,7 +417,7 @@
       "is_live": true,
       "title": "♯21【#ff14  】 サブキャラで行くFF14！IDからスタート！ 【#vtuber #藤堂リモ #めぇりもふぁんたじぃ 】",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-17T04:02:17Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_todo_rimo-{width}x{height}.jpg"
     },
