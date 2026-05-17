@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T21:00:55+09:00",
+  "updated_at": "2026-05-17T21:05:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,7 +29,12 @@
       "display_name": "水野らこ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff5b77c0-e9f1-4712-be63-00c1914c84fb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rako3456",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YCGTA】角度だけは間違えないように【水樹らこ丸視点】",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-17T12:05:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -124,7 +129,12 @@
       "display_name": "frcl_orito",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68ada1b8-e896-4e74-ae7d-d862bb5e6116-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "[yuzucity]新商品はじめました17日目[FiveM]",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-17T12:03:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -137,7 +147,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day17 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-17T08:47:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -162,7 +172,7 @@
       "is_live": true,
       "title": "YCGTA#14 おきた",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-17T11:59:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -207,7 +217,7 @@
       "is_live": true,
       "title": "【ゆず鯖】今日も事件対応かな 14日目 Re:黒島へへ  GTA【初見歓迎】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-17T11:26:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -232,7 +242,7 @@
       "is_live": true,
       "title": "ゆずシティーEMS17日",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-17T08:20:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -282,7 +292,7 @@
       "is_live": true,
       "title": "【#星の翼】ブラホに駆け込みたいシャフラン配信【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-17T10:49:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -327,7 +337,7 @@
       "is_live": true,
       "title": "初心者講習フルパヴァロ | VALORANT",
       "game_name": "VALORANT",
-      "viewer_count": 0,
+      "viewer_count": 2,
       "started_at": "2026-05-17T12:00:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -342,7 +352,7 @@
       "is_live": true,
       "title": "[YUZU city]メカニック。わたあめ。七億貯める",
       "game_name": "",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-17T11:08:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ukigumo_watame-{width}x{height}.jpg"
     },
@@ -394,7 +404,12 @@
       "display_name": "usjkh",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdeca576-ddee-421f-beea-07e47ddfd179-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/usjkh",
-      "is_live": false
+      "is_live": true,
+      "title": "メカブレ初心者実況カスタム！w/ 神童帝3 いとー3 紫閃イツキ3 はかまる3 冰鉄雪3",
+      "game_name": "Mecha BREAK",
+      "viewer_count": 1,
+      "started_at": "2026-05-17T12:02:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -552,7 +567,7 @@
       "is_live": true,
       "title": "【#gta 】#8 yuzucity 最終日❣ 詩ノ雲三姉妹ENDを見届けてねっ ～詩ノ雲めめ視点～【#新人Vtuber】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-17T11:01:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
