@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T16:55:51+09:00",
+  "updated_at": "2026-05-17T17:00:51+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -467,7 +467,7 @@
       "is_live": true,
       "title": "アイアンに落ちた #VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-17T07:09:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
