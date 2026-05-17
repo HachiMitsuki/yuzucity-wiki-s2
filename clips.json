@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T14:30:45+09:00",
+  "updated_at": "2026-05-17T16:05:43+09:00",
   "clips": [
     {
       "id": 45,
@@ -15,6 +15,21 @@
       "author_name": "柚木なつな",
       "author_avatar": "https://cdn.discordapp.com/avatars/545148146053808130/f2c0ac4a37705bc96bb863278df47232.png?size=128",
       "posted_at": "2026-05-17T11:46:06+09:00"
+    },
+    {
+      "id": 47,
+      "source": "discord",
+      "source_id": "1505283958601154773",
+      "url": "https://media.discordapp.net/attachments/1493171311768371290/1505283958601154773/20260517_BlueAlertTireVoHiYo-BvVh4pak22Kn_Ebj_source.mp4?ex=6a0ab92e&is=6a0967ae&hm=09e76fd9a645140b2d070385190aecb05f6ea6159e876aafffff861c0cced3ab&",
+      "embed_url": null,
+      "title": "20260517_BlueAlertTireVoHiYo-BvVh4pak22Kn_Ebj_source.mp4",
+      "description": null,
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "星音 そら",
+      "author_avatar": "https://cdn.discordapp.com/avatars/822397220224892948/3546cdb4d3cf3db4869f3e345519895f.png?size=128",
+      "posted_at": "2026-05-17T04:01:02+09:00"
     },
     {
       "id": 41,
