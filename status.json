@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T16:30:50+09:00",
+  "updated_at": "2026-05-17T16:40:51+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -117,7 +117,7 @@
       "is_live": true,
       "title": "[yuzucity]新商品はじめました17日目[FiveM]",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-17T07:26:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
@@ -472,7 +472,7 @@
       "is_live": true,
       "title": "アイアンに落ちた #VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-17T07:09:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
