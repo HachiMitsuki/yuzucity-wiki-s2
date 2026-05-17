@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T20:05:53+09:00",
+  "updated_at": "2026-05-17T20:10:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -97,7 +97,7 @@
       "is_live": true,
       "title": "[#YCGTA] 16日目 海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-17T11:00:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -132,7 +132,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day17 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-17T08:47:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -217,7 +217,7 @@
       "is_live": true,
       "title": "ゆずシティーEMS17日",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-17T08:20:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -314,7 +314,12 @@
       "display_name": "浮雲わたあめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2804604-888f-422d-b447-109abc4443f6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ukigumo_watame",
-      "is_live": false
+      "is_live": true,
+      "title": "[YUZU city]メカニック。わたあめ。七億貯める",
+      "game_name": "",
+      "viewer_count": 0,
+      "started_at": "2026-05-17T11:08:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ukigumo_watame-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -507,7 +512,7 @@
       "is_live": true,
       "title": "【Yuzu City】新しい犯罪に手を染めたい気持ち！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-17T08:46:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
@@ -522,7 +527,7 @@
       "is_live": true,
       "title": "【#gta 】#8 yuzucity 最終日❣ 詩ノ雲三姉妹ENDを見届けてねっ ～詩ノ雲めめ視点～【#新人Vtuber】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-17T11:01:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
