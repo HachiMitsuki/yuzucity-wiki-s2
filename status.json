@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T16:45:50+09:00",
+  "updated_at": "2026-05-17T16:50:51+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -89,12 +89,7 @@
       "display_name": "海咲ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1945630a-ec37-440a-b530-3524be376090-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/umisaki3",
-      "is_live": true,
-      "title": "久々のお三方とトリオAPEX",
-      "game_name": "Apex Legends",
-      "viewer_count": 3,
-      "started_at": "2026-05-17T04:13:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -472,7 +467,7 @@
       "is_live": true,
       "title": "アイアンに落ちた #VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-17T07:09:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
