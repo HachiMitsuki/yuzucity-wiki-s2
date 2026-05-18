@@ -63,7 +63,9 @@ function renderSidebar(currentSlug){
 function renderTopbar(){
   return `
     <a href="index.html" class="topbar-brand">Yuzu City Wiki</a>
-    <input type="text" class="topbar-search" id="topSearch" placeholder="このページを検索 ／ Search">
+    <form class="topbar-search-form" id="topSearchForm" autocomplete="off" action="search.html" method="get">
+      <input type="text" name="q" class="topbar-search" id="topSearch" placeholder="Wiki全体を検索 ／ Enterで全体検索">
+    </form>
     <div class="topbar-actions">
       <a href="https://x.com/yuzu_server" target="_blank" aria-label="X">𝕏</a>
       <a href="https://discord.gg/gHCeUWFyyc" target="_blank">DISCORD</a>
@@ -104,8 +106,11 @@ document.addEventListener('DOMContentLoaded', () => {
   const pageNav = document.getElementById('pageNav');
   if(pageNav) pageNav.innerHTML = renderPageNav(slug);
 
-  // Setup search
+  // Setup search:
+  //   - While typing: live-filter elements on the current page (instant feedback)
+  //   - On submit (Enter): navigate to search.html?q=... for Wiki-wide search
   const search = document.getElementById('topSearch');
+  const searchForm = document.getElementById('topSearchForm');
   if(search){
     search.addEventListener('input', e => {
       const q = e.target.value.trim().toLowerCase();
@@ -118,6 +123,18 @@ document.addEventListener('DOMContentLoaded', () => {
         const text = i.textContent.toLowerCase();
         i.classList.toggle('hidden-by-search', !text.includes(q));
       });
+    });
+  }
+  if(searchForm){
+    searchForm.addEventListener('submit', e => {
+      const q = (search && search.value || '').trim();
+      if(!q){
+        e.preventDefault();
+        return;
+      }
+      // Let the native form submission to search.html?q=... happen.
+      // (Clear DOM-filter state so it doesn't persist visually on this page.)
+      document.querySelectorAll('.hidden-by-search').forEach(el => el.classList.remove('hidden-by-search'));
     });
   }
 

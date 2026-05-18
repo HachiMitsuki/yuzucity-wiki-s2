@@ -182,10 +182,14 @@ body::after{
   align-self:center;
 }
 
-.topbar-search{
+.topbar-search-form{
   justify-self: center;
   width: 100%;
   max-width: 360px;
+  margin: 0;
+}
+.topbar-search{
+  width: 100%;
   padding: .5rem .9rem .5rem 2.1rem;
   background: var(--ink-2);
   border: 1px solid var(--line);
@@ -1116,7 +1120,7 @@ main > section{
   main{ padding: 1.6rem 1.1rem 3rem }
   .menu-toggle{ display: flex !important }
   .rule-item{ grid-template-columns: 1fr }
-  .topbar-search{ display: none }
+  .topbar-search-form, .topbar-search{ display: none }
   .topbar{ grid-template-columns: auto 1fr auto; padding: .8rem 1rem }
   .topbar-brand::after{ display:none }
 }
