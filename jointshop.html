@@ -163,6 +163,14 @@
       return;
     }
 
+    // When searching OR sorting by name → flat alphabetical list (no price grouping).
+    // When sorting by price → price-grouped layout.
+    if(q || sort === "name"){
+      list.sort((a,b) => a.name.localeCompare(b.name));
+      grid.innerHTML = `<div class="menu-grid">${list.map(renderItemCard).join('')}</div>`;
+      return;
+    }
+
     // Group by price, items within group sorted alphabetically.
     const byPrice = new Map();
     for(const it of list){
