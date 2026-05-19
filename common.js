@@ -29,6 +29,7 @@ const NAV = [
     {slug:"bistroanzawa", label:"Bistro Anzawa", icon:"🍽️"},
     {slug:"blessandbullet", label:"Bless & Bullet", icon:"✝️"},
     {slug:"nekocafenau", label:"猫カフェNAU", icon:"🐱"},
+    {slug:"burgershot", label:"BurgerShot", icon:"🍔"},
   ]},
   {title:"最新情報", links:[
     {slug:"news", label:"お知らせ", icon:"📢"},
