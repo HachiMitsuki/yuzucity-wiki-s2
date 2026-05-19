@@ -6,6 +6,13 @@
 <title>Icarus | Yuzu City Wiki</title>
 <link rel="stylesheet" href="styles.css">
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
+<style>
+.menu-desc{
+  font-size:.8rem; color:var(--text-dim);
+  margin:.2rem 0 .3rem; line-height:1.4;
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+</style>
 </head>
 <body data-page="icarus">
 <header class="topbar" id="topbar"></header>
@@ -90,6 +97,16 @@
     { id: 15, name: "Haruty Candle",         image: "harutycandle.png",       category: "joint", price: 50000 },
     { id: 16, name: "Tendousetsu no Sho",    image: "tendousetunosyo.png",    category: "joint", price: 50000 },
 
+    // 追加分 (¥30,000)
+    { id: 20, name: "TakerMont-Blanc",   image: "takerMont-Blanc.png",   category: "food",  price: 30000, desc: "中村健の大好物。雲のように軽い口当たり、香ばしい和栗の香り是非ご賞味あれ。" },
+    { id: 21, name: "MiharuCheesecake",  image: "miharucheesecake.png",  category: "food",  price: 30000, desc: "ミハル印のレアチーズケーキ。さっぱりとした酸味とチーズの風味がたまらない一品。" },
+    { id: 22, name: "BobOmeletrice",     image: "BobOmeletrice.png",     category: "food",  price: 30000, desc: "店長の得意料理オムライス。特製デミソースでふか〜いコクと上品な味わい。" },
+    { id: 23, name: "MugichiPasta",      image: "mugichipasta.png",      category: "food",  price: 30000, desc: "むーぎかわのソウルフード。ニンニク入れますか？" },
+    { id: 24, name: "Ashice",            image: "Ashice.png",            category: "food",  price: 30000, desc: "あっしゅちゃんが愛してやまない。とけるアイスに黒トリュフを添えました。" },
+    { id: 25, name: "HachimitsukiMilk",  image: "Hachimitsukimilk.png",  category: "drink", price: 30000, desc: "充希が毎日のように愛飲する蜂蜜ミルク。寝る前にほっと一息いかがですか？" },
+    { id: 26, name: "Mizu",              image: "miizu.png",             category: "drink", price: 30000, desc: "北南国が持ってきた。本人曰く路地裏の星肩入り水道水玩具氷割りらしい。" },
+    { id: 27, name: "TenkuRyokucha",     image: "Tenkuryokucha.png",     category: "drink", price: 30000, desc: "空を見ながら緑茶で一息。たまにはお休みしませんか？" },
+
     // セット (2品で¥60,000)
     { id: 11, name: "Cloud Milktea + Sky Teafoods",
       images: ["CloudMilktea.png", "SkyTeafoods.png"],
@@ -149,6 +166,7 @@
       </div>
       <div class="card-body">
         <div class="menu-name">${escapeHtml(it.name)}</div>
+        ${it.desc ? `<div class="menu-desc">${escapeHtml(it.desc)}</div>` : ''}
         <div class="card-meta">
           <span class="cat-tag" style="background:${cat.color}22;color:${cat.color}">${cat.icon} ${escapeHtml(cat.label)}</span>
           <span class="card-price">${formatPrice(it.price)}</span>
