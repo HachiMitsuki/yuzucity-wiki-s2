@@ -6,6 +6,13 @@
 <title>Jointshop | Yuzu City Wiki</title>
 <link rel="stylesheet" href="styles.css">
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
+<style>
+.menu-desc{
+  font-size:.8rem; color:var(--text-dim);
+  margin:.2rem 0 .3rem; line-height:1.4;
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+</style>
 </head>
 <body data-page="jointshop">
 <header class="topbar" id="topbar"></header>
@@ -90,6 +97,10 @@
     { id: 12, name: "LEGACY",           image: "LEGACY.png",           category: "joint", price: 90000 },
     { id: 13, name: "UNWIND",           image: "UNWIND.png",           category: "joint", price: 90000 },
     { id: 16, name: "CANDYGUN",         image: "CANDYGUN.png",         category: "joint", price: 90000 },
+
+    // 追加分
+    { id: 17, name: "Snow_Blossoms", image: "Snow_Blossoms.png", category: "joint", price: 30000, desc: "遠い国にある一般的な煙草だ。それ以上でも以下でもない。" },
+    { id: 18, name: "MELUS",         image: "MELUS.png",         category: "joint", price: 50000, desc: "メルン愛用のタバコ" },
   ];
 
   let currentCat = "all";
@@ -137,6 +148,7 @@
       </div>
       <div class="card-body">
         <div class="menu-name">${escapeHtml(it.name)}</div>
+        ${it.desc ? `<div class="menu-desc">${escapeHtml(it.desc)}</div>` : ''}
         <div class="card-meta">
           <span class="cat-tag" style="background:${cat.color}22;color:${cat.color}">${cat.icon} ${escapeHtml(cat.label)}</span>
           <span class="card-price">${formatPrice(it.price)}</span>
