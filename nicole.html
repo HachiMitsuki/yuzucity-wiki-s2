@@ -6,6 +6,13 @@
 <title>Nicole | Yuzu City Wiki</title>
 <link rel="stylesheet" href="styles.css">
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
+<style>
+.menu-desc{
+  font-size:.8rem; color:var(--text-dim);
+  margin:.2rem 0 .3rem; line-height:1.4;
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+</style>
 </head>
 <body data-page="nicole">
 <header class="topbar" id="topbar"></header>
@@ -95,6 +102,14 @@
     // ¥90,000 ジョイント (2品)
     { id: 15, name: "Orito no Ippuku",     image: "oritonoippuku.png",      category: "joint", price: 90000 },
     { id: 16, name: "Tequila Kanransha",   image: "tequila_kanransya.png",  category: "joint", price: 90000 },
+
+    // 追加分
+    { id: 18, name: "fishandchips",          image: "fishandchips.png",          category: "food",  price: 30000, desc: "なにかのサカナを揚げたもの、エールとも相性抜群、下の新聞には何やら、、怪しげな" },
+    { id: 19, name: "triathlon_drink",       image: "triathlon_drink.png",       category: "drink", price: 30000, desc: "トライアスロンという過酷なスポーツに最適化されたドリンク。あきらめるな、戦え。" },
+    { id: 20, name: "goodale",               image: "goodale.png",               category: "drink", price: 30000, desc: "街のどこかにある酒造所で作られた特別なビール。のど越しさわやかな一杯。" },
+    { id: 21, name: "harbtea_nicole",        image: "harbtea_nicole.png",        category: "drink", price: 30000, desc: "おすすめの茶葉を厳選してきました。優雅で穏やかな時間を演出します。" },
+    { id: 22, name: "yabu_tsubaki",          image: "yabu_tsubaki.png",          category: "joint", price: 50000, desc: "銘酒藪椿と合わせたおつまみ、葉巻。至上のリラックスした時間を過ごせる一品。" },
+    { id: 23, name: "nicole_smokeywhyskey",  image: "nicole_smokeywhyskey.png",  category: "joint", price: 70000, desc: "カットグラスに注がれたヴィンテージウイスキー。オレンジが香る贅沢な一杯。" },
   ];
 
   let currentCat = "all";
@@ -142,6 +157,7 @@
       </div>
       <div class="card-body">
         <div class="menu-name">${escapeHtml(it.name)}</div>
+        ${it.desc ? `<div class="menu-desc">${escapeHtml(it.desc)}</div>` : ''}
         <div class="card-meta">
           <span class="cat-tag" style="background:${cat.color}22;color:${cat.color}">${cat.icon} ${escapeHtml(cat.label)}</span>
           <span class="card-price">${formatPrice(it.price)}</span>
