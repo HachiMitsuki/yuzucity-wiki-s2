@@ -26,6 +26,8 @@ const NAV = [
     {slug:"icarus", label:"Icarus", icon:"🍰"},
     {slug:"jointshop", label:"Jointshop", icon:"🍃"},
     {slug:"nicole", label:"Nicole", icon:"🌹"},
+    {slug:"bistroanzawa", label:"Bistro Anzawa", icon:"🍽️"},
+    {slug:"blessandbullet", label:"Bless & Bullet", icon:"✝️"},
   ]},
   {title:"最新情報", links:[
     {slug:"news", label:"お知らせ", icon:"📢"},
