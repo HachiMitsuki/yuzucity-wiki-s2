@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T00:32:19+09:00",
+  "updated_at": "2026-05-23T08:17:41+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -924,6 +924,13 @@
       "display_name": "ひぐｚZ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1533095899261304834/dV5nzaSG_400x400.jpg",
       "profile_url": "https://x.com/higu_zz_ttv"
+    },
+    {
+      "platform": "x",
+      "handle": "sxyhxy_",
+      "display_name": "あんちゃん",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1153415194464247809/oYSkz4BI_400x400.jpg",
+      "profile_url": "https://x.com/sxyhxy_"
     }
   ]
 }
