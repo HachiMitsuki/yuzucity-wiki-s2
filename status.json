@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T03:26:01+09:00",
+  "updated_at": "2026-05-23T03:31:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -452,7 +452,7 @@
       "is_live": true,
       "title": "寝れないからlol ブロンズは行きたいよ",
       "game_name": "League of Legends",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-22T16:30:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
@@ -517,7 +517,7 @@
       "is_live": true,
       "title": "GTA!",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-05-22T15:23:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
