@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T23:26:06+09:00",
+  "updated_at": "2026-05-22T23:31:07+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -62,7 +62,7 @@
       "is_live": true,
       "title": "[YuzuCity]あと10日だってさ #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-22T13:21:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "[#YCGTA] 21日目 ポン海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-22T11:01:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -157,7 +157,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day22 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-22T08:23:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -227,7 +227,7 @@
       "is_live": true,
       "title": "【ゆず鯖】体育祭イベント日勝ちに来た 19日目パート2 Re:黒島へへ  GTA【初見歓迎】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-22T12:42:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -347,7 +347,7 @@
       "is_live": true,
       "title": "わんオペで効率を極めたい | Overcooked! 2",
       "game_name": "Overcooked! 2",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "started_at": "2026-05-22T12:05:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -522,7 +522,7 @@
       "is_live": true,
       "title": "Yuzu City 園 透莉 視点 ＃３",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-22T11:13:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinonomemeu-{width}x{height}.jpg"
     },
@@ -557,7 +557,7 @@
       "is_live": true,
       "title": "今日も頑張る！！ VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-22T10:39:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -569,12 +569,7 @@
       "display_name": "アズマさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/054dd533-9763-4de8-b0ea-c47283b7fd23-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/azuma1111",
-      "is_live": true,
-      "title": "はじめてのはんざい #YCGTA #ゆず鯖",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-22T11:30:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -652,7 +647,7 @@
       "is_live": true,
       "title": "【YuzuCity】22時から体育祭りイベント！相棒と共に優勝を狙うぞ #YuzuCity #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-22T11:48:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ugetsushiramine-{width}x{height}.jpg"
     },
@@ -667,7 +662,7 @@
       "is_live": true,
       "title": "副署長出勤します 本日体育フェスイベント！！！  day14？？ #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-22T12:30:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
@@ -712,7 +707,7 @@
       "is_live": true,
       "title": "【YCGTA】仲間の門出【ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-22T11:45:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
