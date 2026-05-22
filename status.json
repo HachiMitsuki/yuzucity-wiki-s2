@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T04:06:00+09:00",
+  "updated_at": "2026-05-23T04:11:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -452,7 +452,7 @@
       "is_live": true,
       "title": "寝れないからlol ブロンズは行きたいよ",
       "game_name": "League of Legends",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "started_at": "2026-05-22T16:30:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
@@ -514,12 +514,7 @@
       "display_name": "海月織",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": true,
-      "title": "GTA!",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
-      "started_at": "2026-05-22T15:23:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
