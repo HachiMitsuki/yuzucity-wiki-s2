@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T00:31:04+09:00",
+  "updated_at": "2026-05-23T00:36:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -149,12 +149,7 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": true,
-      "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day22 #ゆず鯖 #YCGTA #FiveM",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-22T08:23:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -297,7 +292,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】チルタイム 17日目【#vtuber /雷音雅】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-22T11:01:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -347,7 +342,7 @@
       "is_live": true,
       "title": "わんオペで効率を極めたい | Overcooked! 2",
       "game_name": "Overcooked! 2",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-22T12:05:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -644,12 +639,7 @@
       "display_name": "白峰ウゲツ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1a3151a-e3a6-4cad-9a30-eeddf2457e81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ugetsushiramine",
-      "is_live": true,
-      "title": "【YuzuCity】22時から体育祭りイベント！相棒と共に優勝を狙うぞ #YuzuCity #ゆず鯖 #YCGTA",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-22T11:48:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ugetsushiramine-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -662,7 +652,7 @@
       "is_live": true,
       "title": "副署長出勤します 本日体育フェスイベント！！！  day14？？ #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-22T12:30:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
@@ -707,7 +697,7 @@
       "is_live": true,
       "title": "【YCGTA】仲間の門出【ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-22T11:45:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
