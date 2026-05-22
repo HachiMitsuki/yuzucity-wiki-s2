@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T23:31:07+09:00",
+  "updated_at": "2026-05-22T23:36:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -34,7 +34,12 @@
       "display_name": "水野らこ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff5b77c0-e9f1-4712-be63-00c1914c84fb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rako3456",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YCGTA】先祖さんこんにちは【水樹らこ丸視点】",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-22T14:33:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -47,7 +52,7 @@
       "is_live": true,
       "title": "事件対応やらイベントやら！～13日目～【龍咲】【#YCGTA #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-22T12:22:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -97,7 +102,7 @@
       "is_live": true,
       "title": "【YCGTA】鍵探しDay.1＆運動会",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-22T12:02:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sourei_2525-{width}x{height}.jpg"
     },
@@ -112,7 +117,7 @@
       "is_live": true,
       "title": "[#YCGTA] 21日目 ポン海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-22T11:01:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -347,7 +352,7 @@
       "is_live": true,
       "title": "わんオペで効率を極めたい | Overcooked! 2",
       "game_name": "Overcooked! 2",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-22T12:05:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -519,12 +524,7 @@
       "display_name": "東雲めう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/74dff1e7-1c2e-4d2d-a29d-77870331b937-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shinonomemeu",
-      "is_live": true,
-      "title": "Yuzu City 園 透莉 視点 ＃３",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
-      "started_at": "2026-05-22T11:13:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinonomemeu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -557,7 +557,7 @@
       "is_live": true,
       "title": "今日も頑張る！！ VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-22T10:39:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -647,7 +647,7 @@
       "is_live": true,
       "title": "【YuzuCity】22時から体育祭りイベント！相棒と共に優勝を狙うぞ #YuzuCity #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-22T11:48:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ugetsushiramine-{width}x{height}.jpg"
     },
@@ -707,7 +707,7 @@
       "is_live": true,
       "title": "【YCGTA】仲間の門出【ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-22T11:45:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
