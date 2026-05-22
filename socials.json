@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T23:35:00+09:00",
+  "updated_at": "2026-05-20T17:24:08+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -861,6 +861,62 @@
       "display_name": "社畜犬(伊貫隈 怜)",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1569729162839228416/5cC2iFLs_400x400.jpg",
       "profile_url": "https://x.com/inukuma_ryou"
+    },
+    {
+      "platform": "x",
+      "handle": "ruuuuudesu",
+      "display_name": "るー",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1777267329879224320/NvG67H9S_400x400.jpg",
+      "profile_url": "https://x.com/ruuuuudesu"
+    },
+    {
+      "platform": "x",
+      "handle": "lterkun",
+      "display_name": "えるたー🤢",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2030466546259423232/3Q8c-FeA_400x400.jpg",
+      "profile_url": "https://x.com/lterkun"
+    },
+    {
+      "platform": "x",
+      "handle": "aozoraiku09",
+      "display_name": "青空いく🍸️🩵【MZUL】",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1939240909331382273/VX_Tp5XZ_400x400.jpg",
+      "profile_url": "https://x.com/aozoraiku09"
+    },
+    {
+      "platform": "x",
+      "handle": "haizuki_rou",
+      "display_name": "灰月ロウ🌙🐺/声良VTuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2009244622846038016/EU0xYKTD_400x400.jpg",
+      "profile_url": "https://x.com/haizuki_rou"
+    },
+    {
+      "platform": "x",
+      "handle": "dokozo_human",
+      "display_name": "✋しろなみ(た)",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1879264439058513920/IAuZo2GU_400x400.jpg",
+      "profile_url": "https://x.com/dokozo_human"
+    },
+    {
+      "platform": "x",
+      "handle": "tsukkyi_vl",
+      "display_name": "つっきぃ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2013617357436952579/8DDkXU-C_400x400.jpg",
+      "profile_url": "https://x.com/tsukkyi_vl"
+    },
+    {
+      "platform": "x",
+      "handle": "has_man_ch",
+      "display_name": "はすまん【HaS】vtuber🇯🇵🇨🇳",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2053764552261812224/LU9OrvjK_400x400.jpg",
+      "profile_url": "https://x.com/has_man_ch"
+    },
+    {
+      "platform": "x",
+      "handle": "mikura_kanata",
+      "display_name": "御蔵かなた ＠Twitch配信中",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2046821651241947136/D5nAs6ZH_400x400.jpg",
+      "profile_url": "https://x.com/mikura_kanata"
     }
   ]
 }
