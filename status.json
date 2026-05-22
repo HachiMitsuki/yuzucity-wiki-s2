@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T23:56:05+09:00",
+  "updated_at": "2026-05-23T00:01:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -22,7 +22,7 @@
       "is_live": true,
       "title": "【YuzuCity】#12緑ギャング活動日記〖初見さんコメント大歓迎〗",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-22T08:15:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "[#YCGTA] 21日目 ポン海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-22T11:01:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -322,7 +322,7 @@
       "is_live": true,
       "title": "【22日目】今週もお疲れさまでした#yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-22T11:16:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
@@ -347,7 +347,7 @@
       "is_live": true,
       "title": "わんオペで効率を極めたい | Overcooked! 2",
       "game_name": "Overcooked! 2",
-      "viewer_count": 8,
+      "viewer_count": 6,
       "started_at": "2026-05-22T12:05:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -577,7 +577,7 @@
       "is_live": true,
       "title": "【Yuzu City】今日もがんばるぞい！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-22T10:03:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
@@ -672,7 +672,7 @@
       "is_live": true,
       "title": "YuzuCity rdy",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 1,
       "started_at": "2026-05-22T13:55:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_c0gnac-{width}x{height}.jpg"
     },
@@ -687,7 +687,7 @@
       "is_live": true,
       "title": "ゆずシティ行く！！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-22T08:42:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakuachan__-{width}x{height}.jpg"
     },
