@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T01:51:03+09:00",
+  "updated_at": "2026-05-23T01:56:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -237,7 +237,7 @@
       "is_live": true,
       "title": "新しい道に行くのかあ？",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-22T12:06:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -282,7 +282,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】チルタイム 17日目【#vtuber /雷音雅】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-22T11:01:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -442,7 +442,7 @@
       "is_live": true,
       "title": "[GTA] day19   もう半分ない！！ 金稼ぐぞ",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-22T15:04:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -457,7 +457,7 @@
       "is_live": true,
       "title": "《アズグラPD》│ウィザー討伐🎀ིྀ ｜終わるまで寝れない！！",
       "game_name": "Minecraft",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-22T11:27:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -517,7 +517,7 @@
       "is_live": true,
       "title": "寝れないからlol ブロンズは行きたいよ",
       "game_name": "League of Legends",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-22T16:30:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
@@ -637,7 +637,7 @@
       "is_live": true,
       "title": "副署長出勤します 本日体育フェスイベント！！！  day14？？ #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-22T12:30:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
