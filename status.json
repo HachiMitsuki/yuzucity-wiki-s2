@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T21:21:06+09:00",
+  "updated_at": "2026-05-22T21:26:06+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -44,7 +44,12 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "事件対応やらイベントやら！～13日目～【龍咲】【#YCGTA #ゆず鯖】",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-22T12:22:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -117,7 +122,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #21",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-22T11:03:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -132,7 +137,7 @@
       "is_live": true,
       "title": "[yuzucity]遅番店長21日目[FiveM]",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-22T11:12:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
@@ -147,7 +152,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day22 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-22T08:23:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -332,7 +337,7 @@
       "is_live": true,
       "title": "わんオペで効率を極めたい | Overcooked! 2",
       "game_name": "Overcooked! 2",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-05-22T12:05:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -462,7 +467,7 @@
       "is_live": true,
       "title": "《アズグラPD》│ウィザー討伐🎀ིྀ ｜終わるまで寝れない！！",
       "game_name": "Minecraft",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-22T11:27:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -487,7 +492,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day２２ 運動もたまには大事",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-22T11:02:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -682,7 +687,7 @@
       "is_live": true,
       "title": "【YCGTA】仲間の門出【ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-22T11:45:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
