@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T17:24:08+09:00",
+  "updated_at": "2026-05-23T00:32:19+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -917,6 +917,13 @@
       "display_name": "御蔵かなた ＠Twitch配信中",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2046821651241947136/D5nAs6ZH_400x400.jpg",
       "profile_url": "https://x.com/mikura_kanata"
+    },
+    {
+      "platform": "x",
+      "handle": "higu_zz_ttv",
+      "display_name": "ひぐｚZ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1533095899261304834/dV5nzaSG_400x400.jpg",
+      "profile_url": "https://x.com/higu_zz_ttv"
     }
   ]
 }
