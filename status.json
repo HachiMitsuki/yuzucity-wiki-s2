@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T23:06:05+09:00",
+  "updated_at": "2026-05-23T23:11:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "is_live": true,
       "title": "【#YCGTA】ばななのなぞはまだなぞなのだぞ【水樹らこ丸視点】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-23T12:28:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #22",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-23T10:23:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -302,7 +302,7 @@
       "is_live": true,
       "title": "【GTA5】ラフシティ 抗争 猫梅つばさ",
       "game_name": "",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-23T12:25:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tubasa_twitch-{width}x{height}.jpg"
     },
@@ -429,12 +429,7 @@
       "display_name": "火影こたつ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": true,
-      "title": "【VTuber】体調わるめにあんぽめらにあんなので抗争だけ【FiveM/#ラフシティ】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 43,
-      "started_at": "2026-05-23T12:28:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -697,7 +692,7 @@
       "is_live": true,
       "title": "【ラフシティ】苦戦の予感",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-05-23T12:37:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
