@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T17:16:01+09:00",
+  "updated_at": "2026-05-23T17:21:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -82,7 +82,7 @@
       "is_live": true,
       "title": "【YCGTA】鍵探しDay.2",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-23T08:10:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sourei_2525-{width}x{height}.jpg"
     },
@@ -207,7 +207,7 @@
       "is_live": true,
       "title": "ゆずシティー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-05-23T08:04:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
