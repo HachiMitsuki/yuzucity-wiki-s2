@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T18:36:02+09:00",
+  "updated_at": "2026-05-23T18:41:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -127,7 +127,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day23 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-05-23T08:37:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -212,7 +212,7 @@
       "is_live": true,
       "title": "ゆずシティー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 6,
       "started_at": "2026-05-23T08:04:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
