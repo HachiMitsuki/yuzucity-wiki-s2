@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T00:31:05+09:00",
+  "updated_at": "2026-05-24T00:36:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #22",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-23T10:23:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -487,7 +487,7 @@
       "is_live": true,
       "title": "【YUZU CITY⇒ウィズグラ⇒YUZU CITY】Day２３ 抗争最終日！かますぞ！！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-23T11:06:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -562,7 +562,7 @@
       "is_live": true,
       "title": "【Yuzu City】今日は最後の抗争だ！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-23T09:05:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
@@ -587,7 +587,7 @@
       "is_live": true,
       "title": "【#APEX】第2回TAフェスタ/ @yotsukadokirin @idumiez",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-23T12:00:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -672,7 +672,7 @@
       "is_live": true,
       "title": "【ラフシティ】苦戦の予感",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-23T12:37:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
