@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T00:41:04+09:00",
+  "updated_at": "2026-05-24T00:46:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -562,7 +562,7 @@
       "is_live": true,
       "title": "【Yuzu City】今日は最後の抗争だ！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-23T09:05:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
