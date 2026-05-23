@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T22:36:05+09:00",
+  "updated_at": "2026-05-23T22:41:06+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "is_live": true,
       "title": "【#YCGTA】ばななのなぞはまだなぞなのだぞ【水樹らこ丸視点】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-05-23T12:28:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -297,7 +297,7 @@
       "is_live": true,
       "title": "【GTA5】ラフシティ 抗争 猫梅つばさ",
       "game_name": "",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-23T12:25:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tubasa_twitch-{width}x{height}.jpg"
     },
@@ -427,7 +427,7 @@
       "is_live": true,
       "title": "【VTuber】体調わるめにあんぽめらにあんなので抗争だけ【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 38,
+      "viewer_count": 44,
       "started_at": "2026-05-23T12:28:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -452,7 +452,7 @@
       "is_live": true,
       "title": "【 REPO 】 稼げなくて滅！ 【 伏屋ななし / Vtuber / コラボ 】",
       "game_name": "R.E.P.O.",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-23T12:30:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
@@ -467,7 +467,7 @@
       "is_live": true,
       "title": "[GTA] day20 もう半分ない！！ 抗争日",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-23T12:01:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -507,7 +507,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day２３ 抗争最終日！かますぞ！！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-23T11:06:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
