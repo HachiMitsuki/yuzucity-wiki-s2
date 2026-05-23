@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T16:51:02+09:00",
+  "updated_at": "2026-05-23T17:06:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -199,7 +199,12 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティー",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-23T08:04:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -464,12 +469,7 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": true,
-      "title": "コンペだよん  VALORANT #VALORANTコンペ #VTuber",
-      "game_name": "VALORANT",
-      "viewer_count": 1,
-      "started_at": "2026-05-23T05:08:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
