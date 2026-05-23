@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T01:04:32+09:00",
+  "updated_at": "2026-05-24T01:06:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -457,7 +457,7 @@
       "is_live": true,
       "title": "《Yuzucity》│くたくた🎀ིྀ day17｜#YuzuCtiy",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-05-23T11:06:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -582,7 +582,7 @@
       "is_live": true,
       "title": "【#APEX】第2回TAフェスタ/ @yotsukadokirin @idumiez",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "started_at": "2026-05-23T12:00:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
