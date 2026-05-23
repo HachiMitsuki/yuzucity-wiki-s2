@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T14:41:02+09:00",
+  "updated_at": "2026-05-23T14:46:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -382,7 +382,7 @@
       "is_live": true,
       "title": "【 ow 】 ぼくだって人間と遊びたい 【 伏屋ななし / Vtuber 】",
       "game_name": "Overwatch",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-23T05:06:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
