@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T17:11:02+09:00",
+  "updated_at": "2026-05-23T17:16:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -79,7 +79,12 @@
       "display_name": "蒼澪",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8da2be83-6ebf-4a70-b4d5-443eba1ea393-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sourei_2525",
-      "is_live": false
+      "is_live": true,
+      "title": "【YCGTA】鍵探しDay.2",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-23T08:10:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sourei_2525-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -202,7 +207,7 @@
       "is_live": true,
       "title": "ゆずシティー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "started_at": "2026-05-23T08:04:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -387,7 +392,7 @@
       "is_live": true,
       "title": "【 ow 】 ぼくだって人間と遊びたい 【 伏屋ななし / Vtuber 】",
       "game_name": "Overwatch",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-23T05:06:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
