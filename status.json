@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T00:46:04+09:00",
+  "updated_at": "2026-05-24T00:51:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -52,7 +52,7 @@
       "is_live": true,
       "title": "日常の日常は日常！～14日目～【龍咲】【#YCGTA #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-23T13:47:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #22",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-23T10:23:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -447,7 +447,7 @@
       "is_live": true,
       "title": "[GTA] day20 もう半分ない！！ 抗争日",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-23T12:01:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -562,7 +562,7 @@
       "is_live": true,
       "title": "【Yuzu City】今日は最後の抗争だ！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-23T09:05:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
@@ -599,7 +599,12 @@
       "display_name": "海月織",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": false
+      "is_live": true,
+      "title": "d３戻すわよ",
+      "game_name": "VALORANT",
+      "viewer_count": 0,
+      "started_at": "2026-05-23T15:50:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -672,7 +677,7 @@
       "is_live": true,
       "title": "【ラフシティ】苦戦の予感",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "started_at": "2026-05-23T12:37:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
