@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T20:21:04+09:00",
+  "updated_at": "2026-05-23T20:26:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -42,7 +42,7 @@
       "is_live": true,
       "title": "日常の日常は日常！～14日目～【龍咲】【#YCGTA #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-23T11:16:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #22",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-23T10:23:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -137,7 +137,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day23 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "started_at": "2026-05-23T08:37:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -272,7 +272,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】抗争再発 18日目【#vtuber /雷音雅】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-23T08:36:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -297,7 +297,7 @@
       "is_live": true,
       "title": "【23日目】今日とてお金稼ぎ#yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-23T11:00:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
