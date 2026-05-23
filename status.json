@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T04:01:03+09:00",
+  "updated_at": "2026-05-24T04:15:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -289,12 +289,7 @@
       "display_name": "浮雲わたあめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2804604-888f-422d-b447-109abc4443f6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ukigumo_watame",
-      "is_live": true,
-      "title": "[YUZU city] 僕は...弱い！",
-      "game_name": "",
-      "viewer_count": 2,
-      "started_at": "2026-05-23T11:55:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ukigumo_watame-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
