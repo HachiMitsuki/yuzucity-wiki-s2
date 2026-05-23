@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T12:46:01+09:00",
+  "updated_at": "2026-05-23T12:51:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -382,7 +382,7 @@
       "is_live": true,
       "title": "【 100人イラスト企画中 】 28人目～X人目を描く 【 伏屋ななし / Vtuber 】",
       "game_name": "Just Chatting",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-23T03:21:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
