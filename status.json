@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T00:51:04+09:00",
+  "updated_at": "2026-05-24T00:56:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "is_live": true,
       "title": "【#YCGTA】ばななのなぞはまだなぞなのだぞ【水樹らこ丸視点】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "started_at": "2026-05-23T12:28:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -52,7 +52,7 @@
       "is_live": true,
       "title": "日常の日常は日常！～14日目～【龍咲】【#YCGTA #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-23T13:47:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #22",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-23T10:23:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -164,12 +164,7 @@
       "display_name": "夢見弖ねこむ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38876e09-d270-4394-be4c-a339ea8535e9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekommn",
-      "is_live": true,
-      "title": "ぺんぎんになって足を引っ張り合う /w @sino_akatuki @popcorn_vtuber @h4ko_v @mmutari",
-      "game_name": "LINK Penguins",
-      "viewer_count": 3,
-      "started_at": "2026-05-23T12:06:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -342,7 +337,7 @@
       "is_live": true,
       "title": "[YUZU city] 僕は...弱い！",
       "game_name": "",
-      "viewer_count": 0,
+      "viewer_count": 2,
       "started_at": "2026-05-23T11:55:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ukigumo_watame-{width}x{height}.jpg"
     },
@@ -462,7 +457,7 @@
       "is_live": true,
       "title": "《Yuzucity》│くたくた🎀ིྀ day17｜#YuzuCtiy",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 6,
       "started_at": "2026-05-23T11:06:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -602,7 +597,7 @@
       "is_live": true,
       "title": "d３戻すわよ",
       "game_name": "VALORANT",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-23T15:50:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
@@ -677,7 +672,7 @@
       "is_live": true,
       "title": "【ラフシティ】苦戦の予感",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-23T12:37:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
