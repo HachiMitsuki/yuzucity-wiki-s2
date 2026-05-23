@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T13:51:01+09:00",
+  "updated_at": "2026-05-23T14:06:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -379,12 +379,7 @@
       "display_name": "伏屋ななし",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7de1254-d9ef-45cd-b8c8-ab4490c3e9b1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/248774",
-      "is_live": true,
-      "title": "【 100人イラスト企画中 】 28人目～X人目を描く 【 伏屋ななし / Vtuber 】",
-      "game_name": "Just Chatting",
-      "viewer_count": 4,
-      "started_at": "2026-05-23T03:21:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
