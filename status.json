@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T20:01:03+09:00",
+  "updated_at": "2026-05-23T20:06:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -79,12 +79,7 @@
       "display_name": "蒼澪",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8da2be83-6ebf-4a70-b4d5-443eba1ea393-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sourei_2525",
-      "is_live": true,
-      "title": "【YCGTA】鍵探しDay.2",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-23T08:10:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sourei_2525-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -94,7 +89,12 @@
       "display_name": "海咲ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1945630a-ec37-440a-b530-3524be376090-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/umisaki3",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YCGTA] 22日目 ポン海咲ゆうのすけ成長日記",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-23T11:01:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -107,7 +107,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #22",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-23T10:23:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -132,7 +132,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day23 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-05-23T08:37:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -217,7 +217,7 @@
       "is_live": true,
       "title": "ゆずシティー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-23T08:04:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -229,7 +229,12 @@
       "display_name": "静住ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b170283c-117d-43b7-b9dc-adcdd161bbf5-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shizumi_yuu",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティ14日目    今度こそチルしたい！！！！",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 2,
+      "started_at": "2026-05-23T11:01:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -284,7 +289,12 @@
       "display_name": "東月方璃",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c09f3497-68e9-4f54-bf5f-5f728740f7b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/touhou_1560",
-      "is_live": false
+      "is_live": true,
+      "title": "【23日目】今日とてお金稼ぎ#yuzucity #YCGTA #ゆず鯖",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-23T11:00:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
