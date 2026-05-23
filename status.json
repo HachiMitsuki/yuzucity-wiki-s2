@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T01:31:04+09:00",
+  "updated_at": "2026-05-24T01:36:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -522,7 +522,7 @@
       "is_live": true,
       "title": "夜のコンペだよん  VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-23T13:44:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -547,8 +547,8 @@
       "is_live": true,
       "title": "【Yuzu City】今日は最後の抗争だ！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-23T09:05:22Z",
+      "viewer_count": 0,
+      "started_at": "2026-05-23T16:34:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
     {
@@ -672,7 +672,7 @@
       "is_live": true,
       "title": "yuzucity で警察やってみた",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-23T16:02:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
