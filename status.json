@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T17:06:01+09:00",
+  "updated_at": "2026-05-23T17:11:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -202,7 +202,7 @@
       "is_live": true,
       "title": "ゆずシティー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 3,
       "started_at": "2026-05-23T08:04:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -387,7 +387,7 @@
       "is_live": true,
       "title": "【 ow 】 ぼくだって人間と遊びたい 【 伏屋ななし / Vtuber 】",
       "game_name": "Overwatch",
-      "viewer_count": 4,
+      "viewer_count": 6,
       "started_at": "2026-05-23T05:06:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
