@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T21:21:04+09:00",
+  "updated_at": "2026-05-23T21:26:06+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -39,12 +39,7 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": true,
-      "title": "日常の日常は日常！～14日目～【龍咲】【#YCGTA #ゆず鯖】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-23T11:16:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -112,7 +107,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #22",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-23T10:23:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -137,7 +132,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day23 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-23T08:37:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -207,7 +202,7 @@
       "is_live": true,
       "title": "【REPO】おばぶ鯖でレポレポレポレポ/ｗななし、たや、のじ【初見歓迎】",
       "game_name": "R.E.P.O.",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-23T12:18:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -232,7 +227,7 @@
       "is_live": true,
       "title": "ゆずシティー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-23T08:04:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -294,7 +289,12 @@
       "display_name": "つばさ___",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f4eacf7-eec8-4496-90f2-fff8bf53332d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tubasa_twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTA5】ラフシティ 抗争 猫梅つばさ",
+      "game_name": "",
+      "viewer_count": 0,
+      "started_at": "2026-05-23T12:25:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tubasa_twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -442,7 +442,7 @@
       "is_live": true,
       "title": "【 REPO 】 稼げなくて滅！ 【 伏屋ななし / Vtuber / コラボ 】",
       "game_name": "R.E.P.O.",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-23T12:16:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
@@ -592,7 +592,7 @@
       "is_live": true,
       "title": "【#APEX】第2回TAフェスタ/ @yotsukadokirin @idumiez",
       "game_name": "Apex Legends",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-23T12:00:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
