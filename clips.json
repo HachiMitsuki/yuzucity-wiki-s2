@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T09:20:55+09:00",
+  "updated_at": "2026-05-23T09:25:55+09:00",
   "clips": [
     {
       "id": 144,
@@ -435,6 +435,21 @@
       "author_name": "三庭雪彦",
       "author_avatar": "https://cdn.discordapp.com/avatars/246309702315671583/461aef5c115dc9587276d19e17f701fd.png?size=128",
       "posted_at": "2026-05-18T13:42:37+09:00"
+    },
+    {
+      "id": 149,
+      "source": "discord",
+      "source_id": "1505727452574384159",
+      "url": "https://media.discordapp.net/attachments/1493171311768371290/1505727452574384159/MedalTVGrandTheftAutoVFiveM20260516214715173-trim-1778949353211.mov?ex=6a1244f7&is=6a10f377&hm=bef9b0d07d0ff9d3f9943ae6a5249a736770616f133ff9c54af9a06b450ce854&",
+      "embed_url": null,
+      "title": "MedalTVGrandTheftAutoVFiveM20260516214715173-trim-1778949353211.mov",
+      "description": null,
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "そらーら/星音 そら",
+      "author_avatar": "https://cdn.discordapp.com/avatars/822397220224892948/f4913151838e866c85f968d88b2d5dca.png?size=128",
+      "posted_at": "2026-05-18T09:23:19+09:00"
     },
     {
       "id": 138,
