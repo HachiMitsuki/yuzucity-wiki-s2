@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T21:11:05+09:00",
+  "updated_at": "2026-05-24T21:16:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #23",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-05-24T11:18:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -232,7 +232,7 @@
       "is_live": true,
       "title": "初ギャングがんばるぞい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-05-24T08:09:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -307,7 +307,7 @@
       "is_live": true,
       "title": "【24日目】ふぁざーらしい #yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-24T09:03:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
@@ -329,7 +329,12 @@
       "display_name": "絶叫者イノ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#Yuzucity】カフェオープン！！ Day12 | GTA",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 3,
+      "started_at": "2026-05-24T12:11:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -482,7 +487,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day２３ 悪いことでがっぽがっぽ儲けたいね",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-24T11:24:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -589,7 +594,12 @@
       "display_name": "海月織",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": false
+      "is_live": true,
+      "title": "海月コラボ",
+      "game_name": "Night Shippers",
+      "viewer_count": 1,
+      "started_at": "2026-05-24T12:12:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -632,7 +642,7 @@
       "is_live": true,
       "title": "副署長出勤します  day15？？ #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 0,
       "started_at": "2026-05-24T11:02:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
