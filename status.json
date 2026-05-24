@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T20:41:03+09:00",
+  "updated_at": "2026-05-24T20:46:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -12,7 +12,7 @@
       "is_live": true,
       "title": "【ゆずシティ】ボイスラストデー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-24T10:45:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #23",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-24T11:18:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -232,7 +232,7 @@
       "is_live": true,
       "title": "初ギャングがんばるぞい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-24T08:09:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -452,7 +452,7 @@
       "is_live": true,
       "title": "《Yuzucity》│んふふ🎀ིྀ day18｜#YuzuCtiy",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-24T09:11:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -477,7 +477,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day２３ 悪いことでがっぽがっぽ儲けたいね",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-24T11:24:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -522,7 +522,7 @@
       "is_live": true,
       "title": "ブロンズただいま！！ VALORANT #VALORANTコンペ #VTuber",
       "game_name": "",
-      "viewer_count": 0,
+      "viewer_count": 2,
       "started_at": "2026-05-24T11:40:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -549,7 +549,12 @@
       "display_name": "楽希",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raki_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】今日はブースティングするぞ！",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-24T11:45:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
