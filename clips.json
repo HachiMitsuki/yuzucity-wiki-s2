@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-05-25T03:32:06+09:00",
+  "updated_at": "2026-05-25T03:37:05+09:00",
   "clips": [
+    {
+      "id": 190,
+      "source": "discord",
+      "source_id": "1508177031744061570",
+      "url": "https://media.discordapp.net/attachments/1493171311768371290/1508177031744061570/6d138f5a0892df3a.mp4?ex=6a1496d0&is=6a134550&hm=be30dc12c0c6127dc6f13fbcbe055eb02b06561ec8f13e1e4cbb772f33e549d7&",
+      "embed_url": null,
+      "title": "6d138f5a0892df3a.mp4",
+      "description": "罪深い又邪千影",
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "エグリー",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1282729966391267328/148b5f0c0cb3a69cefba023445b2ab8f.png?size=128",
+      "posted_at": "2026-05-25T03:37:04+09:00"
+    },
     {
       "id": 189,
       "source": "twitch",
