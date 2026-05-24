@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T19:31:04+09:00",
+  "updated_at": "2026-05-24T19:36:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】雑談→Yuzucityでの出来事  day24 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 11,
+      "viewer_count": 7,
       "started_at": "2026-05-24T07:44:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -257,7 +257,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】金稼ぐか 19日目【#vtuber /雷音雅】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-24T08:34:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -432,7 +432,7 @@
       "is_live": true,
       "title": "《Yuzucity》│んふふ🎀ིྀ day18｜#YuzuCtiy",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-24T09:11:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
