@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T17:16:01+09:00",
+  "updated_at": "2026-05-24T17:21:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -212,7 +212,7 @@
       "is_live": true,
       "title": "初ギャングがんばるぞい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-24T08:09:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -477,7 +477,7 @@
       "is_live": true,
       "title": "APEXだよん 夜はヴァロ！！ ＃APEX",
       "game_name": "",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-24T07:02:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
