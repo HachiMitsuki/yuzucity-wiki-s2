@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T02:46:02+09:00",
+  "updated_at": "2026-05-25T02:51:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -137,7 +137,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】雑談→Yuzucityでの出来事  day24 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-24T07:44:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -227,7 +227,7 @@
       "is_live": true,
       "title": "初ギャングがんばるぞい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-24T08:09:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -337,7 +337,7 @@
       "is_live": true,
       "title": "NTE まったりプレイ",
       "game_name": "NTE: Neverness to Everness",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-24T15:46:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
