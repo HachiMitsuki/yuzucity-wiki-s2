@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T18:31:03+09:00",
+  "updated_at": "2026-05-24T18:36:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -207,7 +207,7 @@
       "is_live": true,
       "title": "初ギャングがんばるぞい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-24T08:09:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -277,7 +277,7 @@
       "is_live": true,
       "title": "【24日目】ふぁざーらしい #yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-24T09:03:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
