@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T00:06:04+09:00",
+  "updated_at": "2026-05-25T00:11:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -24,7 +24,12 @@
       "display_name": "碧甘ぐみ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e0bd64f-84d3-4830-a711-0b44c9f675fe-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mikamo_gumi_247",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】#14緑ギャング活動日記〖初見さんコメント大歓迎〗",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 3,
+      "started_at": "2026-05-24T15:06:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -47,7 +52,7 @@
       "is_live": true,
       "title": "飲んでるのも日常！～15日目～【龍咲】【#YCGTA #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-24T13:09:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -102,7 +107,7 @@
       "is_live": true,
       "title": "[#YCGTA] 23日目 ポン海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-05-24T11:03:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -117,7 +122,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #23",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-24T11:18:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -142,7 +147,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】雑談→Yuzucityでの出来事  day24 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 6,
       "started_at": "2026-05-24T07:44:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -237,7 +242,7 @@
       "is_live": true,
       "title": "初ギャングがんばるぞい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-05-24T08:09:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -547,7 +552,7 @@
       "is_live": true,
       "title": "ブロンズただいま！！ VALORANT #VALORANTコンペ #VTuber",
       "game_name": "",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-24T11:40:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -612,7 +617,7 @@
       "is_live": true,
       "title": "海月コラボ",
       "game_name": "Night Shippers",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-24T12:12:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
