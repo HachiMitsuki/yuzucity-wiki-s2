@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T00:21:03+09:00",
+  "updated_at": "2026-05-25T00:26:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #23",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-24T11:18:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -147,7 +147,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】雑談→Yuzucityでの出来事  day24 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 6,
       "started_at": "2026-05-24T07:44:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -242,7 +242,7 @@
       "is_live": true,
       "title": "初ギャングがんばるぞい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-24T08:09:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -467,7 +467,7 @@
       "is_live": true,
       "title": "[GTA] day21 残り１週間  とにかく楽しむ",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 7,
+      "viewer_count": 9,
       "started_at": "2026-05-24T13:27:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -507,7 +507,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day２３ 悪いことでがっぽがっぽ儲けたいね",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-24T11:24:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -552,7 +552,7 @@
       "is_live": true,
       "title": "ブロンズただいま！！ VALORANT #VALORANTコンペ #VTuber",
       "game_name": "",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-24T11:40:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -567,7 +567,7 @@
       "is_live": true,
       "title": "金庫祭り #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-24T14:46:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
     },
@@ -582,7 +582,7 @@
       "is_live": true,
       "title": "【Yuzu City】今日はブースティングするぞ！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-24T11:45:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
@@ -617,7 +617,7 @@
       "is_live": true,
       "title": "海月コラボ",
       "game_name": "Night Shippers",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-05-24T12:12:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
