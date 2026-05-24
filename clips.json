@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T04:05:53+09:00",
+  "updated_at": "2026-05-25T07:25:53+09:00",
   "clips": [
     {
       "id": 190,
@@ -30,6 +30,21 @@
       "author_name": "柚木なつな",
       "author_avatar": "https://cdn.discordapp.com/avatars/545148146053808130/f2c0ac4a37705bc96bb863278df47232.png?size=128",
       "posted_at": "2026-05-25T03:32:06+09:00"
+    },
+    {
+      "id": 192,
+      "source": "discord",
+      "source_id": "1508053373193289788",
+      "url": "https://media.discordapp.net/attachments/1493171311768371290/1508053373193289788/copy_2FF22FB2-1444-404A-A587-9A7F4DBC7537.mov?ex=6a14cc66&is=6a137ae6&hm=1a222fc4403cfe8fae916f1e1e2ba950e1c2460f1de6d0d152d795d7b1767414&",
+      "embed_url": null,
+      "title": "copy_2FF22FB2-1444-404A-A587-9A7F4DBC7537.mov",
+      "description": "ちょろるいさん♡",
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "mo_2j",
+      "author_avatar": "https://cdn.discordapp.com/avatars/797825234635849778/75bc9c82385a621067cae266a5441a7a.png?size=128",
+      "posted_at": "2026-05-24T19:25:41+09:00"
     },
     {
       "id": 179,
