@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T22:56:05+09:00",
+  "updated_at": "2026-05-24T23:01:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -47,7 +47,7 @@
       "is_live": true,
       "title": "飲んでるのも日常！～15日目～【龍咲】【#YCGTA #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-24T13:09:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -142,7 +142,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】雑談→Yuzucityでの出来事  day24 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 7,
+      "viewer_count": 5,
       "started_at": "2026-05-24T07:44:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -342,7 +342,7 @@
       "is_live": true,
       "title": "【#Yuzucity】カフェオープン！！ Day12 | GTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "started_at": "2026-05-24T12:11:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -462,7 +462,7 @@
       "is_live": true,
       "title": "[GTA] day21 残り１週間  とにかく楽しむ",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-24T13:27:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -502,7 +502,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day２３ 悪いことでがっぽがっぽ儲けたいね",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 9,
+      "viewer_count": 6,
       "started_at": "2026-05-24T11:24:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -547,7 +547,7 @@
       "is_live": true,
       "title": "ブロンズただいま！！ VALORANT #VALORANTコンペ #VTuber",
       "game_name": "",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-24T11:40:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -652,7 +652,7 @@
       "is_live": true,
       "title": "副署長出勤します  day15？？ #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-24T11:02:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
