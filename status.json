@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T16:51:01+09:00",
+  "updated_at": "2026-05-24T16:56:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -127,7 +127,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】雑談→Yuzucityでの出来事  day24 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Just Chatting",
-      "viewer_count": 7,
+      "viewer_count": 4,
       "started_at": "2026-05-24T07:44:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -209,12 +209,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "17時までバロ",
-      "game_name": "VALORANT",
-      "viewer_count": 2,
-      "started_at": "2026-05-24T06:38:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -477,7 +472,7 @@
       "is_live": true,
       "title": "APEXだよん 夜はヴァロ！！ ＃APEX",
       "game_name": "",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-24T07:02:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
