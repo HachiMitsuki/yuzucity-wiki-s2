@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T17:31:01+09:00",
+  "updated_at": "2026-05-24T17:36:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -127,7 +127,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】雑談→Yuzucityでの出来事  day24 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 7,
+      "viewer_count": 5,
       "started_at": "2026-05-24T07:44:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -254,7 +254,12 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖 】金稼ぐか 19日目【#vtuber /雷音雅】",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-24T08:34:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -477,7 +482,7 @@
       "is_live": true,
       "title": "APEXだよん 夜はヴァロ！！ ＃APEX",
       "game_name": "",
-      "viewer_count": 6,
+      "viewer_count": 4,
       "started_at": "2026-05-24T07:02:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
