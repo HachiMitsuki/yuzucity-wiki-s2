@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T22:55:55+09:00",
+  "updated_at": "2026-05-24T23:50:55+09:00",
   "clips": [
     {
       "id": 179,
@@ -900,6 +900,21 @@
       "author_name": "東乃大御神",
       "author_avatar": "https://cdn.discordapp.com/avatars/801384881426661407/31cc18d6799b91b96262aea167b87af3.png?size=128",
       "posted_at": "2026-05-17T18:53:12+09:00"
+    },
+    {
+      "id": 185,
+      "source": "discord",
+      "source_id": "1505400996954636380",
+      "url": "https://media.discordapp.net/attachments/1493171311768371290/1505400996954636380/ScreenRecording_05-17-2026_11-41-11_1.mov?ex=6a1460ae&is=6a130f2e&hm=82dbfb4e7348b0fc48d413debcfc038f40dc235924da26a19293e72369573126&",
+      "embed_url": null,
+      "title": "ScreenRecording_05-17-2026_11-41-11_1.mov",
+      "description": "警察の模擬練、味方の署長を二度見して再度射殺",
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "柚木なつな",
+      "author_avatar": "https://cdn.discordapp.com/avatars/545148146053808130/f2c0ac4a37705bc96bb863278df47232.png?size=128",
+      "posted_at": "2026-05-17T11:46:06+09:00"
     },
     {
       "id": 173,
