@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T17:01:02+09:00",
+  "updated_at": "2026-05-24T17:06:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -126,8 +126,8 @@
       "channel_url": "https://www.twitch.tv/natsuna33",
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】雑談→Yuzucityでの出来事  day24 #ゆず鯖 #YCGTA #FiveM",
-      "game_name": "Just Chatting",
-      "viewer_count": 8,
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 10,
       "started_at": "2026-05-24T07:44:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -472,7 +472,7 @@
       "is_live": true,
       "title": "APEXだよん 夜はヴァロ！！ ＃APEX",
       "game_name": "",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-24T07:02:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
