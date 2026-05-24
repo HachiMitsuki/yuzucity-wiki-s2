@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T01:01:03+09:00",
+  "updated_at": "2026-05-25T01:06:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -12,7 +12,7 @@
       "is_live": true,
       "title": "【ゆずシティ】ボイスラストデー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-24T10:45:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
@@ -27,7 +27,7 @@
       "is_live": true,
       "title": "【YuzuCity】#14緑ギャング活動日記〖初見さんコメント大歓迎〗",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-24T15:06:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
@@ -49,12 +49,7 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": true,
-      "title": "飲んでるのも日常！～15日目～【龍咲】【#YCGTA #ゆず鯖】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-24T13:09:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -104,12 +99,7 @@
       "display_name": "海咲ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1945630a-ec37-440a-b530-3524be376090-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/umisaki3",
-      "is_live": true,
-      "title": "[#YCGTA] 23日目 ポン海咲ゆうのすけ成長日記",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-24T11:03:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -122,7 +112,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #23",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-24T11:18:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -147,7 +137,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】雑談→Yuzucityでの出来事  day24 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-05-24T07:44:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -237,7 +227,7 @@
       "is_live": true,
       "title": "初ギャングがんばるぞい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-05-24T08:09:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -252,7 +242,7 @@
       "is_live": true,
       "title": "ゆずシティ15日目    今度こそチルしたい！！！！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-24T11:06:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
@@ -284,12 +274,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#ゆず鯖 】金稼ぐか 19日目【#vtuber /雷音雅】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-24T08:34:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -322,7 +307,7 @@
       "is_live": true,
       "title": "【YCGTA】病みあがり【GTAV】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-24T13:22:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
     },
@@ -337,7 +322,7 @@
       "is_live": true,
       "title": "【#Yuzucity】カフェオープン！！ Day12 | GTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-24T12:11:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -474,12 +459,7 @@
       "display_name": "黒苺みるく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdf3aa29-5b5a-4c8a-a53b-313c78d354da-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/milk_black_",
-      "is_live": true,
-      "title": "《Yuzucity》│んふふ🎀ིྀ day18｜#YuzuCtiy",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-24T09:11:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -502,7 +482,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day２３ 悪いことでがっぽがっぽ儲けたいね",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-24T11:24:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
