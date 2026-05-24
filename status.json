@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T01:21:03+09:00",
+  "updated_at": "2026-05-25T01:26:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -12,7 +12,7 @@
       "is_live": true,
       "title": "【ゆずシティ】ボイスラストデー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-24T10:45:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
@@ -307,7 +307,7 @@
       "is_live": true,
       "title": "【YCGTA】病みあがり【GTAV】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-24T13:22:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
     },
@@ -319,12 +319,7 @@
       "display_name": "絶叫者イノ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": true,
-      "title": "【#Yuzucity】カフェオープン！！ Day12 | GTA",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
-      "started_at": "2026-05-24T12:11:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -527,7 +522,7 @@
       "is_live": true,
       "title": "ブロンズただいま！！ VALORANT #VALORANTコンペ #VTuber",
       "game_name": "",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-24T11:40:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
