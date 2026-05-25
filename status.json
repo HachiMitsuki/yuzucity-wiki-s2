@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T22:11:14+09:00",
+  "updated_at": "2026-05-25T22:16:14+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -37,7 +37,7 @@
       "is_live": true,
       "title": "【#YCGTA】いぇすかのーか半分か【水樹らこ丸視点】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-25T11:52:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -52,7 +52,7 @@
       "is_live": true,
       "title": "まったりが大事！～16日目～【龍咲】【#YCGTA #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-25T12:16:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -107,7 +107,7 @@
       "is_live": true,
       "title": "[#YCGTA] 24日目 ポン海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-25T11:00:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #24",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-25T09:47:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -147,7 +147,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day25 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 8,
       "started_at": "2026-05-25T09:48:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -422,7 +422,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた15【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 12,
+      "viewer_count": 10,
       "started_at": "2026-05-25T12:35:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -492,7 +492,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day２５ 今日も悪いこと沢山したい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-25T11:02:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -582,7 +582,7 @@
       "is_live": true,
       "title": "【#APEX】ソロランク",
       "game_name": "Apex Legends",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "started_at": "2026-05-25T12:16:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -637,7 +637,7 @@
       "is_live": true,
       "title": "副署長出勤します  day16？？ #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-25T11:21:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
@@ -672,7 +672,7 @@
       "is_live": true,
       "title": "【YCGTA】警部補ってどんくらい偉いの？【ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-25T11:49:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
