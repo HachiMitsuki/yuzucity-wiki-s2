@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T01:01:12+09:00",
+  "updated_at": "2026-05-26T01:06:11+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -24,12 +24,7 @@
       "display_name": "碧甘ぐみ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e0bd64f-84d3-4830-a711-0b44c9f675fe-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mikamo_gumi_247",
-      "is_live": true,
-      "title": "【YuzuCity】#15緑ギャング活動日記〖初見さんコメント大歓迎〗",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-25T08:01:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -49,12 +44,7 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": true,
-      "title": "まったりが大事！～16日目～【龍咲】【#YCGTA #ゆず鯖】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-25T12:16:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -117,7 +107,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #24",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-25T09:47:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -142,7 +132,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day25 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-25T09:48:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -207,7 +197,7 @@
       "is_live": true,
       "title": "【ゆず鯖】夜勤個人医勤務 スタート21日目パート2 Re:黒島へへ  GTA【初見歓迎】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-25T14:06:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -232,7 +222,7 @@
       "is_live": true,
       "title": "ゆずシティー オレンジギャング二日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-25T08:01:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -442,7 +432,7 @@
       "is_live": true,
       "title": "《Yuzucity》│んふふ🎀ིྀ day19｜#YuzuCtiy",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-25T12:57:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -464,12 +454,7 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": true,
-      "title": "【YUZU CITY】Day２５ 今日も悪いこと沢山したい",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-25T11:02:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -612,7 +597,7 @@
       "is_live": true,
       "title": "副署長出勤します  day16？？ #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-25T11:21:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
@@ -647,7 +632,7 @@
       "is_live": true,
       "title": "【YCGTA】警部補ってどんくらい偉いの？【ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-25T11:49:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
