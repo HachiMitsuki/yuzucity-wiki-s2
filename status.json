@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T23:06:14+09:00",
+  "updated_at": "2026-05-25T23:11:14+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -142,7 +142,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day25 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-25T09:48:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -209,7 +209,12 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【ゆず鯖】夜勤個人医勤務 スタート21日目パート2 Re:黒島へへ  GTA【初見歓迎】",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-25T14:06:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -332,7 +337,7 @@
       "is_live": true,
       "title": "声に反応して色々と出来るゲーム | Cursed Companions",
       "game_name": "Cursed Companions",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-25T13:00:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -417,7 +422,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きてみた15【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 17,
+      "viewer_count": 19,
       "started_at": "2026-05-25T12:35:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -487,7 +492,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day２５ 今日も悪いこと沢山したい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-25T11:02:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -532,7 +537,7 @@
       "is_live": true,
       "title": "たまには一人で。。。 VALORANT #VALORANTコンペ #VTuber",
       "game_name": "",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-25T11:24:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -627,7 +632,7 @@
       "is_live": true,
       "title": "副署長出勤します  day16？？ #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-25T11:21:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
@@ -662,7 +667,7 @@
       "is_live": true,
       "title": "【YCGTA】警部補ってどんくらい偉いの？【ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-25T11:49:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
