@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T01:16:11+09:00",
+  "updated_at": "2026-05-26T01:21:11+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -432,7 +432,7 @@
       "is_live": true,
       "title": "《Yuzucity》│んふふ🎀ིྀ day19｜#YuzuCtiy",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-25T12:57:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -552,7 +552,7 @@
       "is_live": true,
       "title": "ゔぁ～Ⅾ２に戻す配信～",
       "game_name": "VALORANT",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-25T15:50:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
@@ -632,7 +632,7 @@
       "is_live": true,
       "title": "【YCGTA】警部補ってどんくらい偉いの？【ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-25T11:49:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
