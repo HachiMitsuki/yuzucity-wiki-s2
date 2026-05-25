@@ -5,6 +5,66 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>クリップ | Yuzu City Wiki</title>
 <link rel="stylesheet" href="styles.css">
+<style>
+.clip-lightbox{
+  position:fixed; inset:0; z-index:9999;
+  display:flex; align-items:center; justify-content:center;
+  padding:20px;
+}
+.clip-lightbox[hidden]{ display:none; }
+.lightbox-backdrop{
+  position:absolute; inset:0;
+  background:rgba(0,0,0,.88);
+  -webkit-backdrop-filter:blur(8px); backdrop-filter:blur(8px);
+  cursor:pointer;
+}
+.lightbox-content{
+  position:relative; z-index:1;
+  display:flex; flex-direction:column; gap:14px;
+  max-width:min(1280px, 92vw); width:auto;
+}
+.lightbox-close{
+  position:absolute; top:-44px; right:0;
+  background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.18);
+  color:#fff; width:36px; height:36px; border-radius:50%;
+  font-size:22px; line-height:1; cursor:pointer;
+  display:flex; align-items:center; justify-content:center;
+  transition:background .15s, transform .15s;
+}
+.lightbox-close:hover{ background:rgba(255,255,255,.18); transform:scale(1.05); }
+.lightbox-media{
+  background:#000; border-radius:10px; overflow:hidden;
+  display:flex; align-items:center; justify-content:center;
+  max-height:78vh;
+}
+.lightbox-video{
+  display:block; width:auto; height:auto;
+  max-width:min(1280px, 92vw); max-height:78vh;
+  background:#000;
+}
+.lightbox-iframe{
+  display:block; border:0;
+  width:min(1280px, 92vw); aspect-ratio:16/9;
+  max-height:78vh; background:#000;
+}
+.lightbox-fallback{
+  padding:60px 40px; text-align:center; color:#fff;
+}
+.lightbox-fallback a{ color:#f4c430; text-decoration:underline; }
+.lightbox-info{
+  color:#fff; font-size:.9rem; line-height:1.5;
+  display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center;
+}
+.lightbox-info strong{ font-size:1.05rem; }
+.lightbox-info a{ color:#f4c430; text-decoration:underline; }
+.lightbox-info .lb-author-avatar{
+  width:24px; height:24px; border-radius:50%; vertical-align:middle; margin-right:6px;
+}
+.lightbox-info .lb-author{ display:inline-flex; align-items:center; }
+body.lightbox-open{ overflow:hidden; }
+.clip-card{ cursor:pointer; }
+.clip-card:focus-visible{ outline:2px solid #f4c430; outline-offset:2px; border-radius:8px; }
+</style>
 </head>
 <body data-page="clips">
 <header class="topbar" id="topbar"></header>
@@ -32,6 +92,14 @@
     </section>
     <div id="pageNav"></div>
   </main>
+</div>
+<div class="clip-lightbox" id="clipLightbox" hidden>
+  <div class="lightbox-backdrop" data-close></div>
+  <div class="lightbox-content">
+    <button class="lightbox-close" data-close aria-label="閉じる">×</button>
+    <div class="lightbox-media" id="lightboxMedia"></div>
+    <div class="lightbox-info" id="lightboxInfo"></div>
+  </div>
 </div>
 <footer>
   🍋 <strong>Yuzu City Wiki</strong> · 非公式ガイド &nbsp;|&nbsp;
@@ -132,7 +200,7 @@
         media = `<div class="clip-thumb-fallback" style="display:flex">${info.icon}</div>`;
       }
 
-      return `<a href="${escapeHtml(c.url)}" target="_blank" rel="noopener" class="clip-card">
+      return `<div class="clip-card" data-clip-id="${c.id}" role="button" tabindex="0" aria-label="${escapeHtml(title)} を再生">
         <div class="clip-thumb">
           ${media}
           <div class="clip-play">▶</div>
@@ -150,9 +218,91 @@
           </div>
           ${c.broadcaster_name ? `<div class="clip-broadcaster">📺 ${escapeHtml(c.broadcaster_name)}</div>` : ''}
         </div>
-      </a>`;
+      </div>`;
     }).join('');
+
+    // Wire up card clicks to open the lightbox
+    grid.querySelectorAll('.clip-card').forEach(card => {
+      card.addEventListener('click', () => {
+        const id = Number(card.dataset.clipId);
+        const clip = allClips.find(c => c.id === id);
+        if (clip) openLightbox(clip);
+      });
+      card.addEventListener('keydown', e => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          card.click();
+        }
+      });
+    });
   }
+
+  // -------------------- Lightbox --------------------
+
+  function lightboxMediaHtml(c){
+    if (c.source === 'discord') {
+      return `<video class="lightbox-video" src="${escapeHtml(c.url)}" controls autoplay playsinline></video>`;
+    }
+    if (c.source === 'twitch' && c.source_id) {
+      const parent = encodeURIComponent(window.location.hostname || 'localhost');
+      return `<iframe class="lightbox-iframe"
+        src="https://clips.twitch.tv/embed?clip=${encodeURIComponent(c.source_id)}&parent=${parent}&autoplay=true"
+        allowfullscreen allow="autoplay; fullscreen"></iframe>`;
+    }
+    if (c.source === 'youtube' && c.source_id) {
+      return `<iframe class="lightbox-iframe"
+        src="https://www.youtube.com/embed/${encodeURIComponent(c.source_id)}?autoplay=1"
+        allowfullscreen allow="autoplay; fullscreen"></iframe>`;
+    }
+    if (c.source === 'streamable' && c.source_id) {
+      return `<iframe class="lightbox-iframe"
+        src="https://streamable.com/e/${encodeURIComponent(c.source_id)}?autoplay=1"
+        allowfullscreen allow="autoplay; fullscreen"></iframe>`;
+    }
+    return `<div class="lightbox-fallback">
+      埋め込み再生に対応していません。<br>
+      <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">新規タブで開く →</a>
+    </div>`;
+  }
+
+  function openLightbox(c){
+    const lb = document.getElementById('clipLightbox');
+    const media = document.getElementById('lightboxMedia');
+    const info = document.getElementById('lightboxInfo');
+    media.innerHTML = lightboxMediaHtml(c);
+
+    const info_info = SOURCE_INFO[c.source] || { label: c.source, icon: '🎬' };
+    const title = c.title || (c.source === 'discord' ? 'Discord動画' : `${info_info.label} クリップ`);
+    const author = c.author_name || '匿名';
+    const avatar = c.author_avatar
+      ? `<img src="${escapeHtml(c.author_avatar)}" class="lb-author-avatar" alt="">`
+      : '';
+    info.innerHTML = `
+      <strong>${escapeHtml(title)}</strong>
+      <span class="lb-author">${avatar}${escapeHtml(author)}</span>
+      <span>${escapeHtml(formatJst(c.posted_at))}</span>
+      <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">元ページを開く ↗</a>
+    `;
+
+    lb.hidden = false;
+    document.body.classList.add('lightbox-open');
+  }
+
+  function closeLightbox(){
+    const lb = document.getElementById('clipLightbox');
+    const media = document.getElementById('lightboxMedia');
+    // Clearing innerHTML stops <video>/<iframe> playback cleanly.
+    media.innerHTML = '';
+    lb.hidden = true;
+    document.body.classList.remove('lightbox-open');
+  }
+
+  document.getElementById('clipLightbox').addEventListener('click', e => {
+    if (e.target.closest('[data-close]')) closeLightbox();
+  });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && !document.getElementById('clipLightbox').hidden) closeLightbox();
+  });
 
   async function load(){
     try{
