@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T07:35:59+09:00",
+  "updated_at": "2026-05-26T07:40:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -502,7 +502,7 @@
       "is_live": true,
       "title": "【#ARCRaiders】Dropあり！朝から始まるどんしゅ界隈！",
       "game_name": "ARC Raiders",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-25T20:16:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
