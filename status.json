@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T14:54:20+09:00",
+  "updated_at": "2026-05-25T14:59:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -522,7 +522,7 @@
       "is_live": true,
       "title": "【APEX】踏切女とバイク女",
       "game_name": "Apex Legends",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-25T04:05:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aozoraiku-{width}x{height}.jpg"
     },
