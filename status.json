@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T18:31:10+09:00",
+  "updated_at": "2026-05-25T18:36:10+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -227,7 +227,7 @@
       "is_live": true,
       "title": "ゆずシティ16日目    耳から血が出た男です",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-25T08:55:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
@@ -362,7 +362,7 @@
       "is_live": true,
       "title": "でどでどでどろれんしう(参加〇)",
       "game_name": "Deadlock",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-25T08:34:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
