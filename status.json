@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T01:36:11+09:00",
+  "updated_at": "2026-05-26T01:41:10+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -132,7 +132,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day25 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-25T09:48:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -432,7 +432,7 @@
       "is_live": true,
       "title": "《Yuzucity》│んふふ🎀ིྀ day19｜#YuzuCtiy",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-25T12:57:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -497,7 +497,7 @@
       "is_live": true,
       "title": "ランクまわしゅ」 #VTuber＃apex",
       "game_name": "Apex Legends",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-25T14:35:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -549,12 +549,7 @@
       "display_name": "海月織",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": true,
-      "title": "ゔぁ～Ⅾ２に戻す配信～",
-      "game_name": "VALORANT",
-      "viewer_count": 1,
-      "started_at": "2026-05-25T15:50:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -597,7 +592,7 @@
       "is_live": true,
       "title": "副署長出勤します  day16？？ #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-25T11:21:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
@@ -629,12 +624,7 @@
       "display_name": "0401mako",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78f3ab4a-72cb-46e9-8b4e-8f3e26395ef6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/0401mako",
-      "is_live": true,
-      "title": "【YCGTA】警部補ってどんくらい偉いの？【ゆず鯖】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
-      "started_at": "2026-05-25T11:49:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
