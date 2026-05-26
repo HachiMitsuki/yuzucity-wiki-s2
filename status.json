@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T22:31:07+09:00",
+  "updated_at": "2026-05-26T22:36:07+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -12,7 +12,7 @@
       "is_live": true,
       "title": "【ゆずシティ】huhuhu",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-26T12:52:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
@@ -47,7 +47,7 @@
       "is_live": true,
       "title": "日常を一摘み！～17日目～【龍咲】【#YCGTA #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-26T12:58:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -102,7 +102,7 @@
       "is_live": true,
       "title": "[#YCGTA] 25日目 ポン海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-26T11:04:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -117,7 +117,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #25",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-26T10:43:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -142,7 +142,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day26 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 1,
       "started_at": "2026-05-26T10:02:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -209,7 +209,12 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【ゆず鯖】今日も個人医と犯罪 22日目パート2 Re:黒島へへ  GTA【初見歓迎】",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-26T13:34:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -247,7 +252,7 @@
       "is_live": true,
       "title": "ゆずシティ17日目    チルチル",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-26T11:15:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
@@ -554,12 +559,7 @@
       "display_name": "ゆうてゃ_",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
-      "is_live": true,
-      "title": "【#ARCRaiders】Dropあり！ドンシュー界隈の日常！",
-      "game_name": "ARC Raiders",
-      "viewer_count": 7,
-      "started_at": "2026-05-26T11:50:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -602,7 +602,7 @@
       "is_live": true,
       "title": "【OW-Ranked】ゆかいな仲間達と戦績を緑に染める。【初見ROM歓迎】",
       "game_name": "Overwatch",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-26T12:02:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ugetsushiramine-{width}x{height}.jpg"
     },
