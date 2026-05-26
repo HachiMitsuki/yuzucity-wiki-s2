@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T00:01:06+09:00",
+  "updated_at": "2026-05-27T00:06:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -27,7 +27,7 @@
       "is_live": true,
       "title": "【YuzuCity】#16緑ギャング活動日記〖初見さんコメント大歓迎〗",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-26T14:51:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
@@ -52,7 +52,7 @@
       "is_live": true,
       "title": "日常を一摘み！～17日目～【龍咲】【#YCGTA #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-26T12:58:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -147,7 +147,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day26 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-26T10:02:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -217,7 +217,7 @@
       "is_live": true,
       "title": "【ゆず鯖】今日も個人医と犯罪 22日目パート2 Re:黒島へへ  GTA【初見歓迎】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-26T13:34:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -577,7 +577,7 @@
       "is_live": true,
       "title": "今日はえぺ",
       "game_name": "Apex Legends",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-26T14:45:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
@@ -612,7 +612,7 @@
       "is_live": true,
       "title": "【OW-Ranked】ゆかいな仲間達と戦績を緑に染める。【初見ROM歓迎】",
       "game_name": "Overwatch",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-26T12:02:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ugetsushiramine-{width}x{height}.jpg"
     },
@@ -667,7 +667,7 @@
       "is_live": true,
       "title": "エヴァ犯罪",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 8,
       "started_at": "2026-05-26T13:49:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
