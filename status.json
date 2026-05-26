@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T18:16:02+09:00",
+  "updated_at": "2026-05-26T18:21:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -202,7 +202,7 @@
       "is_live": true,
       "title": "ゆずシティー オレンジギャング3日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-26T08:12:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
