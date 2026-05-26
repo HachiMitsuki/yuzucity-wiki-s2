@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T14:06:00+09:00",
+  "updated_at": "2026-05-26T14:11:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "のんびりごみ拾いロボ",
       "game_name": "Cargo Hunters",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-26T05:03:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
