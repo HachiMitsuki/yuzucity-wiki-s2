@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T20:51:05+09:00",
+  "updated_at": "2026-05-26T20:56:07+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -222,7 +222,7 @@
       "is_live": true,
       "title": "ゆずシティー オレンジギャング3日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-26T08:12:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -237,7 +237,7 @@
       "is_live": true,
       "title": "ゆずシティ17日目    チルチル",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-26T11:15:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
@@ -272,7 +272,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】迷ってる暇はないよ 20日目【#vtuber /雷音雅】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-26T11:44:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -539,7 +539,12 @@
       "display_name": "ゆうてゃ_",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ARCRaiders】Dropあり！ドンシュー界隈の日常！",
+      "game_name": "ARC Raiders",
+      "viewer_count": 4,
+      "started_at": "2026-05-26T11:50:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
