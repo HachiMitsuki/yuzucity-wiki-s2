@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T00:51:06+09:00",
+  "updated_at": "2026-05-27T00:56:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,12 +9,7 @@
       "display_name": "藍音です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f86960a-38c3-4412-85aa-6405f054f8d3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aito_mus01",
-      "is_live": true,
-      "title": "【ゆずシティ】huhuhu",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-26T12:52:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -102,7 +97,7 @@
       "is_live": true,
       "title": "[#YCGTA] 25日目 ポン海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 5,
       "started_at": "2026-05-26T11:04:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -142,7 +137,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day26 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "started_at": "2026-05-26T10:02:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -427,7 +422,7 @@
       "is_live": true,
       "title": "深夜の不定期ラジオ配信 【ねこラジ】vol.20",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-26T15:40:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_necomanma81-{width}x{height}.jpg"
     },
@@ -572,7 +567,7 @@
       "is_live": true,
       "title": "今日はえぺ",
       "game_name": "Apex Legends",
-      "viewer_count": 7,
+      "viewer_count": 5,
       "started_at": "2026-05-26T14:45:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
@@ -662,7 +657,7 @@
       "is_live": true,
       "title": "エヴァ犯罪",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-26T13:49:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
