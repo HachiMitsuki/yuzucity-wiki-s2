@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T02:11:02+09:00",
+  "updated_at": "2026-05-27T02:16:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -107,7 +107,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #25",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 5,
       "started_at": "2026-05-26T10:43:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -132,7 +132,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day26 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-26T16:04:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -202,7 +202,7 @@
       "is_live": true,
       "title": "【ゆず鯖】今日も個人医と犯罪 22日目パート2 Re:黒島へへ  GTA【初見歓迎】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-26T13:34:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -227,7 +227,7 @@
       "is_live": true,
       "title": "ゆずシティー オレンジギャング3日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-26T08:12:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
