@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T01:06:04+09:00",
+  "updated_at": "2026-05-27T01:11:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -22,7 +22,7 @@
       "is_live": true,
       "title": "【YuzuCity】#16緑ギャング活動日記〖初見さんコメント大歓迎〗",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-26T14:51:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
@@ -107,7 +107,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #25",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-26T10:43:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -132,7 +132,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day26 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-26T16:04:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -227,7 +227,7 @@
       "is_live": true,
       "title": "ゆずシティー オレンジギャング3日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-26T08:12:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -242,7 +242,7 @@
       "is_live": true,
       "title": "ゆずシティ17日目    チルチル",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-26T11:15:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
@@ -557,7 +557,7 @@
       "is_live": true,
       "title": "今日はえぺ",
       "game_name": "Apex Legends",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-26T14:45:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
