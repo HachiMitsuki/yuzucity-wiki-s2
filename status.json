@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T23:31:07+09:00",
+  "updated_at": "2026-05-26T23:36:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -102,7 +102,7 @@
       "is_live": true,
       "title": "[#YCGTA] 25日目 ポン海咲ゆうのすけ成長日記",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-26T11:04:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
@@ -117,7 +117,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #25",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-26T10:43:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -142,7 +142,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day26 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-26T10:02:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -607,7 +607,7 @@
       "is_live": true,
       "title": "【OW-Ranked】ゆかいな仲間達と戦績を緑に染める。【初見ROM歓迎】",
       "game_name": "Overwatch",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-26T12:02:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ugetsushiramine-{width}x{height}.jpg"
     },
@@ -662,7 +662,7 @@
       "is_live": true,
       "title": "エヴァ犯罪",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "started_at": "2026-05-26T13:49:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
