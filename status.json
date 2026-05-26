@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T00:56:04+09:00",
+  "updated_at": "2026-05-27T01:01:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -94,12 +94,7 @@
       "display_name": "海咲ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1945630a-ec37-440a-b530-3524be376090-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/umisaki3",
-      "is_live": true,
-      "title": "[#YCGTA] 25日目 ポン海咲ゆうのすけ成長日記",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
-      "started_at": "2026-05-26T11:04:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -299,12 +294,7 @@
       "display_name": "東月方璃",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c09f3497-68e9-4f54-bf5f-5f728740f7b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/touhou_1560",
-      "is_live": true,
-      "title": "【26日目】ちょっとだけ #yuzucity #YCGTA #ゆず鯖",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
-      "started_at": "2026-05-26T15:10:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -422,7 +412,7 @@
       "is_live": true,
       "title": "深夜の不定期ラジオ配信 【ねこラジ】vol.20",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-26T15:40:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_necomanma81-{width}x{height}.jpg"
     },
@@ -567,7 +557,7 @@
       "is_live": true,
       "title": "今日はえぺ",
       "game_name": "Apex Legends",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-26T14:45:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
@@ -599,12 +589,7 @@
       "display_name": "白峰ウゲツ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1a3151a-e3a6-4cad-9a30-eeddf2457e81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ugetsushiramine",
-      "is_live": true,
-      "title": "【OW-Ranked】ゆかいな仲間達と戦績を緑に染める。【初見ROM歓迎】",
-      "game_name": "Overwatch",
-      "viewer_count": 3,
-      "started_at": "2026-05-26T12:02:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ugetsushiramine-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -657,7 +642,7 @@
       "is_live": true,
       "title": "エヴァ犯罪",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-26T13:49:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
