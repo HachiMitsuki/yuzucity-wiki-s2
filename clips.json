@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-05-27T00:17:24+09:00",
+  "updated_at": "2026-05-27T01:14:10+09:00",
   "clips": [
+    {
+      "id": 205,
+      "source": "twitch",
+      "source_id": "SteamyResoluteRutabagaSeemsGood-NXMzKkmQ6WEMQ90W",
+      "url": "https://www.twitch.tv/kimson_vtuber/clip/SteamyResoluteRutabagaSeemsGood-NXMzKkmQ6WEMQ90W",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SteamyResoluteRutabagaSeemsGood-NXMzKkmQ6WEMQ90W",
+      "title": "フリーカ逮捕RTA any％",
+      "description": "https://www.twitch.tv/kimson_vtuber/clip/SteamyResoluteRutabagaSeemsGood-NXMzKkmQ6WEMQ90W\nフリーカ逮捕最速RTA any％",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/89654683-2452-4f7e-a484-4b626fe6b1a1/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 60,
+      "broadcaster_name": "きむそん",
+      "author_name": "きむそん",
+      "author_avatar": "https://cdn.discordapp.com/avatars/348495120850616331/2d2eccadd8463c04b200398356c00148.png?size=128",
+      "posted_at": "2026-05-27T01:14:09+09:00"
+    },
     {
       "id": 204,
       "source": "twitch",
