@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T20:01:05+09:00",
+  "updated_at": "2026-05-26T20:06:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -89,7 +89,12 @@
       "display_name": "海咲ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1945630a-ec37-440a-b530-3524be376090-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/umisaki3",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YCGTA] 25日目 ポン海咲ゆうのすけ成長日記",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-26T11:04:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -217,7 +222,7 @@
       "is_live": true,
       "title": "ゆずシティー オレンジギャング3日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-26T08:12:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
