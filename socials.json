@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T13:40:52+09:00",
+  "updated_at": "2026-05-26T20:42:49+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -945,6 +945,13 @@
       "display_name": "やみるん",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1990867602944790528/Y0QmWmaG_400x400.jpg",
       "profile_url": "https://x.com/yamirnn"
+    },
+    {
+      "platform": "x",
+      "handle": "yukikage_ryou",
+      "display_name": "幸景 玲 ❄️👾🎮",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1495904551148601344/OAtOIfLv_400x400.jpg",
+      "profile_url": "https://x.com/yukikage_ryou"
     }
   ]
 }
