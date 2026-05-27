@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T19:55:58+09:00",
+  "updated_at": "2026-05-27T20:01:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -89,7 +89,12 @@
       "display_name": "海咲ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1945630a-ec37-440a-b530-3524be376090-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/umisaki3",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YCGTA] 26日目 ポン海咲ゆうのすけ成長日記",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-27T11:00:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -122,7 +127,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day27 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 9,
+      "viewer_count": 11,
       "started_at": "2026-05-27T08:21:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -212,7 +217,7 @@
       "is_live": true,
       "title": "ゆずシティー オレンジギャング4日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-27T08:10:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -227,7 +232,7 @@
       "is_live": true,
       "title": "ゆずシティ18日目    お腹すいた",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-27T08:43:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
@@ -602,7 +607,7 @@
       "is_live": true,
       "title": "へっぽこ警官の逮捕劇",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-27T07:56:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakuachan__-{width}x{height}.jpg"
     },
