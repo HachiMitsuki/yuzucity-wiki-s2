@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T16:50:58+09:00",
+  "updated_at": "2026-05-27T16:55:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -382,7 +382,7 @@
       "is_live": true,
       "title": "【 OW 】 暴言吐いたら即終了 【 伏屋ななし / Vtuber 】",
       "game_name": "Overwatch",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-27T07:47:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
