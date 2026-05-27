@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T16:55:57+09:00",
+  "updated_at": "2026-05-27T17:00:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -382,7 +382,7 @@
       "is_live": true,
       "title": "【 OW 】 暴言吐いたら即終了 【 伏屋ななし / Vtuber 】",
       "game_name": "Overwatch",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-27T07:47:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
@@ -574,7 +574,12 @@
       "display_name": "夢響ハクア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ea5fcdf-34fa-4cad-917c-370a4bca05cc-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakuachan__",
-      "is_live": false
+      "is_live": true,
+      "title": "へっぽこ警官の逮捕劇",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-27T07:56:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakuachan__-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
