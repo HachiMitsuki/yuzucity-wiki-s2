@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T02:55:57+09:00",
+  "updated_at": "2026-05-28T03:00:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -129,12 +129,7 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": true,
-      "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day27 #ゆず鯖 #YCGTA #FiveM",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
-      "started_at": "2026-05-27T08:21:22Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -217,7 +212,7 @@
       "is_live": true,
       "title": "ゆずシティー オレンジギャング4日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 1,
       "started_at": "2026-05-27T08:10:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -387,7 +382,7 @@
       "is_live": true,
       "title": "【VTuber】抗争屋さん【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 64,
+      "viewer_count": 56,
       "started_at": "2026-05-27T12:17:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -637,7 +632,7 @@
       "is_live": true,
       "title": "ラフPD!??",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-27T14:26:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
