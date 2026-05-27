@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T03:05:56+09:00",
+  "updated_at": "2026-05-28T03:10:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -200,10 +200,10 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
       "is_live": true,
-      "title": "ゆずシティー オレンジギャング4日目",
+      "title": "ソロランク",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
-      "started_at": "2026-05-27T08:10:42Z",
+      "viewer_count": 0,
+      "started_at": "2026-05-27T18:10:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
@@ -367,7 +367,7 @@
       "is_live": true,
       "title": "【VTuber】抗争屋さん【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 57,
+      "viewer_count": 61,
       "started_at": "2026-05-27T12:17:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -602,7 +602,7 @@
       "is_live": true,
       "title": "ラフPD!??",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-05-27T14:26:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
