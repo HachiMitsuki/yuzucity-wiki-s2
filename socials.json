@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T21:06:31+09:00",
+  "updated_at": "2026-05-28T03:14:59+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -959,6 +959,13 @@
       "display_name": "ともサバ ＠Twitch Vstreamer",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1648144041455030273/SnXHP5dK_400x400.jpg",
       "profile_url": "https://x.com/tomosava0919"
+    },
+    {
+      "platform": "x",
+      "handle": "gonta4274",
+      "display_name": "ぼっちのごんた",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1662028500155662336/2p6QrfSt_400x400.jpg",
+      "profile_url": "https://x.com/gonta4274"
     }
   ]
 }
