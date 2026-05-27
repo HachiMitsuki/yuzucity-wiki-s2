@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T21:41:02+09:00",
+  "updated_at": "2026-05-27T21:46:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -137,7 +137,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day27 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-27T08:21:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -187,7 +187,7 @@
       "is_live": true,
       "title": "【Yuzu City】おひさしぶりですごめんなさい#9【鳩禁止】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-27T12:13:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -297,7 +297,7 @@
       "is_live": true,
       "title": "【GTA5】ラフシティ 抗争 猫梅つばさ",
       "game_name": "",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "started_at": "2026-05-27T11:21:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tubasa_twitch-{width}x{height}.jpg"
     },
@@ -334,7 +334,12 @@
       "display_name": "絶叫者イノ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#Yuzucity】もしかしたら今日が最後？？？ Day13 | GTA",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 2,
+      "started_at": "2026-05-27T12:42:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -402,7 +407,7 @@
       "is_live": true,
       "title": "ちょっとだけランクマやったり他やったり",
       "game_name": "Mecha BREAK",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-27T11:59:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -427,7 +432,7 @@
       "is_live": true,
       "title": "【VTuber】抗争屋さん【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 29,
+      "viewer_count": 25,
       "started_at": "2026-05-27T12:17:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -442,7 +447,7 @@
       "is_live": true,
       "title": "【Yuzu City】Day.15 この街ももうすぐ終わり",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-27T12:05:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_necomanma81-{width}x{height}.jpg"
     },
@@ -479,7 +484,12 @@
       "display_name": "黒苺みるく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdf3aa29-5b5a-4c8a-a53b-313c78d354da-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/milk_black_",
-      "is_live": false
+      "is_live": true,
+      "title": "《Yuzucity》│んふふ🎀ིྀ day20｜#YuzuCtiy",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-27T12:42:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -652,7 +662,7 @@
       "is_live": true,
       "title": "副署長出勤します  day17？？ #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-27T11:38:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
