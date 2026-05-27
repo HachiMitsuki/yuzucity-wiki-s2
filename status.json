@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T17:40:56+09:00",
+  "updated_at": "2026-05-27T17:45:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day27 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 12,
+      "viewer_count": 9,
       "started_at": "2026-05-27T08:21:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -224,7 +224,12 @@
       "display_name": "静住ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b170283c-117d-43b7-b9dc-adcdd161bbf5-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shizumi_yuu",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティ18日目    お腹すいた",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 2,
+      "started_at": "2026-05-27T08:43:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -397,7 +402,7 @@
       "is_live": true,
       "title": "【 OW 】 暴言吐いたら即終了 【 伏屋ななし / Vtuber 】",
       "game_name": "Overwatch",
-      "viewer_count": 7,
+      "viewer_count": 5,
       "started_at": "2026-05-27T07:47:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
@@ -442,7 +447,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day２７ 目指せ逮捕ゼロ",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-27T08:38:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -597,7 +602,7 @@
       "is_live": true,
       "title": "へっぽこ警官の逮捕劇",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-27T07:56:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakuachan__-{width}x{height}.jpg"
     },
