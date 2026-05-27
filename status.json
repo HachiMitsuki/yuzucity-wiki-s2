@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T01:00:59+09:00",
+  "updated_at": "2026-05-28T01:06:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -99,12 +99,7 @@
       "display_name": "海咲ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1945630a-ec37-440a-b530-3524be376090-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/umisaki3",
-      "is_live": true,
-      "title": "[#YCGTA] 26日目 ポン海咲ゆうのすけ成長日記",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
-      "started_at": "2026-05-27T11:00:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -117,7 +112,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #26",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 5,
       "started_at": "2026-05-27T11:02:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -142,7 +137,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day27 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-27T08:21:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -227,7 +222,7 @@
       "is_live": true,
       "title": "ゆずシティー オレンジギャング4日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-27T08:10:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -242,7 +237,7 @@
       "is_live": true,
       "title": "ゆずシティ18日目    お腹すいた",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-27T08:43:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
@@ -407,7 +402,7 @@
       "is_live": true,
       "title": "【VTuber】抗争屋さん【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 63,
+      "viewer_count": 61,
       "started_at": "2026-05-27T12:17:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -432,7 +427,7 @@
       "is_live": true,
       "title": "【 OW 】 ﾁｷﾁｷOW 【 伏屋ななし / Vtuber / コラボ 】",
       "game_name": "Overwatch",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-27T12:34:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
@@ -457,7 +452,7 @@
       "is_live": true,
       "title": "《Yuzucity》│んふふ🎀ིྀ day20｜#YuzuCtiy",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-27T12:42:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -544,12 +539,7 @@
       "display_name": "楽希",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raki_vt",
-      "is_live": true,
-      "title": "【Yuzu City】今日moブースティングするぞ！",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-27T11:12:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -627,7 +617,7 @@
       "is_live": true,
       "title": "副署長出勤します  day17？？ #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-27T11:38:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
