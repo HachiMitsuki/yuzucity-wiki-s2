@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T20:42:49+09:00",
+  "updated_at": "2026-05-27T21:06:31+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -952,6 +952,13 @@
       "display_name": "幸景 玲 ❄️👾🎮",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1495904551148601344/OAtOIfLv_400x400.jpg",
       "profile_url": "https://x.com/yukikage_ryou"
+    },
+    {
+      "platform": "x",
+      "handle": "tomosava0919",
+      "display_name": "ともサバ ＠Twitch Vstreamer",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1648144041455030273/SnXHP5dK_400x400.jpg",
+      "profile_url": "https://x.com/tomosava0919"
     }
   ]
 }
