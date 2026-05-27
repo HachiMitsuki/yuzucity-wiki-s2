@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T15:26:01+09:00",
+  "updated_at": "2026-05-27T15:30:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "神ゲーprojectzomboid",
       "game_name": "Project Zomboid",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-27T06:24:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
