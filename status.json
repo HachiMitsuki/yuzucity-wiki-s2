@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T17:10:58+09:00",
+  "updated_at": "2026-05-27T17:15:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -199,7 +199,12 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティー オレンジギャング4日目",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-27T08:10:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -382,7 +387,7 @@
       "is_live": true,
       "title": "【 OW 】 暴言吐いたら即終了 【 伏屋ななし / Vtuber 】",
       "game_name": "Overwatch",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-27T07:47:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
@@ -577,7 +582,7 @@
       "is_live": true,
       "title": "へっぽこ警官の逮捕劇",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 5,
       "started_at": "2026-05-27T07:56:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakuachan__-{width}x{height}.jpg"
     },
