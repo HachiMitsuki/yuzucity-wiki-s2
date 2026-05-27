@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T04:10:56+09:00",
+  "updated_at": "2026-05-28T04:15:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -202,7 +202,7 @@
       "is_live": true,
       "title": "ソロランク",
       "game_name": "VALORANT",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-27T18:10:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -594,12 +594,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8c6afb2-601c-4a34-9684-8d22fafc7e2e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "ラフPD!??",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-27T14:26:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
