@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T20:01:03+09:00",
+  "updated_at": "2026-05-28T20:06:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -89,7 +89,12 @@
       "display_name": "海咲ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1945630a-ec37-440a-b530-3524be376090-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/umisaki3",
-      "is_live": false
+      "is_live": true,
+      "title": "[#YCGTA] 27日目 ポン海咲ゆうのすけ成長日記",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-28T11:01:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_umisaki3-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -102,7 +107,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #27",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-28T09:06:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -114,7 +119,12 @@
       "display_name": "frcl_orito",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68ada1b8-e896-4e74-ae7d-d862bb5e6116-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "黒服days",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-28T11:00:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -127,7 +137,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day28 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 4,
       "started_at": "2026-05-28T09:20:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -217,7 +227,7 @@
       "is_live": true,
       "title": "ゆずシティーオレンジギャング",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-28T08:28:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -259,7 +269,12 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖 】ホストですって 23日目【#vtuber /雷音雅】",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-28T11:01:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -484,7 +499,12 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": false
+      "is_live": true,
+      "title": "弱くても頑張る  VALORANT #VALORANTコンペ #VTuber",
+      "game_name": "VALORANT",
+      "viewer_count": 2,
+      "started_at": "2026-05-28T11:03:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -597,7 +617,7 @@
       "is_live": true,
       "title": "へっぽこ警官の逮捕劇",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-28T10:38:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakuachan__-{width}x{height}.jpg"
     },
