@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T19:26:02+09:00",
+  "updated_at": "2026-05-28T19:31:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -442,7 +442,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day２８ 大型大型大型！！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-28T10:21:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
