@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T00:01:04+09:00",
+  "updated_at": "2026-05-29T00:06:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #27",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-28T09:06:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -142,7 +142,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day28 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 8,
       "started_at": "2026-05-28T09:20:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -204,12 +204,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【ゆず鯖】キャバクラ、ホストイベント日らしいよ 24日目パート2 Re:黒島へへ  GTA【初見歓迎】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
-      "started_at": "2026-05-28T13:01:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -232,7 +227,7 @@
       "is_live": true,
       "title": "ゆずシティーオレンジギャング",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 5,
       "started_at": "2026-05-28T08:28:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -307,7 +302,7 @@
       "is_live": true,
       "title": "【YCGTA】キャバイベ19【紐流龍XX日目】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-28T13:37:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
     },
@@ -399,12 +394,7 @@
       "display_name": "火影こたつ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": true,
-      "title": "【VTuber】知らない街でラフに生きてみた16【FiveM/#yuzucity】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 10,
-      "started_at": "2026-05-28T13:58:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -417,7 +407,7 @@
       "is_live": true,
       "title": "【ねこラジ】vol.21 PCOAGTA guest 奏汰",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-28T13:55:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_necomanma81-{width}x{height}.jpg"
     },
@@ -452,7 +442,7 @@
       "is_live": true,
       "title": "《Yuzucity》│キャバ出勤🎀ིྀ day21｜#YuzuCtiy",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-28T11:51:51Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -517,7 +507,7 @@
       "is_live": true,
       "title": "弱くても頑張る  VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-28T11:03:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -632,7 +622,7 @@
       "is_live": true,
       "title": "へっぽこ警官の逮捕劇",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-28T10:38:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakuachan__-{width}x{height}.jpg"
     },
