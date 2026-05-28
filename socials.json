@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T03:14:59+09:00",
+  "updated_at": "2026-05-28T10:04:34+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -966,6 +966,13 @@
       "display_name": "ぼっちのごんた",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1662028500155662336/2p6QrfSt_400x400.jpg",
       "profile_url": "https://x.com/gonta4274"
+    },
+    {
+      "platform": "x",
+      "handle": "gumimi_87",
+      "display_name": "碧甘ぐみ/mikamogumi",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1997935563887001601/DNHUZE59_400x400.jpg",
+      "profile_url": "https://x.com/gumimi_87"
     }
   ]
 }
