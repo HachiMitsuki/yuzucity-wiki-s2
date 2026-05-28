@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T18:36:50+09:00",
+  "updated_at": "2026-05-28T19:30:48+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -980,6 +980,13 @@
       "display_name": "Mako a.k.a 瑠唯",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1732264893792092160/qGKS-bb0_400x400.jpg",
       "profile_url": "https://x.com/0401_mako_"
+    },
+    {
+      "platform": "x",
+      "handle": "emachanv",
+      "display_name": "エマ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2052644617611624448/nHdPEtAd_400x400.jpg",
+      "profile_url": "https://x.com/emachanv"
     }
   ]
 }
