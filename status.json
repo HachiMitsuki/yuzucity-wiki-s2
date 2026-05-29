@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T02:20:57+09:00",
+  "updated_at": "2026-05-30T02:25:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -12,7 +12,7 @@
       "is_live": true,
       "title": "【ゆずシティ】明日のためにホストの衣装を作る",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-29T12:29:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
@@ -52,7 +52,7 @@
       "is_live": true,
       "title": "気のすむまで！～20日目～【龍咲】【#YCGTA #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-29T15:17:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -117,7 +117,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #28",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-29T12:22:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -237,7 +237,7 @@
       "is_live": true,
       "title": "ゆずシティーオレンジギャング",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "started_at": "2026-05-29T08:11:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -569,12 +569,7 @@
       "display_name": "海月織",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": true,
-      "title": "さぼってごめん；； 流石にやります",
-      "game_name": "VALORANT",
-      "viewer_count": 1,
-      "started_at": "2026-05-29T15:19:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -647,7 +642,7 @@
       "is_live": true,
       "title": "へっぽこ警官の逮捕劇",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-29T08:09:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakuachan__-{width}x{height}.jpg"
     },
