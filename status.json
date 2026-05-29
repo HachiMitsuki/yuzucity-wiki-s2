@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T18:00:56+09:00",
+  "updated_at": "2026-05-29T18:05:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -99,7 +99,12 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": false
+      "is_live": true,
+      "title": "【YCGTA】警察署長観測所 #28",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-29T09:04:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -122,7 +127,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day29 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 6,
       "started_at": "2026-05-29T09:00:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -474,7 +479,12 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": false
+      "is_live": true,
+      "title": "無職のはかない！！ VALORANT #VALORANTコンペ #VTuber",
+      "game_name": "VALORANT",
+      "viewer_count": 3,
+      "started_at": "2026-05-29T09:03:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -587,7 +597,7 @@
       "is_live": true,
       "title": "へっぽこ警官の逮捕劇",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-29T08:09:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakuachan__-{width}x{height}.jpg"
     },
