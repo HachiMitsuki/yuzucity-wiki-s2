@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T14:10:55+09:00",
+  "updated_at": "2026-05-29T14:25:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -109,12 +109,7 @@
       "display_name": "frcl_orito",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68ada1b8-e896-4e74-ae7d-d862bb5e6116-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "生き残るzomboid",
-      "game_name": "Project Zomboid",
-      "viewer_count": 4,
-      "started_at": "2026-05-29T03:08:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
