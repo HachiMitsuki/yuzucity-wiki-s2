@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T14:52:20+09:00",
+  "updated_at": "2026-05-29T19:31:52+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1001,6 +1001,13 @@
       "display_name": "_ごはん",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1965191177013264384/fOn9QAKC_400x400.jpg",
       "profile_url": "https://x.com/gohan_twitch"
+    },
+    {
+      "platform": "x",
+      "handle": "osushil_etoa",
+      "display_name": "おすしえる@寿司の神Vtuber🍣🪽",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1737878797654147072/egqoKaeR_400x400.jpg",
+      "profile_url": "https://x.com/osushil_etoa"
     }
   ]
 }
