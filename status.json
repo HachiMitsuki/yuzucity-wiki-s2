@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T14:25:55+09:00",
+  "updated_at": "2026-05-29T14:30:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -152,7 +152,7 @@
       "is_live": true,
       "title": "【MechaBREAK】新シーズンらしい",
       "game_name": "Mecha BREAK",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-29T05:07:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_k6o_minase-{width}x{height}.jpg"
     },
