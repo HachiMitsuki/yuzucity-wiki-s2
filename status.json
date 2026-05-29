@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T21:45:58+09:00",
+  "updated_at": "2026-05-29T21:50:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -302,7 +302,7 @@
       "is_live": true,
       "title": "【29日目】~END~ #yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-29T11:04:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
@@ -482,7 +482,7 @@
       "is_live": true,
       "title": "【#ff14  】記憶忘れのサブでFF14 ～クガネ入ったぞ～！♯17～【#vtuber #藤堂リモ】",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-29T10:58:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_todo_rimo-{width}x{height}.jpg"
     },
@@ -622,7 +622,7 @@
       "is_live": true,
       "title": "【YuzuCity】今日でキャラエンド！最後に挨拶まわりしたいね #YuzuCity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-29T11:33:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ugetsushiramine-{width}x{height}.jpg"
     },
@@ -677,7 +677,7 @@
       "is_live": true,
       "title": "【スト６】3万バズを叩き出して引くに引けなくなった男",
       "game_name": "Street Fighter 6",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-29T11:41:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
