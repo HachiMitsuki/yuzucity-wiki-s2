@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T03:45:56+09:00",
+  "updated_at": "2026-05-30T04:00:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -209,12 +209,7 @@
       "display_name": "静住ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b170283c-117d-43b7-b9dc-adcdd161bbf5-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shizumi_yuu",
-      "is_live": true,
-      "title": "ゆずシティ19日目    RPだからね？気を付けて",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
-      "started_at": "2026-05-29T09:25:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
