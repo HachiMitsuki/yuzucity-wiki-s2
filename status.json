@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T04:00:59+09:00",
+  "updated_at": "2026-05-30T04:05:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -292,7 +292,7 @@
       "is_live": true,
       "title": "[YUZU city] 顔お言いバイク買ったぞ！",
       "game_name": "",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-29T13:11:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ukigumo_watame-{width}x{height}.jpg"
     },
