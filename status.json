@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T20:00:57+09:00",
+  "updated_at": "2026-05-29T20:05:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -132,7 +132,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day29 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 7,
+      "viewer_count": 5,
       "started_at": "2026-05-29T09:00:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -222,7 +222,7 @@
       "is_live": true,
       "title": "ゆずシティーオレンジギャング",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 7,
+      "viewer_count": 4,
       "started_at": "2026-05-29T08:11:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -289,7 +289,12 @@
       "display_name": "東月方璃",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c09f3497-68e9-4f54-bf5f-5f728740f7b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/touhou_1560",
-      "is_live": false
+      "is_live": true,
+      "title": "【29日目】~END~ #yuzucity #YCGTA #ゆず鯖",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-29T11:04:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -452,7 +457,7 @@
       "is_live": true,
       "title": "【#ff14  】記憶忘れのサブでFF14 ～クガネ入ったぞ～！♯17～【#vtuber #藤堂リモ】",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-29T10:58:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_todo_rimo-{width}x{height}.jpg"
     },
@@ -507,7 +512,7 @@
       "is_live": true,
       "title": "無職のはかない！！ VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-29T10:11:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
