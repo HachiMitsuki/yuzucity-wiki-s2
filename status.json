@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T03:45:57+09:00",
+  "updated_at": "2026-05-31T03:50:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -222,7 +222,7 @@
       "is_live": true,
       "title": "ゆずシティ20日目    忙しいかも",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-30T12:05:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
@@ -470,9 +470,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5980bf5-28a6-4886-b78e-86bca2f6fc76-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
       "is_live": true,
-      "title": "久しぶりだしなんでもありpd メカ ぎゅあんぐ",
+      "title": "メモグラ同窓会 久しぶりだしなんでもありpd メカ ぎゅあんぐ",
       "game_name": "Just Chatting",
-      "viewer_count": 5,
+      "viewer_count": 1,
       "started_at": "2026-05-30T12:57:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
