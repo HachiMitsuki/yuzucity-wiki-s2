@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T18:05:58+09:00",
+  "updated_at": "2026-05-30T18:10:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -162,7 +162,7 @@
       "is_live": true,
       "title": "【Yuzu City】メカニック大忙しだあ～#12【鳩禁止】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-30T07:27:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -492,7 +492,7 @@
       "is_live": true,
       "title": "【Yuzu City】今日からなんでもありらしい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-30T06:35:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
