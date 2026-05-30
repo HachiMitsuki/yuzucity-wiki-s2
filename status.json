@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T06:05:56+09:00",
+  "updated_at": "2026-05-31T06:10:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -119,7 +119,12 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": false
+      "is_live": true,
+      "title": "🔴LIVE【 #YCGTA 】本日最終日！Yuzucityでの出来事  day31 #ゆず鯖 #YCGTA #FiveM",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-30T21:10:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -482,7 +487,7 @@
       "is_live": true,
       "title": "日常 #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-30T21:04:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azuma1111-{width}x{height}.jpg"
     },
@@ -584,12 +589,7 @@
       "display_name": "夢響ハクア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ea5fcdf-34fa-4cad-917c-370a4bca05cc-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakuachan__",
-      "is_live": true,
-      "title": "へっぽこ警官だがギャングにも行く物語",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
-      "started_at": "2026-05-30T05:24:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakuachan__-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
