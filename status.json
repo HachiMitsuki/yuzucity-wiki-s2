@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T20:15:59+09:00",
+  "updated_at": "2026-05-30T20:20:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #29",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-30T11:03:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -447,7 +447,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day３０ 残り2日！大暴れだ！！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-30T06:33:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
