@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T14:50:58+09:00",
+  "updated_at": "2026-05-30T14:55:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -412,7 +412,7 @@
       "is_live": true,
       "title": "【#ff14  】記憶忘れのサブでFF14 ～クガネ入ったぞ～！♯17～【#vtuber #藤堂リモ】",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-30T04:00:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_todo_rimo-{width}x{height}.jpg"
     },
