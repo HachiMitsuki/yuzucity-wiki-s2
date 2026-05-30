@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T01:35:59+09:00",
+  "updated_at": "2026-05-31T01:40:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -182,7 +182,7 @@
       "is_live": true,
       "title": "【Yuzu City】メカニック大忙しだあ～#12【鳩禁止】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-30T07:27:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -227,7 +227,7 @@
       "is_live": true,
       "title": "ゆずシティーオレンジギャング",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-30T10:56:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -342,7 +342,7 @@
       "is_live": true,
       "title": "ゆずシティ RE:最終日の前日",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-30T12:21:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
@@ -477,7 +477,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day３０ 残り2日！大暴れだ！！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-30T16:09:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
@@ -667,7 +667,7 @@
       "is_live": true,
       "title": "【yuzucity】なんでもありのごちゃまぜDay",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-30T12:25:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
