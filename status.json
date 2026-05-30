@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T20:00:59+09:00",
+  "updated_at": "2026-05-30T20:05:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -109,7 +109,12 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": false
+      "is_live": true,
+      "title": "【YCGTA】警察署長観測所 #29",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 3,
+      "started_at": "2026-05-30T11:03:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
