@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T07:45:56+09:00",
+  "updated_at": "2026-05-31T07:50:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】本日最終日！Yuzucityでの出来事  day31 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "started_at": "2026-05-30T21:10:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -167,7 +167,7 @@
       "is_live": true,
       "title": "【Yuzu City】メカニック大忙しだあ～#12【鳩禁止】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-30T07:27:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -402,7 +402,7 @@
       "is_live": true,
       "title": "[GTA] day22 残り１週間  とにかく楽しむ",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-30T14:02:46Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
