@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T03:40:57+09:00",
+  "updated_at": "2026-05-31T03:45:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -207,7 +207,7 @@
       "is_live": true,
       "title": "ゆずシティーオレンジギャング",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-30T10:56:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -222,7 +222,7 @@
       "is_live": true,
       "title": "ゆずシティ20日目    忙しいかも",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-30T12:05:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
@@ -472,7 +472,7 @@
       "is_live": true,
       "title": "久しぶりだしなんでもありpd メカ ぎゅあんぐ",
       "game_name": "Just Chatting",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-30T12:57:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
@@ -602,7 +602,7 @@
       "is_live": true,
       "title": "へっぽこ警官だがギャングにも行く物語",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-30T05:24:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakuachan__-{width}x{height}.jpg"
     },
