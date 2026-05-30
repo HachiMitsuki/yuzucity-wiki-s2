@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T05:25:56+09:00",
+  "updated_at": "2026-05-31T05:30:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -587,7 +587,7 @@
       "is_live": true,
       "title": "へっぽこ警官だがギャングにも行く物語",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-30T05:24:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakuachan__-{width}x{height}.jpg"
     },
