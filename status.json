@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T22:16:02+09:00",
+  "updated_at": "2026-05-30T22:20:31+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,7 +19,12 @@
       "display_name": "碧甘ぐみ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e0bd64f-84d3-4830-a711-0b44c9f675fe-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mikamo_gumi_247",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】#18緑ギャング活動日記〖初見さんコメント大歓迎〗",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-30T13:18:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -42,7 +47,7 @@
       "is_live": true,
       "title": "何でもDAYらしい！～21 日目～【龍咲】【#YCGTA #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-30T09:28:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -112,7 +117,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #29",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-30T11:03:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -142,7 +147,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】Yuzucityでの出来事  day30 #ゆず鯖 #YCGTA #FiveM",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 3,
       "started_at": "2026-05-30T11:42:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -187,7 +192,7 @@
       "is_live": true,
       "title": "【Yuzu City】メカニック大忙しだあ～#12【鳩禁止】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-30T07:27:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -287,7 +292,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】この街ももう少しで終わり 25日目【#vtuber /雷音雅】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-30T12:16:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -302,7 +307,7 @@
       "is_live": true,
       "title": "【GTA5】ラフシティ 抗争 猫梅つばさ",
       "game_name": "",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-30T12:28:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tubasa_twitch-{width}x{height}.jpg"
     },
@@ -337,7 +342,7 @@
       "is_live": true,
       "title": "サブデュエ練習ヴァロラント | VALORANT",
       "game_name": "VALORANT",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-30T12:02:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -427,7 +432,7 @@
       "is_live": true,
       "title": "【VTuber】LKD(ラスト抗争デイ)【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 33,
+      "viewer_count": 35,
       "started_at": "2026-05-30T12:29:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -477,7 +482,7 @@
       "is_live": true,
       "title": "《Yuzucity》│終わりが...🎀ིྀ day23｜#YuzuCtiy",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-30T11:43:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -552,7 +557,7 @@
       "is_live": true,
       "title": "夜のヴァロ開始！！ VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-30T11:35:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -597,7 +602,7 @@
       "is_live": true,
       "title": "【#ARCRaiders】Drop✅明日は顔出しでサッカー観戦するかも？！",
       "game_name": "ARC Raiders",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-05-30T12:33:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -652,7 +657,7 @@
       "is_live": true,
       "title": "副署長出勤します  day19？？今日から何でもやっていい日！ #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-30T12:17:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
@@ -707,7 +712,7 @@
       "is_live": true,
       "title": "ワイプ前ラスト抗争",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-05-30T12:28:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
@@ -899,6 +904,16 @@
       "display_name": "🐺Mo²🦊",
       "profile_image_url": "https://yt3.ggpht.com/xW57GYijE3lOuh53Z_J5shr07fJYyDiCwVgAM9SjbwMNIK5-QKQNvqTo-qUA38Nt6itta1gQKw=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40momo_v7uber",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCdqWvkjGh-UfWpdOUYEsRMA",
+      "channel_id": "UCdqWvkjGh-UfWpdOUYEsRMA",
+      "handle": "@umizuki.nagi0715",
+      "display_name": "なぎげーむず",
+      "profile_image_url": "https://yt3.ggpht.com/78e-dpqQXs0r1FpUnv6eiPRdJ6nifGftYvc1BV_uj_UVFc6F_aWRAMxCXplTtqOzGFxpZaLrYw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40umizuki.nagi0715",
       "is_live": false
     }
   ]
