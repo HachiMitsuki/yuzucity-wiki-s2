@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T19:31:52+09:00",
+  "updated_at": "2026-05-30T12:58:54+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1008,6 +1008,13 @@
       "display_name": "おすしえる@寿司の神Vtuber🍣🪽",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1737878797654147072/egqoKaeR_400x400.jpg",
       "profile_url": "https://x.com/osushil_etoa"
+    },
+    {
+      "platform": "x",
+      "handle": "mega31500123",
+      "display_name": "MEGAちゃんねる_友達欲しい新人配信者",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2018722316818296832/myJPDUR2_400x400.jpg",
+      "profile_url": "https://x.com/mega31500123"
     }
   ]
 }
