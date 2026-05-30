@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T04:25:56+09:00",
+  "updated_at": "2026-05-31T04:30:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -472,7 +472,7 @@
       "is_live": true,
       "title": "メモグラ同窓会 久しぶりだしなんでもありpd メカ ぎゅあんぐ",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-30T12:57:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
