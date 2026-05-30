@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T16:20:59+09:00",
+  "updated_at": "2026-05-30T16:25:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -329,7 +329,12 @@
       "display_name": "七瀬のん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a6ec22c-c525-4dd0-9dc3-46c808857ea7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nanasenon",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu】緊急起床！！！綾瀬のん視点",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-30T07:22:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanasenon-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -422,7 +427,7 @@
       "is_live": true,
       "title": "【YUZU CITY】Day３０ 残り2日！大暴れだ！！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-30T06:33:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
