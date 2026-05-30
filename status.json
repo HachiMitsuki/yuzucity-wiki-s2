@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T23:06:02+09:00",
+  "updated_at": "2026-05-30T23:07:08+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,7 +9,12 @@
       "display_name": "藍音です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f86960a-38c3-4412-85aa-6405f054f8d3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aito_mus01",
-      "is_live": false
+      "is_live": true,
+      "title": "【ゆずシティ】後日談1日目",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-05-30T14:06:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -47,7 +52,7 @@
       "is_live": true,
       "title": "何でもDAYらしい！～21 日目～【龍咲】【#YCGTA #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-05-30T09:28:59Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -307,7 +312,7 @@
       "is_live": true,
       "title": "【GTA5】ラフシティ 抗争 猫梅つばさ",
       "game_name": "",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-30T12:28:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tubasa_twitch-{width}x{height}.jpg"
     },
@@ -437,7 +442,7 @@
       "is_live": true,
       "title": "【VTuber】LKD(ラスト抗争デイ)【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 27,
+      "viewer_count": 36,
       "started_at": "2026-05-30T12:29:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -672,7 +677,7 @@
       "is_live": true,
       "title": "副署長出勤します  day19？？今日から何でもやっていい日！ #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 4,
       "started_at": "2026-05-30T12:17:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
@@ -697,7 +702,7 @@
       "is_live": true,
       "title": "へっぽこ警官だがギャングにも行く物語",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-05-30T05:24:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakuachan__-{width}x{height}.jpg"
     },
@@ -727,9 +732,24 @@
       "is_live": true,
       "title": "ワイプ前ラスト抗争",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 9,
+      "viewer_count": 11,
       "started_at": "2026-05-30T12:28:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "tsukkyi_vl",
+      "login": "tsukkyi_vl",
+      "user_id": "747391704",
+      "display_name": "tsukkyi_vl",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6131d734-76ff-4c55-a167-02ba9e7fd60c-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/tsukkyi_vl",
+      "is_live": true,
+      "title": "yuzucity イベント主催！！！",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 4,
+      "started_at": "2026-05-30T13:44:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
