@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T12:45:57+09:00",
+  "updated_at": "2026-05-30T12:50:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -462,7 +462,7 @@
       "is_live": true,
       "title": "久しぶりの雑談でなにしようかな？",
       "game_name": "Just Chatting",
-      "viewer_count": 0,
+      "viewer_count": 2,
       "started_at": "2026-05-30T03:45:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
