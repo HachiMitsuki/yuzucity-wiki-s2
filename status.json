@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T17:55:59+09:00",
+  "updated_at": "2026-05-31T18:00:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -12,7 +12,7 @@
       "is_live": true,
       "title": "【ゆずシティ】歌うぞ～～～！！！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-05-31T08:55:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
