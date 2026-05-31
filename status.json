@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T18:06:00+09:00",
+  "updated_at": "2026-05-31T18:10:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -12,7 +12,7 @@
       "is_live": true,
       "title": "【ゆずシティ】歌うぞ～～～！！！",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-31T08:55:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
@@ -177,7 +177,7 @@
       "is_live": true,
       "title": "【Yuzu City】最終日！さみしいけど全力で遊ぶぞ～！！！#13【鳩禁止】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-31T05:23:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -237,7 +237,7 @@
       "is_live": true,
       "title": "ゆずシティ最終日    思い出は忘れない、また会いたい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-31T05:01:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
