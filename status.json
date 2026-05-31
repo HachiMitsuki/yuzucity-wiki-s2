@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T04:55:54+09:00",
+  "updated_at": "2026-06-01T05:10:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -202,7 +202,7 @@
       "is_live": true,
       "title": "ウマ娘イベントストーリー",
       "game_name": "Umamusume: Pretty Derby",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-05-31T17:44:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
