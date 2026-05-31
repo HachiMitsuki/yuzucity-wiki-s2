@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T02:20:57+09:00",
+  "updated_at": "2026-06-01T02:25:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -22,7 +22,7 @@
       "is_live": true,
       "title": "【YuzuCity】#最終日 緑ギャング活動日記〖初見さんコメント大歓迎〗",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-05-31T13:53:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
@@ -587,7 +587,7 @@
       "is_live": true,
       "title": "【スト６】イングリッドのほうがよっぽど希望誕生してる",
       "game_name": "Street Fighter 6",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-05-31T17:16:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
