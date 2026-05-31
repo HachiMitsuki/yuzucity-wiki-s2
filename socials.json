@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T23:58:30+09:00",
+  "updated_at": "2026-06-01T00:26:45+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1085,6 +1085,13 @@
       "display_name": "Mo²",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2009571028293541888/mNMf2YnP_400x400.jpg",
       "profile_url": "https://x.com/momo_v7uber"
+    },
+    {
+      "platform": "x",
+      "handle": "s4ba_mis0",
+      "display_name": "鯖の味噌兄",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2038578502929383424/PuCqr_M__400x400.jpg",
+      "profile_url": "https://x.com/s4ba_mis0"
     }
   ]
 }
