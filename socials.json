@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T09:11:00+09:00",
+  "updated_at": "2026-05-31T13:19:13+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1029,6 +1029,13 @@
       "display_name": "此旅/恩田ウル",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2055544697469489152/ndNnGZs9_400x400.jpg",
       "profile_url": "https://x.com/urdaskrhawkshaw"
+    },
+    {
+      "platform": "x",
+      "handle": "bc_waluaa",
+      "display_name": "星乃ノワル🐈‍⬛🌟",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1851550438207979520/281AvSSQ_400x400.jpg",
+      "profile_url": "https://x.com/bc_waluaa"
     }
   ]
 }
