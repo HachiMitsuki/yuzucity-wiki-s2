@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T20:03:04+09:00",
+  "updated_at": "2026-05-31T20:09:16+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1064,6 +1064,13 @@
       "display_name": "一色刹那🎧♦️新人Vtuber",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2049859798041243649/QnHtFoJM_400x400.jpg",
       "profile_url": "https://x.com/issiki_setsuna_"
+    },
+    {
+      "platform": "x",
+      "handle": "hoshines0rq_44",
+      "display_name": "星音そら🐏💫ギャップ系Vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1963189665168789504/rWO0otOf_400x400.jpg",
+      "profile_url": "https://x.com/hoshines0rq_44"
     }
   ]
 }
