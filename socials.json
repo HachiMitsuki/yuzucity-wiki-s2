@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T20:25:04+09:00",
+  "updated_at": "2026-05-31T23:58:30+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1078,6 +1078,13 @@
       "display_name": "佐々和 けんぴ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2046999636213436417/1y5BgB5l_400x400.jpg",
       "profile_url": "https://x.com/imokenpi_nico"
+    },
+    {
+      "platform": "x",
+      "handle": "momo_v7uber",
+      "display_name": "Mo²",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2009571028293541888/mNMf2YnP_400x400.jpg",
+      "profile_url": "https://x.com/momo_v7uber"
     }
   ]
 }
