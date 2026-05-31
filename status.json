@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T17:00:59+09:00",
+  "updated_at": "2026-05-31T17:10:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -167,7 +167,7 @@
       "is_live": true,
       "title": "【Yuzu City】最終日！さみしいけど全力で遊ぶぞ～！！！#13【鳩禁止】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-05-31T05:23:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
