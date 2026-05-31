@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T17:10:58+09:00",
+  "updated_at": "2026-05-31T17:15:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -167,7 +167,7 @@
       "is_live": true,
       "title": "【Yuzu City】最終日！さみしいけど全力で遊ぶぞ～！！！#13【鳩禁止】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-05-31T05:23:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -524,12 +524,7 @@
       "display_name": "海月織",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": true,
-      "title": "ゔぁ",
-      "game_name": "VALORANT",
-      "viewer_count": 2,
-      "started_at": "2026-05-31T04:48:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
