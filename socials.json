@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T20:01:55+09:00",
+  "updated_at": "2026-05-31T20:03:04+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1057,6 +1057,13 @@
       "display_name": "宰宮 れい（さいみや れい）👾",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1982871938717409280/pFImgZj1_400x400.jpg",
       "profile_url": "https://x.com/nlx_rei"
+    },
+    {
+      "platform": "x",
+      "handle": "issiki_setsuna_",
+      "display_name": "一色刹那🎧♦️新人Vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2049859798041243649/QnHtFoJM_400x400.jpg",
+      "profile_url": "https://x.com/issiki_setsuna_"
     }
   ]
 }
