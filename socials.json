@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T12:58:54+09:00",
+  "updated_at": "2026-05-31T09:04:28+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1015,6 +1015,13 @@
       "display_name": "MEGAちゃんねる_友達欲しい新人配信者",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2018722316818296832/myJPDUR2_400x400.jpg",
       "profile_url": "https://x.com/mega31500123"
+    },
+    {
+      "platform": "x",
+      "handle": "akagamiglass",
+      "display_name": "あか🪓🦉AKAGAMIGLASS+",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1623745237100408832/H8NDgF0m_400x400.jpg",
+      "profile_url": "https://x.com/akagamiglass"
     }
   ]
 }
