@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T14:00:58+09:00",
+  "updated_at": "2026-05-31T14:05:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -209,7 +209,12 @@
       "display_name": "静住ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b170283c-117d-43b7-b9dc-adcdd161bbf5-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shizumi_yuu",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティ最終日    思い出は忘れない、また会いたい",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 2,
+      "started_at": "2026-05-31T05:01:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
