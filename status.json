@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T22:31:02+09:00",
+  "updated_at": "2026-05-31T22:36:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "【YCGTA】警察署長観測所 #30",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-05-31T10:03:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -202,7 +202,7 @@
       "is_live": true,
       "title": "【Yuzu City】最終日！さみしいけど全力で遊ぶぞ～！！！#13【鳩禁止】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-05-31T12:49:31Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -302,7 +302,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】ありがとうそしてさようなら 最終日【#vtuber /雷音雅】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-05-31T10:05:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -352,7 +352,7 @@
       "is_live": true,
       "title": "｢神域攻防戦線｣4ヵ国対抗VALORANT | VALORANT",
       "game_name": "VALORANT",
-      "viewer_count": 7,
+      "viewer_count": 4,
       "started_at": "2026-05-31T11:59:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -442,7 +442,7 @@
       "is_live": true,
       "title": "【VTuber】知らない街でラフに生きられた17【FiveM/#yuzucity】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 10,
+      "viewer_count": 14,
       "started_at": "2026-05-31T12:08:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -612,7 +612,7 @@
       "is_live": true,
       "title": "【#VALORANT】顔出しVALO",
       "game_name": "VALORANT",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-05-31T12:41:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -667,7 +667,7 @@
       "is_live": true,
       "title": "本日最終日 #ゆず鯖 #YCGTA",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-05-31T12:51:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
@@ -689,7 +689,12 @@
       "display_name": "夢響ハクア",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ea5fcdf-34fa-4cad-917c-370a4bca05cc-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakuachan__",
-      "is_live": false
+      "is_live": true,
+      "title": "へっぽこ警官だがギャングにも行く物語",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "started_at": "2026-05-31T13:33:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakuachan__-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -702,7 +707,7 @@
       "is_live": true,
       "title": "【yuzucity】ありがとうyuzucity",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-05-31T12:10:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
@@ -717,7 +722,7 @@
       "is_live": true,
       "title": "犯罪配信",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "started_at": "2026-05-31T12:20:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
