@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T00:35:56+09:00",
+  "updated_at": "2026-06-01T00:37:16+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1113,6 +1113,13 @@
       "display_name": "黒妖@百鬼夜行",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2034593430362628096/jNI4FEsE_400x400.jpg",
       "profile_url": "https://x.com/kokuyou1007"
+    },
+    {
+      "platform": "x",
+      "handle": "yuruisyumi",
+      "display_name": "天ノ癒涙",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1559230963171082241/LVNN-ghE_400x400.jpg",
+      "profile_url": "https://x.com/yuruisyumi"
     }
   ]
 }
