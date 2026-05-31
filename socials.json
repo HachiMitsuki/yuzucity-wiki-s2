@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T00:31:30+09:00",
+  "updated_at": "2026-06-01T00:35:56+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1106,6 +1106,13 @@
       "display_name": "藍 ティア🌊🌠",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1416721033386627074/kUEOnONB_400x400.jpg",
       "profile_url": "https://x.com/vrthia"
+    },
+    {
+      "platform": "x",
+      "handle": "kokuyou1007",
+      "display_name": "黒妖@百鬼夜行",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2034593430362628096/jNI4FEsE_400x400.jpg",
+      "profile_url": "https://x.com/kokuyou1007"
     }
   ]
 }
