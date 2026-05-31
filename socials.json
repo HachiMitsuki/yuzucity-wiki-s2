@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T20:09:16+09:00",
+  "updated_at": "2026-05-31T20:25:04+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1071,6 +1071,13 @@
       "display_name": "星音そら🐏💫ギャップ系Vtuber",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1963189665168789504/rWO0otOf_400x400.jpg",
       "profile_url": "https://x.com/hoshines0rq_44"
+    },
+    {
+      "platform": "x",
+      "handle": "imokenpi_nico",
+      "display_name": "佐々和 けんぴ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2046999636213436417/1y5BgB5l_400x400.jpg",
+      "profile_url": "https://x.com/imokenpi_nico"
     }
   ]
 }
