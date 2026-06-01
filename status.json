@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T00:35:58+09:00",
+  "updated_at": "2026-06-02T00:40:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -184,12 +184,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【レポ/REPO】雑談しながらソロレポ！ガチャしたいぃ【初見歓迎】",
-      "game_name": "R.E.P.O.",
-      "viewer_count": 3,
-      "started_at": "2026-06-01T14:09:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -377,7 +372,7 @@
       "is_live": true,
       "title": "【VTuber】犯罪中心の食生活【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 50,
+      "viewer_count": 52,
       "started_at": "2026-06-01T12:59:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -522,7 +517,7 @@
       "is_live": true,
       "title": "【#ARCRaiders】平和に今日はできたらいいな。",
       "game_name": "ARC Raiders",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-01T14:35:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
