@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T04:20:56+09:00",
+  "updated_at": "2026-06-02T04:25:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -509,12 +509,7 @@
       "display_name": "海月織",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": true,
-      "title": "トリテよわない？？",
-      "game_name": "Apex Legends",
-      "viewer_count": 1,
-      "started_at": "2026-06-01T15:53:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
