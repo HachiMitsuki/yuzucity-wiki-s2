@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T21:05:59+09:00",
+  "updated_at": "2026-06-01T21:10:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -342,7 +342,7 @@
       "is_live": true,
       "title": "デッドロックカスタム！「でっどざろっく！」自認グレイタロン視点",
       "game_name": "Deadlock",
-      "viewer_count": 4,
+      "viewer_count": 1,
       "started_at": "2026-06-01T12:00:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -537,7 +537,7 @@
       "is_live": true,
       "title": "Yuzu Cityの振り返りしたりしなかったりな解体",
       "game_name": "Ship Graveyard Simulator 2",
-      "viewer_count": 4,
+      "viewer_count": 1,
       "started_at": "2026-06-01T12:00:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
