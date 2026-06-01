@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T01:00:58+09:00",
+  "updated_at": "2026-06-02T01:05:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -367,7 +367,7 @@
       "is_live": true,
       "title": "【VTuber】犯罪中心の食生活【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 45,
+      "viewer_count": 47,
       "started_at": "2026-06-01T12:59:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
