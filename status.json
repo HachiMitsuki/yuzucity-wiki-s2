@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T21:55:58+09:00",
+  "updated_at": "2026-06-01T22:00:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -342,7 +342,7 @@
       "is_live": true,
       "title": "デッドロックカスタム！「でっどざろっく！」自認グレイタロン視点",
       "game_name": "Deadlock",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-01T12:00:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -364,7 +364,12 @@
       "display_name": "火影こたつ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": false
+      "is_live": true,
+      "title": "【VTuber】犯罪中心の食生活【FiveM/#ラフシティ】",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-06-01T12:59:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -374,7 +379,12 @@
       "display_name": "ねこまんま81",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77e6cdc5-e419-4b43-864c-ef66abfdc32b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/necomanma81",
-      "is_live": false
+      "is_live": true,
+      "title": "【FF14】 休みなのに何一つ休みじゃないの草",
+      "game_name": "FINAL FANTASY XIV ONLINE",
+      "viewer_count": 1,
+      "started_at": "2026-06-01T12:56:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_necomanma81-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -537,7 +547,7 @@
       "is_live": true,
       "title": "Yuzu Cityの振り返りしたりしなかったり",
       "game_name": "League of Legends",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-01T12:00:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
