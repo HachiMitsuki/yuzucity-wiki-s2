@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T12:00:56+09:00",
+  "updated_at": "2026-06-01T12:05:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -342,7 +342,7 @@
       "is_live": true,
       "title": "コソ練でっどろっく",
       "game_name": "Deadlock",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-01T01:26:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
