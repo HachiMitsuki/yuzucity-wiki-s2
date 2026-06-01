@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T02:40:57+09:00",
+  "updated_at": "2026-06-02T02:45:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -512,7 +512,7 @@
       "is_live": true,
       "title": "トリテよわない？？",
       "game_name": "Apex Legends",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "started_at": "2026-06-01T15:53:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
