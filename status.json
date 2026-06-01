@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T18:05:57+09:00",
+  "updated_at": "2026-06-01T21:05:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -339,7 +339,12 @@
       "display_name": "usjkh",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdeca576-ddee-421f-beea-07e47ddfd179-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/usjkh",
-      "is_live": false
+      "is_live": true,
+      "title": "デッドロックカスタム！「でっどざろっく！」自認グレイタロン視点",
+      "game_name": "Deadlock",
+      "viewer_count": 4,
+      "started_at": "2026-06-01T12:00:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -529,7 +534,12 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": false
+      "is_live": true,
+      "title": "Yuzu Cityの振り返りしたりしなかったりな解体",
+      "game_name": "Ship Graveyard Simulator 2",
+      "viewer_count": 4,
+      "started_at": "2026-06-01T12:00:50Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
