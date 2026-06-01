@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T22:10:59+09:00",
+  "updated_at": "2026-06-01T22:15:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -42,7 +42,7 @@
       "is_live": true,
       "title": "久々コンペ【龍咲】【#VALORANT 】",
       "game_name": "VALORANT",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-06-01T13:08:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -372,7 +372,7 @@
       "is_live": true,
       "title": "【VTuber】犯罪中心の食生活【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 35,
+      "viewer_count": 29,
       "started_at": "2026-06-01T12:59:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -552,7 +552,7 @@
       "is_live": true,
       "title": "Yuzu Cityの振り返りしたりしなかったり",
       "game_name": "League of Legends",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-01T12:00:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
