@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T00:55:58+09:00",
+  "updated_at": "2026-06-02T01:00:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -367,7 +367,7 @@
       "is_live": true,
       "title": "【VTuber】犯罪中心の食生活【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 50,
+      "viewer_count": 45,
       "started_at": "2026-06-01T12:59:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -527,7 +527,7 @@
       "is_live": true,
       "title": "トリテよわない？？",
       "game_name": "Apex Legends",
-      "viewer_count": 0,
+      "viewer_count": 2,
       "started_at": "2026-06-01T15:53:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
@@ -622,7 +622,7 @@
       "is_live": true,
       "title": "valoあそんでく 喉しんでる w/syuoo",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-01T14:52:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
     },
