@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T23:11:00+09:00",
+  "updated_at": "2026-06-01T23:15:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -187,7 +187,7 @@
       "is_live": true,
       "title": "【レポ/REPO】雑談しながらソロレポ！ガチャしたいぃ【初見歓迎】",
       "game_name": "R.E.P.O.",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-06-01T14:09:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -382,7 +382,7 @@
       "is_live": true,
       "title": "【VTuber】犯罪中心の食生活【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 47,
+      "viewer_count": 57,
       "started_at": "2026-06-01T12:59:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -394,12 +394,7 @@
       "display_name": "ねこまんま81",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77e6cdc5-e419-4b43-864c-ef66abfdc32b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/necomanma81",
-      "is_live": true,
-      "title": "【FF14】 休みなのに何一つ休みじゃないの草",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 1,
-      "started_at": "2026-06-01T12:56:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_necomanma81-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
