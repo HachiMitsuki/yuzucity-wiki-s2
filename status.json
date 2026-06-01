@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T01:55:57+09:00",
+  "updated_at": "2026-06-02T02:00:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -499,12 +499,7 @@
       "display_name": "ゆうてゃ_",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
-      "is_live": true,
-      "title": "【#ARCRaiders】平和に今日はできたらいいな。",
-      "game_name": "ARC Raiders",
-      "viewer_count": 2,
-      "started_at": "2026-06-01T14:35:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -517,7 +512,7 @@
       "is_live": true,
       "title": "トリテよわない？？",
       "game_name": "Apex Legends",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-06-01T15:53:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
@@ -609,12 +604,7 @@
       "display_name": "tsukkyi_vl",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6131d734-76ff-4c55-a167-02ba9e7fd60c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tsukkyi_vl",
-      "is_live": true,
-      "title": "valoあそんでく 喉しんでる w/syuoo",
-      "game_name": "VALORANT",
-      "viewer_count": 2,
-      "started_at": "2026-06-01T14:52:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
