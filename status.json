@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T22:25:59+09:00",
+  "updated_at": "2026-06-01T22:30:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -274,7 +274,12 @@
       "display_name": "ひもぉ0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a14d94-7d4a-4913-89e2-fa76064f5cf8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himoo_ttvt",
-      "is_live": false
+      "is_live": true,
+      "title": "【APEX】禁煙ソロランク【1月ぶりのFPS】",
+      "game_name": "Apex Legends",
+      "viewer_count": 0,
+      "started_at": "2026-06-01T13:29:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -372,7 +377,7 @@
       "is_live": true,
       "title": "【VTuber】犯罪中心の食生活【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 39,
+      "viewer_count": 51,
       "started_at": "2026-06-01T12:59:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
