@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T23:35:59+09:00",
+  "updated_at": "2026-06-01T23:41:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -42,7 +42,7 @@
       "is_live": true,
       "title": "久々コンペ【龍咲】【#VALORANT 】",
       "game_name": "VALORANT",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-06-01T13:08:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -187,7 +187,7 @@
       "is_live": true,
       "title": "【レポ/REPO】雑談しながらソロレポ！ガチャしたいぃ【初見歓迎】",
       "game_name": "R.E.P.O.",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-01T14:09:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -357,7 +357,7 @@
       "is_live": true,
       "title": "デッドロックカスタム！「でっどざろっく！」自認グレイタロン視点",
       "game_name": "Deadlock",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-06-01T12:00:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -382,7 +382,7 @@
       "is_live": true,
       "title": "【VTuber】犯罪中心の食生活【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 58,
+      "viewer_count": 53,
       "started_at": "2026-06-01T12:59:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -524,7 +524,12 @@
       "display_name": "ゆうてゃ_",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ARCRaiders】平和に今日はできたらいいな。",
+      "game_name": "ARC Raiders",
+      "viewer_count": 1,
+      "started_at": "2026-06-01T14:35:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
