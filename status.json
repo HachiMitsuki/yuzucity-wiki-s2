@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T17:25:57+09:00",
+  "updated_at": "2026-06-01T17:30:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -344,12 +344,7 @@
       "display_name": "usjkh",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdeca576-ddee-421f-beea-07e47ddfd179-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/usjkh",
-      "is_live": true,
-      "title": "コソ練でっどろっく",
-      "game_name": "Deadlock",
-      "viewer_count": 3,
-      "started_at": "2026-06-01T01:26:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
