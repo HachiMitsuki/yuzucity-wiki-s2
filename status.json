@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T00:30:58+09:00",
+  "updated_at": "2026-06-02T00:35:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -187,7 +187,7 @@
       "is_live": true,
       "title": "【レポ/REPO】雑談しながらソロレポ！ガチャしたいぃ【初見歓迎】",
       "game_name": "R.E.P.O.",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-01T14:09:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -377,7 +377,7 @@
       "is_live": true,
       "title": "【VTuber】犯罪中心の食生活【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 58,
+      "viewer_count": 50,
       "started_at": "2026-06-01T12:59:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
