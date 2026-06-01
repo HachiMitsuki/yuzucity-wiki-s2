@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T21:45:59+09:00",
+  "updated_at": "2026-06-01T21:55:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -537,7 +537,7 @@
       "is_live": true,
       "title": "Yuzu Cityの振り返りしたりしなかったり",
       "game_name": "League of Legends",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-01T12:00:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
