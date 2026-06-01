@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T23:41:00+09:00",
+  "updated_at": "2026-06-01T23:45:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -42,7 +42,7 @@
       "is_live": true,
       "title": "久々コンペ【龍咲】【#VALORANT 】",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-06-01T13:08:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -357,7 +357,7 @@
       "is_live": true,
       "title": "デッドロックカスタム！「でっどざろっく！」自認グレイタロン視点",
       "game_name": "Deadlock",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-01T12:00:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -382,7 +382,7 @@
       "is_live": true,
       "title": "【VTuber】犯罪中心の食生活【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 53,
+      "viewer_count": 59,
       "started_at": "2026-06-01T12:59:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
