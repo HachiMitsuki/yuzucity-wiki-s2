@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T00:01:00+09:00",
+  "updated_at": "2026-06-02T00:05:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -187,7 +187,7 @@
       "is_live": true,
       "title": "【レポ/REPO】雑談しながらソロレポ！ガチャしたいぃ【初見歓迎】",
       "game_name": "R.E.P.O.",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-01T14:09:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -282,7 +282,7 @@
       "is_live": true,
       "title": "【APEX】禁煙ソロランク【1月ぶりのFPS】",
       "game_name": "Apex Legends",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-01T13:29:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
     },
@@ -382,7 +382,7 @@
       "is_live": true,
       "title": "【VTuber】犯罪中心の食生活【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 63,
+      "viewer_count": 73,
       "started_at": "2026-06-01T12:59:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -527,7 +527,7 @@
       "is_live": true,
       "title": "【#ARCRaiders】平和に今日はできたらいいな。",
       "game_name": "ARC Raiders",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-06-01T14:35:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -632,7 +632,7 @@
       "is_live": true,
       "title": "valoあそんでく 喉しんでる w/syuoo",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-01T14:52:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
     },
