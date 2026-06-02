@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T21:56:01+09:00",
+  "updated_at": "2026-06-02T22:01:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -209,12 +209,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "FF14初めからもう覚えてないので 教えてください。",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 3,
-      "started_at": "2026-06-02T11:02:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -372,7 +367,7 @@
       "is_live": true,
       "title": "とりあえずコマンダーまで",
       "game_name": "Mecha BREAK",
-      "viewer_count": 3,
+      "viewer_count": 6,
       "started_at": "2026-06-02T12:35:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -497,7 +492,7 @@
       "is_live": true,
       "title": "やっと走れるよ！！ ＃ FORZAHORIZON6 #FH6 #drift ＃車好きなVtuber",
       "game_name": "Forza Horizon 6",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-02T12:18:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
