@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T20:36:00+09:00",
+  "updated_at": "2026-06-02T20:41:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -32,7 +32,7 @@
       "is_live": true,
       "title": "【Nier: Automata】んにぇ～おーたまとーんみたいな名前のゲーム",
       "game_name": "NieR: Automata",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-02T10:59:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -147,7 +147,7 @@
       "is_live": true,
       "title": "ボクたちアイスブレーカー /w @akimiya_kanto →ボス倒せなくて散財したので最後の3先",
       "game_name": "Street Fighter 6",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-06-02T03:15:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -212,7 +212,7 @@
       "is_live": true,
       "title": "FF14初めからもう覚えてないので 教えてください。",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-06-02T11:02:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -452,7 +452,7 @@
       "is_live": true,
       "title": "なにも決めてない",
       "game_name": "Just Chatting",
-      "viewer_count": 7,
+      "viewer_count": 9,
       "started_at": "2026-06-02T10:58:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinonomemeu-{width}x{height}.jpg"
     },
