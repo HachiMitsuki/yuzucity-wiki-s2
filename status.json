@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T15:06:00+09:00",
+  "updated_at": "2026-06-02T15:11:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -109,7 +109,12 @@
       "display_name": "frcl_orito",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68ada1b8-e896-4e74-ae7d-d862bb5e6116-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "まったりzomboid",
+      "game_name": "Project Zomboid",
+      "viewer_count": 1,
+      "started_at": "2026-06-02T06:08:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -142,7 +147,7 @@
       "is_live": true,
       "title": "ボクたちアイスブレーカー /w @akimiya_kanto",
       "game_name": "Escape from Tarkov",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-06-02T03:15:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -557,7 +562,7 @@
       "is_live": true,
       "title": "ソロランク久々に行きますか",
       "game_name": "League of Legends",
-      "viewer_count": 16,
+      "viewer_count": 14,
       "started_at": "2026-06-02T02:41:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
