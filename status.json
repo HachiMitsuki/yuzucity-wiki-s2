@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T09:50:58+09:00",
+  "updated_at": "2026-06-02T09:55:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #VALORANT】ランクが下がってるのはriotに操作されているんだきっと",
       "game_name": "VALORANT",
-      "viewer_count": 20,
+      "viewer_count": 18,
       "started_at": "2026-06-01T20:56:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -144,12 +144,7 @@
       "display_name": "夢見弖ねこむ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38876e09-d270-4394-be4c-a339ea8535e9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekommn",
-      "is_live": true,
-      "title": "朝活イングリッド とりあえず認定戦から",
-      "game_name": "Street Fighter 6",
-      "viewer_count": 4,
-      "started_at": "2026-06-01T22:08:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
