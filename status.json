@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T00:51:00+09:00",
+  "updated_at": "2026-06-03T00:55:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -342,7 +342,7 @@
       "is_live": true,
       "title": "とりあえずコマンダーまで",
       "game_name": "Mecha BREAK",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "started_at": "2026-06-02T12:35:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -397,7 +397,7 @@
       "is_live": true,
       "title": "[LOL] レベル上げしていく！",
       "game_name": "League of Legends",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-02T14:31:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -472,7 +472,7 @@
       "is_live": true,
       "title": "やっと走れるよ！！ ＃ FORZAHORIZON6 #FH6 #drift ＃車好きなVtuber",
       "game_name": "Forza Horizon 6",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-02T12:18:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -527,7 +527,7 @@
       "is_live": true,
       "title": "ゔぁ 最近ハイキュー熱い",
       "game_name": "VALORANT",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-02T15:17:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
