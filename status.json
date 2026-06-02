@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T20:16:00+09:00",
+  "updated_at": "2026-06-02T20:21:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -147,7 +147,7 @@
       "is_live": true,
       "title": "ボクたちアイスブレーカー /w @akimiya_kanto →ボス倒せなくて散財したので最後の3先",
       "game_name": "Street Fighter 6",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-06-02T03:15:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -482,7 +482,7 @@
       "is_live": true,
       "title": "やっと走れるよ！！ ＃ FORZAHORIZON6 #FH6 #drift ＃車好きなVtuber",
       "game_name": "Forza Horizon 6",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-02T08:27:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
