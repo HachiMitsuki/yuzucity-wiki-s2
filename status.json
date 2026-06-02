@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T23:21:01+09:00",
+  "updated_at": "2026-06-02T23:26:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -252,7 +252,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】ありがとうそしてさようなら 最終日【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-02T11:29:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -297,7 +297,7 @@
       "is_live": true,
       "title": "アズグラバブギャン一部メンバーでレポ | REPO",
       "game_name": "R.E.P.O.",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-02T11:59:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -362,7 +362,7 @@
       "is_live": true,
       "title": "とりあえずコマンダーまで",
       "game_name": "Mecha BREAK",
-      "viewer_count": 11,
+      "viewer_count": 8,
       "started_at": "2026-06-02T12:35:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -487,7 +487,7 @@
       "is_live": true,
       "title": "やっと走れるよ！！ ＃ FORZAHORIZON6 #FH6 #drift ＃車好きなVtuber",
       "game_name": "Forza Horizon 6",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-02T12:18:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
