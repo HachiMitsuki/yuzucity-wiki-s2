@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T22:01:01+09:00",
+  "updated_at": "2026-06-02T22:06:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -297,7 +297,7 @@
       "is_live": true,
       "title": "アズグラバブギャン一部メンバーでレポ | REPO",
       "game_name": "R.E.P.O.",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-02T11:59:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -367,7 +367,7 @@
       "is_live": true,
       "title": "とりあえずコマンダーまで",
       "game_name": "Mecha BREAK",
-      "viewer_count": 6,
+      "viewer_count": 9,
       "started_at": "2026-06-02T12:35:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -624,7 +624,12 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8c6afb2-601c-4a34-9684-8d22fafc7e2e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "マウス変えたー",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 2,
+      "started_at": "2026-06-02T13:03:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
