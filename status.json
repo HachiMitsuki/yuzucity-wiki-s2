@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T21:46:01+09:00",
+  "updated_at": "2026-06-02T21:51:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -32,7 +32,7 @@
       "is_live": true,
       "title": "【Nier: Automata】んにぇ～おーたまとーんみたいな名前のゲーム",
       "game_name": "NieR: Automata",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-02T10:59:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -197,7 +197,7 @@
       "is_live": true,
       "title": "ヴァふるぱ 家族ファミリー('ω')",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-02T12:35:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mugicha0926-{width}x{height}.jpg"
     },
@@ -212,7 +212,7 @@
       "is_live": true,
       "title": "FF14初めからもう覚えてないので 教えてください。",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-02T11:02:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -372,7 +372,7 @@
       "is_live": true,
       "title": "とりあえずコマンダーまで",
       "game_name": "Mecha BREAK",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-02T12:35:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -497,7 +497,7 @@
       "is_live": true,
       "title": "やっと走れるよ！！ ＃ FORZAHORIZON6 #FH6 #drift ＃車好きなVtuber",
       "game_name": "Forza Horizon 6",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-02T12:18:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
