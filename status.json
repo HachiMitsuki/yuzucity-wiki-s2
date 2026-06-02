@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T10:50:58+09:00",
+  "updated_at": "2026-06-02T11:45:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -549,7 +549,12 @@
       "display_name": "しろみそです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37f84425-0e80-4c41-a715-568fa011b4a2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shiro46_24",
-      "is_live": false
+      "is_live": true,
+      "title": "ソロランク久々に行きますか",
+      "game_name": "League of Legends",
+      "viewer_count": 1,
+      "started_at": "2026-06-02T02:41:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
