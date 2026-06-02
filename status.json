@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T15:26:00+09:00",
+  "updated_at": "2026-06-02T15:31:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -147,7 +147,7 @@
       "is_live": true,
       "title": "ボクたちアイスブレーカー /w @akimiya_kanto",
       "game_name": "Escape from Tarkov",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-06-02T03:15:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -559,12 +559,7 @@
       "display_name": "しろみそです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37f84425-0e80-4c41-a715-568fa011b4a2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shiro46_24",
-      "is_live": true,
-      "title": "ソロランク久々に行きますか",
-      "game_name": "League of Legends",
-      "viewer_count": 15,
-      "started_at": "2026-06-02T02:41:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
