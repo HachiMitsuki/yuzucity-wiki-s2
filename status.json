@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T02:30:57+09:00",
+  "updated_at": "2026-06-03T02:45:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -464,12 +464,7 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": true,
-      "title": "やっと走れるよ！！ ＃ FORZAHORIZON6 #FH6 #drift ＃車好きなVtuber",
-      "game_name": "Forza Horizon 6",
-      "viewer_count": 3,
-      "started_at": "2026-06-02T12:18:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
