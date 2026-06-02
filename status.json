@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T00:21:00+09:00",
+  "updated_at": "2026-06-03T00:25:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -242,7 +242,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】ありがとうそしてさようなら 最終日【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-02T11:29:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -347,7 +347,7 @@
       "is_live": true,
       "title": "とりあえずコマンダーまで",
       "game_name": "Mecha BREAK",
-      "viewer_count": 4,
+      "viewer_count": 6,
       "started_at": "2026-06-02T12:35:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -532,7 +532,7 @@
       "is_live": true,
       "title": "ゔぁ 最近ハイキュー熱い",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-02T15:17:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
