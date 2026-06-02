@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T20:31:00+09:00",
+  "updated_at": "2026-06-02T20:36:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -32,7 +32,7 @@
       "is_live": true,
       "title": "【Nier: Automata】んにぇ～おーたまとーんみたいな名前のゲーム",
       "game_name": "NieR: Automata",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-02T10:59:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -147,7 +147,7 @@
       "is_live": true,
       "title": "ボクたちアイスブレーカー /w @akimiya_kanto →ボス倒せなくて散財したので最後の3先",
       "game_name": "Street Fighter 6",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "started_at": "2026-06-02T03:15:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -257,7 +257,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】ありがとうそしてさようなら 最終日【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 0,
+      "viewer_count": 2,
       "started_at": "2026-06-02T11:29:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
