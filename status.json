@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T22:11:23+09:00",
+  "updated_at": "2026-06-02T22:16:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -162,7 +162,7 @@
       "is_live": true,
       "title": "【VALORANT】ああ【Sunrise Town】",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-02T13:07:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -212,7 +212,7 @@
       "is_live": true,
       "title": "ウマ娘",
       "game_name": "Umamusume: Pretty Derby",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-06-02T13:08:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -372,7 +372,7 @@
       "is_live": true,
       "title": "とりあえずコマンダーまで",
       "game_name": "Mecha BREAK",
-      "viewer_count": 8,
+      "viewer_count": 9,
       "started_at": "2026-06-02T12:35:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -497,7 +497,7 @@
       "is_live": true,
       "title": "やっと走れるよ！！ ＃ FORZAHORIZON6 #FH6 #drift ＃車好きなVtuber",
       "game_name": "Forza Horizon 6",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-02T12:18:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -632,7 +632,7 @@
       "is_live": true,
       "title": "マウス変えたー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-02T13:03:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
