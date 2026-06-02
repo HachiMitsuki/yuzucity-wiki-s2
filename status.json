@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T23:41:00+09:00",
+  "updated_at": "2026-06-02T23:46:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -159,12 +159,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【VALORANT】ああ【Sunrise Town】",
-      "game_name": "VALORANT",
-      "viewer_count": 1,
-      "started_at": "2026-06-02T13:07:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -207,7 +202,7 @@
       "is_live": true,
       "title": "ウマ娘",
       "game_name": "Umamusume: Pretty Derby",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-02T13:08:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -252,7 +247,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】ありがとうそしてさようなら 最終日【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-02T11:29:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -362,7 +357,7 @@
       "is_live": true,
       "title": "とりあえずコマンダーまで",
       "game_name": "Mecha BREAK",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "started_at": "2026-06-02T12:35:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -417,7 +412,7 @@
       "is_live": true,
       "title": "[LOL] レベル上げしていく！",
       "game_name": "League of Legends",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-02T14:31:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -627,7 +622,7 @@
       "is_live": true,
       "title": "マウス変えたー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-06-02T13:03:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
