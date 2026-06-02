@@ -69,13 +69,6 @@
     }catch(_){ return iso; }
   }
 
-  function formatViewers(n){
-    if(typeof n !== 'number' || !isFinite(n)) return '';
-    if(n >= 10000) return (n/1000).toFixed(1) + 'K';
-    if(n >= 1000) return (n/1000).toFixed(1) + 'K';
-    return String(n);
-  }
-
   function platformBadge(p){
     if(p === 'twitch') return '<span class="platform-tag platform-twitch">Twitch</span>';
     if(p === 'youtube') return '<span class="platform-tag platform-youtube">YouTube</span>';
@@ -114,17 +107,13 @@
         : `<div class="card-thumb"><div class="card-thumb-placeholder">🎥</div></div>`;
     }
 
-    const viewers = live && typeof s.viewer_count === 'number' && s.viewer_count > 0
-      ? `<span class="stream-viewers">${escapeHtml(formatViewers(s.viewer_count))}</span>`
-      : '';
-
     const titleBlock = live && s.title
       ? `<div class="stream-title">${escapeHtml(s.title)}</div>`
       : '';
 
     const gameBlock = live && s.game_name
-      ? `<div class="stream-game">${escapeHtml(s.game_name)}${viewers}</div>`
-      : (live && viewers ? `<div class="stream-game"><span style="visibility:hidden">.</span>${viewers}</div>` : '');
+      ? `<div class="stream-game">${escapeHtml(s.game_name)}</div>`
+      : '';
 
     const offlineMsg = !live
       ? '<div class="offline-msg">現在オフラインです</div>'
@@ -198,12 +187,7 @@
       }
 
       const byName = (s) => (s.display_name || s.login || s.handle || '').toLowerCase();
-      const liveSort = (a,b) => {
-        const av = a.viewer_count || 0;
-        const bv = b.viewer_count || 0;
-        if(av !== bv) return bv - av;
-        return byName(a).localeCompare(byName(b));
-      };
+      const liveSort = (a,b) => byName(a).localeCompare(byName(b));
       const offlineSort = (a,b) => byName(a).localeCompare(byName(b));
 
       const liveOnes = streamers.filter(s => s.is_live).sort(liveSort);

@@ -1326,12 +1326,6 @@ main > section{
   color: var(--text-dim); font-size: .78rem; margin-bottom: .85rem;
 }
 .stream-game::before{ content: "🎮" }
-.stream-viewers{
-  display: inline-flex; align-items: center; gap: .3rem;
-  color: var(--text-dim); font-size: .78rem; margin-left: .6rem;
-  font-family: var(--font-mono);
-}
-.stream-viewers::before{ content: "👁"; font-size: .9rem }
 .offline-msg{ color: var(--text-faint); font-size: .82rem; margin-bottom: .85rem; font-style: italic }
 
 .btn-stream{
