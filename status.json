@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T21:36:01+09:00",
+  "updated_at": "2026-06-02T21:41:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -32,7 +32,7 @@
       "is_live": true,
       "title": "【Nier: Automata】んにぇ～おーたまとーんみたいな名前のゲーム",
       "game_name": "NieR: Automata",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-02T10:59:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -197,7 +197,7 @@
       "is_live": true,
       "title": "ヴァふるぱ 家族ファミリー('ω')",
       "game_name": "VALORANT",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-06-02T12:35:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mugicha0926-{width}x{height}.jpg"
     },
@@ -212,7 +212,7 @@
       "is_live": true,
       "title": "FF14初めからもう覚えてないので 教えてください。",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-02T11:02:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -257,7 +257,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】ありがとうそしてさようなら 最終日【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-02T11:29:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -369,7 +369,12 @@
       "display_name": "usjkh",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdeca576-ddee-421f-beea-07e47ddfd179-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/usjkh",
-      "is_live": false
+      "is_live": true,
+      "title": "とりあえずコマンダーまで",
+      "game_name": "Mecha BREAK",
+      "viewer_count": 1,
+      "started_at": "2026-06-02T12:35:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
