@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T00:40:59+09:00",
+  "updated_at": "2026-06-03T00:45:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -342,7 +342,7 @@
       "is_live": true,
       "title": "とりあえずコマンダーまで",
       "game_name": "Mecha BREAK",
-      "viewer_count": 5,
+      "viewer_count": 16,
       "started_at": "2026-06-02T12:35:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
