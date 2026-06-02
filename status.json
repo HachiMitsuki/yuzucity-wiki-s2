@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T22:21:03+09:00",
+  "updated_at": "2026-06-02T22:26:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -212,7 +212,7 @@
       "is_live": true,
       "title": "ウマ娘",
       "game_name": "Umamusume: Pretty Derby",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-02T13:08:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -257,7 +257,7 @@
       "is_live": true,
       "title": "【#ゆず鯖 】ありがとうそしてさようなら 最終日【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-02T11:29:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -632,7 +632,7 @@
       "is_live": true,
       "title": "マウス変えたー",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-02T13:03:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
