@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T21:06:01+09:00",
+  "updated_at": "2026-06-02T21:11:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -32,7 +32,7 @@
       "is_live": true,
       "title": "【Nier: Automata】んにぇ～おーたまとーんみたいな名前のゲーム",
       "game_name": "NieR: Automata",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-02T10:59:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -147,7 +147,7 @@
       "is_live": true,
       "title": "ボクたちアイスブレーカー /w @akimiya_kanto →ボス倒せなくて散財したので最後の3先",
       "game_name": "Street Fighter 6",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "started_at": "2026-06-02T03:15:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -212,7 +212,7 @@
       "is_live": true,
       "title": "FF14初めからもう覚えてないので 教えてください。",
       "game_name": "FINAL FANTASY XIV ONLINE",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-06-02T11:02:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -302,7 +302,7 @@
       "is_live": true,
       "title": "アズグラバブギャン一部メンバーでレポ | REPO",
       "game_name": "R.E.P.O.",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-02T11:59:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -454,12 +454,7 @@
       "display_name": "東雲めう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/74dff1e7-1c2e-4d2d-a29d-77870331b937-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shinonomemeu",
-      "is_live": true,
-      "title": "なにも決めてない",
-      "game_name": "Just Chatting",
-      "viewer_count": 9,
-      "started_at": "2026-06-02T10:58:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinonomemeu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
