@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T04:05:55+09:00",
+  "updated_at": "2026-06-04T04:10:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -504,12 +504,7 @@
       "display_name": "ゆうてゃ_",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
-      "is_live": true,
-      "title": "【#ARCRaiders】俺は医者だ。",
-      "game_name": "ARC Raiders",
-      "viewer_count": 1,
-      "started_at": "2026-06-03T15:52:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -592,7 +587,7 @@
       "is_live": true,
       "title": "TBHで飯を食う",
       "game_name": "TBH: Task Bar Hero",
-      "viewer_count": 8,
+      "viewer_count": 6,
       "started_at": "2026-06-03T12:47:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
