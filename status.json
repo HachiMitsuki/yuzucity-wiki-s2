@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T19:55:59+09:00",
+  "updated_at": "2026-06-03T20:00:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -462,7 +462,7 @@
       "is_live": true,
       "title": "ご報告雑談してからヴァロやる！！ VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-03T09:52:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -507,7 +507,7 @@
       "is_live": true,
       "title": "【#マラソン】6/9まで無料らしい。 @Chierio",
       "game_name": "Marathon",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-06-03T10:14:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
