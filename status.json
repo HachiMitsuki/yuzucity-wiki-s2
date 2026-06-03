@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T19:15:57+09:00",
+  "updated_at": "2026-06-03T19:20:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -462,7 +462,7 @@
       "is_live": true,
       "title": "ご報告雑談してからヴァロやる！！ VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-06-03T09:52:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -507,7 +507,7 @@
       "is_live": true,
       "title": "【#マラソン】6/9まで無料らしい。@chierio",
       "game_name": "Marathon",
-      "viewer_count": 0,
+      "viewer_count": 3,
       "started_at": "2026-06-03T10:14:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -612,7 +612,7 @@
       "is_live": true,
       "title": "朝活 休講だからヴァロランク w/ayasan",
       "game_name": "VALORANT",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "started_at": "2026-06-02T22:53:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
     },
