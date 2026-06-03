@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T21:35:59+09:00",
+  "updated_at": "2026-06-03T21:40:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -202,7 +202,7 @@
       "is_live": true,
       "title": "フルパ",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "started_at": "2026-06-03T12:11:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -237,7 +237,7 @@
       "is_live": true,
       "title": "【顔出し散らかりまくった部屋を掃除しながら雑談！22時お知らせもあり！",
       "game_name": "Just Chatting",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-06-03T12:18:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tqkanashi_emo-{width}x{height}.jpg"
     },
@@ -252,7 +252,7 @@
       "is_live": true,
       "title": "【#星の翼】アリスハルカの時だけ中二病になるソロランク【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-03T11:46:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -382,7 +382,7 @@
       "is_live": true,
       "title": "【VTuber】おはようこうそう【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 38,
+      "viewer_count": 45,
       "started_at": "2026-06-03T12:18:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -527,7 +527,7 @@
       "is_live": true,
       "title": "【#マラソン】6/9まで無料らしい。 @Chierio",
       "game_name": "Marathon",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-03T10:14:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -622,7 +622,7 @@
       "is_live": true,
       "title": "抗争ワイプ１日目のラフシティマウス変えてエイムやばい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-06-03T12:19:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
