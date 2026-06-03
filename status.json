@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T20:45:58+09:00",
+  "updated_at": "2026-06-03T20:51:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -239,7 +239,12 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#星の翼】アリスハルカの時だけ中二病になるソロランク【#vtuber /雷音雅】",
+      "game_name": "StarWard",
+      "viewer_count": 1,
+      "started_at": "2026-06-03T11:46:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -462,7 +467,7 @@
       "is_live": true,
       "title": "ご報告雑談してからヴァロやる！！ VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-03T09:52:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -507,7 +512,7 @@
       "is_live": true,
       "title": "【#マラソン】6/9まで無料らしい。 @Chierio",
       "game_name": "Marathon",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-03T10:14:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
