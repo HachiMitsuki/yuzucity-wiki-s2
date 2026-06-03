@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T21:20:59+09:00",
+  "updated_at": "2026-06-03T21:25:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -237,7 +237,7 @@
       "is_live": true,
       "title": "【顔出し散らかりまくった部屋を掃除しながら雑談！22時お知らせもあり！",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 5,
       "started_at": "2026-06-03T12:18:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tqkanashi_emo-{width}x{height}.jpg"
     },
@@ -252,7 +252,7 @@
       "is_live": true,
       "title": "【#星の翼】アリスハルカの時だけ中二病になるソロランク【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-03T11:46:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -377,7 +377,7 @@
       "is_live": true,
       "title": "【VTuber】おはようこうそう【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 9,
+      "viewer_count": 28,
       "started_at": "2026-06-03T12:18:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -479,12 +479,7 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": true,
-      "title": "ご報告雑談してからヴァロやる！！ VALORANT #VALORANTコンペ #VTuber",
-      "game_name": "VALORANT",
-      "viewer_count": 4,
-      "started_at": "2026-06-03T09:52:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -622,7 +617,7 @@
       "is_live": true,
       "title": "抗争ワイプ１日目のラフシティマウス変えてエイムやばい",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 4,
       "started_at": "2026-06-03T12:19:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
