@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T00:45:58+09:00",
+  "updated_at": "2026-06-04T00:50:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -367,7 +367,7 @@
       "is_live": true,
       "title": "【VTuber】おはようこうそう【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 53,
+      "viewer_count": 46,
       "started_at": "2026-06-03T12:18:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
