@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T04:40:55+09:00",
+  "updated_at": "2026-06-04T04:45:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -584,12 +584,7 @@
       "display_name": "0401mako",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78f3ab4a-72cb-46e9-8b4e-8f3e26395ef6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/0401mako",
-      "is_live": true,
-      "title": "TBHで飯を食う",
-      "game_name": "TBH: Task Bar Hero",
-      "viewer_count": 4,
-      "started_at": "2026-06-03T12:47:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
