@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T05:15:55+09:00",
+  "updated_at": "2026-06-04T05:50:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -269,12 +269,7 @@
       "display_name": "ひもぉ0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a14d94-7d4a-4913-89e2-fa76064f5cf8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himoo_ttvt",
-      "is_live": true,
-      "title": "【NTE】お迎えしたい!!【ひもぉ。/Vtuber】",
-      "game_name": "NTE: Neverness to Everness",
-      "viewer_count": 1,
-      "started_at": "2026-06-03T16:27:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
