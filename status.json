@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T23:31:00+09:00",
+  "updated_at": "2026-06-03T23:35:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -249,12 +249,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#星の翼】アリスハルカの時だけ中二病になるソロランク【#vtuber /雷音雅】",
-      "game_name": "StarWard",
-      "viewer_count": 2,
-      "started_at": "2026-06-03T11:46:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -267,7 +262,7 @@
       "is_live": true,
       "title": "【GTA5】ラフシティ ワイプ後初抗争 猫梅つばさ",
       "game_name": "",
-      "viewer_count": 4,
+      "viewer_count": 6,
       "started_at": "2026-06-03T12:27:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tubasa_twitch-{width}x{height}.jpg"
     },
@@ -382,7 +377,7 @@
       "is_live": true,
       "title": "【VTuber】おはようこうそう【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 60,
+      "viewer_count": 52,
       "started_at": "2026-06-03T12:18:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -612,7 +607,7 @@
       "is_live": true,
       "title": "【ラフシティ】コウソウ タノシイ",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-03T12:47:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
