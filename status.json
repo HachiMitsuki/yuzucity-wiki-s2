@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T01:25:58+09:00",
+  "updated_at": "2026-06-04T01:30:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -182,7 +182,7 @@
       "is_live": true,
       "title": "【OW】闇のゲームOWを少しやる…【初見歓迎】",
       "game_name": "Overwatch",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-03T14:25:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -274,7 +274,12 @@
       "display_name": "ひもぉ0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a14d94-7d4a-4913-89e2-fa76064f5cf8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himoo_ttvt",
-      "is_live": false
+      "is_live": true,
+      "title": "【NTE】お迎えしたい!!【ひもぉ。/Vtuber】",
+      "game_name": "NTE: Neverness to Everness",
+      "viewer_count": 1,
+      "started_at": "2026-06-03T16:27:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -367,7 +372,7 @@
       "is_live": true,
       "title": "【VTuber】おはようこうそう【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 49,
+      "viewer_count": 42,
       "started_at": "2026-06-03T12:18:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -597,7 +602,7 @@
       "is_live": true,
       "title": "TBHで飯を食う",
       "game_name": "TBH: Task Bar Hero",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-03T12:47:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
