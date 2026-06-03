@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T21:10:59+09:00",
+  "updated_at": "2026-06-03T21:15:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -199,7 +199,12 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "フルパ",
+      "game_name": "VALORANT",
+      "viewer_count": 1,
+      "started_at": "2026-06-03T12:11:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -242,7 +247,7 @@
       "is_live": true,
       "title": "【#星の翼】アリスハルカの時だけ中二病になるソロランク【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-03T11:46:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -512,7 +517,7 @@
       "is_live": true,
       "title": "【#マラソン】6/9まで無料らしい。 @Chierio",
       "game_name": "Marathon",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-03T10:14:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
