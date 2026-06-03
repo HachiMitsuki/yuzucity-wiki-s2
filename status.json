@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T00:50:59+09:00",
+  "updated_at": "2026-06-04T00:55:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -182,7 +182,7 @@
       "is_live": true,
       "title": "【OW】闇のゲームOWを少しやる…【初見歓迎】",
       "game_name": "Overwatch",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-03T14:25:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -367,7 +367,7 @@
       "is_live": true,
       "title": "【VTuber】おはようこうそう【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 46,
+      "viewer_count": 48,
       "started_at": "2026-06-03T12:18:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -509,7 +509,12 @@
       "display_name": "ゆうてゃ_",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ARCRaiders】俺は医者だ。",
+      "game_name": "ARC Raiders",
+      "viewer_count": 2,
+      "started_at": "2026-06-03T15:52:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -592,7 +597,7 @@
       "is_live": true,
       "title": "TBHで飯を食う",
       "game_name": "TBH: Task Bar Hero",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-03T12:47:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
