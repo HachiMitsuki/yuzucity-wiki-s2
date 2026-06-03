@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T02:25:57+09:00",
+  "updated_at": "2026-06-04T02:30:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -372,7 +372,7 @@
       "is_live": true,
       "title": "【VTuber】おはようこうそう【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 56,
+      "viewer_count": 47,
       "started_at": "2026-06-03T12:18:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -517,7 +517,7 @@
       "is_live": true,
       "title": "【#ARCRaiders】俺は医者だ。",
       "game_name": "ARC Raiders",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-03T15:52:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -602,7 +602,7 @@
       "is_live": true,
       "title": "TBHで飯を食う",
       "game_name": "TBH: Task Bar Hero",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-03T12:47:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
