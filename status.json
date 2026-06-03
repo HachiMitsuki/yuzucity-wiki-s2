@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T01:15:58+09:00",
+  "updated_at": "2026-06-04T01:20:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -182,7 +182,7 @@
       "is_live": true,
       "title": "【OW】闇のゲームOWを少しやる…【初見歓迎】",
       "game_name": "Overwatch",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-06-03T14:25:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -367,7 +367,7 @@
       "is_live": true,
       "title": "【VTuber】おはようこうそう【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 45,
+      "viewer_count": 50,
       "started_at": "2026-06-03T12:18:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
