@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T00:40:58+09:00",
+  "updated_at": "2026-06-04T00:45:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -182,7 +182,7 @@
       "is_live": true,
       "title": "【OW】闇のゲームOWを少しやる…【初見歓迎】",
       "game_name": "Overwatch",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-03T14:25:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -254,12 +254,7 @@
       "display_name": "つばさ___",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f4eacf7-eec8-4496-90f2-fff8bf53332d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tubasa_twitch",
-      "is_live": true,
-      "title": "【GTA5】ラフシティ ワイプ後初抗争 猫梅つばさ",
-      "game_name": "",
-      "viewer_count": 5,
-      "started_at": "2026-06-03T12:27:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tubasa_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -372,7 +367,7 @@
       "is_live": true,
       "title": "【VTuber】おはようこうそう【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 46,
+      "viewer_count": 53,
       "started_at": "2026-06-03T12:18:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -597,7 +592,7 @@
       "is_live": true,
       "title": "TBHで飯を食う",
       "game_name": "TBH: Task Bar Hero",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-03T12:47:09Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_0401mako-{width}x{height}.jpg"
     },
