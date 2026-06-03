@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T21:15:58+09:00",
+  "updated_at": "2026-06-03T21:20:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -202,7 +202,7 @@
       "is_live": true,
       "title": "フルパ",
       "game_name": "VALORANT",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-06-03T12:11:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -234,7 +234,12 @@
       "display_name": "小鳥遊えも",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a615f281-e58a-4795-a4b3-76a3724a470e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tqkanashi_emo",
-      "is_live": false
+      "is_live": true,
+      "title": "【顔出し散らかりまくった部屋を掃除しながら雑談！22時お知らせもあり！",
+      "game_name": "Just Chatting",
+      "viewer_count": 1,
+      "started_at": "2026-06-03T12:18:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tqkanashi_emo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -247,7 +252,7 @@
       "is_live": true,
       "title": "【#星の翼】アリスハルカの時だけ中二病になるソロランク【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 4,
+      "viewer_count": 1,
       "started_at": "2026-06-03T11:46:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -369,7 +374,12 @@
       "display_name": "火影こたつ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": false
+      "is_live": true,
+      "title": "【VTuber】おはようこうそう【FiveM/#ラフシティ】",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 9,
+      "started_at": "2026-06-03T12:18:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -472,7 +482,7 @@
       "is_live": true,
       "title": "ご報告雑談してからヴァロやる！！ VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-03T09:52:08Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -517,7 +527,7 @@
       "is_live": true,
       "title": "【#マラソン】6/9まで無料らしい。 @Chierio",
       "game_name": "Marathon",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-06-03T10:14:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -609,7 +619,12 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8c6afb2-601c-4a34-9684-8d22fafc7e2e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "抗争ワイプ１日目のラフシティマウス変えてエイムやばい",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 0,
+      "started_at": "2026-06-03T12:19:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
