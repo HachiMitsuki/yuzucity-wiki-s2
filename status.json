@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T02:40:58+09:00",
+  "updated_at": "2026-06-05T03:05:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -332,7 +332,7 @@
       "is_live": true,
       "title": "【Apex】ぼちぼちダイヤまで進めよか～@2",
       "game_name": "Apex Legends",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-04T17:20:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanasenon-{width}x{height}.jpg"
     },
