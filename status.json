@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T22:11:01+09:00",
+  "updated_at": "2026-06-04T22:16:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -127,7 +127,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #VALORANT】神颯祭 Aチーム顔合わせ 花畑みたいないい匂いができます",
       "game_name": "VALORANT",
-      "viewer_count": 8,
+      "viewer_count": 4,
       "started_at": "2026-06-04T13:02:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -172,7 +172,7 @@
       "is_live": true,
       "title": "【VALORANT】あああ#2【Sunrise Town】",
       "game_name": "VALORANT",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-04T12:58:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -384,7 +384,12 @@
       "display_name": "火影こたつ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": false
+      "is_live": true,
+      "title": "【VTuber】ギャングれちご 【FiveM/#ラフシティ】",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 9,
+      "started_at": "2026-06-04T13:12:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -487,7 +492,7 @@
       "is_live": true,
       "title": "130人行ったと思ったら減ってた涙 そんな中コンペ行きます( ´∀｀ ) VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-04T10:14:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
