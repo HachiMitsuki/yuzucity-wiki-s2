@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T01:25:59+09:00",
+  "updated_at": "2026-06-05T01:30:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -242,7 +242,7 @@
       "is_live": true,
       "title": "【#星の翼】珍しくリハビリ回です【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-04T12:48:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -367,7 +367,7 @@
       "is_live": true,
       "title": "【VTuber】ギャングれちご 【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 62,
+      "viewer_count": 55,
       "started_at": "2026-06-04T13:12:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -522,7 +522,7 @@
       "is_live": true,
       "title": "ゔぁ",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-04T15:48:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
