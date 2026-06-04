@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T14:15:57+09:00",
+  "updated_at": "2026-06-04T14:20:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -517,7 +517,7 @@
       "is_live": true,
       "title": "ゔぁ昼活",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-04T02:13:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
