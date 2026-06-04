@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T19:50:58+09:00",
+  "updated_at": "2026-06-04T19:55:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,12 +29,7 @@
       "display_name": "水野らこ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff5b77c0-e9f1-4712-be63-00c1914c84fb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rako3456",
-      "is_live": true,
-      "title": "【Nier: Automata】折れるな私のメンタル",
-      "game_name": "NieR: Automata",
-      "viewer_count": 3,
-      "started_at": "2026-06-04T07:56:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
