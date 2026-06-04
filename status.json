@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T06:25:55+09:00",
+  "updated_at": "2026-06-05T06:30:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -329,12 +329,7 @@
       "display_name": "七瀬のん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a6ec22c-c525-4dd0-9dc3-46c808857ea7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nanasenon",
-      "is_live": true,
-      "title": "【Apex】ぼちぼちダイヤまで進めよか～ @1",
-      "game_name": "Apex Legends",
-      "viewer_count": 2,
-      "started_at": "2026-06-04T17:20:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanasenon-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -344,7 +339,12 @@
       "display_name": "usjkh",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdeca576-ddee-421f-beea-07e47ddfd179-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/usjkh",
-      "is_live": false
+      "is_live": true,
+      "title": "大学に行く前のちょっとだけ序列戦",
+      "game_name": "Mecha BREAK",
+      "viewer_count": 1,
+      "started_at": "2026-06-04T21:27:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
