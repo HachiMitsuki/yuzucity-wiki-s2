@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T23:01:03+09:00",
+  "updated_at": "2026-06-04T23:06:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -42,7 +42,7 @@
       "is_live": true,
       "title": "ちょこっとフルパ【龍咲】【#VALORANT 】",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-04T13:50:10Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
@@ -57,7 +57,7 @@
       "is_live": true,
       "title": "[VALORANT] SunriseTown Community Cup Vol.1  スクリムday",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-04T12:54:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
@@ -132,7 +132,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #VALORANT】神颯祭 Aチーム顔合わせ 花畑みたいないい匂いができます",
       "game_name": "VALORANT",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-06-04T13:02:01Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -177,7 +177,7 @@
       "is_live": true,
       "title": "【VALORANT】あああ#2【Sunrise Town】",
       "game_name": "VALORANT",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-06-04T12:58:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -262,7 +262,7 @@
       "is_live": true,
       "title": "【#星の翼】珍しくリハビリ回です【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-04T12:48:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -392,7 +392,7 @@
       "is_live": true,
       "title": "【VTuber】ギャングれちご 【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 61,
+      "viewer_count": 52,
       "started_at": "2026-06-04T13:12:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
