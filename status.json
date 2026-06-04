@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T22:01:02+09:00",
+  "updated_at": "2026-06-04T22:06:06+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -124,7 +124,12 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": false
+      "is_live": true,
+      "title": "🔴LIVE【 #VALORANT】神颯祭 Aチーム顔合わせ 花畑みたいないい匂いができます",
+      "game_name": "VALORANT",
+      "viewer_count": 1,
+      "started_at": "2026-06-04T13:02:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -167,7 +172,7 @@
       "is_live": true,
       "title": "【VALORANT】あああ#2【Sunrise Town】",
       "game_name": "VALORANT",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-06-04T12:58:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -252,7 +257,7 @@
       "is_live": true,
       "title": "【#星の翼】珍しくリハビリ回です【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-04T12:48:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -297,7 +302,7 @@
       "is_live": true,
       "title": "生き残った一人がハードモードに挑む | 7 Days to Die",
       "game_name": "7 Days to Die",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-04T11:59:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -624,12 +629,7 @@
       "display_name": "tsukkyi_vl",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6131d734-76ff-4c55-a167-02ba9e7fd60c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tsukkyi_vl",
-      "is_live": true,
-      "title": "雑談 背景ではヴァロランク流しとく",
-      "game_name": "VALORANT",
-      "viewer_count": 2,
-      "started_at": "2026-06-04T06:49:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
