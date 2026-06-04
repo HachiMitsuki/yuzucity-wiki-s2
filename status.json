@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T19:10:58+09:00",
+  "updated_at": "2026-06-04T19:15:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -32,7 +32,7 @@
       "is_live": true,
       "title": "【Nier: Automata】折れるな私のメンタル",
       "game_name": "NieR: Automata",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-04T07:56:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -464,7 +464,12 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": false
+      "is_live": true,
+      "title": "130人行ったと思ったら減ってた涙 そんな中コンペ行きます( ´∀｀ ) VALORANT #VALORANTコンペ #VTuber",
+      "game_name": "VALORANT",
+      "viewer_count": 1,
+      "started_at": "2026-06-04T10:14:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -607,7 +612,7 @@
       "is_live": true,
       "title": "雑談 背景ではヴァロランク流しとく",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "started_at": "2026-06-04T06:49:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
     },
