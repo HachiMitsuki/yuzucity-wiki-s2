@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T00:40:59+09:00",
+  "updated_at": "2026-06-05T00:46:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -242,7 +242,7 @@
       "is_live": true,
       "title": "【#星の翼】珍しくリハビリ回です【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-04T12:48:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -287,7 +287,7 @@
       "is_live": true,
       "title": "生き残った一人がハードモードに挑む | 7 Days to Die",
       "game_name": "7 Days to Die",
-      "viewer_count": 7,
+      "viewer_count": 4,
       "started_at": "2026-06-04T11:59:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -372,7 +372,7 @@
       "is_live": true,
       "title": "【VTuber】ギャングれちご 【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 55,
+      "viewer_count": 59,
       "started_at": "2026-06-04T13:12:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
