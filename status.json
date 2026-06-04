@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T07:50:56+09:00",
+  "updated_at": "2026-06-05T07:55:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -342,7 +342,7 @@
       "is_live": true,
       "title": "大学に行く前のちょっとだけ序列戦",
       "game_name": "Mecha BREAK",
-      "viewer_count": 12,
+      "viewer_count": 7,
       "started_at": "2026-06-04T21:27:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
