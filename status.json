@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T02:25:58+09:00",
+  "updated_at": "2026-06-05T02:30:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -332,7 +332,7 @@
       "is_live": true,
       "title": "【Apex】ぼちぼちダイヤまで進めよか～@2",
       "game_name": "Apex Legends",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-04T17:20:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanasenon-{width}x{height}.jpg"
     },
@@ -514,12 +514,7 @@
       "display_name": "海月織",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": true,
-      "title": "ゔぁ",
-      "game_name": "VALORANT",
-      "viewer_count": 1,
-      "started_at": "2026-06-04T15:48:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
