@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T21:46:02+09:00",
+  "updated_at": "2026-06-04T21:51:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -239,7 +239,12 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#星の翼】珍しくリハビリ回です【#vtuber /雷音雅】",
+      "game_name": "StarWard",
+      "viewer_count": 1,
+      "started_at": "2026-06-04T12:48:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -282,7 +287,7 @@
       "is_live": true,
       "title": "生き残った一人がハードモードに挑む | 7 Days to Die",
       "game_name": "7 Days to Die",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-04T11:59:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -467,7 +472,7 @@
       "is_live": true,
       "title": "130人行ったと思ったら減ってた涙 そんな中コンペ行きます( ´∀｀ ) VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-04T10:14:00Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -612,7 +617,7 @@
       "is_live": true,
       "title": "雑談 背景ではヴァロランク流しとく",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-04T06:49:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
     },
