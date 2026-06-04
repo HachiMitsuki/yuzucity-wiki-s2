@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T02:00:58+09:00",
+  "updated_at": "2026-06-05T02:05:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -359,12 +359,7 @@
       "display_name": "火影こたつ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": true,
-      "title": "【VTuber】ギャングれちご 【FiveM/#ラフシティ】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 67,
-      "started_at": "2026-06-04T13:12:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -517,7 +512,7 @@
       "is_live": true,
       "title": "ゔぁ",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-04T15:48:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
