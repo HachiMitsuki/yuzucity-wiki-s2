@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T13:00:58+09:00",
+  "updated_at": "2026-06-04T13:10:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -207,7 +207,7 @@
       "is_live": true,
       "title": "ゴールドに上がりたい",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "started_at": "2026-06-04T02:33:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
