@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T19:15:58+09:00",
+  "updated_at": "2026-06-04T19:20:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -32,7 +32,7 @@
       "is_live": true,
       "title": "【Nier: Automata】折れるな私のメンタル",
       "game_name": "NieR: Automata",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-04T07:56:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -612,7 +612,7 @@
       "is_live": true,
       "title": "雑談 背景ではヴァロランク流しとく",
       "game_name": "VALORANT",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-06-04T06:49:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
     },
