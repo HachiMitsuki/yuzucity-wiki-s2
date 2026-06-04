@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T13:15:57+09:00",
+  "updated_at": "2026-06-04T13:20:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "オレ的なりたい職業3位「司書」",
       "game_name": "Librarian: Tidy Up the Arcane Library!",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-06-04T03:59:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
@@ -207,7 +207,7 @@
       "is_live": true,
       "title": "ゴールドに上がりたい",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-04T02:33:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
