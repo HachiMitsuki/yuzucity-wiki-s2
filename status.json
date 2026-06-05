@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T00:46:00+09:00",
+  "updated_at": "2026-06-06T00:51:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -182,7 +182,7 @@
       "is_live": true,
       "title": "【APEX】スタンプがある、今日は友達を引き連れてAPEXｗミリP、斉藤ジオ【初見歓迎】",
       "game_name": "Apex Legends",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-06-05T14:15:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -472,7 +472,7 @@
       "is_live": true,
       "title": "ヴァロだーーー！！VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-05T13:12:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -607,7 +607,7 @@
       "is_live": true,
       "title": "ラフシティの犯罪 あっもんたげだしました",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-05T14:10:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
