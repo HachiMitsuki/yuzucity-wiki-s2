@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T06:55:59+09:00",
+  "updated_at": "2026-06-06T07:01:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #VALORANT】気合と根性でダイヤ帰還計画",
       "game_name": "VALORANT",
-      "viewer_count": 24,
+      "viewer_count": 20,
       "started_at": "2026-06-05T20:45:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -607,7 +607,7 @@
       "is_live": true,
       "title": "朝活雑談作業配信",
       "game_name": "Just Chatting",
-      "viewer_count": 0,
+      "viewer_count": 2,
       "started_at": "2026-06-05T21:55:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
     },
