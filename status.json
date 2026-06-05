@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T16:41:00+09:00",
+  "updated_at": "2026-06-05T16:45:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,7 +29,12 @@
       "display_name": "水野らこ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff5b77c0-e9f1-4712-be63-00c1914c84fb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rako3456",
-      "is_live": false
+      "is_live": true,
+      "title": "【Nier: Automata】オレタチ ニンゲン クウ",
+      "game_name": "NieR: Automata",
+      "viewer_count": 2,
+      "started_at": "2026-06-05T07:41:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
