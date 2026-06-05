@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T23:51:02+09:00",
+  "updated_at": "2026-06-05T23:56:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -407,7 +407,7 @@
       "is_live": true,
       "title": "[LOL] レベル上げしていく！",
       "game_name": "League of Legends",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-05T14:13:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -617,7 +617,7 @@
       "is_live": true,
       "title": "ラフシティの犯罪 あっもんたげだしました",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-05T14:10:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
