@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T22:31:03+09:00",
+  "updated_at": "2026-06-05T22:36:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -284,7 +284,12 @@
       "display_name": "絶叫者イノ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": false
+      "is_live": true,
+      "title": "カスタム練習お手伝いVALORANT | VALORANT",
+      "game_name": "VALORANT",
+      "viewer_count": 1,
+      "started_at": "2026-06-05T13:34:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
