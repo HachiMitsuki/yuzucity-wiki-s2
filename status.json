@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T04:30:59+09:00",
+  "updated_at": "2026-06-06T04:35:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -589,12 +589,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8c6afb2-601c-4a34-9684-8d22fafc7e2e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "ラフシティの犯罪 あっもんたげだしました",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
-      "started_at": "2026-06-05T14:10:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
