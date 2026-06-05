@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T19:51:01+09:00",
+  "updated_at": "2026-06-05T19:56:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -154,12 +154,7 @@
       "display_name": "水無瀬九炉",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfc4b856-14bc-4aa3-8104-bf88ecb3ae48-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/k6o_minase",
-      "is_live": true,
-      "title": "【Tales of Vesperia】友人から勧められたゲームをやってみる Pt.2",
-      "game_name": "Tales of Vesperia",
-      "viewer_count": 1,
-      "started_at": "2026-06-05T07:35:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_k6o_minase-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
