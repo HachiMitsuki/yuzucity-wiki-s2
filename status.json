@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T22:06:01+09:00",
+  "updated_at": "2026-06-05T22:11:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -392,7 +392,7 @@
       "is_live": true,
       "title": "【 RAFT 】 化け物達の漂流記 - ななし視点 【 伏屋ななし / Vtuber / コラボ 】",
       "game_name": "Raft",
-      "viewer_count": 0,
+      "viewer_count": 2,
       "started_at": "2026-06-05T13:05:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
