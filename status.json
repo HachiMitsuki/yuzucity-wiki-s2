@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T23:11:03+09:00",
+  "updated_at": "2026-06-05T23:16:10+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -162,7 +162,7 @@
       "is_live": true,
       "title": "【VALORANT】あああaスクリム#3【Sunrise Town】",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-05T13:01:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -184,7 +184,12 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【APEX】スタンプがある、今日は友達を引き連れてAPEXｗミリP、斉藤ジオ【初見歓迎】",
+      "game_name": "Apex Legends",
+      "viewer_count": 0,
+      "started_at": "2026-06-05T14:15:13Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -404,7 +409,12 @@
       "display_name": "黒田りと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef9f74-3e0f-4327-b7df-e192b317cea9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuro__chan96",
-      "is_live": false
+      "is_live": true,
+      "title": "[LOL] レベル上げしていく！",
+      "game_name": "League of Legends",
+      "viewer_count": 1,
+      "started_at": "2026-06-05T14:13:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -477,7 +487,7 @@
       "is_live": true,
       "title": "ヴァロだーーー！！VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 1,
+      "viewer_count": 0,
       "started_at": "2026-06-05T13:12:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -612,7 +622,7 @@
       "is_live": true,
       "title": "ラフシティの犯罪 あっもんたげだしました",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 0,
+      "viewer_count": 2,
       "started_at": "2026-06-05T14:10:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
