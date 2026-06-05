@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T18:10:59+09:00",
+  "updated_at": "2026-06-05T18:15:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -32,7 +32,7 @@
       "is_live": true,
       "title": "【Nier: Automata】オレタチ ニンゲン クウ",
       "game_name": "NieR: Automata",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-06-05T07:41:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
@@ -617,7 +617,7 @@
       "is_live": true,
       "title": "今日は真面目にランクやる",
       "game_name": "VALORANT",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-06-05T08:59:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
     },
