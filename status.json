@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T22:56:02+09:00",
+  "updated_at": "2026-06-05T23:01:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -162,7 +162,7 @@
       "is_live": true,
       "title": "【VALORANT】あああaスクリム#3【Sunrise Town】",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-05T13:01:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -287,7 +287,7 @@
       "is_live": true,
       "title": "カスタム練習お手伝いVALORANT | VALORANT",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-05T13:34:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
