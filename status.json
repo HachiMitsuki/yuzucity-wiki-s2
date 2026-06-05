@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T20:06:03+09:00",
+  "updated_at": "2026-06-05T20:11:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -607,7 +607,7 @@
       "is_live": true,
       "title": "今日は真面目にランクやる",
       "game_name": "VALORANT",
-      "viewer_count": 5,
+      "viewer_count": 1,
       "started_at": "2026-06-05T08:59:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
     },
