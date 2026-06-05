@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T19:06:00+09:00",
+  "updated_at": "2026-06-05T19:26:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "[ネタバレ注意]懐かしすぎて魂出ちゃうかもしれない",
       "game_name": "Ghost Trick: Phantom Detective",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-05T09:57:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
@@ -212,7 +212,7 @@
       "is_live": true,
       "title": "ゴールドに上がりたい",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-05T08:00:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -617,7 +617,7 @@
       "is_live": true,
       "title": "今日は真面目にランクやる",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-05T08:59:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
     },
