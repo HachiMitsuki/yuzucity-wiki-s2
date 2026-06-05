@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T00:26:01+09:00",
+  "updated_at": "2026-06-06T00:31:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -182,7 +182,7 @@
       "is_live": true,
       "title": "【APEX】スタンプがある、今日は友達を引き連れてAPEXｗミリP、斉藤ジオ【初見歓迎】",
       "game_name": "Apex Legends",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-05T14:15:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -384,12 +384,7 @@
       "display_name": "伏屋ななし",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7de1254-d9ef-45cd-b8c8-ab4490c3e9b1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/248774",
-      "is_live": true,
-      "title": "【 RAFT 】 化け物達の漂流記 - ななし視点 【 伏屋ななし / Vtuber / コラボ 】",
-      "game_name": "Raft",
-      "viewer_count": 1,
-      "started_at": "2026-06-05T13:05:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -612,7 +607,7 @@
       "is_live": true,
       "title": "ラフシティの犯罪 あっもんたげだしました",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-05T14:10:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
