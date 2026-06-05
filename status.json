@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T12:15:59+09:00",
+  "updated_at": "2026-06-05T12:21:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -152,7 +152,7 @@
       "is_live": true,
       "title": "【Tales of Vesperia】友人から勧められたゲームをやってみる Pt.1",
       "game_name": "Tales of Vesperia",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-06-05T03:15:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_k6o_minase-{width}x{height}.jpg"
     },
