@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T03:00:59+09:00",
+  "updated_at": "2026-06-06T03:05:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -467,7 +467,7 @@
       "is_live": true,
       "title": "ヴァロだーーー！！VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-05T13:12:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -519,12 +519,7 @@
       "display_name": "海月織",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": true,
-      "title": "初のbackroom！！",
-      "game_name": "Escape the Backrooms",
-      "viewer_count": 1,
-      "started_at": "2026-06-05T15:53:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -607,7 +602,7 @@
       "is_live": true,
       "title": "ラフシティの犯罪 あっもんたげだしました",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "started_at": "2026-06-05T14:10:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
