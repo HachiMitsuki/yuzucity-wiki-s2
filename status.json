@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T00:11:01+09:00",
+  "updated_at": "2026-06-06T00:16:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -287,7 +287,7 @@
       "is_live": true,
       "title": "カスタム練習お手伝いVALORANT | VALORANT",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-05T13:34:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
@@ -392,7 +392,7 @@
       "is_live": true,
       "title": "【 RAFT 】 化け物達の漂流記 - ななし視点 【 伏屋ななし / Vtuber / コラボ 】",
       "game_name": "Raft",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-06-05T13:05:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
@@ -482,7 +482,7 @@
       "is_live": true,
       "title": "ヴァロだーーー！！VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-05T13:12:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -617,7 +617,7 @@
       "is_live": true,
       "title": "ラフシティの犯罪 あっもんたげだしました",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-05T14:10:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
