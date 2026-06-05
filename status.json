@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T21:11:00+09:00",
+  "updated_at": "2026-06-05T22:06:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -164,7 +164,12 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】あああaスクリム#3【Sunrise Town】",
+      "game_name": "VALORANT",
+      "viewer_count": 1,
+      "started_at": "2026-06-05T13:01:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -384,7 +389,12 @@
       "display_name": "伏屋ななし",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7de1254-d9ef-45cd-b8c8-ab4490c3e9b1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/248774",
-      "is_live": false
+      "is_live": true,
+      "title": "【 RAFT 】 化け物達の漂流記 - ななし視点 【 伏屋ななし / Vtuber / コラボ 】",
+      "game_name": "Raft",
+      "viewer_count": 0,
+      "started_at": "2026-06-05T13:05:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
