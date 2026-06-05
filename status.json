@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T17:55:58+09:00",
+  "updated_at": "2026-06-05T18:00:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -212,7 +212,7 @@
       "is_live": true,
       "title": "ゴールドに上がりたい",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-05T08:00:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -614,7 +614,12 @@
       "display_name": "tsukkyi_vl",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6131d734-76ff-4c55-a167-02ba9e7fd60c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tsukkyi_vl",
-      "is_live": false
+      "is_live": true,
+      "title": "今日は真面目にランクやる",
+      "game_name": "VALORANT",
+      "viewer_count": 0,
+      "started_at": "2026-06-05T08:59:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
