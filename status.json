@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T02:05:58+09:00",
+  "updated_at": "2026-06-06T02:10:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -392,7 +392,7 @@
       "is_live": true,
       "title": "[LOL] レベル上げしていく！",
       "game_name": "League of Legends",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-05T14:13:54Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
@@ -467,7 +467,7 @@
       "is_live": true,
       "title": "ヴァロだーーー！！VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-05T13:12:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -522,7 +522,7 @@
       "is_live": true,
       "title": "初のbackroom！！",
       "game_name": "Escape the Backrooms",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-05T15:53:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
@@ -607,7 +607,7 @@
       "is_live": true,
       "title": "ラフシティの犯罪 あっもんたげだしました",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-05T14:10:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
