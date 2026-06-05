@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T20:26:01+09:00",
+  "updated_at": "2026-06-05T21:06:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -129,7 +129,12 @@
       "display_name": "きょんでれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef15f6-83c7-417e-8e3e-7e2860261406-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kyonchi3",
-      "is_live": false
+      "is_live": true,
+      "title": "[APEX]会社の部下と元部下に挟まれてランク",
+      "game_name": "Apex Legends",
+      "viewer_count": 0,
+      "started_at": "2026-06-05T12:05:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kyonchi3-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
