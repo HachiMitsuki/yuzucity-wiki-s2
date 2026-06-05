@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T22:21:01+09:00",
+  "updated_at": "2026-06-05T22:26:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -129,12 +129,7 @@
       "display_name": "きょんでれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef15f6-83c7-417e-8e3e-7e2860261406-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kyonchi3",
-      "is_live": true,
-      "title": "[APEX]会社の部下と元部下に挟まれてランク",
-      "game_name": "Apex Legends",
-      "viewer_count": 1,
-      "started_at": "2026-06-05T12:05:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kyonchi3-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -167,7 +162,7 @@
       "is_live": true,
       "title": "【VALORANT】あああaスクリム#3【Sunrise Town】",
       "game_name": "VALORANT",
-      "viewer_count": 5,
+      "viewer_count": 2,
       "started_at": "2026-06-05T13:01:21Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
@@ -392,7 +387,7 @@
       "is_live": true,
       "title": "【 RAFT 】 化け物達の漂流記 - ななし視点 【 伏屋ななし / Vtuber / コラボ 】",
       "game_name": "Raft",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-05T13:05:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
@@ -477,7 +472,7 @@
       "is_live": true,
       "title": "ヴァロだーーー！！VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-05T13:12:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
