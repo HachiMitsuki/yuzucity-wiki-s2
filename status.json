@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T22:51:06+09:00",
+  "updated_at": "2026-06-06T22:56:06+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -22,7 +22,7 @@
       "is_live": true,
       "title": "【VALORANT】おひさ〖初見さんコメント大歓迎〗",
       "game_name": "VALORANT",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-06T13:19:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
@@ -57,7 +57,7 @@
       "is_live": true,
       "title": "[VALORANT] SunriseTown Community Cup Vol.1  本番！#valorant #新人Vtuber",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-06T12:09:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
@@ -197,7 +197,7 @@
       "is_live": true,
       "title": "【NTE】初めてのNTEどんな感じ？？初見歓迎】",
       "game_name": "NTE: Neverness to Everness",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-06-06T13:49:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -272,7 +272,7 @@
       "is_live": true,
       "title": "【GTA5】ラフシティ 眠すぎな？ 抗争 猫梅つばさ",
       "game_name": "",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-06-06T12:19:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tubasa_twitch-{width}x{height}.jpg"
     },
@@ -357,7 +357,7 @@
       "is_live": true,
       "title": "【ラフシティ】こ！！う！！そ！！う！！【GTA5】",
       "game_name": "Apex Legends",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-06T12:35:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanasenon-{width}x{height}.jpg"
     },
@@ -392,7 +392,7 @@
       "is_live": true,
       "title": "【VTuber】抗争ing【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 47,
+      "viewer_count": 52,
       "started_at": "2026-06-06T12:29:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -414,7 +414,12 @@
       "display_name": "伏屋ななし",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7de1254-d9ef-45cd-b8c8-ab4490c3e9b1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/248774",
-      "is_live": false
+      "is_live": true,
+      "title": "【 RAFT 】 化け物達の漂流記 - ななし視点 【 伏屋ななし / Vtuber / コラボ 】",
+      "game_name": "Raft",
+      "viewer_count": 0,
+      "started_at": "2026-06-06T13:52:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -642,7 +647,7 @@
       "is_live": true,
       "title": "ワイプ抗争２日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 8,
+      "viewer_count": 7,
       "started_at": "2026-06-06T12:27:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
