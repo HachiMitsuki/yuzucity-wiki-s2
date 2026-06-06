@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T03:06:01+09:00",
+  "updated_at": "2026-06-07T03:11:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -242,7 +242,7 @@
       "is_live": true,
       "title": "【#星の翼】キャラ対キャラ練頑張ろうって回【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-06T14:35:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -512,7 +512,7 @@
       "is_live": true,
       "title": "【#SAND】ハウルの動く城",
       "game_name": "Sand: Raiders Of Sophie",
-      "viewer_count": 3,
+      "viewer_count": 5,
       "started_at": "2026-06-06T11:18:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -527,7 +527,7 @@
       "is_live": true,
       "title": "えぺしきわにいぬ",
       "game_name": "Apex Legends",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "started_at": "2026-06-06T16:11:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
