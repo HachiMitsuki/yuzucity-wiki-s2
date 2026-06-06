@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T21:06:04+09:00",
+  "updated_at": "2026-06-06T21:11:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,7 +49,12 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": false
+      "is_live": true,
+      "title": "[VALORANT] SunriseTown Community Cup Vol.1  本番！#valorant #新人Vtuber",
+      "game_name": "VALORANT",
+      "viewer_count": 0,
+      "started_at": "2026-06-06T12:09:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -272,7 +277,7 @@
       "is_live": true,
       "title": "【祝2周年】まぁまぁ話しましょうや【飲酒雑談】",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-06T09:22:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
     },
@@ -467,7 +472,7 @@
       "is_live": true,
       "title": "シルバー行きたい夜の部 VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-06T11:35:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -512,7 +517,7 @@
       "is_live": true,
       "title": "【#SAND】ハウルの動く城",
       "game_name": "Sand: Raiders Of Sophie",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-06T11:18:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
