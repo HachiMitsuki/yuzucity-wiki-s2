@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T00:31:05+09:00",
+  "updated_at": "2026-06-07T00:36:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -252,7 +252,7 @@
       "is_live": true,
       "title": "【#星の翼】キャラ対キャラ練頑張ろうって回【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-06T14:35:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -377,7 +377,7 @@
       "is_live": true,
       "title": "【VTuber】はんざing【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 43,
+      "viewer_count": 53,
       "started_at": "2026-06-06T14:28:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -532,7 +532,7 @@
       "is_live": true,
       "title": "【#SAND】ハウルの動く城",
       "game_name": "Sand: Raiders Of Sophie",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-06T11:18:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -627,7 +627,7 @@
       "is_live": true,
       "title": "犯罪",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "started_at": "2026-06-06T12:27:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
