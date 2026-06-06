@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T22:06:06+09:00",
+  "updated_at": "2026-06-06T22:11:06+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -52,7 +52,7 @@
       "is_live": true,
       "title": "[VALORANT] SunriseTown Community Cup Vol.1  本番！#valorant #新人Vtuber",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-06T12:09:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
@@ -262,7 +262,7 @@
       "is_live": true,
       "title": "【GTA5】ラフシティ 眠すぎな？ 抗争 猫梅つばさ",
       "game_name": "",
-      "viewer_count": 6,
+      "viewer_count": 3,
       "started_at": "2026-06-06T12:19:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tubasa_twitch-{width}x{height}.jpg"
     },
@@ -284,12 +284,7 @@
       "display_name": "ひもぉ0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a14d94-7d4a-4913-89e2-fa76064f5cf8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himoo_ttvt",
-      "is_live": true,
-      "title": "【祝2周年】まぁまぁ話しましょうや【飲酒NTE】",
-      "game_name": "NTE: Neverness to Everness",
-      "viewer_count": 2,
-      "started_at": "2026-06-06T09:22:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -387,7 +382,7 @@
       "is_live": true,
       "title": "【VTuber】抗争ing【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 48,
+      "viewer_count": 46,
       "started_at": "2026-06-06T12:29:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -482,7 +477,7 @@
       "is_live": true,
       "title": "【#Sunrize valoカス】valoカスタム！本番！",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-06T12:16:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
@@ -542,7 +537,7 @@
       "is_live": true,
       "title": "【#SAND】ハウルの動く城",
       "game_name": "Sand: Raiders Of Sophie",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "started_at": "2026-06-06T11:18:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -637,7 +632,7 @@
       "is_live": true,
       "title": "ワイプ抗争２日目",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-06T12:27:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
