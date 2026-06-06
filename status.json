@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T18:21:03+09:00",
+  "updated_at": "2026-06-06T18:26:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -202,7 +202,7 @@
       "is_live": true,
       "title": "ゴールドに上がりたい",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-06T07:22:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
@@ -274,7 +274,12 @@
       "display_name": "ひもぉ0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a14d94-7d4a-4913-89e2-fa76064f5cf8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himoo_ttvt",
-      "is_live": false
+      "is_live": true,
+      "title": "【祝2周年】まぁまぁ話しましょうや【飲酒雑談】",
+      "game_name": "Just Chatting",
+      "viewer_count": 1,
+      "started_at": "2026-06-06T09:22:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -457,7 +462,7 @@
       "is_live": true,
       "title": "【#まめらんど３】初参加！楽しんで行くぞ",
       "game_name": "Minecraft",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-06-06T04:11:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
