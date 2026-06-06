@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T21:11:05+09:00",
+  "updated_at": "2026-06-06T21:16:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -52,7 +52,7 @@
       "is_live": true,
       "title": "[VALORANT] SunriseTown Community Cup Vol.1  本番！#valorant #新人Vtuber",
       "game_name": "VALORANT",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-06-06T12:09:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
@@ -517,7 +517,7 @@
       "is_live": true,
       "title": "【#SAND】ハウルの動く城",
       "game_name": "Sand: Raiders Of Sophie",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-06-06T11:18:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
