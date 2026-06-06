@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T23:26:06+09:00",
+  "updated_at": "2026-06-06T23:31:07+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -277,7 +277,7 @@
       "is_live": true,
       "title": "【GTA5】ラフシティ 眠すぎな？ 抗争 猫梅つばさ",
       "game_name": "",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-06T12:19:47Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tubasa_twitch-{width}x{height}.jpg"
     },
@@ -362,7 +362,7 @@
       "is_live": true,
       "title": "【ラフシティ】こ！！う！！そ！！う！！【GTA5】",
       "game_name": "Apex Legends",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-06T12:35:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanasenon-{width}x{height}.jpg"
     },
@@ -394,7 +394,12 @@
       "display_name": "火影こたつ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": false
+      "is_live": true,
+      "title": "【VTuber】はんざing【FiveM/#ラフシティ】",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 4,
+      "started_at": "2026-06-06T14:28:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -417,7 +422,7 @@
       "is_live": true,
       "title": "【 RAFT 】 化け物達の漂流記 - ななし視点 【 伏屋ななし / Vtuber / コラボ 】",
       "game_name": "Raft",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-06T13:52:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
@@ -492,7 +497,7 @@
       "is_live": true,
       "title": "【#Sunrize valoカス】valoカスタム！本番！",
       "game_name": "VALORANT",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-06T12:16:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
@@ -552,7 +557,7 @@
       "is_live": true,
       "title": "【#SAND】ハウルの動く城",
       "game_name": "Sand: Raiders Of Sophie",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-06T11:18:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -647,7 +652,7 @@
       "is_live": true,
       "title": "犯罪",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "started_at": "2026-06-06T12:27:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
