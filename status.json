@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T00:21:04+09:00",
+  "updated_at": "2026-06-07T00:26:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -152,7 +152,7 @@
       "is_live": true,
       "title": "【Tales of Vesperia】テイルズ世界観光 Pt.3",
       "game_name": "Tales of Vesperia",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "started_at": "2026-06-06T15:06:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_k6o_minase-{width}x{height}.jpg"
     },
@@ -187,7 +187,7 @@
       "is_live": true,
       "title": "【NTE】初めてのNTEどんな感じ？？初見歓迎】",
       "game_name": "NTE: Neverness to Everness",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-06T13:49:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -252,7 +252,7 @@
       "is_live": true,
       "title": "【#星の翼】キャラ対キャラ練頑張ろうって回【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 4,
+      "viewer_count": 2,
       "started_at": "2026-06-06T14:35:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -377,7 +377,7 @@
       "is_live": true,
       "title": "【VTuber】はんざing【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 52,
+      "viewer_count": 57,
       "started_at": "2026-06-06T14:28:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -532,7 +532,7 @@
       "is_live": true,
       "title": "【#SAND】ハウルの動く城",
       "game_name": "Sand: Raiders Of Sophie",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "started_at": "2026-06-06T11:18:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -627,7 +627,7 @@
       "is_live": true,
       "title": "犯罪",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "started_at": "2026-06-06T12:27:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
