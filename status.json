@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T14:46:03+09:00",
+  "updated_at": "2026-06-06T14:56:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -342,7 +342,7 @@
       "is_live": true,
       "title": "でどでどでどろ",
       "game_name": "Deadlock",
-      "viewer_count": 3,
+      "viewer_count": 1,
       "started_at": "2026-06-06T03:29:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
