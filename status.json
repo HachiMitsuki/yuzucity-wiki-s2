@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T12:16:01+09:00",
+  "updated_at": "2026-06-06T12:21:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -122,7 +122,7 @@
       "is_live": true,
       "title": "🔴LIVE【 #VALORANT】気合と根性でダイヤ帰還計画",
       "game_name": "VALORANT",
-      "viewer_count": 19,
+      "viewer_count": 26,
       "started_at": "2026-06-05T20:45:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -144,12 +144,7 @@
       "display_name": "夢見弖ねこむ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38876e09-d270-4394-be4c-a339ea8535e9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekommn",
-      "is_live": true,
-      "title": "常闇祭2!! 横揺れ縦揺れWIN /w @popcorn_vtuber @yagata_tw",
-      "game_name": "Street Fighter 6",
-      "viewer_count": 1,
-      "started_at": "2026-06-06T02:59:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
