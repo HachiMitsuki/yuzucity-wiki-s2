@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T18:26:03+09:00",
+  "updated_at": "2026-06-06T18:36:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -277,7 +277,7 @@
       "is_live": true,
       "title": "【祝2周年】まぁまぁ話しましょうや【飲酒雑談】",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-06T09:22:39Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
     },
