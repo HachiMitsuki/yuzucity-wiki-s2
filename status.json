@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T03:21:01+09:00",
+  "updated_at": "2026-06-07T03:26:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -507,7 +507,7 @@
       "is_live": true,
       "title": "【#SAND】ハウルの動く城",
       "game_name": "Sand: Raiders Of Sophie",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-06T11:18:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
@@ -519,12 +519,7 @@
       "display_name": "海月織",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": true,
-      "title": "えぺしきわにいぬ",
-      "game_name": "Apex Legends",
-      "viewer_count": 6,
-      "started_at": "2026-06-06T16:11:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
