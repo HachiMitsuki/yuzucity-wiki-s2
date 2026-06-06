@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T01:51:02+09:00",
+  "updated_at": "2026-06-07T01:56:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -242,7 +242,7 @@
       "is_live": true,
       "title": "【#星の翼】キャラ対キャラ練頑張ろうって回【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-06T14:35:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -367,7 +367,7 @@
       "is_live": true,
       "title": "【VTuber】はんざing【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 55,
+      "viewer_count": 60,
       "started_at": "2026-06-06T14:28:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -472,7 +472,7 @@
       "is_live": true,
       "title": "シルバー行きたい夜の部 VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-06T11:35:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -532,7 +532,7 @@
       "is_live": true,
       "title": "えぺしきわにいぬ",
       "game_name": "Apex Legends",
-      "viewer_count": 4,
+      "viewer_count": 3,
       "started_at": "2026-06-06T16:11:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
