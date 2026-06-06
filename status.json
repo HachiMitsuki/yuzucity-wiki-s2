@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T03:31:01+09:00",
+  "updated_at": "2026-06-07T03:36:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -462,7 +462,7 @@
       "is_live": true,
       "title": "シルバー行きたい夜の部 VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-06T11:35:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
