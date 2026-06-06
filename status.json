@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T22:16:05+09:00",
+  "updated_at": "2026-06-06T22:21:06+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,7 +19,12 @@
       "display_name": "碧甘ぐみ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e0bd64f-84d3-4830-a711-0b44c9f675fe-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mikamo_gumi_247",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】おひさ〖初見さんコメント大歓迎〗",
+      "game_name": "VALORANT",
+      "viewer_count": 1,
+      "started_at": "2026-06-06T13:19:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -52,7 +57,7 @@
       "is_live": true,
       "title": "[VALORANT] SunriseTown Community Cup Vol.1  本番！#valorant #新人Vtuber",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-06T12:09:28Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
@@ -382,7 +387,7 @@
       "is_live": true,
       "title": "【VTuber】抗争ing【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 43,
+      "viewer_count": 41,
       "started_at": "2026-06-06T12:29:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -477,7 +482,7 @@
       "is_live": true,
       "title": "【#Sunrize valoカス】valoカスタム！本番！",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-06T12:16:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
@@ -537,7 +542,7 @@
       "is_live": true,
       "title": "【#SAND】ハウルの動く城",
       "game_name": "Sand: Raiders Of Sophie",
-      "viewer_count": 4,
+      "viewer_count": 6,
       "started_at": "2026-06-06T11:18:12Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
