@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-06-06T07:34:15+09:00",
+  "updated_at": "2026-06-07T03:25:00+09:00",
   "clips": [
+    {
+      "id": 229,
+      "source": "twitch",
+      "source_id": "DeliciousAbnegateAlfalfaRickroll-K-6DdovTYUn31XVp",
+      "url": "https://www.twitch.tv/inukuma_ryou/clip/DeliciousAbnegateAlfalfaRickroll-K-6DdovTYUn31XVp",
+      "embed_url": "https://clips.twitch.tv/embed?clip=DeliciousAbnegateAlfalfaRickroll-K-6DdovTYUn31XVp",
+      "title": "夜の釣り人",
+      "description": "最終日に時雨さんが目の前で綺麗に落ちていきました\nhttps://www.twitch.tv/inukuma_ryou/clip/DeliciousAbnegateAlfalfaRickroll-K-6DdovTYUn31XVp",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9473c69e-d4a7-40cd-baab-e2fccff73c86/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 53,
+      "broadcaster_name": "伊貫隈怜",
+      "author_name": "くまのわんこ/伊貫隈怜",
+      "author_avatar": "https://cdn.discordapp.com/avatars/700318595632332851/2fda7234220d69eab7c4c5a023915da0.png?size=128",
+      "posted_at": "2026-06-07T03:25:00+09:00"
+    },
     {
       "id": 228,
       "source": "twitch",
