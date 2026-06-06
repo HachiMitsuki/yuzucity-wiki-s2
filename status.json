@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T00:06:05+09:00",
+  "updated_at": "2026-06-07T00:11:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -109,12 +109,7 @@
       "display_name": "frcl_orito",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68ada1b8-e896-4e74-ae7d-d862bb5e6116-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "gomi拾い",
-      "game_name": "Core Keeper",
-      "viewer_count": 1,
-      "started_at": "2026-06-06T14:03:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -154,7 +149,12 @@
       "display_name": "水無瀬九炉",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfc4b856-14bc-4aa3-8104-bf88ecb3ae48-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/k6o_minase",
-      "is_live": false
+      "is_live": true,
+      "title": "【Tales of Vesperia】テイルズ世界観光 Pt.3",
+      "game_name": "Tales of Vesperia",
+      "viewer_count": 0,
+      "started_at": "2026-06-06T15:06:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_k6o_minase-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -187,7 +187,7 @@
       "is_live": true,
       "title": "【NTE】初めてのNTEどんな感じ？？初見歓迎】",
       "game_name": "NTE: Neverness to Everness",
-      "viewer_count": 5,
+      "viewer_count": 1,
       "started_at": "2026-06-06T13:49:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -377,7 +377,7 @@
       "is_live": true,
       "title": "【VTuber】はんざing【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 47,
+      "viewer_count": 49,
       "started_at": "2026-06-06T14:28:15Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -487,7 +487,7 @@
       "is_live": true,
       "title": "シルバー行きたい夜の部 VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-06T11:35:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
@@ -627,7 +627,7 @@
       "is_live": true,
       "title": "犯罪",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 6,
+      "viewer_count": 8,
       "started_at": "2026-06-06T12:27:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
