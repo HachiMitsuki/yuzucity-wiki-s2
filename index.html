@@ -92,20 +92,42 @@
     100%{ background-position:-120% 0; }
   }
 
-  .cs-date{
-    margin-top:1.6rem;
-    display:flex; align-items:baseline; justify-content:center; gap:.55rem;
+  .cs-countdown{
+    margin-top:1.9rem;
+    display:flex; align-items:flex-start; justify-content:center;
+    gap:clamp(.35rem,2.2vw,1.2rem);
     font-family:var(--font-mono);
   }
-  .cs-date-num{
-    font-size:clamp(1.4rem,5vw,2.1rem); font-weight:700;
-    letter-spacing:.06em; color:var(--yuzu);
-    text-shadow:0 2px 18px rgba(244,196,48,.28);
+  .cd-seg{
+    display:flex; flex-direction:column; align-items:center;
+    min-width:clamp(46px,13vw,82px);
   }
-  .cs-date-tail{
-    font-size:clamp(.74rem,2.6vw,.95rem); letter-spacing:.32em; text-indent:.32em;
+  .cd-num{
+    font-size:clamp(2rem,8vw,3.6rem); font-weight:700; line-height:1;
+    color:var(--yuzu); font-variant-numeric:tabular-nums;
+    text-shadow:0 2px 22px rgba(244,196,48,.3);
+  }
+  .cd-lab{
+    margin-top:.6rem; font-size:clamp(.5rem,1.7vw,.64rem);
+    letter-spacing:.26em; text-indent:.26em; text-transform:uppercase;
+    color:var(--text-faint);
+  }
+  .cd-sep{
+    font-size:clamp(1.5rem,5.5vw,2.8rem); line-height:1; color:var(--text-deep);
+    padding-top:.08em; animation:cd-blink 2s steps(1) infinite;
+  }
+  @keyframes cd-blink{ 0%,49%{opacity:.55} 50%,100%{opacity:.12} }
+  .cd-open{
+    font-family:var(--font-display); font-style:italic; font-weight:800;
+    font-size:clamp(1.7rem,6.5vw,2.8rem); color:var(--yuzu);
+    text-shadow:0 2px 24px rgba(244,196,48,.35);
+  }
+  .cs-deadline{
+    margin-top:1.15rem; font-family:var(--font-mono);
+    font-size:clamp(.72rem,2.4vw,.9rem); letter-spacing:.26em; text-indent:.26em;
     text-transform:uppercase; color:var(--text-dim);
   }
+  .cs-deadline strong{ color:var(--yuzu); font-weight:700; }
 
   .cs-rule{
     width:min(360px,72vw); height:1px; margin:2.4rem auto 0;
@@ -162,7 +184,17 @@
       <h1 class="cs-wordmark">YUZU CITY</h1>
       <div class="cs-season">SEASON&nbsp;2</div>
       <div class="cs-soon">Coming Soon</div>
-      <div class="cs-date"><span class="cs-date-num">2026.07.01</span><span class="cs-date-tail">〜 Open 予定</span></div>
+
+      <div class="cs-countdown" id="countdown" role="timer" aria-label="Season 2 開幕までのカウントダウン">
+        <div class="cd-seg"><span class="cd-num" id="cd-days">--</span><span class="cd-lab">Days</span></div>
+        <span class="cd-sep">:</span>
+        <div class="cd-seg"><span class="cd-num" id="cd-hours">--</span><span class="cd-lab">Hours</span></div>
+        <span class="cd-sep">:</span>
+        <div class="cd-seg"><span class="cd-num" id="cd-mins">--</span><span class="cd-lab">Minutes</span></div>
+        <span class="cd-sep">:</span>
+        <div class="cd-seg"><span class="cd-num" id="cd-secs">--</span><span class="cd-lab">Seconds</span></div>
+      </div>
+      <div class="cs-deadline"><strong>2026.07.01</strong> ／ Open 予定</div>
 
       <div class="cs-rule"></div>
 
@@ -180,5 +212,33 @@
 
     <div class="cs-foot">YUZU CITY ／ SEASON 02 ／ COMING SOON</div>
   </main>
+<script>
+(function(){
+  // Season 2 opens 2026-07-01 00:00 JST (UTC+9). Explicit offset so the
+  // countdown is identical regardless of the visitor's local timezone.
+  var target = new Date('2026-07-01T00:00:00+09:00').getTime();
+  var dd = document.getElementById('cd-days'),
+      hh = document.getElementById('cd-hours'),
+      mm = document.getElementById('cd-mins'),
+      ss = document.getElementById('cd-secs'),
+      box = document.getElementById('countdown');
+  function pad(n){ return (n < 10 ? '0' : '') + n; }
+  var timer;
+  function tick(){
+    var diff = target - Date.now();
+    if(diff <= 0){
+      box.innerHTML = '<div class="cd-open">Season 2 開幕！</div>';
+      if(timer) clearInterval(timer);
+      return;
+    }
+    dd.textContent = Math.floor(diff / 86400000);
+    hh.textContent = pad(Math.floor((diff % 86400000) / 3600000));
+    mm.textContent = pad(Math.floor((diff % 3600000) / 60000));
+    ss.textContent = pad(Math.floor((diff % 60000) / 1000));
+  }
+  tick();
+  timer = setInterval(tick, 1000);
+})();
+</script>
 </body>
 </html>
