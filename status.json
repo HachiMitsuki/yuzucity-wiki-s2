@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T03:01:01+09:00",
+  "updated_at": "2026-06-07T03:06:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -242,7 +242,7 @@
       "is_live": true,
       "title": "【#星の翼】キャラ対キャラ練頑張ろうって回【#vtuber /雷音雅】",
       "game_name": "StarWard",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-06T14:35:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -364,12 +364,7 @@
       "display_name": "火影こたつ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": true,
-      "title": "【VTuber】はんざing【FiveM/#ラフシティ】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 63,
-      "started_at": "2026-06-06T14:28:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -532,7 +527,7 @@
       "is_live": true,
       "title": "えぺしきわにいぬ",
       "game_name": "Apex Legends",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "started_at": "2026-06-06T16:11:42Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
