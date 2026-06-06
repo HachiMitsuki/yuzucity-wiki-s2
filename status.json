@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T12:46:02+09:00",
+  "updated_at": "2026-06-06T12:51:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -342,7 +342,7 @@
       "is_live": true,
       "title": "でどでどでどろ",
       "game_name": "Deadlock",
-      "viewer_count": 1,
+      "viewer_count": 4,
       "started_at": "2026-06-06T03:29:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
@@ -387,7 +387,7 @@
       "is_live": true,
       "title": "【 100人イラスト企画中 】 33人目～X人目を描く 【 伏屋ななし / Vtuber 】",
       "game_name": "Art",
-      "viewer_count": 2,
+      "viewer_count": 4,
       "started_at": "2026-06-06T01:26:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
