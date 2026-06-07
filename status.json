@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T10:25:58+09:00",
+  "updated_at": "2026-06-07T10:30:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -342,7 +342,7 @@
       "is_live": true,
       "title": "マジでちょっとだけやるサブクエ消化",
       "game_name": "Monster Hunter Wilds",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-07T01:16:49Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
