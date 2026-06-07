@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T04:10:57+09:00",
+  "updated_at": "2026-06-07T10:20:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -339,7 +339,12 @@
       "display_name": "usjkh",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdeca576-ddee-421f-beea-07e47ddfd179-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/usjkh",
-      "is_live": false
+      "is_live": true,
+      "title": "マジでちょっとだけやるサブクエ消化",
+      "game_name": "Monster Hunter Wilds",
+      "viewer_count": 3,
+      "started_at": "2026-06-07T01:16:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
