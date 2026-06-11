@@ -103,7 +103,29 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Inject sidebar
   const sidebar = document.getElementById('sidebar');
-  if(sidebar) sidebar.innerHTML = renderSidebar(slug);
+  if(sidebar){
+    sidebar.innerHTML = renderSidebar(slug);
+
+    // Preserve sidebar scroll position across page navigations.
+    // Saved on every scroll; restored right after injection so the list
+    // doesn't jump back to the top when you click into another page.
+    const SCROLL_KEY = 'yc-sidebar-scroll';
+    try{
+      const saved = sessionStorage.getItem(SCROLL_KEY);
+      if(saved !== null){
+        sidebar.scrollTop = parseInt(saved, 10) || 0;
+      }else{
+        // First visit this session: make sure the active page is visible.
+        const active = sidebar.querySelector('.nav-link.active');
+        if(active && active.offsetTop > sidebar.clientHeight - 60){
+          sidebar.scrollTop = active.offsetTop - sidebar.clientHeight / 2;
+        }
+      }
+      sidebar.addEventListener('scroll', () => {
+        sessionStorage.setItem(SCROLL_KEY, String(sidebar.scrollTop));
+      }, {passive:true});
+    }catch(e){ /* sessionStorage unavailable (e.g. blocked) — ignore */ }
+  }
 
   // Inject page nav
   const pageNav = document.getElementById('pageNav');
