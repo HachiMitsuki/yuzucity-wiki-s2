@@ -3,8 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Jointshop | Yuzu City Wiki</title>
+<title>猫カフェNAU（Season 1 アーカイブ） | Yuzu City Wiki</title>
 <link rel="stylesheet" href="styles.css">
+<meta name="robots" content="noindex">
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
 <style>
 .menu-desc{
@@ -14,36 +15,36 @@
 }
 </style>
 </head>
-<body data-page="jointshop">
+<body data-page="nekocafenau">
 <header class="topbar" id="topbar"></header>
 <div class="app">
   <aside class="sidebar" id="sidebar"></aside>
   <main>
     <div class="s2-strip catalog"></div>
-    <div class="notice" style="margin-bottom:1.5rem">
-      <div class="notice-title">⏳ Season 1 からの引き継ぎ情報</div>
-      このページは Season 1 時点の内容です。Season 2 での変更が確認でき次第、順次更新します。
+    <div class="notice notice-info" style="margin-bottom:1.5rem">
+      <div class="notice-title">📦 Season 1 Beta のアーカイブ</div>
+      Season 1 Beta（2026.05.01–05.31）当時の記録です。 <a href="archive.html">S1アーカイブトップ</a> ／ <a href="index.html">Season 2 トップへ</a>
     </div>
-    <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><a href="dealer.html">カタログ</a><span class="breadcrumb-sep">›</span><span>Jointshop</span></nav>
+    <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><a href="dealer.html">カタログ</a><span class="breadcrumb-sep">›</span><span>猫カフェNAU</span></nav>
     <section>
       <div class="section-header">
-        <h1 class="section-title"><span class="section-title-icon">🍃</span>Jointshop</h1>
-        <p class="section-subtitle">ジョイント・食べ物・飲み物の専門ショップ</p>
+        <h1 class="section-title"><span class="section-title-icon">🐱</span>猫カフェNAU</h1>
+        <p class="section-subtitle">食べ物・飲み物・ジョイントの専門ショップ</p>
       </div>
 
       <div class="dealer-stats">
         <div class="dealer-stat"><div class="dealer-stat-num" id="total-count">0</div><div class="dealer-stat-label">総メニュー数</div></div>
-        <div class="dealer-stat"><div class="dealer-stat-num" id="joint-count">0</div><div class="dealer-stat-label">ジョイント</div></div>
         <div class="dealer-stat"><div class="dealer-stat-num" id="food-count">0</div><div class="dealer-stat-label">食べ物</div></div>
         <div class="dealer-stat"><div class="dealer-stat-num" id="drink-count">0</div><div class="dealer-stat-label">飲み物</div></div>
+        <div class="dealer-stat"><div class="dealer-stat-num" id="joint-count">0</div><div class="dealer-stat-label">ジョイント</div></div>
       </div>
 
       <div class="dealer-controls">
         <div class="dealer-search">
           <span class="dealer-search-icon">🔍</span>
-          <input type="text" id="jointshopSearch" placeholder="メニュー名で検索…" oninput="renderJointshop()">
+          <input type="text" id="nauSearch" placeholder="メニュー名で検索…" oninput="renderNAU()">
         </div>
-        <select class="dealer-sort" id="jointshopSort" onchange="renderJointshop()">
+        <select class="dealer-sort" id="nauSort" onchange="renderNAU()">
           <option value="price-asc">価格: 安い順</option>
           <option value="price-desc">価格: 高い順</option>
           <option value="name">名前順</option>
@@ -64,47 +65,27 @@
 <script src="common.js"></script>
 <script>
 (function(){
-  const IMG_BASE = "images/catalog/jointshop/";
+  const IMG_BASE = "images/catalog/nekocafenau/";
 
   const CATEGORIES = {
+    food:  { label: "食べ物",    color: "#ff8866", icon: "🍰" },
+    drink: { label: "飲み物",    color: "#66bbff", icon: "🥤" },
     joint: { label: "ジョイント", color: "#9bd66b", icon: "🌿" },
-    food:  { label: "食べ物",   color: "#ff8866", icon: "🍰" },
-    drink: { label: "飲み物",   color: "#66bbff", icon: "🥤" },
   };
 
-  // Pricing tiers from folder structure:
-  //   1つ3万 → ¥30,000
-  //   1つ5万 → ¥50,000
-  //   1つ7万 → ¥70,000
-  //   1つ9万 → ¥90,000
   const ITEMS = [
-    // ¥30,000 ジョイント (5品)
-    { id: 1,  name: "ALPACAMEL",        image: "ALPACAMEL.png",        category: "joint", price: 30000 },
-    { id: 2,  name: "Glitch Blue",      image: "GlitchBlue.png",       category: "joint", price: 30000 },
-    { id: 3,  name: "Los Santos Soul",  image: "Los_Santos_Soul.png",  category: "joint", price: 30000 },
-    { id: 4,  name: "NEXUS",            image: "NEXUS.png",            category: "joint", price: 30000 },
-    { id: 5,  name: "Fortissimo",       image: "fortissimo.png",       category: "joint", price: 30000 },
+    // ¥30,000 食べ物 (2品)
+    { id: 1, name: "Cookie_assorts",  image: "Cookie_assorts.png",  category: "food",  price: 30000, desc: "可愛い猫型焼き菓子がたくさん詰まった夢のBOX。" },
+    { id: 2, name: "Macaron_assorts", image: "Macaron_assorts.png", category: "food",  price: 30000, desc: "色とりどりの猫型マカロンが詰め込まれた幸せなBOXセット。" },
 
-    // ¥50,000 ジョイント (2品) + 食べ物 & 飲み物 (各1品)
-    { id: 14, name: "MilkTea Bonbon",    image: "MilkTea_Bonbon.png",    category: "joint", price: 50000 },
-    { id: 15, name: "Sikemoku",          image: "sikemoku.png",          category: "joint", price: 50000 },
-    { id: 6,  name: "Salted Mixed Nuts", image: "Salted_Mixed_Nuts.png", category: "food",  price: 50000 },
-    { id: 7,  name: "CITRUS VEIN",       image: "CITRUS_VEIN.png",       category: "drink", price: 50000 },
+    // ¥30,000 飲み物 (2品)
+    { id: 3, name: "cocoa_nau",   image: "cocoa_nau.png",   category: "drink", price: 30000, desc: "入店時に提供されるドリンク。猫型マシュマロが乗った可愛らしい1点。" },
+    { id: 4, name: "coffee_nau",  image: "coffee_nau.png",  category: "drink", price: 30000, desc: "猫ちゃんマークの可愛らしい持ち帰り用コーヒー。ホカホカでお届けします。" },
 
-    // ¥70,000 ジョイント (4品)
-    { id: 8,  name: "Aura Flow GR",     image: "Aura_Flow_GR.png",     category: "joint", price: 70000 },
-    { id: 9,  name: "Aura Flow NC",     image: "Aura_Flow_NC.png",     category: "joint", price: 70000 },
-    { id: 10, name: "Ichigo Sugarette", image: "Ichigo_Sugarette.png", category: "joint", price: 70000 },
-    { id: 11, name: "TWILIGHT",         image: "TWILIGHT.png",         category: "joint", price: 70000 },
-
-    // ¥90,000 ジョイント (3品)
-    { id: 12, name: "LEGACY",           image: "LEGACY.png",           category: "joint", price: 90000 },
-    { id: 13, name: "UNWIND",           image: "UNWIND.png",           category: "joint", price: 90000 },
-    { id: 16, name: "CANDYGUN",         image: "CANDYGUN.png",         category: "joint", price: 90000 },
-
-    // 追加分
-    { id: 17, name: "Snow_Blossoms", image: "Snow_Blossoms.png", category: "joint", price: 50000, desc: "遠い国にある一般的な煙草だ。それ以上でも以下でもない。" },
-    { id: 18, name: "MELUS",         image: "MELUS.png",         category: "joint", price: 90000, desc: "メルン愛用のタバコ" },
+    // ¥50,000 ジョイント (3品)
+    { id: 5, name: "pink_naucat",   image: "pink_naucat.png",   category: "joint", price: 50000, desc: "桃色の可愛らしい猫のぬいぐるみ。ぎゅっと抱くと優しい気持ちになる。" },
+    { id: 6, name: "blue_naucat",   image: "blue_naucat.png",   category: "joint", price: 50000, desc: "水色の可愛らしい猫のぬいぐるみ。他の子と並べると更に可愛い。" },
+    { id: 7, name: "orange_naucat", image: "orange_naucat.png", category: "joint", price: 50000, desc: "オレンジ色の可愛らしい猫のぬいぐるみ。他の子と柄が少し違う。" },
   ];
 
   let currentCat = "all";
@@ -128,18 +109,18 @@
         : CATEGORIES[c];
       return `<div class="cat-pill${c === currentCat ? " active" : ""}"
         style="background:${info.color}22;color:${info.color};border-color:${info.color}55"
-        onclick="selectJointshopCat('${c}')">${info.icon} ${escapeHtml(info.label)}</div>`;
+        onclick="selectNAUCat('${c}')">${info.icon} ${escapeHtml(info.label)}</div>`;
     }).join("");
   }
 
-  window.selectJointshopCat = function(cat){
+  window.selectNAUCat = function(cat){
     currentCat = cat;
     buildCatFilters();
-    renderJointshop();
+    renderNAU();
   };
 
   function renderItemCard(it){
-    const cat = CATEGORIES[it.category] || { label: it.category, color: "#888", icon: "🍽" };
+    const cat = CATEGORIES[it.category] || { label: it.category, color: "#888", icon: "🍽️" };
     return `<div class="menu-card">
       <div class="menu-img-wrap">
         <img
@@ -161,13 +142,13 @@
     </div>`;
   }
 
-  window.renderJointshop = function(){
-    const q = (document.getElementById("jointshopSearch").value || '').toLowerCase();
-    const sort = document.getElementById("jointshopSort").value;
+  window.renderNAU = function(){
+    const q = (document.getElementById("nauSearch").value || '').toLowerCase();
+    const sort = document.getElementById("nauSort").value;
 
     let list = ITEMS.filter(it => {
       if(currentCat !== "all" && it.category !== currentCat) return false;
-      if(q && !it.name.toLowerCase().includes(q)) return false;
+      if(q && !it.name.toLowerCase().includes(q) && !(it.desc||'').toLowerCase().includes(q)) return false;
       return true;
     });
 
@@ -179,15 +160,12 @@
       return;
     }
 
-    // When searching OR sorting by name → flat alphabetical list (no price grouping).
-    // When sorting by price → price-grouped layout.
     if(q || sort === "name"){
       list.sort((a,b) => a.name.localeCompare(b.name));
       grid.innerHTML = `<div class="menu-grid">${list.map(renderItemCard).join('')}</div>`;
       return;
     }
 
-    // Group by price, items within group sorted alphabetically.
     const byPrice = new Map();
     for(const it of list){
       if(!byPrice.has(it.price)) byPrice.set(it.price, []);
@@ -197,7 +175,6 @@
       items.sort((a,b) => a.name.localeCompare(b.name));
     }
 
-    // Order price groups: descending when sort=price-desc, ascending otherwise.
     const prices = [...byPrice.keys()].sort((a,b) => sort === "price-desc" ? b - a : a - b);
 
     grid.innerHTML = prices.map(price => {
@@ -215,14 +192,14 @@
 
   function initStats(){
     document.getElementById("total-count").textContent = ITEMS.length;
-    document.getElementById("joint-count").textContent = ITEMS.filter(i => i.category === "joint").length;
     document.getElementById("food-count").textContent  = ITEMS.filter(i => i.category === "food").length;
     document.getElementById("drink-count").textContent = ITEMS.filter(i => i.category === "drink").length;
+    document.getElementById("joint-count").textContent = ITEMS.filter(i => i.category === "joint").length;
   }
 
   initStats();
   buildCatFilters();
-  renderJointshop();
+  renderNAU();
 })();
 </script>
 </body>

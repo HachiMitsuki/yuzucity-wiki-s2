@@ -27,11 +27,6 @@ const NAV = [
   ]},
   {title:"カタログ", links:[
     {slug:"dealer", label:"ディーラー", icon:"🚗"},
-    {slug:"icarus", label:"Icarus", icon:"🍰"},
-    {slug:"jointshop", label:"Jointshop", icon:"🍃"},
-    {slug:"nicole", label:"Nicole", icon:"🌹"},
-    {slug:"bistroanzawa", label:"Bistro Anzawa", icon:"🍽️"},
-    {slug:"blessandbullet", label:"Bless & Bullet", icon:"✝️"},
     {slug:"nekocafenau", label:"猫カフェNAU", icon:"🐱"},
     {slug:"burgershot", label:"BurgerShot", icon:"🍔"},
   ]},

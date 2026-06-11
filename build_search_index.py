@@ -40,9 +40,8 @@ PAGE_META = {
     "job-food": ("飲食店", "職業", "🍔"),
     "job-crime": ("犯罪", "職業", "💀"),
     "dealer": ("ディーラー", "カタログ", "🚗"),
-    "icarus": ("Icarus", "カタログ", "🍰"),
-    "jointshop": ("Jointshop", "カタログ", "🍃"),
-    "nicole": ("Nicole", "カタログ", "🌹"),
+    "nekocafenau": ("猫カフェNAU", "カタログ", "🐱"),
+    "burgershot": ("BurgerShot", "カタログ", "🍔"),
     "news": ("お知らせ", "最新情報", "📢"),
     "updates": ("機能変更", "最新情報", "🔄"),
     "streams": ("配信中", "最新情報", "📺"),
@@ -304,9 +303,15 @@ def build_page_entries() -> list[dict]:
 def main():
     entries = []
     entries.extend(build_page_entries())
-    for slug in ("icarus", "jointshop", "nicole"):
+    # S2: catalogs are coming-soon. Re-add shop slugs here once their pages
+    # publish ITEMS arrays again (e.g. "nekocafenau", "burgershot").
+    for slug in ():
         entries.extend(extract_catalog_items(slug))
-    entries.extend(extract_vehicles())
+    # S2: dealer is coming-soon; vehicles_data.js still holds the S1 lineup.
+    # Re-enable once the S2 vehicle catalog is published.
+    INDEX_VEHICLES = False
+    if INDEX_VEHICLES:
+        entries.extend(extract_vehicles())
     for slug in ("news", "updates"):
         entries.extend(extract_timeline(slug))
     entries.extend(load_streamers())

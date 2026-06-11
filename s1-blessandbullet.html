@@ -3,8 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bistro Anzawa | Yuzu City Wiki</title>
+<title>Bless &amp; Bullet（Season 1 アーカイブ） | Yuzu City Wiki</title>
 <link rel="stylesheet" href="styles.css">
+<meta name="robots" content="noindex">
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
 <style>
 .menu-desc{
@@ -14,20 +15,20 @@
 }
 </style>
 </head>
-<body data-page="bistroanzawa">
+<body data-page="blessandbullet">
 <header class="topbar" id="topbar"></header>
 <div class="app">
   <aside class="sidebar" id="sidebar"></aside>
   <main>
     <div class="s2-strip catalog"></div>
-    <div class="notice" style="margin-bottom:1.5rem">
-      <div class="notice-title">⏳ Season 1 からの引き継ぎ情報</div>
-      このページは Season 1 時点の内容です。Season 2 での変更が確認でき次第、順次更新します。
+    <div class="notice notice-info" style="margin-bottom:1.5rem">
+      <div class="notice-title">📦 Season 1 Beta のアーカイブ</div>
+      Season 1 Beta（2026.05.01–05.31）当時の記録です。 <a href="archive.html">S1アーカイブトップ</a> ／ <a href="index.html">Season 2 トップへ</a>
     </div>
-    <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><a href="dealer.html">カタログ</a><span class="breadcrumb-sep">›</span><span>Bistro Anzawa</span></nav>
+    <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><a href="dealer.html">カタログ</a><span class="breadcrumb-sep">›</span><span>Bless &amp; Bullet</span></nav>
     <section>
       <div class="section-header">
-        <h1 class="section-title"><span class="section-title-icon">🍽️</span>Bistro Anzawa</h1>
+        <h1 class="section-title"><span class="section-title-icon">✝️</span>Bless &amp; Bullet</h1>
         <p class="section-subtitle">食べ物・飲み物・ジョイントの専門ショップ</p>
       </div>
 
@@ -41,9 +42,9 @@
       <div class="dealer-controls">
         <div class="dealer-search">
           <span class="dealer-search-icon">🔍</span>
-          <input type="text" id="anzawaSearch" placeholder="メニュー名で検索…" oninput="renderAnzawa()">
+          <input type="text" id="bbSearch" placeholder="メニュー名で検索…" oninput="renderBB()">
         </div>
-        <select class="dealer-sort" id="anzawaSort" onchange="renderAnzawa()">
+        <select class="dealer-sort" id="bbSort" onchange="renderBB()">
           <option value="price-asc">価格: 安い順</option>
           <option value="price-desc">価格: 高い順</option>
           <option value="name">名前順</option>
@@ -64,43 +65,32 @@
 <script src="common.js"></script>
 <script>
 (function(){
-  const IMG_BASE = "images/catalog/bistroanzawa/";
+  const IMG_BASE = "images/catalog/blessandbullet/";
 
   const CATEGORIES = {
-    food:  { label: "食べ物",   color: "#ff8866", icon: "🍰" },
-    drink: { label: "飲み物",   color: "#66bbff", icon: "🥤" },
+    food:  { label: "食べ物",    color: "#ff8866", icon: "🍰" },
+    drink: { label: "飲み物",    color: "#66bbff", icon: "🥤" },
     joint: { label: "ジョイント", color: "#9bd66b", icon: "🌿" },
   };
 
   const ITEMS = [
-    // ¥30,000 食べ物 (16品)
-    { id:  1, name: "meidoanzawa",      image: "meidoanzawa.png",      category: "food",  price: 30000, desc: "お帰りなさいませ！おねーちゃん！" },
-    { id:  2, name: "one_chan_kaori_no1", image: "one_chan_kaori_no1.png", category: "food",  price: 30000, desc: "おねえちゃんの練り香水シリーズ第1弾。りんごの香り。" },
-    { id:  3, name: "one_chan_kaori_no2", image: "one_chan_kaori_no2.png", category: "food",  price: 30000, desc: "おねえちゃんの練り香水シリーズ第2弾。バニラの香り。" },
-    { id:  4, name: "akuserauranusu",   image: "akuserauranusu.png",   category: "food",  price: 30000, desc: "アクセラヌースのプリントクッキー" },
-    { id:  5, name: "PinkSaltAnzawa",   image: "PinkSaltAnzawa.png",   category: "food",  price: 30000, desc: "ヒマラヤピンクソルト岩塩" },
-    { id:  6, name: "PantyCookie",      image: "PantyCookie.png",      category: "food",  price: 30000, desc: "おねーちゃんのパンティークッキー" },
-    { id:  7, name: "honmonokebab",     image: "honmonokebab.png",     category: "food",  price: 30000, desc: "伝説のケバブ（平行輸入品）" },
-    { id:  8, name: "anzawamatuba",     image: "anzawamatuba.png",     category: "food",  price: 30000, desc: "エターナル松葉あんざわ。" },
-    { id:  9, name: "yanmayaanzawa",    image: "yanmayaanzawa.png",    category: "food",  price: 30000, desc: "イタリアの3代続くピザ職人なりきりピザ。" },
-    { id: 10, name: "goodbyeengen",     image: "goodbyeengen.png",     category: "food",  price: 30000, desc: "グッバイ塩言" },
-    { id: 11, name: "visiontestAnzawa", image: "visiontestAnzawa.png", category: "food",  price: 30000, desc: "指さしで教えてよ" },
-    { id: 12, name: "Anzawahappycookie", image: "Anzawahappycookie.png", category: "food", price: 30000, desc: "好きすぎて滅！" },
-    { id: 13, name: "pokapick",         image: "pokapick.png",         category: "food",  price: 30000, desc: "ぽかぴっく！" },
-    { id: 14, name: "airuucookie",      image: "airuucookie.png",      category: "food",  price: 30000, desc: "くっきーになりたくてぇー なぜならうまいからぁ！" },
-    { id: 15, name: "akumaCookie",      image: "akumaCookie.png",      category: "food",  price: 30000, desc: "いんちょう柔軟クッキー" },
-    { id: 16, name: "caroncookie",      image: "caroncookie.png",      category: "food",  price: 30000, desc: "開けてもらっていいですか？" },
-    { id: 23, name: "worldisAnzawa",   image: "worldisAnzawa.png",    category: "food",  price: 30000, desc: "せかいでいちばんおひめさま" },
+    // ¥30,000 食べ物 (4品)
+    { id:  1, name: "Iron_Sheet_Cake",  image: "IronSheetCake.jpg",  category: "food",  price: 30000, desc: "リサセンでよく見るアイツのケーキ。少し錆びた味がする。" },
+    { id:  2, name: "Stone_Chocolate",  image: "StoneChocolate.jpg",  category: "food",  price: 30000, desc: "石を割ろう！" },
+    { id:  3, name: "Holy_Church",      image: "HolyChurch.jpg",      category: "food",  price: 30000, desc: "教会を模したマジパン。シスターお手製！" },
+    { id:  4, name: "SUSHI_Gumi",       image: "SushiGumi.jpg",       category: "food",  price: 30000, desc: "なんだか魚の香りがするかわいいグミ" },
 
-    // ¥30,000 飲み物 (2品)
-    { id: 17, name: "carondrinkshampoo", image: "carondrinkshampoo.png", category: "drink", price: 30000, desc: "かろんおねーちゃん愛用シャンプ風 ドリンク" },
-    { id: 18, name: "anzawanomatetya",  image: "anzawanomatetya.png",  category: "drink", price: 30000, desc: "YuzuCity4部リーグあんざわ監督のマテ茶" },
+    // ¥30,000 飲み物 (4品)
+    { id:  5, name: "Ball_Soda",        image: "BallSoda.jpg",        category: "drink", price: 30000, desc: "リサセンに行こう！" },
+    { id:  6, name: "Gold_Glass",       image: "GoldGlass.jpg",       category: "drink", price: 30000, desc: "川で採れた金箔が浮いている" },
+    { id:  7, name: "Holy_Water",       image: "HolyWater.jpg",       category: "drink", price: 30000, desc: "聖水。シスターお手製！" },
+    { id:  8, name: "MEGA_Dri",         image: "MEGADRI.jpg",         category: "drink", price: 30000, desc: "蛍光色のエナジードリンク" },
 
     // ¥50,000 ジョイント (4品)
-    { id: 19, name: "wakame",           image: "wakame.png",           category: "joint", price: 50000, desc: "高齢者に人気。海藻のにおいがする。" },
-    { id: 20, name: "CALON",            image: "CALON.png",            category: "joint", price: 50000, desc: "かろんおねーちゃんをイメージしたタバコ。" },
-    { id: 21, name: "PongolaFamily",    image: "PongolaFamily.png",    category: "joint", price: 50000, desc: "不完全。だからこそいい。" },
-    { id: 22, name: "anzawatoon",       image: "anzawatoon.png",       category: "joint", price: 50000, desc: "かろんおねーちゃんに潰された悲しき楽器。（ストレス解消グッズ）" },
+    { id:  9, name: "Recycle_Cigar",       image: "RecycleCigar.jpg",       category: "joint", price: 50000, desc: "よく見る緑のぐるぐるマークが刻まれた葉巻" },
+    { id: 10, name: "Silver_Hookah",       image: "SilverHookah.jpg",       category: "joint", price: 50000, desc: "川で採れた銀鉱石が散りばめられているシーシャ" },
+    { id: 11, name: "Holy_Book",           image: "HolyBook.jpg",           category: "joint", price: 50000, desc: "聖書。シスターが読み込んだ跡がある..." },
+    { id: 12, name: "Daitenshi_no_Namida", image: "DAITENSHInoNAMIDA.jpg", category: "joint", price: 50000, desc: "天から降り注ぐ癒しの涙" },
   ];
 
   let currentCat = "all";
@@ -124,14 +114,14 @@
         : CATEGORIES[c];
       return `<div class="cat-pill${c === currentCat ? " active" : ""}"
         style="background:${info.color}22;color:${info.color};border-color:${info.color}55"
-        onclick="selectAnzawaCat('${c}')">${info.icon} ${escapeHtml(info.label)}</div>`;
+        onclick="selectBBCat('${c}')">${info.icon} ${escapeHtml(info.label)}</div>`;
     }).join("");
   }
 
-  window.selectAnzawaCat = function(cat){
+  window.selectBBCat = function(cat){
     currentCat = cat;
     buildCatFilters();
-    renderAnzawa();
+    renderBB();
   };
 
   function renderItemCard(it){
@@ -157,9 +147,9 @@
     </div>`;
   }
 
-  window.renderAnzawa = function(){
-    const q = (document.getElementById("anzawaSearch").value || '').toLowerCase();
-    const sort = document.getElementById("anzawaSort").value;
+  window.renderBB = function(){
+    const q = (document.getElementById("bbSearch").value || '').toLowerCase();
+    const sort = document.getElementById("bbSort").value;
 
     let list = ITEMS.filter(it => {
       if(currentCat !== "all" && it.category !== currentCat) return false;
@@ -214,7 +204,7 @@
 
   initStats();
   buildCatFilters();
-  renderAnzawa();
+  renderBB();
 })();
 </script>
 </body>
