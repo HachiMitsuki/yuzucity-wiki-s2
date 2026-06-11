@@ -354,9 +354,16 @@ body::after{
 main{
   padding: 2.5rem 3rem 4rem;
   max-width: 100%;
+  /* Grid item: without this, wide content (e.g. the max-content marquee
+     track) inflates the 1fr column and blows the whole layout out. */
+  min-width: 0;
+  /* Long unbreakable strings (bot-posted URLs in news timelines) must
+     wrap instead of forcing horizontal scroll on mobile. */
+  overflow-wrap: break-word;
   position: relative;
   z-index: 1;
 }
+.timeline-content{ overflow-wrap: anywhere }
 
 section{ margin-bottom: 3.2rem }
 
@@ -2152,6 +2159,7 @@ main > section{
 /* --- Marquee ticker --- */
 .s2-marquee{
   overflow: hidden;
+  max-width: 100%;
   background: linear-gradient(110deg, var(--yuzu) 0%, var(--yuzu-bright) 100%);
   color: #191300;
   transform: rotate(-1.1deg) scale(1.02);
