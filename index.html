@@ -3,250 +3,197 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>YUZU CITY ／ SEASON 2 BETA COMING SOON</title>
-<meta name="description" content="Yuzu City — FiveM ロールプレイサーバー。Season 2 Beta は2026年7月1日開幕予定。">
-<meta property="og:title" content="YUZU CITY ／ SEASON 2 BETA COMING SOON">
-<meta property="og:description" content="『あったらいいなこんなもの。』を叶える街、第2章（Beta）。2026.07.01〜 開幕予定。">
+<title>YUZU CITY ／ Season 2 Beta — 非公式 Wiki</title>
+<meta name="description" content="Yuzu City — FiveM ロールプレイサーバー Season 2 Beta の非公式 Wiki。ルール・職業・カタログ・最新情報を編集部が整理。">
+<meta property="og:title" content="YUZU CITY ／ Season 2 Beta — 非公式 Wiki">
+<meta property="og:description" content="『あったらいいなこんなもの。』を叶える街、第2章（Beta）。2026.07.01 開幕。">
 <meta property="og:type" content="website">
 <link rel="stylesheet" href="styles.css">
-<style>
-  /* ===== Season 2 / Coming Soon — standalone landing ===== */
-  body{ overflow:hidden; }
-
-  .cs-wrap{
-    position:relative;
-    min-height:100svh;
-    display:flex; flex-direction:column;
-    align-items:center; justify-content:center;
-    text-align:center;
-    padding:7vh 24px 9vh;
-  }
-
-  /* soft citrus glow behind the wordmark */
-  .cs-wrap::before{
-    content:"";
-    position:absolute; inset:0;
-    background:
-      radial-gradient(ellipse 60% 45% at 50% 38%, rgba(244,196,48,.12), transparent 62%),
-      radial-gradient(ellipse 40% 30% at 50% 78%, rgba(127,176,79,.06), transparent 60%);
-    pointer-events:none;
-  }
-
-  .cs-inner{ position:relative; z-index:1; max-width:780px; }
-
-  .cs-kicker{
-    font-family:var(--font-mono);
-    font-size:.66rem; letter-spacing:.42em; text-indent:.42em;
-    text-transform:uppercase; color:var(--yuzu);
-    margin-bottom:1.7rem;
-  }
-
-  .cs-lemon{
-    font-size:clamp(2.8rem,9vw,4rem); line-height:1;
-    margin-bottom:1.1rem;
-    filter:drop-shadow(0 8px 22px rgba(244,196,48,.32));
-    animation:cs-float 6.5s var(--ease-out) infinite;
-    will-change:transform;
-  }
-  @keyframes cs-float{
-    0%,100%{ transform:translateY(0) rotate(-5deg); }
-    50%{     transform:translateY(-12px) rotate(5deg); }
-  }
-
-  .cs-wordmark{
-    font-family:var(--font-fat),"Fraunces",serif;
-    font-size:clamp(2.7rem,12vw,6.6rem);
-    line-height:.9; letter-spacing:.01em;
-    color:var(--text);
-    text-shadow:0 2px 30px rgba(0,0,0,.5);
-  }
-
-  .cs-season{
-    display:flex; align-items:center; justify-content:center; gap:clamp(.8rem,3vw,1.4rem);
-    font-family:var(--font-display); font-style:italic; font-weight:800;
-    font-size:clamp(1.3rem,5vw,2.3rem);
-    color:var(--yuzu);
-    margin:1rem 0 1.5rem;
-  }
-  .cs-season::before, .cs-season::after{
-    content:""; height:1px; width:clamp(26px,9vw,86px);
-    background:linear-gradient(90deg,transparent,var(--yuzu-deep));
-  }
-  .cs-season::after{ background:linear-gradient(90deg,var(--yuzu-deep),transparent); }
-  .cs-beta{
-    display:inline-block; font-family:var(--font-mono); font-style:normal;
-    font-weight:700; font-size:.4em; letter-spacing:.16em; text-indent:.16em;
-    text-transform:uppercase;
-    color:var(--ink); background:var(--yuzu);
-    padding:.3em .62em; border-radius:2px;
-    margin-left:.55em; vertical-align:middle; position:relative; top:-.1em;
-  }
-
-  .cs-soon{
-    display:inline-block;
-    font-family:var(--font-mono); font-weight:700;
-    font-size:clamp(.95rem,3.4vw,1.45rem);
-    letter-spacing:.58em; text-indent:.58em; text-transform:uppercase;
-    color:var(--text);
-    padding:.55rem 0;
-    background:linear-gradient(100deg,var(--text) 0%,var(--text) 38%,var(--yuzu-soft) 50%,var(--text) 62%,var(--text) 100%);
-    background-size:220% 100%;
-    -webkit-background-clip:text; background-clip:text;
-    -webkit-text-fill-color:transparent;
-    animation:cs-shine 5.5s linear infinite;
-  }
-  @keyframes cs-shine{
-    0%{ background-position:120% 0; }
-    100%{ background-position:-120% 0; }
-  }
-
-  .cs-countdown{
-    margin-top:1.9rem;
-    display:flex; align-items:flex-start; justify-content:center;
-    gap:clamp(.35rem,2.2vw,1.2rem);
-    font-family:var(--font-mono);
-  }
-  .cd-seg{
-    display:flex; flex-direction:column; align-items:center;
-    min-width:clamp(46px,13vw,82px);
-  }
-  .cd-num{
-    font-size:clamp(2rem,8vw,3.6rem); font-weight:700; line-height:1;
-    color:var(--yuzu); font-variant-numeric:tabular-nums;
-    text-shadow:0 2px 22px rgba(244,196,48,.3);
-  }
-  .cd-lab{
-    margin-top:.6rem; font-size:clamp(.5rem,1.7vw,.64rem);
-    letter-spacing:.26em; text-indent:.26em; text-transform:uppercase;
-    color:var(--text-faint);
-  }
-  .cd-sep{
-    font-size:clamp(1.5rem,5.5vw,2.8rem); line-height:1; color:var(--text-deep);
-    padding-top:.08em; animation:cd-blink 2s steps(1) infinite;
-  }
-  @keyframes cd-blink{ 0%,49%{opacity:.55} 50%,100%{opacity:.12} }
-  .cd-open{
-    font-family:var(--font-display); font-style:italic; font-weight:800;
-    font-size:clamp(1.7rem,6.5vw,2.8rem); color:var(--yuzu);
-    text-shadow:0 2px 24px rgba(244,196,48,.35);
-  }
-  .cs-deadline{
-    margin-top:1.15rem; font-family:var(--font-mono);
-    font-size:clamp(.72rem,2.4vw,.9rem); letter-spacing:.26em; text-indent:.26em;
-    text-transform:uppercase; color:var(--text-dim);
-  }
-  .cs-deadline strong{ color:var(--yuzu); font-weight:700; }
-
-  .cs-rule{
-    width:min(360px,72vw); height:1px; margin:2.4rem auto 0;
-    background:linear-gradient(90deg,transparent,var(--line-bright),transparent);
-  }
-
-  .cs-tagline{
-    font-family:var(--font-mincho); font-style:italic;
-    font-size:clamp(1.02rem,3.4vw,1.32rem);
-    color:var(--text); line-height:1.7;
-    margin:2.2rem 0 1.1rem;
-  }
-
-  .cs-note{
-    font-size:.86rem; color:var(--text-dim);
-    line-height:2.05; margin:0 auto 2.4rem; max-width:33rem;
-  }
-  .cs-note strong{ color:var(--text); font-weight:500; }
-
-  .cs-actions{
-    display:flex; flex-wrap:wrap; gap:.8rem; justify-content:center;
-  }
-  .cs-btn{
-    display:inline-flex; align-items:center; gap:.5rem;
-    font-family:var(--font-mono); font-size:.78rem; font-weight:500;
-    letter-spacing:.06em;
-    padding:.85rem 1.4rem; border-radius:2px;
-    border:1px solid var(--line-bright);
-    color:var(--text); text-decoration:none;
-    transition:transform .18s var(--ease-out), border-color .18s, background .18s, color .18s;
-  }
-  .cs-btn:hover{ transform:translateY(-2px); }
-  .cs-btn-x:hover{ background:var(--text); color:var(--ink); border-color:var(--text); }
-  .cs-btn-dc{ border-color:#5865F2; color:#aeb6ff; }
-  .cs-btn-dc:hover{ background:#5865F2; color:#fff; }
-
-  .cs-foot{
-    position:absolute; bottom:3.2vh; left:0; right:0; z-index:1;
-    font-family:var(--font-mono); font-size:.55rem; letter-spacing:.42em;
-    text-transform:uppercase; color:var(--text-deep);
-  }
-
-  @media (prefers-reduced-motion: reduce){
-    .cs-lemon, .cs-soon{ animation:none; }
-    .cs-soon{ -webkit-text-fill-color:var(--text); color:var(--text); }
-  }
-</style>
 </head>
-<body>
-  <main class="cs-wrap">
-    <div class="cs-inner">
-      <div class="cs-kicker">FiveM Roleplay Server</div>
-      <div class="cs-lemon">🍋</div>
-      <h1 class="cs-wordmark">YUZU CITY</h1>
-      <div class="cs-season"><span>SEASON&nbsp;2 <span class="cs-beta">Beta</span></span></div>
-      <div class="cs-soon">Coming Soon</div>
+<body data-page="index">
+<header class="topbar" id="topbar"></header>
+<div class="app">
+  <aside class="sidebar" id="sidebar"></aside>
+  <main>
 
-      <div class="cs-countdown" id="countdown" role="timer" aria-label="Season 2 開幕までのカウントダウン">
-        <div class="cd-seg"><span class="cd-num" id="cd-days">--</span><span class="cd-lab">Days</span></div>
-        <span class="cd-sep">:</span>
-        <div class="cd-seg"><span class="cd-num" id="cd-hours">--</span><span class="cd-lab">Hours</span></div>
-        <span class="cd-sep">:</span>
-        <div class="cd-seg"><span class="cd-num" id="cd-mins">--</span><span class="cd-lab">Minutes</span></div>
-        <span class="cd-sep">:</span>
-        <div class="cd-seg"><span class="cd-num" id="cd-secs">--</span><span class="cd-lab">Seconds</span></div>
+    <!-- =================== HERO / COVER =================== -->
+    <section style="margin-bottom:2.4rem">
+      <div class="hero large">
+        <div class="hero-content">
+          <div class="hero-icon">🍋</div>
+          <h1 class="hero-title">YUZU<br>CITY</h1>
+          <p class="hero-subtitle">『あったらいいなこんなもの。』を叶える街、第2章。</p>
+          <span class="hero-tagline">FiveM ロールプレイサーバー · Season 2 Beta ／ 2026.07.01 開幕</span>
+        </div>
       </div>
-      <div class="cs-deadline"><strong>2026.07.01</strong> ／ Open 予定</div>
+    </section>
 
-      <div class="cs-rule"></div>
-
-      <p class="cs-tagline">「あったらいいなこんなもの。」を叶える街、第2章。</p>
-      <p class="cs-note">
-        Season 1（Beta）は <strong>2026年5月31日</strong> をもって終了しました。<br>
-        たくさんのご参加、本当にありがとうございました。<br>
-        <strong>Season 2（Beta）は 2026年7月1日より開幕予定</strong>。続報は公式 X にて。
-      </p>
-
-      <div class="cs-actions">
-        <a class="cs-btn cs-btn-x" href="https://x.com/yuzu_server" target="_blank" rel="noopener">𝕏&nbsp;&nbsp;@yuzu_server で続報を見る</a>
+    <!-- =================== SEASON 2 NOTICE =================== -->
+    <section style="margin-bottom:3rem">
+      <div class="notice notice-info">
+        <div class="notice-title">🌃 Season 2 Beta が開幕しました</div>
+        本 wiki は Season 2 の情報へ順次更新していきます。料金・ルール等は Season 1 から変更される場合があります。
+        Season 1 Beta（2026.05.01–05.31）の記録は <a href="archive.html">アーカイブ</a> から閲覧できます。
       </div>
-    </div>
+    </section>
 
-    <div class="cs-foot">YUZU CITY ／ SEASON 02 BETA ／ COMING SOON</div>
+    <!-- =================== EDITOR'S NOTE =================== -->
+    <section style="margin-bottom:3rem">
+      <div style="display:grid;grid-template-columns:1fr;gap:0;border:1px solid var(--line);border-radius:14px;background:var(--ink-2);overflow:hidden">
+        <div style="display:grid;grid-template-columns:180px 1fr;gap:2rem;padding:1.6rem 1.8rem;align-items:start;">
+          <div>
+            <div style="font-family:var(--font-mono);font-size:.6rem;letter-spacing:.3em;color:var(--sky);text-transform:uppercase;margin-bottom:.5rem">Nº 00 ／ FOREWORD</div>
+            <div style="font-family:var(--font-display);font-size:1.3rem;color:var(--text);line-height:1.4">夜が、もう一度はじまる</div>
+            <div style="font-family:var(--font-mono);font-size:.62rem;letter-spacing:.18em;color:var(--text-faint);text-transform:uppercase;margin-top:.4rem">From the editor</div>
+          </div>
+          <div>
+            <p style="font-size:.96rem;line-height:1.95;color:var(--text);margin-bottom:.6rem">
+              <span style="font-family:var(--font-fat);font-size:3.2rem;float:left;line-height:.95;margin:.1rem .6rem -.1rem 0;color:var(--yuzu);text-shadow:0 0 24px rgba(255,217,46,.4)">Y</span>
+              uzu City は『あったらいいなこんなもの。』を叶える街。1ヶ月の Season 1 Beta を経て、街は第2章へ。自作スクリプト多数、初心者から上級者まで不便なく楽しめる街を目指しています。職業RPを中心とし、警察・救急・整備士・飲食店・ギャングなど、それぞれの役割を演じながら生活していきます。
+            </p>
+            <p style="font-size:.86rem;color:var(--text-dim);line-height:1.85">
+              身内固まりすぎを抑制し、新しい交流やストーリー作りを推奨。RP経験者から初めての方まで、幅広く参加可能。
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- =================== STATS =================== -->
+    <section style="margin-bottom:3rem">
+      <div class="section-header" data-num="Nº 01 ／ AT A GLANCE">
+        <h1 class="section-title"><span class="section-title-icon">🌃</span>街の概要</h1>
+        <p class="section-subtitle">Yuzu City は職業RPを中心にしたFiveMロールプレイサーバーです。</p>
+      </div>
+
+      <div class="stats">
+        <div class="stat"><div class="stat-num">2026.07.01</div><div class="stat-label">Season 2 開幕</div></div>
+        <div class="stat"><div class="stat-num">17:00→3:00</div><div class="stat-label">街の開放時間（S1実績）</div></div>
+        <div class="stat"><div class="stat-num">面接制</div><div class="stat-label">入国審査</div></div>
+        <div class="stat"><div class="stat-num">Beta</div><div class="stat-label">シーズン区分</div></div>
+      </div>
+
+      <div class="notice notice-info">
+        <div class="notice-title">サーバー接続について</div>
+        運営の入国面接を通過した方のみ街に参加可能です。接続情報は審査通過後に Discord 内でご案内されます。
+        開放時間・運営対応時間などの Season 2 の運用は、確定し次第このページを更新します。
+      </div>
+    </section>
+
+    <!-- =================== FEATURES =================== -->
+    <section style="margin-bottom:3rem">
+      <div class="section-header" data-num="Nº 02 ／ FEATURES">
+        <h1 class="section-title"><span class="section-title-icon">🔧</span>主な特徴</h1>
+        <p class="section-subtitle">この街を構成する、4つの柱。</p>
+      </div>
+      <div class="card-grid">
+        <div class="card">
+          <div class="card-meta">Nº 02.1</div>
+          <div class="card-title">🎭 職業RP中心</div>
+          <p style="color:var(--text-dim);font-size:.9rem">警察(PD) / 救急(EMS) / 個人医 / メカニック / 飲食店 / ギャングなど多彩な職業</p>
+        </div>
+        <div class="card">
+          <div class="card-meta">Nº 02.2</div>
+          <div class="card-title">💻 自作スクリプト多数</div>
+          <p style="color:var(--text-dim);font-size:.9rem">独自開発のシステムによる差別化されたゲームプレイ体験</p>
+        </div>
+        <div class="card">
+          <div class="card-meta">Nº 02.3</div>
+          <div class="card-title">👥 初心者歓迎</div>
+          <p style="color:var(--text-dim);font-size:.9rem">RP経験者から初めての方まで、幅広く参加可能</p>
+        </div>
+        <div class="card">
+          <div class="card-meta">Nº 02.4</div>
+          <div class="card-title">🤝 交流重視</div>
+          <p style="color:var(--text-dim);font-size:.9rem">身内固まりすぎを抑制し、新しい交流やストーリー作りを推奨</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- =================== ETIQUETTE =================== -->
+    <section style="margin-bottom:3rem">
+      <div class="section-header" data-num="Nº 03 ／ HOUSE RULES">
+        <h1 class="section-title"><span class="section-title-icon">📋</span>みんなで楽しく遊ぶために</h1>
+        <p class="section-subtitle">街の住民として、心に留めておきたいこと。</p>
+      </div>
+      <div class="card">
+        <ul class="styled-list">
+          <li>モラルを持った行動を心がけましょう</li>
+          <li>相手のRPを壊す行動は控えましょう</li>
+          <li>ルールは事前に確認しましょう</li>
+          <li>暴言・煽り・迷惑行為はやめましょう</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- =================== TABLE OF CONTENTS =================== -->
+    <section style="margin-bottom:3rem">
+      <div class="section-header" data-num="Nº 04 ／ TABLE OF CONTENTS">
+        <h1 class="section-title"><span class="section-title-icon">📚</span>wiki カテゴリ</h1>
+        <p class="section-subtitle">街のあらゆる情報を、編集部が整理しました。</p>
+      </div>
+
+      <h2 style="font-family:var(--font-mincho);font-style:italic;font-size:1.05rem;letter-spacing:.06em;color:var(--yuzu);padding-left:0;margin-top:1rem">概要 ／ Overview</h2>
+      <div class="card-grid">
+        <a href="guide.html" class="card"><div class="card-meta">04.01</div><div class="card-title">📖 初心者ガイド</div><p>マイク設定・キー配置・緊急時対応など基本操作</p></a>
+        <a href="commands.html" class="card"><div class="card-meta">04.02</div><div class="card-title">⌨️ コマンド一覧</div><p>/name、/911、/help などのコマンド</p></a>
+        <a href="terms.html" class="card"><div class="card-meta">04.03</div><div class="card-title">💬 配信用語集</div><p>衛星=配信、瞑想=再起動などの隠語</p></a>
+      </div>
+
+      <h2 style="font-family:var(--font-mincho);font-style:italic;font-size:1.05rem;letter-spacing:.06em;color:var(--yuzu);padding-left:0;margin-top:2rem">ルール ／ Rules</h2>
+      <div class="card-grid">
+        <a href="rules-general.html" class="card"><div class="card-meta">04.04</div><div class="card-title">📜 一般ルール</div><p>RMT・MOD・チート・ゴースティング等の禁止事項</p></a>
+        <a href="rules-rp.html" class="card"><div class="card-meta">04.05</div><div class="card-title">🎭 RPルール</div><p>ロールプレイ全般に関するルール</p></a>
+        <a href="rules-combat.html" class="card"><div class="card-meta">04.06</div><div class="card-title">⚔️ 戦闘ルール</div><p>RDM・Combat log・ドライブバイ・無線撃ちなど</p></a>
+        <a href="rules-vehicle.html" class="card"><div class="card-meta">04.07</div><div class="card-title">🚗 車両ルール</div><p>禁止車両・禁止カスタム・窃盗禁止</p></a>
+        <a href="rules-relationship.html" class="card"><div class="card-meta">04.08</div><div class="card-title">💕 恋愛RP</div><p>恋愛RPのトラブル防止ガイドライン</p></a>
+      </div>
+
+      <h2 style="font-family:var(--font-mincho);font-style:italic;font-size:1.05rem;letter-spacing:.06em;color:var(--yuzu);padding-left:0;margin-top:2rem">職業 ／ Occupation</h2>
+      <div class="card-grid">
+        <a href="job-pd.html" class="card"><div class="card-meta">04.09</div><div class="card-title">🚓 警察 (PD)</div><p>対応手順・MDT記入・強盗ペナルティ表など</p></a>
+        <a href="job-ems.html" class="card"><div class="card-meta">04.10</div><div class="card-title">🚑 EMS（救急）</div><p>事件対応・物資管理・治療費ルール</p></a>
+        <a href="job-doctor.html" class="card"><div class="card-meta">04.11</div><div class="card-title">⚕️ 個人医</div><p>闇医者の業務範囲・治療料金・参加可能犯罪</p></a>
+        <a href="job-mechanic.html" class="card"><div class="card-meta">04.12</div><div class="card-title">🔧 メカニック</div><p>修理・部品料金表</p></a>
+        <a href="job-food.html" class="card"><div class="card-meta">04.13</div><div class="card-title">🍔 飲食店</div><p>商品登録・値段ルール・開業条件</p></a>
+        <a href="job-crime.html" class="card"><div class="card-meta">04.14</div><div class="card-title">💀 犯罪ルール</div><p>人質・受注・利確・歪み対応など</p></a>
+      </div>
+
+      <h2 style="font-family:var(--font-mincho);font-style:italic;font-size:1.05rem;letter-spacing:.06em;color:var(--yuzu);padding-left:0;margin-top:2rem">カタログ ／ Catalog</h2>
+      <div class="card-grid">
+        <a href="dealer.html" class="card"><div class="card-meta">04.15</div><div class="card-title">🚗 ディーラー</div><p>街で購入可能な車両・バイク・航空機・ボート</p></a>
+        <a href="icarus.html" class="card"><div class="card-meta">04.16</div><div class="card-title">🍰 Icarus</div><p>食べ物・飲み物メニュー</p></a>
+        <a href="jointshop.html" class="card"><div class="card-meta">04.17</div><div class="card-title">🍃 Jointshop</div><p>ジョイント・食べ物・飲み物</p></a>
+        <a href="nicole.html" class="card"><div class="card-meta">04.18</div><div class="card-title">🌹 Nicole</div><p>ジョイント・食べ物・飲み物</p></a>
+        <a href="bistroanzawa.html" class="card"><div class="card-meta">04.19</div><div class="card-title">🍽️ Bistro Anzawa</div><p>ビストロメニュー</p></a>
+        <a href="blessandbullet.html" class="card"><div class="card-meta">04.20</div><div class="card-title">✝️ Bless & Bullet</div><p>ショップメニュー</p></a>
+        <a href="nekocafenau.html" class="card"><div class="card-meta">04.21</div><div class="card-title">🐱 猫カフェNAU</div><p>カフェメニュー</p></a>
+        <a href="burgershot.html" class="card"><div class="card-meta">04.22</div><div class="card-title">🍔 BurgerShot</div><p>バーガーメニュー</p></a>
+      </div>
+
+      <h2 style="font-family:var(--font-mincho);font-style:italic;font-size:1.05rem;letter-spacing:.06em;color:var(--yuzu);padding-left:0;margin-top:2rem">最新情報 ／ Latest</h2>
+      <div class="card-grid">
+        <a href="news.html" class="card"><div class="card-meta">04.23</div><div class="card-title">📢 お知らせ</div><p>最新情報・ルール改定タイムライン</p></a>
+        <a href="updates.html" class="card"><div class="card-meta">04.24</div><div class="card-title">🔄 機能変更</div><p>サーバー機能のアップデート履歴</p></a>
+        <a href="streams.html" class="card"><div class="card-meta">04.25</div><div class="card-title">📺 配信中</div><p>住民のTwitch・YouTube配信状況</p></a>
+        <a href="socials.html" class="card"><div class="card-meta">04.26</div><div class="card-title">𝕏 住民SNS</div><p>住民のX(Twitter)アカウント一覧</p></a>
+        <a href="clips.html" class="card"><div class="card-meta">04.27</div><div class="card-title">🎬 クリップ</div><p>配信の面白かった瞬間まとめ</p></a>
+      </div>
+
+      <h2 style="font-family:var(--font-mincho);font-style:italic;font-size:1.05rem;letter-spacing:.06em;color:var(--yuzu);padding-left:0;margin-top:2rem">アーカイブ ／ Archive</h2>
+      <div class="card-grid">
+        <a href="archive.html" class="card"><div class="card-meta">04.28</div><div class="card-title">📦 Season 1 アーカイブ</div><p>Season 1 Beta（2026.05.01–05.31）の記録</p></a>
+      </div>
+    </section>
+
+    <div id="pageNav"></div>
   </main>
-<script>
-(function(){
-  // Season 2 opens 2026-07-01 00:00 JST (UTC+9). Explicit offset so the
-  // countdown is identical regardless of the visitor's local timezone.
-  var target = new Date('2026-07-01T00:00:00+09:00').getTime();
-  var dd = document.getElementById('cd-days'),
-      hh = document.getElementById('cd-hours'),
-      mm = document.getElementById('cd-mins'),
-      ss = document.getElementById('cd-secs'),
-      box = document.getElementById('countdown');
-  function pad(n){ return (n < 10 ? '0' : '') + n; }
-  var timer;
-  function tick(){
-    var diff = target - Date.now();
-    if(diff <= 0){
-      box.innerHTML = '<div class="cd-open">Season 2 開幕！</div>';
-      if(timer) clearInterval(timer);
-      return;
-    }
-    dd.textContent = Math.floor(diff / 86400000);
-    hh.textContent = pad(Math.floor((diff % 86400000) / 3600000));
-    mm.textContent = pad(Math.floor((diff % 3600000) / 60000));
-    ss.textContent = pad(Math.floor((diff % 60000) / 1000));
-  }
-  tick();
-  timer = setInterval(tick, 1000);
-})();
-</script>
+</div>
+<footer>
+  <strong>Yuzu City Wiki</strong> · 非公式ガイド ／
+  <a href="https://x.com/yuzu_server" target="_blank">𝕏 @YUZU_SERVER</a>
+  <div style="margin-top:1.2rem;font-size:.55rem;letter-spacing:.4em;color:var(--text-deep)">YUZU CITY ／ SEASON 02 BETA ／ 編集部</div>
+</footer>
+<script src="common.js"></script>
 </body>
 </html>

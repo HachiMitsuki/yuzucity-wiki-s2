@@ -1,3 +1,7 @@
+// Season 2 Discord server invite — set this once the new server invite is ready.
+// Empty string = Discord links are hidden everywhere (topbar / sidebar).
+const DISCORD_INVITE = "";
+
 // Sidebar definition - shared across all pages
 const NAV = [
   {title:"概要", links:[
@@ -40,7 +44,7 @@ const NAV = [
   ]},
   {title:"外部リンク", links:[
     {url:"https://x.com/yuzu_server", label:"公式 Twitter", icon:"𝕏"},
-    {url:"https://discord.gg/gHCeUWFyyc", label:"Discord", icon:"💬"},
+    ...(DISCORD_INVITE ? [{url:DISCORD_INVITE, label:"Discord", icon:"💬"}] : []),
   ]},
 ];
 
@@ -72,7 +76,7 @@ function renderTopbar(){
     </form>
     <div class="topbar-actions">
       <a href="https://x.com/yuzu_server" target="_blank" aria-label="X">𝕏</a>
-      <a href="https://discord.gg/gHCeUWFyyc" target="_blank">DISCORD</a>
+      ${DISCORD_INVITE ? `<a href="${DISCORD_INVITE}" target="_blank">DISCORD</a>` : ''}
       <button class="menu-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')" aria-label="menu">☰</button>
     </div>
   `;

@@ -3,14 +3,19 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>配信中 | Yuzu City Wiki</title>
+<title>配信中（Season 1 アーカイブ） | Yuzu City Wiki</title>
 <link rel="stylesheet" href="styles.css">
+<meta name="robots" content="noindex">
 </head>
 <body data-page="streams">
 <header class="topbar" id="topbar"></header>
 <div class="app">
   <aside class="sidebar" id="sidebar"></aside>
   <main>
+    <div class="notice notice-info" style="margin-bottom:1.5rem">
+      <div class="notice-title">📦 Season 1 Beta のアーカイブ</div>
+      Season 1 Beta（2026.05.01–05.31）当時の記録です。 <a href="archive.html">S1アーカイブトップ</a> ／ <a href="index.html">Season 2 トップへ</a>
+    </div>
     <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><span>配信中</span></nav>
     <section>
       <div class="section-header">
@@ -172,7 +177,7 @@
 
   async function load(){
     try{
-      const res = await fetch('status.json?cb=' + Date.now(), {cache:'no-store'});
+      const res = await fetch('s1-status.json?cb=' + Date.now(), {cache:'no-store'});
       if(!res.ok) throw new Error('HTTP ' + res.status);
       const data = await res.json();
       const streamers = Array.isArray(data.streamers) ? data.streamers : [];
