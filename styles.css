@@ -2038,3 +2038,261 @@ main > section{
 @media (max-width: 900px){
   .clips-grid{ grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: .7rem }
 }
+
+/* ==============================================================
+   S2 SHOWCASE — generated key visuals, glitch type, marquee
+   ============================================================== */
+
+/* --- Full-bleed cover hero (index) --- */
+.s2-cover{
+  position: relative;
+  min-height: 580px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  border: 1px solid var(--line-2);
+  display: flex;
+  align-items: flex-end;
+  background: var(--ink-2);
+  animation: reveal 1s var(--ease-out) both;
+}
+.s2-cover-bg{
+  position: absolute; inset: 0;
+  background-image: url("images/s2/hero-city.jpg");
+  background-size: cover;
+  background-position: center 32%;
+  animation: s2-pan 26s ease-in-out infinite alternate;
+  will-change: transform;
+}
+@keyframes s2-pan{
+  from{ transform: scale(1.05) translateY(0) }
+  to  { transform: scale(1.14) translateY(-2.5%) }
+}
+.s2-cover::after{
+  content:"";
+  position:absolute; inset:0;
+  background:
+    repeating-linear-gradient(0deg, rgba(2,4,12,.14) 0 1px, transparent 1px 4px),
+    linear-gradient(180deg, rgba(6,9,19,.02) 28%, rgba(6,9,19,.55) 62%, rgba(6,9,19,.93) 88%, var(--ink) 100%);
+  pointer-events:none;
+}
+.s2-cover-content{
+  position: relative; z-index: 2;
+  width: 100%;
+  padding: 3rem 3rem 2.6rem;
+}
+.s2-kicker{
+  font-family: var(--font-mono);
+  font-size: .68rem;
+  font-weight: 700;
+  letter-spacing: .42em;
+  text-transform: uppercase;
+  color: var(--sky);
+  text-shadow: 0 0 14px rgba(79,200,255,.6);
+  margin-bottom: 1rem;
+}
+.s2-wordmark{
+  font-family: var(--font-fat);
+  font-weight: 400;
+  font-size: clamp(3rem, 9vw, 6.6rem);
+  line-height: .98;
+  letter-spacing: .005em;
+  color: #FFFFFF;
+  text-shadow:
+    3px 0 0 rgba(255,123,200,.5),
+    -3px 0 0 rgba(79,200,255,.5),
+    0 6px 44px rgba(0,0,0,.7);
+  animation: s2-glitch 9s steps(1) infinite;
+  margin-bottom: 1.1rem;
+}
+@keyframes s2-glitch{
+  0%, 94.5%, 100%{ clip-path: none; transform: none }
+  95%  { clip-path: inset(8% 0 62% 0);  transform: translateX(-6px) }
+  95.8%{ clip-path: inset(58% 0 12% 0); transform: translateX(6px) }
+  96.4%{ clip-path: none; transform: none }
+}
+.s2-tape{
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: .74rem;
+  font-weight: 700;
+  letter-spacing: .24em;
+  text-transform: uppercase;
+  color: #191300;
+  background: linear-gradient(110deg, var(--yuzu), var(--yuzu-bright));
+  padding: .42rem 1rem;
+  border-radius: 3px;
+  transform: rotate(-2deg);
+  box-shadow: 0 4px 18px rgba(255,217,46,.4);
+  margin-bottom: 1.2rem;
+}
+.s2-sub{
+  font-family: var(--font-mincho);
+  font-style: italic;
+  font-size: clamp(1rem, 2.6vw, 1.3rem);
+  color: var(--paper);
+  text-shadow: 0 2px 16px rgba(0,0,0,.8);
+  margin-bottom: 1.2rem;
+}
+.s2-chips{ display: flex; flex-wrap: wrap; gap: .5rem }
+.s2-chip{
+  font-family: var(--font-mono);
+  font-size: .64rem;
+  font-weight: 700;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: var(--text);
+  background: rgba(6,9,19,.55);
+  border: 1px solid var(--line-bright);
+  border-radius: 999px;
+  padding: .3rem .85rem;
+  backdrop-filter: blur(6px);
+}
+.s2-chip strong{ color: var(--yuzu-bright); font-weight: 700 }
+
+/* --- Marquee ticker --- */
+.s2-marquee{
+  overflow: hidden;
+  background: linear-gradient(110deg, var(--yuzu) 0%, var(--yuzu-bright) 100%);
+  color: #191300;
+  transform: rotate(-1.1deg) scale(1.02);
+  border-radius: 4px;
+  margin: 1.8rem 0 .6rem;
+  box-shadow: 0 8px 30px rgba(255,217,46,.18);
+}
+.s2-marquee-track{
+  display: flex;
+  width: max-content;
+  white-space: nowrap;
+  font-family: var(--font-mono);
+  font-size: .76rem;
+  font-weight: 700;
+  letter-spacing: .3em;
+  text-transform: uppercase;
+  padding: .6rem 0;
+  animation: s2-marquee 30s linear infinite;
+}
+.s2-marquee-track span{ padding: 0 1.4rem }
+@keyframes s2-marquee{ to{ transform: translateX(-50%) } }
+
+/* --- Foreword split panel with key visual --- */
+.s2-foreword{
+  display: grid;
+  grid-template-columns: 1fr 290px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--ink-2);
+}
+.s2-foreword-body{ padding: 1.8rem 2rem }
+.s2-foreword-img{
+  position: relative;
+  min-height: 320px;
+  background-image: url("images/s2/alley-rain.jpg");
+  background-size: cover;
+  background-position: center 38%;
+}
+.s2-foreword-img::after{
+  content:"";
+  position:absolute; inset:0;
+  background:
+    repeating-linear-gradient(0deg, rgba(2,4,12,.12) 0 1px, transparent 1px 4px),
+    linear-gradient(90deg, var(--ink-2) 0%, rgba(10,15,31,.25) 26%, transparent 60%);
+}
+
+/* --- Section banner bands (generated art) --- */
+.s2-banner{
+  position: relative;
+  height: 150px;
+  overflow: hidden;
+  margin: 2.8rem 0 1.2rem;
+  clip-path: polygon(0 7%, 100% 0, 100% 93%, 0 100%);
+  display: flex;
+  align-items: center;
+}
+.s2-banner-bg{
+  position: absolute; inset: 0;
+  background-size: cover;
+  background-position: center;
+  transition: transform .6s var(--ease-out);
+}
+.s2-banner:hover .s2-banner-bg{ transform: scale(1.05) }
+.s2-banner.rules   .s2-banner-bg{ background-image: url("images/s2/banner-rules.jpg") }
+.s2-banner.jobs    .s2-banner-bg{ background-image: url("images/s2/banner-jobs.jpg") }
+.s2-banner.catalog .s2-banner-bg{ background-image: url("images/s2/banner-catalog.jpg") }
+.s2-banner.latest  .s2-banner-bg{ background-image: url("images/s2/banner-latest.jpg") }
+.s2-banner.alley   .s2-banner-bg{ background-image: url("images/s2/alley-rain.jpg"); background-position: center 30% }
+.s2-banner::after{
+  content:"";
+  position:absolute; inset:0;
+  background:
+    repeating-linear-gradient(0deg, rgba(2,4,12,.12) 0 1px, transparent 1px 4px),
+    linear-gradient(90deg, rgba(6,9,19,.92) 0%, rgba(6,9,19,.6) 36%, rgba(6,9,19,.12) 80%);
+}
+.s2-banner-title{
+  position: relative; z-index: 2;
+  padding-left: 2rem;
+}
+.s2-banner-en{
+  display: block;
+  font-family: var(--font-mono);
+  font-size: .62rem;
+  font-weight: 700;
+  letter-spacing: .34em;
+  text-transform: uppercase;
+  color: var(--sky);
+  text-shadow: 0 0 12px rgba(79,200,255,.55);
+  margin-bottom: .35rem;
+}
+.s2-banner-jp{
+  font-family: var(--font-display);
+  font-size: 1.45rem;
+  color: #fff;
+  text-shadow: 0 2px 18px rgba(0,0,0,.85);
+}
+
+/* --- Thin cinematic strip for content pages --- */
+.s2-strip{
+  position: relative;
+  height: 118px;
+  overflow: hidden;
+  margin-bottom: 1.4rem;
+  clip-path: polygon(0 0, 100% 0, 100% 86%, 0 100%);
+  background-size: cover;
+  background-position: center;
+}
+.s2-strip.rules  { background-image: url("images/s2/banner-rules.jpg") }
+.s2-strip.jobs   { background-image: url("images/s2/banner-jobs.jpg") }
+.s2-strip.catalog{ background-image: url("images/s2/banner-catalog.jpg") }
+.s2-strip.latest { background-image: url("images/s2/banner-latest.jpg") }
+.s2-strip.alley  { background-image: url("images/s2/alley-rain.jpg"); background-position: center 32% }
+.s2-strip::after{
+  content:"";
+  position:absolute; inset:0;
+  background:
+    repeating-linear-gradient(0deg, rgba(2,4,12,.12) 0 1px, transparent 1px 4px),
+    linear-gradient(180deg, rgba(6,9,19,.25) 0%, rgba(6,9,19,.05) 45%, rgba(6,9,19,.85) 100%);
+}
+
+@media (max-width: 900px){
+  .s2-cover{ min-height: 440px }
+  .s2-cover-content{ padding: 1.8rem 1.4rem 1.6rem }
+  .s2-wordmark{ font-size: clamp(2.1rem, 10.5vw, 3rem) }
+  .s2-kicker{ font-size: .58rem; letter-spacing: .26em }
+  .s2-tape{ font-size: .62rem; letter-spacing: .16em }
+  .s2-foreword{ grid-template-columns: 1fr }
+  .s2-foreword-img{ min-height: 190px; order: -1 }
+  .s2-foreword-img::after{
+    background:
+      repeating-linear-gradient(0deg, rgba(2,4,12,.12) 0 1px, transparent 1px 4px),
+      linear-gradient(180deg, transparent 40%, var(--ink-2) 100%);
+  }
+  .s2-foreword-body{ padding: 1.3rem 1.2rem }
+  .s2-banner{ height: 110px }
+  .s2-banner-title{ padding-left: 1.2rem }
+  .s2-banner-jp{ font-size: 1.15rem }
+  .s2-strip{ height: 84px }
+}
+
+@media (prefers-reduced-motion: reduce){
+  .s2-cover-bg, .s2-wordmark, .s2-marquee-track{ animation: none }
+}
