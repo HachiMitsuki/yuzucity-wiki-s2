@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T00:08:29+09:00",
+  "updated_at": "2026-06-18T00:13:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -12,7 +12,7 @@
       "is_live": true,
       "title": "【TKGフルパValo】久しぶりのヴぇれれんてぃ！！！",
       "game_name": "VALORANT",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-17T12:26:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
@@ -187,7 +187,7 @@
       "is_live": true,
       "title": "【OW】新シーズンだーシオン来た！！！【初見歓迎】",
       "game_name": "Overwatch",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-17T14:41:41Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
@@ -262,7 +262,7 @@
       "is_live": true,
       "title": "【GTA5】ラフシティ 何が何でもキルする 抗争  猫梅つばさ",
       "game_name": "",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "started_at": "2026-06-17T12:12:27Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tubasa_twitch-{width}x{height}.jpg"
     },
@@ -377,7 +377,7 @@
       "is_live": true,
       "title": "【VTuber】KOSO【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 18,
+      "viewer_count": 15,
       "started_at": "2026-06-17T12:30:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
