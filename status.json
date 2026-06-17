@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T01:00:00+09:00",
+  "updated_at": "2026-06-18T01:05:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,12 +9,7 @@
       "display_name": "藍音です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f86960a-38c3-4412-85aa-6405f054f8d3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aito_mus01",
-      "is_live": true,
-      "title": "【TKGフルパValo】久しぶりのヴぇれれんてぃ！！！",
-      "game_name": "VALORANT",
-      "viewer_count": 4,
-      "started_at": "2026-06-17T12:26:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -364,12 +359,7 @@
       "display_name": "火影こたつ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": true,
-      "title": "【VTuber】KOSO【FiveM/#ラフシティ】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 13,
-      "started_at": "2026-06-17T12:30:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
