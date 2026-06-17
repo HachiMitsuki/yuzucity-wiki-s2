@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T06:15:55+09:00",
+  "updated_at": "2026-06-18T06:20:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -202,7 +202,7 @@
       "is_live": true,
       "title": "ディオ",
       "game_name": "VALORANT",
-      "viewer_count": 5,
+      "viewer_count": 3,
       "started_at": "2026-06-17T18:57:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
