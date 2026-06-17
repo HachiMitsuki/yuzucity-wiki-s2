@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T01:05:00+09:00",
+  "updated_at": "2026-06-18T01:15:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -502,7 +502,7 @@
       "is_live": true,
       "title": "【#APEX】SOSフルパ @yunokichi32 @chierio",
       "game_name": "Apex Legends",
-      "viewer_count": 2,
+      "viewer_count": 1,
       "started_at": "2026-06-17T14:21:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
