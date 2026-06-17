@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T00:50:00+09:00",
+  "updated_at": "2026-06-18T00:55:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -372,7 +372,7 @@
       "is_live": true,
       "title": "【VTuber】KOSO【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 24,
+      "viewer_count": 15,
       "started_at": "2026-06-17T12:30:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
@@ -517,7 +517,7 @@
       "is_live": true,
       "title": "【#APEX】SOSフルパ @yunokichi32 @chierio",
       "game_name": "Apex Legends",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-17T14:21:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
