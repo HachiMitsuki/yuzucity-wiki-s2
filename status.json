@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T05:05:56+09:00",
+  "updated_at": "2026-06-18T05:10:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -22,7 +22,7 @@
       "is_live": true,
       "title": "【FRENZY TOWN】DAEMONふぁみりぃ〖初見さんコメント大歓迎〗",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "started_at": "2026-06-17T18:20:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
