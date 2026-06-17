@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T00:13:26+09:00",
+  "updated_at": "2026-06-18T00:18:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -259,12 +259,7 @@
       "display_name": "つばさ___",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f4eacf7-eec8-4496-90f2-fff8bf53332d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tubasa_twitch",
-      "is_live": true,
-      "title": "【GTA5】ラフシティ 何が何でもキルする 抗争  猫梅つばさ",
-      "game_name": "",
-      "viewer_count": 7,
-      "started_at": "2026-06-17T12:12:27Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tubasa_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -377,7 +372,7 @@
       "is_live": true,
       "title": "【VTuber】KOSO【FiveM/#ラフシティ】",
       "game_name": "Grand Theft Auto V",
-      "viewer_count": 15,
+      "viewer_count": 16,
       "started_at": "2026-06-17T12:30:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
