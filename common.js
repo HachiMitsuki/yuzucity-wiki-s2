@@ -11,6 +11,8 @@ const NAV = [
     {slug:"terms", label:"配信用語集", icon:"💬"},
   ]},
   {title:"ルール", links:[
+    {slug:"news", label:"お知らせ", icon:"📢"},
+    {slug:"updates", label:"機能変更", icon:"🔄"},
     {slug:"rules-general", label:"一般ルール", icon:"📜"},
     {slug:"rules-rp", label:"RPルール", icon:"🎭"},
     {slug:"rules-combat", label:"戦闘ルール", icon:"⚔️"},
@@ -31,8 +33,6 @@ const NAV = [
     {slug:"burgershot", label:"BurgerShot", icon:"🍔"},
   ]},
   {title:"最新情報", links:[
-    {slug:"news", label:"お知らせ", icon:"📢"},
-    {slug:"updates", label:"機能変更", icon:"🔄"},
     {slug:"streams", label:"配信中", icon:"📺"},
     {slug:"socials", label:"住民SNS", icon:"𝕏"},
     {slug:"clips", label:"クリップ", icon:"🎬"},
