@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T22:38:33+09:00",
+  "updated_at": "2026-06-18T23:03:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -91,11 +91,7 @@
       "display_name": "蒼澪",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8da2be83-6ebf-4a70-b4d5-443eba1ea393-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sourei_2525",
-      "is_live": true,
-      "title": "色々決める",
-      "game_name": "Just Chatting",
-      "started_at": "2026-06-18T13:00:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sourei_2525-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
