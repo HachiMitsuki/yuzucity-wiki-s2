@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T11:00:56+09:00",
+  "updated_at": "2026-06-18T11:05:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -482,7 +482,7 @@
       "is_live": true,
       "title": "【🔰OW】おはよー！新キャラはどうなんだ？",
       "game_name": "Overwatch",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "started_at": "2026-06-18T00:45:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
