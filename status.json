@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T06:25:56+09:00",
+  "updated_at": "2026-06-18T09:45:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -479,7 +479,12 @@
       "display_name": "楽希",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raki_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【🔰OW】おはよー！新キャラはどうなんだ？",
+      "game_name": "Overwatch",
+      "viewer_count": 0,
+      "started_at": "2026-06-18T00:45:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
