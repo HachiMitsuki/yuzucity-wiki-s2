@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T15:55:58+09:00",
+  "updated_at": "2026-06-18T15:59:16+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "魚介焼き飲酒焚き火part2",
       "game_name": "Just Chatting",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "started_at": "2026-06-18T05:52:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
@@ -532,7 +532,7 @@
       "is_live": true,
       "title": "【OW】OWしますかね",
       "game_name": "Overwatch",
-      "viewer_count": 1,
+      "viewer_count": 6,
       "started_at": "2026-06-18T06:51:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aozoraiku-{width}x{height}.jpg"
     },
