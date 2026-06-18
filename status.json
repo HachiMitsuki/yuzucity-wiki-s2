@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T15:30:58+09:00",
+  "updated_at": "2026-06-18T15:45:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -304,7 +304,12 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "久々ヴァロ ソロコンペ",
+      "game_name": "VALORANT",
+      "viewer_count": 1,
+      "started_at": "2026-06-18T06:41:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
