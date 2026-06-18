@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T23:38:32+09:00",
+  "updated_at": "2026-06-19T00:28:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,11 +9,7 @@
       "display_name": "藍音です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f86960a-38c3-4412-85aa-6405f054f8d3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aito_mus01",
-      "is_live": true,
-      "title": "【TKGフルパValo】今日こそ勝ち越したい！！！",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-18T12:23:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -372,8 +368,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
       "is_live": true,
-      "title": "【VTuber】めっちゃothelleon【めっちゃカメレオン】",
-      "game_name": "MECCHA CHAMELEON",
+      "title": "【VTuber】めっちゃインポスター【AmongUs】",
+      "game_name": "Among Us",
       "started_at": "2026-06-18T13:13:23Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
