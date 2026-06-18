@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T22:13:34+09:00",
+  "updated_at": "2026-06-18T22:18:35+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -47,7 +47,11 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "新人農家物語【龍咲】【#FarmingSimulator 25 】",
+      "game_name": "Farming Simulator 25",
+      "started_at": "2026-06-18T13:13:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -379,7 +383,11 @@
       "display_name": "火影こたつ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": false
+      "is_live": true,
+      "title": "【VTuber】めっちゃothelleon【めっちゃカメレオン】",
+      "game_name": "MECCHA CHAMELEON",
+      "started_at": "2026-06-18T13:13:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
