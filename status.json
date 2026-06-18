@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T15:45:59+09:00",
+  "updated_at": "2026-06-18T15:55:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -307,7 +307,7 @@
       "is_live": true,
       "title": "久々ヴァロ ソロコンペ",
       "game_name": "VALORANT",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "started_at": "2026-06-18T06:41:34Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
@@ -529,7 +529,12 @@
       "display_name": "青空いく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ff6d07a-0795-4ed0-90f4-3645d7424092-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aozoraiku",
-      "is_live": false
+      "is_live": true,
+      "title": "【OW】OWしますかね",
+      "game_name": "Overwatch",
+      "viewer_count": 1,
+      "started_at": "2026-06-18T06:51:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aozoraiku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
