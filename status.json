@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T15:05:59+09:00",
+  "updated_at": "2026-06-18T15:25:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -112,7 +112,7 @@
       "is_live": true,
       "title": "魚介焼き飲酒焚き火part2",
       "game_name": "Just Chatting",
-      "viewer_count": 1,
+      "viewer_count": 3,
       "started_at": "2026-06-18T05:52:55Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
