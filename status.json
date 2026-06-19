@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T21:06:04+09:00",
+  "updated_at": "2026-06-19T21:11:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -143,7 +143,11 @@
       "display_name": "夢見弖ねこむ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38876e09-d270-4394-be4c-a339ea8535e9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekommn",
-      "is_live": false
+      "is_live": true,
+      "title": "【PoE2】新リーグを今日からみんなで触っていく /w @sino_akatuki @h4ko_v @popcorn_vtuber",
+      "game_name": "Path of Exile 2",
+      "started_at": "2026-06-19T12:05:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
