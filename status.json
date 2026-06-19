@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T19:41:04+09:00",
+  "updated_at": "2026-06-19T20:26:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -343,11 +343,7 @@
       "display_name": "usjkh",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdeca576-ddee-421f-beea-07e47ddfd179-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/usjkh",
-      "is_live": true,
-      "title": "面白そうなゲーム見つけたのでやってみる",
-      "game_name": "ROBOBEAT",
-      "started_at": "2026-06-19T10:36:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
