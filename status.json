@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T00:21:04+09:00",
+  "updated_at": "2026-06-20T00:31:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -513,11 +513,7 @@
       "display_name": "子羊めぇめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf33ed9a-caf0-42ac-9f8b-7cad32a7fecc-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/not_ahuro",
-      "is_live": true,
-      "title": "【#yapyap】￤神域コラボ🌟∥⋆可愛い女子たちと❣",
-      "game_name": "YAPYAP",
-      "started_at": "2026-06-19T12:00:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
