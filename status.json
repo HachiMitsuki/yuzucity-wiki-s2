@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T00:31:05+09:00",
+  "updated_at": "2026-06-20T00:51:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -187,11 +187,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【OW】新シーズンのOWから逃げるな……【初見歓迎】",
-      "game_name": "Overwatch",
-      "started_at": "2026-06-19T14:14:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -295,11 +291,7 @@
       "display_name": "絶叫者イノ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": true,
-      "title": "【#バイおじCUP】スクリム | VALORANT",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-19T12:03:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
