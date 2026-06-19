@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T21:46:05+09:00",
+  "updated_at": "2026-06-19T22:06:06+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -80,8 +80,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8da2be83-6ebf-4a70-b4d5-443eba1ea393-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sourei_2525",
       "is_live": true,
-      "title": "色々決める",
-      "game_name": "Just Chatting",
+      "title": "めっちゃ隠れるん",
+      "game_name": "MECCHA CHAMELEON",
       "started_at": "2026-06-19T12:43:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sourei_2525-{width}x{height}.jpg"
     },
@@ -286,7 +286,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a14d94-7d4a-4913-89e2-fa76064f5cf8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himoo_ttvt",
       "is_live": true,
-      "title": "【 FINAL FANTASY XIV｜© SQUARE ENIX 】一章終わる！？【ひもぉ。/ Vtuber】",
+      "title": "【 FINAL FANTASY XIV｜© SQUARE ENIX 】一章終わる！？【ビッツ禁止】",
       "game_name": "FINAL FANTASY XIV ONLINE",
       "started_at": "2026-06-19T12:41:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
@@ -483,7 +483,11 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": false
+      "is_live": true,
+      "title": "＃3  今日はなにしようかな！！＃FiveM ＃ストグラFVC",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-06-19T13:03:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
