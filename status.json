@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T00:11:04+09:00",
+  "updated_at": "2026-06-20T00:16:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -393,11 +393,7 @@
       "display_name": "ねこまんま81",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77e6cdc5-e419-4b43-864c-ef66abfdc32b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/necomanma81",
-      "is_live": true,
-      "title": "【#FF14】 夏はそうめんよな～",
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "started_at": "2026-06-19T13:39:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_necomanma81-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
