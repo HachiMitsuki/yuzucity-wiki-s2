@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T22:56:06+09:00",
+  "updated_at": "2026-06-20T23:06:08+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -389,7 +389,11 @@
       "display_name": "ねこまんま81",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77e6cdc5-e419-4b43-864c-ef66abfdc32b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/necomanma81",
-      "is_live": false
+      "is_live": true,
+      "title": "【#minecraft】 ぽこクラ Day.1",
+      "game_name": "Minecraft",
+      "started_at": "2026-06-20T14:04:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_necomanma81-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
