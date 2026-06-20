@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T00:51:03+09:00",
+  "updated_at": "2026-06-21T01:01:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -287,11 +287,7 @@
       "display_name": "絶叫者イノ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": true,
-      "title": "今日マーヴィカさんが来る気がするんだよね？ | 原神",
-      "game_name": "Genshin Impact",
-      "started_at": "2026-06-20T12:26:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
