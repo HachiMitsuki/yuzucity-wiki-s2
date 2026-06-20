@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T20:06:03+09:00",
+  "updated_at": "2026-06-20T20:11:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -392,8 +392,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7de1254-d9ef-45cd-b8c8-ab4490c3e9b1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/248774",
       "is_live": true,
-      "title": "【 ドカポン 】 RE：ゼロ ドカポンしてみた 【 伏屋ななし / Vtuber / #俺たちの青春街道 】",
-      "game_name": "Dokapon! Ikari no Tetsuken",
+      "title": "【 REPO 】同窓会ちぇけら 【 伏屋ななし / Vtuber / コラボ 】",
+      "game_name": "R.E.P.O.",
       "started_at": "2026-06-20T11:03:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_248774-{width}x{height}.jpg"
     },
@@ -565,7 +565,11 @@
       "display_name": "しろみそです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37f84425-0e80-4c41-a715-568fa011b4a2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shiro46_24",
-      "is_live": false
+      "is_live": true,
+      "title": "LOLclash w/ぺたま いっちー かぴ もやし",
+      "game_name": "League of Legends",
+      "started_at": "2026-06-20T11:07:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
