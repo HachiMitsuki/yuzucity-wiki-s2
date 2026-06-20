@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T22:31:04+09:00",
+  "updated_at": "2026-06-20T22:56:06+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -359,11 +359,7 @@
       "display_name": "usjkh",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdeca576-ddee-421f-beea-07e47ddfd179-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/usjkh",
-      "is_live": true,
-      "title": "【ハチ公杯】つえーやつらと殴り合いに来た",
-      "game_name": "Mecha BREAK",
-      "started_at": "2026-06-20T10:27:54Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_usjkh-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
