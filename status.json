@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T02:41:01+09:00",
+  "updated_at": "2026-06-21T03:01:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -263,11 +263,7 @@
       "display_name": "東月方璃",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c09f3497-68e9-4f54-bf5f-5f728740f7b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/touhou_1560",
-      "is_live": true,
-      "title": "【#AZUARP】チル雑談",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-06-20T13:28:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
