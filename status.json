@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T15:00:58+09:00",
+  "updated_at": "2026-06-21T15:40:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -311,7 +311,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "DCP2 闇夜に舞い降りた熊猫ー序章ー ２話目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-06-21T06:35:58Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
