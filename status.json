@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T21:06:00+09:00",
+  "updated_at": "2026-06-21T21:11:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -217,7 +217,11 @@
       "display_name": "静住ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b170283c-117d-43b7-b9dc-adcdd161bbf5-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shizumi_yuu",
-      "is_live": false
+      "is_live": true,
+      "title": "LSCメカコラボ！！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-06-21T12:06:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
