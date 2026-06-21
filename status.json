@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T20:01:00+09:00",
+  "updated_at": "2026-06-21T20:05:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -503,7 +503,11 @@
       "display_name": "ゆうてゃ_",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
-      "is_live": false
+      "is_live": true,
+      "title": "【#DCPグラセフ2】俺の名前は延命寺 癒生＃1",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-06-21T11:02:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -604,7 +608,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6131d734-76ff-4c55-a167-02ba9e7fd60c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tsukkyi_vl",
       "is_live": true,
-      "title": "ホラゲーコラボ with MOMOさん 【shadow corridor】",
+      "title": "ホラゲーコラボ with MOMOさん 【shadow corridor】part2",
       "game_name": "Shadow Corridor",
       "started_at": "2026-06-21T11:00:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
