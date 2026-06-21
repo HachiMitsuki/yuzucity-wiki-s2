@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T23:06:02+09:00",
+  "updated_at": "2026-06-21T23:11:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -229,11 +229,7 @@
       "display_name": "静住ゆう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b170283c-117d-43b7-b9dc-adcdd161bbf5-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shizumi_yuu",
-      "is_live": true,
-      "title": "LSCメカコラボ！！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-06-21T12:06:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shizumi_yuu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -283,7 +279,11 @@
       "display_name": "東月方璃",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c09f3497-68e9-4f54-bf5f-5f728740f7b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/touhou_1560",
-      "is_live": false
+      "is_live": true,
+      "title": "【ow】認定だけ",
+      "game_name": "Overwatch",
+      "started_at": "2026-06-21T14:10:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -361,11 +361,7 @@
       "display_name": "七瀬のん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a6ec22c-c525-4dd0-9dc3-46c808857ea7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nanasenon",
-      "is_live": true,
-      "title": "Yuzu LSCこらぼぼぼ！！！！！",
-      "game_name": "MECCHA CHAMELEON",
-      "started_at": "2026-06-21T13:33:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanasenon-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -489,11 +485,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5980bf5-28a6-4886-b78e-86bca2f6fc76-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "【めっちゃカメレオン】ゆずLSメカコラボ‼",
-      "game_name": "MECCHA CHAMELEON",
-      "started_at": "2026-06-21T12:01:26Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -581,11 +573,7 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": true,
-      "title": "LSCかくれんぼ！",
-      "game_name": "MECCHA CHAMELEON",
-      "started_at": "2026-06-21T12:11:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -595,11 +583,7 @@
       "display_name": "白峰ウゲツ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1a3151a-e3a6-4cad-9a30-eeddf2457e81-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ugetsushiramine",
-      "is_live": true,
-      "title": "【OW-Ranked】今日のライバルプレイ。仲間達と戦績を緑にする w/わむお、タコちゃん",
-      "game_name": "Overwatch",
-      "started_at": "2026-06-21T11:40:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ugetsushiramine-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
