@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T21:16:00+09:00",
+  "updated_at": "2026-06-21T21:56:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,7 +9,11 @@
       "display_name": "藍音です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f86960a-38c3-4412-85aa-6405f054f8d3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aito_mus01",
-      "is_live": false
+      "is_live": true,
+      "title": "【TKGフルパValo】アセ維持しようや",
+      "game_name": "VALORANT",
+      "started_at": "2026-06-21T12:51:00Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
