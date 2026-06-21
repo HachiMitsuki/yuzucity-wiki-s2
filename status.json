@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T14:10:57+09:00",
+  "updated_at": "2026-06-21T14:30:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -29,7 +29,11 @@
       "display_name": "水野らこ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff5b77c0-e9f1-4712-be63-00c1914c84fb-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rako3456",
-      "is_live": false
+      "is_live": true,
+      "title": "【Nier: Automata】ハッキングってあれだよね、htmlとか",
+      "game_name": "NieR: Automata",
+      "started_at": "2026-06-21T05:29:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rako3456-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -472,7 +476,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
       "is_live": true,
-      "title": "なんだろうな VALORANT #VALORANTコンペ #VTuber",
+      "title": "先生に教わる！！ VALORANT #VALORANTコンペ #VTuber",
       "game_name": "VALORANT",
       "started_at": "2026-06-21T03:38:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
