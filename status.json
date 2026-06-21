@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T22:10:59+09:00",
+  "updated_at": "2026-06-21T22:31:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -655,11 +655,7 @@
       "display_name": "tsukkyi_vl",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6131d734-76ff-4c55-a167-02ba9e7fd60c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tsukkyi_vl",
-      "is_live": true,
-      "title": "ホラゲーコラボ with MOMOさん 【shadow corridor】part2",
-      "game_name": "Shadow Corridor",
-      "started_at": "2026-06-21T11:00:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
