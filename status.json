@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T04:01:01+09:00",
+  "updated_at": "2026-06-22T04:15:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -453,11 +453,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5980bf5-28a6-4886-b78e-86bca2f6fc76-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "ねれねあくてええ",
-      "game_name": "League of Legends",
-      "started_at": "2026-06-21T17:58:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -611,7 +607,11 @@
       "display_name": "tsukkyi_vl",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6131d734-76ff-4c55-a167-02ba9e7fd60c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tsukkyi_vl",
-      "is_live": false
+      "is_live": true,
+      "title": "VCT見てモチベ出たからちょっとだけ",
+      "game_name": "VALORANT",
+      "started_at": "2026-06-21T19:11:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsukkyi_vl-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
