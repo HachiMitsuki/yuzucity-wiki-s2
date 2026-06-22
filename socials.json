@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T18:15:23+09:00",
+  "updated_at": "2026-06-22T18:22:28+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1155,6 +1155,13 @@
       "display_name": "銀条ナギ🎮🎶高音Voice系個人配信者＆Music Creator",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2009980068815351809/FwkF-dKv_400x400.jpg",
       "profile_url": "https://x.com/ginjyo_nagi"
+    },
+    {
+      "platform": "x",
+      "handle": "ashe_sheepvt",
+      "display_name": "ひつじのあーしぇ＠REQUIEM OF LITTLE MONSTERS",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2068242328943554560/nv6vlVYZ_400x400.jpg",
+      "profile_url": "https://x.com/ashe_sheepvt"
     }
   ]
 }
