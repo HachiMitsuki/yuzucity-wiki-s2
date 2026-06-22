@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T18:36:55+09:00",
+  "updated_at": "2026-06-23T01:55:25+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1169,6 +1169,13 @@
       "display_name": "がじゃり子。@配信者のすがた🥔🍠🎙",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2039184402782240768/Wl4FXRNQ_400x400.jpg",
       "profile_url": "https://x.com/gaja_rico_twi"
+    },
+    {
+      "platform": "x",
+      "handle": "sheepdayop",
+      "display_name": "ぽっかぽんた",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2034332921235202048/PiME6mjV_400x400.jpg",
+      "profile_url": "https://x.com/sheepdayop"
     }
   ]
 }
