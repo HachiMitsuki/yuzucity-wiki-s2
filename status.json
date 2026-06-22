@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T01:06:00+09:00",
+  "updated_at": "2026-06-23T01:11:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -191,11 +191,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【ow】今日もOWです静粛に！【初見歓迎】",
-      "game_name": "Overwatch",
-      "started_at": "2026-06-22T14:07:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
