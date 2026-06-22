@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T18:01:00+09:00",
+  "updated_at": "2026-06-22T19:16:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -199,11 +199,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "rank",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-22T07:48:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -503,11 +499,7 @@
       "display_name": "ゆうてゃ_",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
-      "is_live": true,
-      "title": "【#DCPグラセフ2】職場体験。＃2",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-06-22T05:51:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
