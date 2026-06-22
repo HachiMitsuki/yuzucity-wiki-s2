@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T23:01:03+09:00",
+  "updated_at": "2026-06-22T23:11:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -165,11 +165,7 @@
       "display_name": "水無瀬九炉",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bfc4b856-14bc-4aa3-8104-bf88ecb3ae48-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/k6o_minase",
-      "is_live": true,
-      "title": "【Mecha BREAK】任務消化カジュアル",
-      "game_name": "Mecha BREAK",
-      "started_at": "2026-06-22T10:35:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_k6o_minase-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -199,7 +195,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【ow】今日もOWです静粛に！【初見歓迎】",
+      "game_name": "Overwatch",
+      "started_at": "2026-06-22T14:07:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
