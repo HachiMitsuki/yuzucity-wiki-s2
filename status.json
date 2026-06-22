@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T21:11:03+09:00",
+  "updated_at": "2026-06-22T21:21:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,7 +19,11 @@
       "display_name": "碧甘ぐみ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e0bd64f-84d3-4830-a711-0b44c9f675fe-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mikamo_gumi_247",
-      "is_live": false
+      "is_live": true,
+      "title": "【FRENZY TOWN】DAEMONふぁみりぃ〖初見さんコメント大歓迎〗",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-06-22T12:17:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -237,7 +241,11 @@
       "display_name": "小鳥遊えも",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a615f281-e58a-4795-a4b3-76a3724a470e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tqkanashi_emo",
-      "is_live": false
+      "is_live": true,
+      "title": "男なので米とモクだけ炊きます。",
+      "game_name": "VALORANT",
+      "started_at": "2026-06-22T12:15:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tqkanashi_emo-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
