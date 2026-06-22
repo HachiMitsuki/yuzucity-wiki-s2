@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T22:41:03+09:00",
+  "updated_at": "2026-06-22T22:51:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -299,11 +299,7 @@
       "display_name": "絶叫者イノ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": true,
-      "title": "【#バイおじCUP】スクリム | VALORANT",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-22T12:00:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
