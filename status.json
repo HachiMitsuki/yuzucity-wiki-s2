@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T22:01:06+09:00",
+  "updated_at": "2026-06-22T22:41:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -417,7 +417,11 @@
       "display_name": "黒田りと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef9f74-3e0f-4327-b7df-e192b317cea9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuro__chan96",
-      "is_live": false
+      "is_live": true,
+      "title": "[LOL]  チーム練習会",
+      "game_name": "League of Legends",
+      "started_at": "2026-06-22T13:37:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
