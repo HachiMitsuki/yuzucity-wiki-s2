@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T00:36:01+09:00",
+  "updated_at": "2026-06-23T01:06:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -412,7 +412,7 @@
       "is_live": true,
       "title": "[LOL]  チーム練習会",
       "game_name": "League of Legends",
-      "started_at": "2026-06-22T13:37:49Z",
+      "started_at": "2026-06-22T15:57:58Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
     {
@@ -537,7 +537,11 @@
       "display_name": "海月織",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": false
+      "is_live": true,
+      "title": "今最も熱いゲーム",
+      "game_name": "Burglin' Gnomes",
+      "started_at": "2026-06-22T16:02:41Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
