@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T17:16:02+09:00",
+  "updated_at": "2026-06-22T18:15:23+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1148,6 +1148,13 @@
       "display_name": "おぱんおじさん@配信",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1904409559848165376/cZEmhgm9_400x400.jpg",
       "profile_url": "https://x.com/opan_tyuu2"
+    },
+    {
+      "platform": "x",
+      "handle": "ginjyo_nagi",
+      "display_name": "銀条ナギ🎮🎶高音Voice系個人配信者＆Music Creator",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2009980068815351809/FwkF-dKv_400x400.jpg",
+      "profile_url": "https://x.com/ginjyo_nagi"
     }
   ]
 }
