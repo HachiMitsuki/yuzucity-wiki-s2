@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T08:28:08+09:00",
+  "updated_at": "2026-06-23T08:32:21+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1183,6 +1183,13 @@
       "display_name": "てふてふ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2065081658823606272/V59wY1Sw_400x400.jpg",
       "profile_url": "https://x.com/tftf__1212"
+    },
+    {
+      "platform": "x",
+      "handle": "sakeshirorei",
+      "display_name": "酒白レイ(ｻｹｼﾛﾚｲ)🍾🤍お酒に呑まれる清楚系",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2051946857035923456/vY40Vev8_400x400.jpg",
+      "profile_url": "https://x.com/sakeshirorei"
     }
   ]
 }
