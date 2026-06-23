@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T08:32:21+09:00",
+  "updated_at": "2026-06-23T11:21:21+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1190,6 +1190,13 @@
       "display_name": "酒白レイ(ｻｹｼﾛﾚｲ)🍾🤍お酒に呑まれる清楚系",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2051946857035923456/vY40Vev8_400x400.jpg",
       "profile_url": "https://x.com/sakeshirorei"
+    },
+    {
+      "platform": "x",
+      "handle": "yayoi_mitumata",
+      "display_name": "三叉弥生＠V化しました！",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2061425835073286145/QG96HfIH_400x400.jpg",
+      "profile_url": "https://x.com/yayoi_mitumata"
     }
   ]
 }
