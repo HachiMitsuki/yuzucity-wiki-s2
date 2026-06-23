@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T21:36:03+09:00",
+  "updated_at": "2026-06-23T21:46:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -278,7 +278,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a14d94-7d4a-4913-89e2-fa76064f5cf8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himoo_ttvt",
       "is_live": true,
-      "title": "【 OW 】の字とzeto【おばぶカスタム】",
+      "title": "【 OW 】の字とデュオ【おばぶカスタム】",
       "game_name": "Overwatch",
       "started_at": "2026-06-23T11:28:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
@@ -375,7 +375,11 @@
       "display_name": "火影こたつ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": false
+      "is_live": true,
+      "title": "【VTuber】4日ぶりのはんぜう【FiveM/#ラフシティ】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-06-23T12:43:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
