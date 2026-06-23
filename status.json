@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T21:01:02+09:00",
+  "updated_at": "2026-06-23T21:21:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -83,11 +83,7 @@
       "display_name": "蒼澪",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8da2be83-6ebf-4a70-b4d5-443eba1ea393-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sourei_2525",
-      "is_live": true,
-      "title": "【DBD】キラーでBINGO！",
-      "game_name": "Dead by Daylight",
-      "started_at": "2026-06-23T02:58:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sourei_2525-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -282,7 +278,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a14d94-7d4a-4913-89e2-fa76064f5cf8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himoo_ttvt",
       "is_live": true,
-      "title": "【 OW 】ソロ練【おばぶカスタム】",
+      "title": "【 OW 】の字とzeto【おばぶカスタム】",
       "game_name": "Overwatch",
       "started_at": "2026-06-23T11:28:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
