@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T11:21:21+09:00",
+  "updated_at": "2026-06-23T14:33:37+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1197,6 +1197,13 @@
       "display_name": "三叉弥生＠V化しました！",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2061425835073286145/QG96HfIH_400x400.jpg",
       "profile_url": "https://x.com/yayoi_mitumata"
+    },
+    {
+      "platform": "x",
+      "handle": "takanashi_kuu_",
+      "display_name": "小鳥遊くぅ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1867418043737157633/f65TBzSe_400x400.jpg",
+      "profile_url": "https://x.com/takanashi_kuu_"
     }
   ]
 }
