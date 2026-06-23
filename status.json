@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T20:21:02+09:00",
+  "updated_at": "2026-06-23T20:31:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -281,7 +281,11 @@
       "display_name": "ひもぉ0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a14d94-7d4a-4913-89e2-fa76064f5cf8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himoo_ttvt",
-      "is_live": false
+      "is_live": true,
+      "title": "【 OW 】チーム練前にちょっとだけ【おばぶカスタム】",
+      "game_name": "Overwatch",
+      "started_at": "2026-06-23T11:28:18Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
