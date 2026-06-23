@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T19:56:05+09:00",
+  "updated_at": "2026-06-23T20:16:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -515,7 +515,11 @@
       "display_name": "ゆうてゃ_",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
-      "is_live": false
+      "is_live": true,
+      "title": "【#顔出し】元ベータテスターの最前線攻略班！毛刈り隊！ with @chierio ＠yunokichi32",
+      "game_name": "Sand: Raiders Of Sophie",
+      "started_at": "2026-06-23T11:14:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
