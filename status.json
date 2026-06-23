@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T04:01:00+09:00",
+  "updated_at": "2026-06-24T04:10:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -333,11 +333,7 @@
       "display_name": "七瀬のん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a6ec22c-c525-4dd0-9dc3-46c808857ea7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nanasenon",
-      "is_live": true,
-      "title": "Apex→過眠で進捗やばいから編集していく",
-      "game_name": "Just Chatting",
-      "started_at": "2026-06-23T13:27:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanasenon-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
