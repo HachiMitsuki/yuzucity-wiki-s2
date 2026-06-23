@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T17:14:56+09:00",
+  "updated_at": "2026-06-23T21:12:33+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1211,6 +1211,13 @@
       "display_name": "CrazyPanda",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2049533564010844160/8VMxzrzT_400x400.jpg",
       "profile_url": "https://x.com/crazypanda0_1"
+    },
+    {
+      "platform": "x",
+      "handle": "lalala_fujinkun",
+      "display_name": "富士さなえ(ふじん)😈🍷",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2068409667546652672/W55M3A12_400x400.jpg",
+      "profile_url": "https://x.com/lalala_fujinkun"
     }
   ]
 }
