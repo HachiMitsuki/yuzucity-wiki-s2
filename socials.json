@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T21:12:33+09:00",
+  "updated_at": "2026-06-23T21:41:28+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1218,6 +1218,13 @@
       "display_name": "富士さなえ(ふじん)😈🍷",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2068409667546652672/W55M3A12_400x400.jpg",
       "profile_url": "https://x.com/lalala_fujinkun"
+    },
+    {
+      "platform": "x",
+      "handle": "lunasorami",
+      "display_name": "宙見ルナ 【だっぴちゅう】",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2063939206809104384/-omrHHYT_400x400.jpg",
+      "profile_url": "https://x.com/lunasorami"
     }
   ]
 }
