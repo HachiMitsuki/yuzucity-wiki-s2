@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T20:41:02+09:00",
+  "updated_at": "2026-06-23T21:01:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -171,11 +171,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【VALORANT】あああリハビリソロコンペあああ",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-23T09:54:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -286,7 +282,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a14d94-7d4a-4913-89e2-fa76064f5cf8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himoo_ttvt",
       "is_live": true,
-      "title": "【 OW 】チーム練前にちょっとだけ【おばぶカスタム】",
+      "title": "【 OW 】ソロ練【おばぶカスタム】",
       "game_name": "Overwatch",
       "started_at": "2026-06-23T11:28:18Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
@@ -299,7 +295,11 @@
       "display_name": "絶叫者イノ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#バイおじCUP】スクリム | VALORANT",
+      "game_name": "VALORANT",
+      "started_at": "2026-06-23T11:59:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
