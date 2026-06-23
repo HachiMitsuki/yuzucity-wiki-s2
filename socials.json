@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T05:05:55+09:00",
+  "updated_at": "2026-06-24T08:18:15+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1232,6 +1232,13 @@
       "display_name": "ろんろん@あるめると🌟🫠所属",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1640162399893471233/fEfEwU0g_400x400.jpg",
       "profile_url": "https://x.com/ronronxvtuber"
+    },
+    {
+      "platform": "x",
+      "handle": "komori_riko_zp",
+      "display_name": "狐杜りこ🦊🩹🫖",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039359493130289152/Oa1HQ1p0_400x400.jpg",
+      "profile_url": "https://x.com/komori_riko_zp"
     }
   ]
 }
