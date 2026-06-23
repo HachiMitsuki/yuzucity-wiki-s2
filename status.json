@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T22:31:02+09:00",
+  "updated_at": "2026-06-23T22:56:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -88,7 +88,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8da2be83-6ebf-4a70-b4d5-443eba1ea393-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sourei_2525",
       "is_live": true,
-      "title": "【DBD】キラーでBINGO！",
+      "title": "【DBD】キラーでBINGO！続き",
       "game_name": "Dead by Daylight",
       "started_at": "2026-06-23T13:27:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sourei_2525-{width}x{height}.jpg"
@@ -295,11 +295,7 @@
       "display_name": "絶叫者イノ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": true,
-      "title": "【#バイおじCUP】スクリム | VALORANT",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-23T11:59:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
