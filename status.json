@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T11:10:57+09:00",
+  "updated_at": "2026-06-23T12:00:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -79,7 +79,11 @@
       "display_name": "蒼澪",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8da2be83-6ebf-4a70-b4d5-443eba1ea393-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sourei_2525",
-      "is_live": false
+      "is_live": true,
+      "title": "【DBD】キラーでBINGO！",
+      "game_name": "Dead by Daylight",
+      "started_at": "2026-06-23T02:58:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sourei_2525-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
