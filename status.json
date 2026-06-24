@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T01:06:00+09:00",
+  "updated_at": "2026-06-25T01:25:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -183,11 +183,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【Wizardry Variants Daphnewi】難しいRPGらいい…①【初見歓迎】",
-      "game_name": "Wizardry Variants: Daphne",
-      "started_at": "2026-06-24T14:09:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
