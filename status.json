@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T21:36:00+09:00",
+  "updated_at": "2026-06-24T21:45:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -413,7 +413,11 @@
       "display_name": "ねこまんま81",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77e6cdc5-e419-4b43-864c-ef66abfdc32b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/necomanma81",
-      "is_live": false
+      "is_live": true,
+      "title": "【FF14】 ゆるく、眠気には負けます。",
+      "game_name": "FINAL FANTASY XIV ONLINE",
+      "started_at": "2026-06-24T12:43:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_necomanma81-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
