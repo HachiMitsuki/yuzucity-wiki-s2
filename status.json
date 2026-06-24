@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T02:50:58+09:00",
+  "updated_at": "2026-06-25T02:55:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -513,7 +513,11 @@
       "display_name": "海月織",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": false
+      "is_live": true,
+      "title": "新act‼‼",
+      "game_name": "VALORANT",
+      "started_at": "2026-06-24T17:53:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
