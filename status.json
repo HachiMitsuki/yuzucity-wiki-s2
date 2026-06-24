@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T23:06:00+09:00",
+  "updated_at": "2026-06-24T23:11:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -195,7 +195,11 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": false
+      "is_live": true,
+      "title": "【Wizardry Variants Daphnewi】難しいRPGらいい…①【初見歓迎】",
+      "game_name": "Wizardry Variants: Daphne",
+      "started_at": "2026-06-24T14:09:59Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -327,11 +331,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "ヴァロラントコラボする！！ コンペ俺だけあと４回",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-24T12:16:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
