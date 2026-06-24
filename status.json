@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T00:36:00+09:00",
+  "updated_at": "2026-06-25T00:56:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -277,11 +277,7 @@
       "display_name": "ひもぉ0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a14d94-7d4a-4913-89e2-fa76064f5cf8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/himoo_ttvt",
-      "is_live": true,
-      "title": "【NTE】追加コンテンツで遊ぶ【ネタバレ注意】",
-      "game_name": "NTE: Neverness to Everness",
-      "started_at": "2026-06-24T12:34:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_himoo_ttvt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -533,7 +529,11 @@
       "display_name": "海月織",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
-      "is_live": false
+      "is_live": true,
+      "title": "新act‼‼",
+      "game_name": "VALORANT",
+      "started_at": "2026-06-24T15:55:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
