@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T09:00:58+09:00",
+  "updated_at": "2026-06-24T12:30:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -479,11 +479,7 @@
       "display_name": "楽希",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raki_vt",
-      "is_live": true,
-      "title": "【🔰OW】朝活というなのおばっち💭 w/ @yae_amenoha",
-      "game_name": "Overwatch",
-      "started_at": "2026-06-23T23:55:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
