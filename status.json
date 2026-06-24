@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T18:05:58+09:00",
+  "updated_at": "2026-06-24T18:55:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -243,7 +243,11 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#エンドフィールド】危機契約前の突貫準備【#vtuber /雷音雅】",
+      "game_name": "ARKNIGHTS: ENDFIELD",
+      "started_at": "2026-06-24T09:55:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -504,7 +508,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
       "is_live": true,
-      "title": "【#顔出し】元テスターの最前線攻略班！毛刈り隊！ with船大工 @chierio",
+      "title": "【#顔出し】最前線攻略班！毛刈り隊！ with船大工 @chierio",
       "game_name": "Sand: Raiders Of Sophie",
       "started_at": "2026-06-24T08:06:44Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
