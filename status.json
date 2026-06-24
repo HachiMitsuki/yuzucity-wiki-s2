@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T22:30:59+09:00",
+  "updated_at": "2026-06-24T22:51:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -653,7 +653,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8c6afb2-601c-4a34-9684-8d22fafc7e2e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "龍咲さんとduo",
+      "game_name": "VALORANT",
+      "started_at": "2026-06-24T13:47:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
