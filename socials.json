@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T10:03:35+09:00",
+  "updated_at": "2026-06-24T12:09:51+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1246,6 +1246,13 @@
       "display_name": "who",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2063883030633328640/TgMevBy5_400x400.jpg",
       "profile_url": "https://x.com/who4reu400"
+    },
+    {
+      "platform": "x",
+      "handle": "gekiamachannnn",
+      "display_name": "激甘ちゃん💘",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2044098512330338306/9f1pxCi0_400x400.jpg",
+      "profile_url": "https://x.com/gekiamachannnn"
     }
   ]
 }
