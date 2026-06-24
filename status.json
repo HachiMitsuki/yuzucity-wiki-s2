@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T00:21:00+09:00",
+  "updated_at": "2026-06-25T00:36:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -39,11 +39,7 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": true,
-      "title": "認定戦やるか～【龍咲】【#VALORANT 】",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-24T12:00:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -251,11 +247,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#エンドフィールド】危機契約前の突貫準備【#vtuber /雷音雅】",
-      "game_name": "ARKNIGHTS: ENDFIELD",
-      "started_at": "2026-06-24T09:55:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -413,11 +405,7 @@
       "display_name": "黒田りと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef9f74-3e0f-4327-b7df-e192b317cea9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuro__chan96",
-      "is_live": true,
-      "title": "[LOL]  今日も今日とてチーム練習",
-      "game_name": "League of Legends",
-      "started_at": "2026-06-24T13:18:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -535,11 +523,7 @@
       "display_name": "ゆうてゃ_",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
-      "is_live": true,
-      "title": "【#DCPグラセフ2】延命して癒しを生みます。＃3",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-06-24T12:34:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -629,11 +613,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8c6afb2-601c-4a34-9684-8d22fafc7e2e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "龍咲さんとduo",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-24T13:47:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
