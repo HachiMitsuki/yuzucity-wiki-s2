@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T21:01:00+09:00",
+  "updated_at": "2026-06-24T21:06:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -127,7 +127,11 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": false
+      "is_live": true,
+      "title": "🔴LIVE【 #VALORANT】珍しく夜のフルパ ランクどこかな",
+      "game_name": "VALORANT",
+      "started_at": "2026-06-24T12:03:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -549,7 +553,11 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": false
+      "is_live": true,
+      "title": "なまってんちゃうかって",
+      "game_name": "League of Legends",
+      "started_at": "2026-06-24T12:01:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
