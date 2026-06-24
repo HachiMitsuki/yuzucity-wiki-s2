@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T08:18:15+09:00",
+  "updated_at": "2026-06-24T10:03:35+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1239,6 +1239,13 @@
       "display_name": "狐杜りこ🦊🩹🫖",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2039359493130289152/Oa1HQ1p0_400x400.jpg",
       "profile_url": "https://x.com/komori_riko_zp"
+    },
+    {
+      "platform": "x",
+      "handle": "who4reu400",
+      "display_name": "who",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2063883030633328640/TgMevBy5_400x400.jpg",
+      "profile_url": "https://x.com/who4reu400"
     }
   ]
 }
