@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T12:09:51+09:00",
+  "updated_at": "2026-06-24T13:05:23+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1253,6 +1253,13 @@
       "display_name": "激甘ちゃん💘",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2044098512330338306/9f1pxCi0_400x400.jpg",
       "profile_url": "https://x.com/gekiamachannnn"
+    },
+    {
+      "platform": "x",
+      "handle": "toaru_eriko",
+      "display_name": "とある えりーこ/ゆめと",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2044453668687376384/tSxkt_vq_400x400.jpg",
+      "profile_url": "https://x.com/toaru_eriko"
     }
   ]
 }
