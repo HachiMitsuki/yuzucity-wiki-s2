@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T22:11:04+09:00",
+  "updated_at": "2026-06-25T22:31:07+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -547,7 +547,11 @@
       "display_name": "青空いく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ff6d07a-0795-4ed0-90f4-3645d7424092-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aozoraiku",
-      "is_live": false
+      "is_live": true,
+      "title": "【OW】久々にソロ",
+      "game_name": "Overwatch",
+      "started_at": "2026-06-25T13:29:03Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aozoraiku-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
