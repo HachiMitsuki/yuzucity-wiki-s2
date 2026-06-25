@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T02:40:59+09:00",
+  "updated_at": "2026-06-26T04:01:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -467,11 +467,7 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": true,
-      "title": "新シーズン VALORANT #VALORANTコンペ #VTuber",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-25T16:20:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
