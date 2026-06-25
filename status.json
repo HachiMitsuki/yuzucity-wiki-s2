@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T22:31:07+09:00",
+  "updated_at": "2026-06-25T22:56:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -385,11 +385,7 @@
       "display_name": "ねこまんま81",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77e6cdc5-e419-4b43-864c-ef66abfdc32b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/necomanma81",
-      "is_live": true,
-      "title": "【PEAK】 上官組が山登るってよｗ",
-      "game_name": "PEAK",
-      "started_at": "2026-06-25T12:00:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_necomanma81-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -561,11 +557,7 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": true,
-      "title": "なまってんちゃうかって",
-      "game_name": "League of Legends",
-      "started_at": "2026-06-25T12:35:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
