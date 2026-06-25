@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T15:06:00+09:00",
+  "updated_at": "2026-06-25T15:55:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -487,7 +487,11 @@
       "display_name": "楽希",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raki_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALO】どんなもんよバロは",
+      "game_name": "VALORANT",
+      "started_at": "2026-06-25T06:53:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
