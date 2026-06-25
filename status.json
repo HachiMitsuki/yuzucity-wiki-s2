@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T06:40:57+09:00",
+  "updated_at": "2026-06-26T07:10:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -487,11 +487,7 @@
       "display_name": "楽希",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raki_vt",
-      "is_live": true,
-      "title": "【🔰OW】スーパー歌手からのお誘いOW w/ @yoo_san0114 @yae_amenoha",
-      "game_name": "Overwatch",
-      "started_at": "2026-06-25T17:35:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
