@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T17:41:00+09:00",
+  "updated_at": "2026-06-25T19:06:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -200,7 +200,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
       "is_live": true,
-      "title": "ソロ",
+      "title": "ディオ アンれ",
       "game_name": "VALORANT",
       "started_at": "2026-06-25T05:10:07Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
@@ -483,11 +483,7 @@
       "display_name": "楽希",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raki_vt",
-      "is_live": true,
-      "title": "【VALO】どんなもんよバロは",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-25T06:53:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -508,9 +504,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
       "is_live": true,
-      "title": "【#顔出し】撮影までVALO",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-25T08:40:08Z",
+      "title": "【#顔出し】モテの秘訣 @realakubiroom",
+      "game_name": "Apex Legends",
+      "started_at": "2026-06-25T09:44:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
     {
