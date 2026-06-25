@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T14:10:59+09:00",
+  "updated_at": "2026-06-25T15:06:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -109,7 +109,11 @@
       "display_name": "frcl_orito",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68ada1b8-e896-4e74-ae7d-d862bb5e6116-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "鮎焼き焚き火雑談",
+      "game_name": "Just Chatting",
+      "started_at": "2026-06-25T06:04:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
