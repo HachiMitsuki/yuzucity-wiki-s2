@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T00:26:02+09:00",
+  "updated_at": "2026-06-26T00:41:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -57,11 +57,7 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": true,
-      "title": "[VALORANT] フルパコンペ 認定戦終わらせます #valorant #新人Vtuber",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-25T13:03:15Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
