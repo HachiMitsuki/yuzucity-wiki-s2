@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T01:21:11+09:00",
+  "updated_at": "2026-06-26T02:15:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -397,11 +397,7 @@
       "display_name": "黒田りと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef9f74-3e0f-4327-b7df-e192b317cea9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuro__chan96",
-      "is_live": true,
-      "title": "[LOL]  今日も今日とてチーム練習",
-      "game_name": "League of Legends",
-      "started_at": "2026-06-25T13:09:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -530,8 +526,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6bfa1f2-aedf-410b-853c-56d9397b1c72-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mitsuki_shiki",
       "is_live": true,
-      "title": "どろぼう",
-      "game_name": "Burglin' Gnomes",
+      "title": "ゔぁ",
+      "game_name": "VALORANT",
       "started_at": "2026-06-25T15:25:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mitsuki_shiki-{width}x{height}.jpg"
     },
