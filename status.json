@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T22:01:04+09:00",
+  "updated_at": "2026-06-25T22:06:08+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -53,7 +53,11 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": false
+      "is_live": true,
+      "title": "[VALORANT] フルパコンペ 認定戦終わらせます #valorant #新人Vtuber",
+      "game_name": "VALORANT",
+      "started_at": "2026-06-25T13:03:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -415,7 +419,11 @@
       "display_name": "黒苺みるく",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdf3aa29-5b5a-4c8a-a53b-313c78d354da-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/milk_black_",
-      "is_live": false
+      "is_live": true,
+      "title": "参加△│久しぶりなメンツ｜Overwatch",
+      "game_name": "Overwatch",
+      "started_at": "2026-06-25T13:01:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
