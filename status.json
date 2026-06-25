@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T02:20:59+09:00",
+  "updated_at": "2026-06-26T02:40:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -404,7 +404,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdf3aa29-5b5a-4c8a-a53b-313c78d354da-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/milk_black_",
       "is_live": true,
-      "title": "参加△│久しぶりなメンツ｜Overwatch",
+      "title": "ランク│ぼっちでもがんばるって｜Overwatch",
       "game_name": "Overwatch",
       "started_at": "2026-06-25T13:01:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
@@ -491,7 +491,11 @@
       "display_name": "楽希",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raki_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【🔰OW】スーパー歌手からのお誘いOW w/ @yoo_san0114 @yae_amenoha",
+      "game_name": "Overwatch",
+      "started_at": "2026-06-25T17:35:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
