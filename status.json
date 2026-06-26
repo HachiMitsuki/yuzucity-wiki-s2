@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T15:41:01+09:00",
+  "updated_at": "2026-06-26T16:56:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -139,7 +139,11 @@
       "display_name": "夢見弖ねこむ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38876e09-d270-4394-be4c-a339ea8535e9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekommn",
-      "is_live": false
+      "is_live": true,
+      "title": "今週もお疲れ様PoE2",
+      "game_name": "Path of Exile 2",
+      "started_at": "2026-06-26T07:53:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
