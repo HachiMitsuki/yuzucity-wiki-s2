@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T13:11:00+09:00",
+  "updated_at": "2026-06-26T14:56:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -479,7 +479,11 @@
       "display_name": "楽希",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f02278-b622-4119-88e8-fb50feef8142-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raki_vt",
-      "is_live": false
+      "is_live": true,
+      "title": "【G3】りはびりバロらんと",
+      "game_name": "",
+      "started_at": "2026-06-26T05:52:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raki_vt-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
