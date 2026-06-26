@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T16:56:02+09:00",
+  "updated_at": "2026-06-26T17:51:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -140,8 +140,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38876e09-d270-4394-be4c-a339ea8535e9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekommn",
       "is_live": true,
-      "title": "今週もお疲れ様PoE2",
-      "game_name": "Path of Exile 2",
+      "title": "今週もお疲れ様PoE2→タフコフ(PvE)",
+      "game_name": "Escape from Tarkov",
       "started_at": "2026-06-26T07:53:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
     },
@@ -263,7 +263,11 @@
       "display_name": "東月方璃",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c09f3497-68e9-4f54-bf5f-5f728740f7b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/touhou_1560",
-      "is_live": false
+      "is_live": true,
+      "title": "【R6S】思い出し 21時半からとある街",
+      "game_name": "Rainbow Six Siege",
+      "started_at": "2026-06-26T08:48:23Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
