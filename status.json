@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T21:11:01+09:00",
+  "updated_at": "2026-06-26T21:56:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -143,11 +143,7 @@
       "display_name": "夢見弖ねこむ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/38876e09-d270-4394-be4c-a339ea8535e9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekommn",
-      "is_live": true,
-      "title": "今週もお疲れ様PoE2→タフコフ(PvE)",
-      "game_name": "Escape from Tarkov",
-      "started_at": "2026-06-26T07:53:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekommn-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -167,11 +163,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【VALORANT】あああリハビリソロコンペあああ #2",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-26T09:43:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -581,11 +573,7 @@
       "display_name": "しろみそです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37f84425-0e80-4c41-a715-568fa011b4a2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shiro46_24",
-      "is_live": true,
-      "title": "LOL5V5やりますか w/ @sarculy222 @wagasi_annko @moyashi56 @kapitaso123",
-      "game_name": "League of Legends",
-      "started_at": "2026-06-26T12:09:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
