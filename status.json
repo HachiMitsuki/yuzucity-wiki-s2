@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T02:00:59+09:00",
+  "updated_at": "2026-06-27T03:20:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -575,11 +575,7 @@
       "display_name": "c0gnac",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f0943dcd-d0df-48a6-b0f8-455233ec8d34-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/c0gnac",
-      "is_live": true,
-      "title": "狂気山脈していきます",
-      "game_name": "Tabletop RPGs",
-      "started_at": "2026-06-26T13:17:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_c0gnac-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
