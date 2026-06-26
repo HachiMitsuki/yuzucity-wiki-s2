@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T20:31:00+09:00",
+  "updated_at": "2026-06-26T21:01:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -291,7 +291,11 @@
       "display_name": "絶叫者イノ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#バイおじCUP】今日は予選本番 | VALORANT",
+      "game_name": "VALORANT",
+      "started_at": "2026-06-26T12:00:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
