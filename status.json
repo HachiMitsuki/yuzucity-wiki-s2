@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T21:06:02+09:00",
+  "updated_at": "2026-06-26T21:11:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -581,7 +581,11 @@
       "display_name": "しろみそです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37f84425-0e80-4c41-a715-568fa011b4a2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shiro46_24",
-      "is_live": false
+      "is_live": true,
+      "title": "LOL5V5やりますか w/ @sarculy222 @wagasi_annko @moyashi56 @kapitaso123",
+      "game_name": "League of Legends",
+      "started_at": "2026-06-26T12:09:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
