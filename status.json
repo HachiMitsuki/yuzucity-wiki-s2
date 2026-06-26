@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T04:40:58+09:00",
+  "updated_at": "2026-06-27T05:50:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -119,7 +119,11 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": false
+      "is_live": true,
+      "title": "🔴LIVE【 #VALORANT】一旦今日はP3まで帰還しますか",
+      "game_name": "VALORANT",
+      "started_at": "2026-06-26T20:48:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -400,8 +404,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cdf3aa29-5b5a-4c8a-a53b-313c78d354da-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/milk_black_",
       "is_live": true,
-      "title": "参加△│トロール4連続は嫌｜Overwatch",
-      "game_name": "Minecraft",
+      "title": "参加△│飲酒｜Overwatch",
+      "game_name": "Overwatch",
       "started_at": "2026-06-26T14:13:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
