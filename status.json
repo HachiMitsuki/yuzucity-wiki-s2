@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T01:40:59+09:00",
+  "updated_at": "2026-06-27T02:00:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -183,11 +183,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【valo】ヴァロやろか今アクト初w希望千【初見歓迎】",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-26T14:15:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -311,11 +307,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCP２ なにかしたい熊猫ー序章ー ４話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-06-26T11:28:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -523,11 +515,7 @@
       "display_name": "ゆうてゃ_",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
-      "is_live": true,
-      "title": "【#DCPグラセフ2】遂に旅行者から、、、＃4",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-06-26T10:53:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
