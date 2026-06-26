@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T21:01:02+09:00",
+  "updated_at": "2026-06-26T21:06:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -513,7 +513,11 @@
       "display_name": "子羊めぇめ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf33ed9a-caf0-42ac-9f8b-7cad32a7fecc-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/not_ahuro",
-      "is_live": false
+      "is_live": true,
+      "title": "【#雑談】ゆる雑談￤最近いかがお過ごしですか📣🌸【#Vtuber】",
+      "game_name": "Just Chatting",
+      "started_at": "2026-06-26T12:01:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_not_ahuro-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
