@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T22:42:01+09:00",
+  "updated_at": "2026-06-27T06:07:38+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1281,6 +1281,13 @@
       "display_name": "浜凛おーひ@はまりんさん。",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1957463085289291776/Meo8CdtD_400x400.jpg",
       "profile_url": "https://x.com/ohiroom1412"
+    },
+    {
+      "platform": "x",
+      "handle": "watanuki_krh",
+      "display_name": "綿貫紅葉🌸🍁",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2057276127320952832/VhEKpPY5_400x400.jpg",
+      "profile_url": "https://x.com/watanuki_krh"
     }
   ]
 }
