@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T04:25:58+09:00",
+  "updated_at": "2026-06-27T04:40:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -401,7 +401,7 @@
       "channel_url": "https://www.twitch.tv/milk_black_",
       "is_live": true,
       "title": "参加△│トロール4連続は嫌｜Overwatch",
-      "game_name": "Overwatch",
+      "game_name": "Minecraft",
       "started_at": "2026-06-26T14:13:45Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milk_black_-{width}x{height}.jpg"
     },
@@ -463,11 +463,7 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": true,
-      "title": "新シーズン ブロンズ１からスタート VALORANT #VALORANTコンペ #VTuber",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-26T09:32:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
