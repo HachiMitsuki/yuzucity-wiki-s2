@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T04:01:02+09:00",
+  "updated_at": "2026-06-27T04:25:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,11 +19,7 @@
       "display_name": "碧甘ぐみ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e0bd64f-84d3-4830-a711-0b44c9f675fe-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/mikamo_gumi_247",
-      "is_live": true,
-      "title": "【FRENZY TOWN】フィナーレ〖初見さんコメント大歓迎〗",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-06-26T10:59:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mikamo_gumi_247-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
