@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T01:28:00+09:00",
+  "updated_at": "2026-06-28T01:47:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -457,11 +457,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5980bf5-28a6-4886-b78e-86bca2f6fc76-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "【 #Ash District 】 #1 もう、この世界に救いはない。生き残った者だけが、明日を見られる。",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-06-27T10:58:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
