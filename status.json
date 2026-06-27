@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T00:23:26+09:00",
+  "updated_at": "2026-06-27T17:59:44+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,12 +9,7 @@
       "display_name": "藍音です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f86960a-38c3-4412-85aa-6405f054f8d3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/aito_mus01",
-      "is_live": true,
-      "title": "【TKGフルパValo】久しぶりのヴぇれれんてぃ！！！",
-      "game_name": "VALORANT",
-      "viewer_count": 3,
-      "started_at": "2026-06-17T12:26:45Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aito_mus01-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -184,12 +179,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【OW】新シーズンだーシオン来た！！！【初見歓迎】",
-      "game_name": "Overwatch",
-      "viewer_count": 2,
-      "started_at": "2026-06-17T14:41:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -369,12 +359,7 @@
       "display_name": "火影こたつ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/28c8f515-5464-4de4-9256-018e124f0a3f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hokagekotatsuvt",
-      "is_live": true,
-      "title": "【VTuber】KOSO【FiveM/#ラフシティ】",
-      "game_name": "Grand Theft Auto V",
-      "viewer_count": 15,
-      "started_at": "2026-06-17T12:30:19Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hokagekotatsuvt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -474,12 +459,7 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": true,
-      "title": "コンペなんだなVALORANT #VALORANTコンペ #VTuber",
-      "game_name": "VALORANT",
-      "viewer_count": 2,
-      "started_at": "2026-06-17T11:25:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -520,10 +500,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
       "is_live": true,
-      "title": "【#APEX】SOSフルパ @yunokichi32 @chierio",
-      "game_name": "Apex Legends",
-      "viewer_count": 1,
-      "started_at": "2026-06-17T14:21:37Z",
+      "title": "【#DCPグラセフ2】無事、延命寺は内定をもらえるのか？！＃5",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-06-27T07:09:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
     {
