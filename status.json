@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T18:08:03+09:00",
+  "updated_at": "2026-06-27T19:58:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -389,7 +389,11 @@
       "display_name": "黒田りと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef9f74-3e0f-4327-b7df-e192b317cea9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuro__chan96",
-      "is_live": false
+      "is_live": true,
+      "title": "[LOL]  森林浴杯カスタム本番！ｗ/紡音、陽葵ゆず、豹華琥珀、柊朱夢  応援来てね！ topキャリー行きます",
+      "game_name": "League of Legends",
+      "started_at": "2026-06-27T10:54:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
