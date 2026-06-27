@@ -5,6 +5,8 @@ const DISCORD_INVITE = "";
 // Sidebar definition - shared across all pages
 const NAV = [
   {title:"概要", links:[
+    {slug:"news", label:"お知らせ", icon:"📢"},
+    {slug:"updates", label:"機能変更", icon:"🔄"},
     {slug:"index", label:"街の概要", icon:"🏙️"},
     {slug:"guide", label:"初心者ガイド", icon:"📖"},
     {slug:"commands", label:"コマンド一覧", icon:"⌨️"},
@@ -37,8 +39,6 @@ const NAV = [
     {slug:"burgershot", label:"BurgerShot", icon:"🍔"},
   ]},
   {title:"最新情報", links:[
-    {slug:"news", label:"お知らせ", icon:"📢"},
-    {slug:"updates", label:"機能変更", icon:"🔄"},
     {slug:"streams", label:"配信中", icon:"📺"},
     {slug:"socials", label:"住民SNS", icon:"𝕏"},
     {slug:"clips", label:"クリップ", icon:"🎬"},
