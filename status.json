@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T21:53:01+09:00",
+  "updated_at": "2026-06-27T22:13:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -113,11 +113,7 @@
       "display_name": "frcl_orito",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68ada1b8-e896-4e74-ae7d-d862bb5e6116-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "か、顔出し！？いいえ、違いまうす。",
-      "game_name": "Just Chatting",
-      "started_at": "2026-06-27T11:00:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -168,7 +164,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
       "is_live": true,
-      "title": "今日はおとなしくLoLします",
+      "title": "LoLカスタムしてます",
       "game_name": "League of Legends",
       "started_at": "2026-06-27T11:26:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
@@ -323,7 +319,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "DCP２ なにかしたい熊猫ー序章ー 5話目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-06-27T13:07:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
