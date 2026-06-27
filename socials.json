@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T00:47:18+09:00",
+  "updated_at": "2026-06-28T01:25:23+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1323,6 +1323,13 @@
       "display_name": "はれさん",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2023745057753624576/kh231fjY_400x400.jpg",
       "profile_url": "https://x.com/haresan07"
+    },
+    {
+      "platform": "x",
+      "handle": "naroten_asari71",
+      "display_name": "なつ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2019244212362117120/xnJXhgAU_400x400.jpg",
+      "profile_url": "https://x.com/naroten_asari71"
     }
   ]
 }
