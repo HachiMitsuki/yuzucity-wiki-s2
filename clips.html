@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>クリチE�E | Yuzu City Wiki</title>
+<title>クリップ | Yuzu City Wiki</title>
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="stylesheet" href="styles.css?v=s2-fix3">
 <style>
@@ -20,7 +20,7 @@
   /* NOTE: backdrop-filter:blur(...) was removed here intentionally.
      It forced the GPU to re-blur the page (which contains many <video>
      thumbnails playing/buffering in the background) on every frame,
-     starving the foreground video and dropping it to ~10 E5fps. */
+     starving the foreground video and dropping it to ~10–15fps. */
 }
 .lightbox-content{
   position:relative; z-index:1;
@@ -80,23 +80,23 @@ body.lightbox-open{ overflow:hidden; }
   <aside class="sidebar" id="sidebar"></aside>
   <main>
     <div class="s2-strip latest"></div>
-    <nav class="breadcrumb"><a href="index.html">🏙�E�Eホ�Eム</a><span class="breadcrumb-sep">›</span><span>クリチE�E</span></nav>
+    <nav class="breadcrumb"><a href="index.html">🏙️ ホーム</a><span class="breadcrumb-sep">›</span><span>クリップ</span></nav>
     <section>
       <div class="section-header">
-        <h1 class="section-title"><span class="section-title-icon">🎬</span>面白クリチE�E</h1>
-        <p class="section-subtitle">街�E住民が配信から刁E��抜いた面白かった瞬閁E/p>
+        <h1 class="section-title"><span class="section-title-icon">🎬</span>面白クリップ</h1>
+        <p class="section-subtitle">街の住民が配信から切り抜いた面白かった瞬間</p>
       </div>
 
       <div class="twitch-meta" id="clipsMeta">
-        <span>更新: <span id="updatedAt"> E/span></span>
+        <span>更新: <span id="updatedAt">—</span></span>
         <span class="meta-dot"></span>
-        <span id="countLabel"> EクリチE�E</span>
+        <span id="countLabel">— クリップ</span>
       </div>
 
       <div class="clips-filters" id="clips-filters"></div>
 
       <div class="clips-grid" id="clips-grid">
-        <div class="vehicle-empty"><h3>読み込み中…</h3><p>クリチE�Eを取得してぁE��ぁE/p></div>
+        <div class="vehicle-empty"><h3>読み込み中…</h3><p>クリップを取得しています</p></div>
       </div>
     </section>
     <div id="pageNav"></div>
@@ -105,13 +105,13 @@ body.lightbox-open{ overflow:hidden; }
 <div class="clip-lightbox" id="clipLightbox" hidden>
   <div class="lightbox-backdrop" data-close></div>
   <div class="lightbox-content">
-    <button class="lightbox-close" data-close aria-label="閉じめE>ÁE/button>
+    <button class="lightbox-close" data-close aria-label="閉じる">×</button>
     <div class="lightbox-media" id="lightboxMedia"></div>
     <div class="lightbox-info" id="lightboxInfo"></div>
   </div>
 </div>
 <footer>
-  🍋 <strong>Yuzu City Wiki</strong> · 非�E式ガイチE&nbsp;|&nbsp;
+  🍋 <strong>Yuzu City Wiki</strong> · 非公式ガイド &nbsp;|&nbsp;
   <a href="https://x.com/yuzu_server" target="_blank">𝕏 @yuzu_server</a>
 </footer>
 <script src="common.js?v=s2-fix2"></script>
@@ -125,7 +125,7 @@ body.lightbox-open{ overflow:hidden; }
   const SOURCE_INFO = {
     all:        { label: "すべて",     icon: "🎬", color: "#f4c430" },
     twitch:     { label: "Twitch",     icon: "🟣", color: "#9146FF" },
-    youtube:    { label: "YouTube",    icon: "▶�E�E,  color: "#FF0000" },
+    youtube:    { label: "YouTube",    icon: "▶️",  color: "#FF0000" },
     streamable: { label: "Streamable", icon: "🔵", color: "#0F90FA" },
     discord:    { label: "Discord動画", icon: "💜", color: "#5865F2" },
   };
@@ -139,7 +139,7 @@ body.lightbox-open{ overflow:hidden; }
   }
 
   function formatJst(iso){
-    if(!iso) return ' E;
+    if(!iso) return '—';
     try{
       const d = new Date(iso);
       const fmt = new Intl.DateTimeFormat('ja-JP',{
@@ -186,14 +186,14 @@ body.lightbox-open{ overflow:hidden; }
   function render(){
     let list = currentSource === 'all' ? allClips : allClips.filter(c => c.source === currentSource);
     if(list.length === 0){
-      grid.innerHTML = `<div class="vehicle-empty"><div class="big-icon">🎬</div><p>該当するクリチE�Eがありません</p></div>`;
+      grid.innerHTML = `<div class="vehicle-empty"><div class="big-icon">🎬</div><p>該当するクリップがありません</p></div>`;
       return;
     }
 
     grid.innerHTML = list.map(c => {
       const info = SOURCE_INFO[c.source] || { label: c.source, icon: "🎬", color: "#888" };
-      const title = c.title || (c.source === 'discord' ? 'Discord動画' : `${info.label} クリチE�E`);
-      const author = c.author_name || '匿吁E;
+      const title = c.title || (c.source === 'discord' ? 'Discord動画' : `${info.label} クリップ`);
+      const author = c.author_name || '匿名';
       const dur = formatDuration(c.duration_seconds);
 
       // Thumbnail: image for twitch/youtube/streamable, <video> for discord
@@ -208,7 +208,7 @@ body.lightbox-open{ overflow:hidden; }
         media = `<div class="clip-thumb-fallback" style="display:flex">${info.icon}</div>`;
       }
 
-      return `<div class="clip-card" data-clip-id="${c.id}" role="button" tabindex="0" aria-label="${escapeHtml(title)} を�E甁E>
+      return `<div class="clip-card" data-clip-id="${c.id}" role="button" tabindex="0" aria-label="${escapeHtml(title)} を再生">
         <div class="clip-thumb">
           ${media}
           <div class="clip-play">▶</div>
@@ -268,8 +268,8 @@ body.lightbox-open{ overflow:hidden; }
         allowfullscreen allow="autoplay; fullscreen"></iframe>`;
     }
     return `<div class="lightbox-fallback">
-      埋め込み再生に対応してぁE��せん、Ebr>
-      <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">新規タブで開く ↁE/a>
+      埋め込み再生に対応していません。<br>
+      <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">新規タブで開く →</a>
     </div>`;
   }
 
@@ -301,8 +301,8 @@ body.lightbox-open{ overflow:hidden; }
     media.innerHTML = lightboxMediaHtml(c);
 
     const info_info = SOURCE_INFO[c.source] || { label: c.source, icon: '🎬' };
-    const title = c.title || (c.source === 'discord' ? 'Discord動画' : `${info_info.label} クリチE�E`);
-    const author = c.author_name || '匿吁E;
+    const title = c.title || (c.source === 'discord' ? 'Discord動画' : `${info_info.label} クリップ`);
+    const author = c.author_name || '匿名';
     const avatar = c.author_avatar
       ? `<img src="${escapeHtml(c.author_avatar)}" class="lb-author-avatar" alt="">`
       : '';
@@ -310,7 +310,7 @@ body.lightbox-open{ overflow:hidden; }
       <strong>${escapeHtml(title)}</strong>
       <span class="lb-author">${avatar}${escapeHtml(author)}</span>
       <span>${escapeHtml(formatJst(c.posted_at))}</span>
-      <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">允E�Eージを開ぁEↁE/a>
+      <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">元ページを開く ↗</a>
     `;
 
     lb.hidden = false;
@@ -341,11 +341,11 @@ body.lightbox-open{ overflow:hidden; }
       const data = await res.json();
       allClips = Array.isArray(data.clips) ? data.clips : [];
       updatedAtEl.textContent = formatJst(data.updated_at);
-      countLabelEl.textContent = `${allClips.length} クリチE�E`;
+      countLabelEl.textContent = `${allClips.length} クリップ`;
 
       if(allClips.length === 0){
         filtersEl.innerHTML = '';
-        grid.innerHTML = `<div class="vehicle-empty"><div class="big-icon">🎬</div><h3>まだクリチE�Eがありません</h3><p>Discordの持E��チャンネルにTwitchクリチE�E・YouTube動画・Streamable・動画ファイルを投稿するとここに表示されます、E/p></div>`;
+        grid.innerHTML = `<div class="vehicle-empty"><div class="big-icon">🎬</div><h3>まだクリップがありません</h3><p>Discordの指定チャンネルにTwitchクリップ・YouTube動画・Streamable・動画ファイルを投稿するとここに表示されます。</p></div>`;
         return;
       }
 
