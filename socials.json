@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T01:25:23+09:00",
+  "updated_at": "2026-06-28T04:43:20+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1330,6 +1330,13 @@
       "display_name": "なつ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2019244212362117120/xnJXhgAU_400x400.jpg",
       "profile_url": "https://x.com/naroten_asari71"
+    },
+    {
+      "platform": "x",
+      "handle": "toyo_tancory",
+      "display_name": "トヨたんこりー【天狐りー】",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2012861759988678657/EldLxY0W_400x400.jpg",
+      "profile_url": "https://x.com/toyo_tancory"
     }
   ]
 }
