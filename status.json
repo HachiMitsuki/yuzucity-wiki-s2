@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T14:21:00+09:00",
+  "updated_at": "2026-06-27T14:41:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -259,7 +259,11 @@
       "display_name": "東月方璃",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c09f3497-68e9-4f54-bf5f-5f728740f7b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/touhou_1560",
-      "is_live": false
+      "is_live": true,
+      "title": "【R6S】昼活になってまった【参加〇】",
+      "game_name": "Rainbow Six Siege",
+      "started_at": "2026-06-27T05:38:48Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
