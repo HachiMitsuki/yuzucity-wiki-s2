@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T19:32:37+09:00",
+  "updated_at": "2026-06-27T21:35:40+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1302,6 +1302,13 @@
       "display_name": "蒼井ゆきな",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1747095688062918657/v3ZQxtBi_400x400.jpg",
       "profile_url": "https://x.com/vt_aoiyukina"
+    },
+    {
+      "platform": "x",
+      "handle": "y_m_xoxo",
+      "display_name": "ネスタゆぅ♠",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2029104756137050112/oe6l80vo_400x400.jpg",
+      "profile_url": "https://x.com/y_m_xoxo"
     }
   ]
 }
