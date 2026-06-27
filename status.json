@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T00:48:00+09:00",
+  "updated_at": "2026-06-28T01:28:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -337,11 +337,7 @@
       "display_name": "七瀬のん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a6ec22c-c525-4dd0-9dc3-46c808857ea7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nanasenon",
-      "is_live": true,
-      "title": "【ラフシティ】赤ギャンラスト抗争。1年間大変お世話になりました【GTA5】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-06-27T12:08:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanasenon-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -573,11 +569,7 @@
       "display_name": "しろみそです",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/37f84425-0e80-4c41-a715-568fa011b4a2-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shiro46_24",
-      "is_live": true,
-      "title": "LOLカスタムお呼ばれしました。遅刻からの参戦",
-      "game_name": "League of Legends",
-      "started_at": "2026-06-27T13:24:00Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shiro46_24-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
