@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T19:58:01+09:00",
+  "updated_at": "2026-06-27T20:03:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -109,7 +109,11 @@
       "display_name": "frcl_orito",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68ada1b8-e896-4e74-ae7d-d862bb5e6116-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "か、顔出し！？いいえ、違いまうす。",
+      "game_name": "Just Chatting",
+      "started_at": "2026-06-27T11:00:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -389,11 +393,7 @@
       "display_name": "黒田りと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/10ef9f74-3e0f-4327-b7df-e192b317cea9-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kuro__chan96",
-      "is_live": true,
-      "title": "[LOL]  森林浴杯カスタム本番！ｗ/紡音、陽葵ゆず、豹華琥珀、柊朱夢  応援来てね！ topキャリー行きます",
-      "game_name": "League of Legends",
-      "started_at": "2026-06-27T10:54:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuro__chan96-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -453,7 +453,11 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5980bf5-28a6-4886-b78e-86bca2f6fc76-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #Ash District 】 #1 もう、この世界に救いはない。生き残った者だけが、明日を見られる。",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-06-27T10:58:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
