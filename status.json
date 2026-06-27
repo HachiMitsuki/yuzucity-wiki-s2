@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T02:02:59+09:00",
+  "updated_at": "2026-06-28T02:47:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -239,11 +239,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#エンドフィールド】危機契約前の突貫準備【#vtuber /雷音雅】",
-      "game_name": "ARKNIGHTS: ENDFIELD",
-      "started_at": "2026-06-27T11:08:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -264,7 +260,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c09f3497-68e9-4f54-bf5f-5f728740f7b8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/touhou_1560",
       "is_live": true,
-      "title": "【#BloodshiftCity】お邪魔します",
+      "title": "ちょっとだけ",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-06-27T15:44:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_touhou_1560-{width}x{height}.jpg"
