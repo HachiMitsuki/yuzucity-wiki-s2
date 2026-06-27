@@ -865,6 +865,12 @@ tr:last-child td{ border-bottom: none }
 /* ==============================================================
    RULE ITEMS / COMMANDS / TERMS
    ============================================================== */
+.item-sep{
+  border: none;
+  border-top: 2px solid var(--line);
+  margin: 1.2rem 0;
+  opacity: .6;
+}
 .rule-item{
   display: grid;
   grid-template-columns: auto 1fr auto;
