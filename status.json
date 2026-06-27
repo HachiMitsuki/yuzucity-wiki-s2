@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T21:13:00+09:00",
+  "updated_at": "2026-06-27T21:28:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -265,7 +265,11 @@
       "display_name": "つばさ___",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f4eacf7-eec8-4496-90f2-fff8bf53332d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tubasa_twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTA5】ラフシティ   ラスト抗争 挨拶周り  猫梅つばさ",
+      "game_name": "",
+      "started_at": "2026-06-27T12:27:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tubasa_twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
