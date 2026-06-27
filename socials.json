@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T21:35:40+09:00",
+  "updated_at": "2026-06-27T22:34:03+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1309,6 +1309,13 @@
       "display_name": "ネスタゆぅ♠",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2029104756137050112/oe6l80vo_400x400.jpg",
       "profile_url": "https://x.com/y_m_xoxo"
+    },
+    {
+      "platform": "x",
+      "handle": "natsuhatsuna27",
+      "display_name": "夏葉つな🌻@１人２役で歌う人",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1700505773040914432/F-ylaDI__400x400.jpg",
+      "profile_url": "https://x.com/natsuhatsuna27"
     }
   ]
 }
