@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T15:27:11+09:00",
+  "updated_at": "2026-06-28T16:26:07+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1351,6 +1351,13 @@
       "display_name": "よんじょる",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2020647745531633664/ncN-4r0D_400x400.jpg",
       "profile_url": "https://x.com/yonjoruuu"
+    },
+    {
+      "platform": "x",
+      "handle": "totugiyu_vtuber",
+      "display_name": "十一月祐Vtuber👹👓",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1774639409578848256/f2Bwvaqu_400x400.jpg",
+      "profile_url": "https://x.com/totugiyu_vtuber"
     }
   ]
 }
