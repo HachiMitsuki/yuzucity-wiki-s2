@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T16:26:07+09:00",
+  "updated_at": "2026-06-28T16:38:41+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1358,6 +1358,13 @@
       "display_name": "十一月祐Vtuber👹👓",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1774639409578848256/f2Bwvaqu_400x400.jpg",
       "profile_url": "https://x.com/totugiyu_vtuber"
+    },
+    {
+      "platform": "x",
+      "handle": "suzune4nori",
+      "display_name": "鈴音しのり ✦ 一旦おやすみ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2060688839187091457/hRucoHcZ_400x400.jpg",
+      "profile_url": "https://x.com/suzune4nori"
     }
   ]
 }
