@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T17:13:58+09:00",
+  "updated_at": "2026-06-28T18:11:59+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1372,6 +1372,13 @@
       "display_name": "ぎむれっと。Twitch💚🍷",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1939272484437590016/NKYXamM3_400x400.jpg",
       "profile_url": "https://x.com/gimlet_game1029"
+    },
+    {
+      "platform": "x",
+      "handle": "mh_kabi_master",
+      "display_name": "青カビちゃんねる🧀",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1431208844139515910/E2k12D39_400x400.jpg",
+      "profile_url": "https://x.com/mh_kabi_master"
     }
   ]
 }
