@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T21:06:08+09:00",
+  "updated_at": "2026-06-28T21:11:07+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -121,7 +121,11 @@
       "display_name": "frcl_orito",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/68ada1b8-e896-4e74-ae7d-d862bb5e6116-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "すきまぶめっちゃカメレオン",
+      "game_name": "MECCHA CHAMELEON",
+      "started_at": "2026-06-28T12:07:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
