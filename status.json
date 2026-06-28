@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T07:55:57+09:00",
+  "updated_at": "2026-06-28T10:00:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -459,11 +459,7 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": true,
-      "title": "新シーズン ブロンズ2 からスタート VALORANT #VALORANTコンペ #VTuber",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-27T22:52:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
