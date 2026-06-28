@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T22:46:19+09:00",
+  "updated_at": "2026-06-28T23:15:07+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1393,6 +1393,13 @@
       "display_name": "月街 るな @ Li:start 💫🐈‍⬛",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2014678185711955968/v2f073Eq_400x400.jpg",
       "profile_url": "https://x.com/runaa_khn_"
+    },
+    {
+      "platform": "x",
+      "handle": "kumishi0715",
+      "display_name": "Kumish1🐺🎯",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2064939155914993665/t-Z4qaAt_400x400.jpg",
+      "profile_url": "https://x.com/kumishi0715"
     }
   ]
 }
