@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T04:43:20+09:00",
+  "updated_at": "2026-06-28T09:16:44+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1337,6 +1337,13 @@
       "display_name": "トヨたんこりー【天狐りー】",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2012861759988678657/EldLxY0W_400x400.jpg",
       "profile_url": "https://x.com/toyo_tancory"
+    },
+    {
+      "platform": "x",
+      "handle": "ku6u2",
+      "display_name": "くろう𓆩☠︎𓆪ぷれぴぽ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2004839418872680448/e-PtVgGT_400x400.jpg",
+      "profile_url": "https://x.com/ku6u2"
     }
   ]
 }
