@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T23:15:07+09:00",
+  "updated_at": "2026-06-29T06:13:15+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1400,6 +1400,13 @@
       "display_name": "Kumish1🐺🎯",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2064939155914993665/t-Z4qaAt_400x400.jpg",
       "profile_url": "https://x.com/kumishi0715"
+    },
+    {
+      "platform": "x",
+      "handle": "runaf_f",
+      "display_name": "F'ルナール✨🦊",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1834928800771325954/r962Iinr_400x400.jpg",
+      "profile_url": "https://x.com/runaf_f"
     }
   ]
 }
