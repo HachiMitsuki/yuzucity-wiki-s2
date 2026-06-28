@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T16:38:41+09:00",
+  "updated_at": "2026-06-28T17:13:58+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1365,6 +1365,13 @@
       "display_name": "鈴音しのり ✦ 一旦おやすみ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2060688839187091457/hRucoHcZ_400x400.jpg",
       "profile_url": "https://x.com/suzune4nori"
+    },
+    {
+      "platform": "x",
+      "handle": "gimlet_game1029",
+      "display_name": "ぎむれっと。Twitch💚🍷",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1939272484437590016/NKYXamM3_400x400.jpg",
+      "profile_url": "https://x.com/gimlet_game1029"
     }
   ]
 }
