@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T14:36:16+09:00",
+  "updated_at": "2026-06-29T14:43:49+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1414,6 +1414,13 @@
       "display_name": "えらー",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2040561724773048320/UM6D4V1k_400x400.jpg",
       "profile_url": "https://x.com/errorgame_05"
+    },
+    {
+      "platform": "x",
+      "handle": "kanade_amasaki",
+      "display_name": "天咲 奏✩.*˚新人Vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2012504248412778496/N3RJcpeu_400x400.jpg",
+      "profile_url": "https://x.com/kanade_amasaki"
     }
   ]
 }
