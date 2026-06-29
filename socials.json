@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T21:47:47+09:00",
+  "updated_at": "2026-06-29T23:47:11+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1442,6 +1442,13 @@
       "display_name": "【心はいつでも】でじたま【HQ】",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1748173610009944064/1jIU-mYH_400x400.png",
       "profile_url": "https://x.com/digitama_belias"
+    },
+    {
+      "platform": "x",
+      "handle": "shin_v0_0v0729",
+      "display_name": "信介",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1021984910905630721/qomOJBue_400x400.jpg",
+      "profile_url": "https://x.com/shin_v0_0v0729"
     }
   ]
 }
