@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T15:58:39+09:00",
+  "updated_at": "2026-06-29T20:32:49+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1428,6 +1428,13 @@
       "display_name": "Syouta",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2066730870749503488/5uYiG6QK_400x400.jpg",
       "profile_url": "https://x.com/syouta_vl41"
+    },
+    {
+      "platform": "x",
+      "handle": "limesan_1120",
+      "display_name": "らいむさん🐉🎮⚾️",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2011646471360393216/2I2sdn0X_400x400.jpg",
+      "profile_url": "https://x.com/limesan_1120"
     }
   ]
 }
