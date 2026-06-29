@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T12:00:56+09:00",
+  "updated_at": "2026-06-29T13:45:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -199,7 +199,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ソロ",
+      "game_name": "VALORANT",
+      "started_at": "2026-06-29T04:43:08Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -504,8 +508,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bac3f53-a85c-4954-b262-54128f6ae37d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/lil_yu__",
       "is_live": true,
-      "title": "【#REMATCH】日本代表を優勝させたい。参加〇",
-      "game_name": "REMATCH",
+      "title": "【#VALORANT】ソロコンペ",
+      "game_name": "VALORANT",
       "started_at": "2026-06-28T23:56:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_yu__-{width}x{height}.jpg"
     },
