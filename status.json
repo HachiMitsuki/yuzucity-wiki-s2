@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T00:30:59+09:00",
+  "updated_at": "2026-06-30T01:05:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -79,7 +79,11 @@
       "display_name": "蒼澪",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8da2be83-6ebf-4a70-b4d5-443eba1ea393-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sourei_2525",
-      "is_live": false
+      "is_live": true,
+      "title": "何かやる",
+      "game_name": "Just Chatting",
+      "started_at": "2026-06-29T16:01:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sourei_2525-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -199,11 +203,7 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": true,
-      "title": "アングラ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-06-29T14:08:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
