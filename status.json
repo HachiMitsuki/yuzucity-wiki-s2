@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T22:21:02+09:00",
+  "updated_at": "2026-06-29T22:31:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -479,11 +479,7 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": true,
-      "title": "早くシルバーにいきたい！ VALORANT #VALORANTコンペ #VTuber",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-29T10:51:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
