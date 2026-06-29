@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T19:10:58+09:00",
+  "updated_at": "2026-06-29T19:55:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -123,11 +123,7 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": true,
-      "title": "🔴LIVE【 #VALORANT】寝起き w/如月逸人",
-      "game_name": "VALORANT",
-      "started_at": "2026-06-29T06:52:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -467,7 +463,11 @@
       "display_name": "はかない04",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9a99355-4661-42cc-a6b4-7662a705596c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/hakanai_459",
-      "is_live": false
+      "is_live": true,
+      "title": "早くシルバーにいきたい！ VALORANT #VALORANTコンペ #VTuber",
+      "game_name": "VALORANT",
+      "started_at": "2026-06-29T10:51:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hakanai_459-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
