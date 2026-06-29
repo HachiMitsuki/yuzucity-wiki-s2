@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T16:45:59+09:00",
+  "updated_at": "2026-06-29T17:05:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -461,11 +461,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5980bf5-28a6-4886-b78e-86bca2f6fc76-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "【 #めっちゃカメレオン】 参加型 最大人数24人で遊ぶぞ",
-      "game_name": "MECCHA CHAMELEON",
-      "started_at": "2026-06-29T05:02:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
