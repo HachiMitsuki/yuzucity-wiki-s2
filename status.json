@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T18:16:06+09:00",
+  "updated_at": "2026-06-29T19:05:58+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -337,11 +337,7 @@
       "display_name": "七瀬のん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a6ec22c-c525-4dd0-9dc3-46c808857ea7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nanasenon",
-      "is_live": true,
-      "title": "【恐怖！】ADHD真っ黒人間なのに薬を切らしてしまった結果...！？まじで助けてくれ【APEX】",
-      "game_name": "Apex Legends",
-      "started_at": "2026-06-29T08:34:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nanasenon-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
