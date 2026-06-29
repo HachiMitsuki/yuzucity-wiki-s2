@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T20:10:59+09:00",
+  "updated_at": "2026-06-29T21:06:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -287,7 +287,11 @@
       "display_name": "絶叫者イノ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3c02b6e-ceeb-4c64-8c6b-a1adc07d7d8d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ino_zekkyou",
-      "is_live": false
+      "is_live": true,
+      "title": "離れて幼稚園児を見守るREPO | REPO",
+      "game_name": "R.E.P.O.",
+      "started_at": "2026-06-29T12:05:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ino_zekkyou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
