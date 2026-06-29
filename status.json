@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T21:06:01+09:00",
+  "updated_at": "2026-06-29T21:16:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -441,7 +441,11 @@
       "display_name": "東雲めう",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/74dff1e7-1c2e-4d2d-a29d-77870331b937-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/shinonomemeu",
-      "is_live": false
+      "is_live": true,
+      "title": "晴れのち☆気分上々↑↑ ＃1【スト6】",
+      "game_name": "Street Fighter 6",
+      "started_at": "2026-06-29T12:11:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinonomemeu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
