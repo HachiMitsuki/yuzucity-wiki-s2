@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T20:46:23+09:00",
+  "updated_at": "2026-06-30T21:47:26+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -7,6 +7,13 @@
       "display_name": "柚木なつな🌻",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1899701968039501824/QeRguiqF_400x400.jpg",
       "profile_url": "https://x.com/natsuna_ch"
+    },
+    {
+      "platform": "x",
+      "handle": "kota_nosukemaru",
+      "display_name": "戌丸こた🐶💜🥟newばーじょん！",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2067435075462135808/_s5SEkZl_400x400.jpg",
+      "profile_url": "https://x.com/kota_nosukemaru"
     },
     {
       "platform": "x",
