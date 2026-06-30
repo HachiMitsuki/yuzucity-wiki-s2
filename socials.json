@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T21:47:26+09:00",
+  "updated_at": "2026-06-30T22:24:47+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -350,6 +350,13 @@
       "display_name": "ととりお🎩🪶",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1635961318967758849/k7DE1IM8_400x400.jpg",
       "profile_url": "https://x.com/toto_tox2"
+    },
+    {
+      "platform": "x",
+      "handle": "kiki_tempus",
+      "display_name": "@KiKi🥒💤",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2071941492826914816/JZ4rps_w_400x400.jpg",
+      "profile_url": "https://x.com/kiki_tempus"
     }
   ]
 }
