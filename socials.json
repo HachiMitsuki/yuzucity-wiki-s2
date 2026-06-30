@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T22:42:51+09:00",
+  "updated_at": "2026-06-30T23:02:55+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -371,6 +371,13 @@
       "display_name": "今給黎 操 ゲームしてる人",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1800580052800966656/MKhz-ded_400x400.jpg",
       "profile_url": "https://x.com/misao_1090"
+    },
+    {
+      "platform": "x",
+      "handle": "yuzuki_hidaka_v",
+      "display_name": "飛鷹悠月🐥🌙*ﾟ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2065037596846399488/h3VBBoRt_400x400.jpg",
+      "profile_url": "https://x.com/yuzuki_hidaka_v"
     }
   ]
 }
