@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T02:13:57+09:00",
+  "updated_at": "2026-07-01T02:14:00+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -21,6 +21,13 @@
       "display_name": "戌丸こた🐶💜🥟newばーじょん！",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2067435075462135808/_s5SEkZl_400x400.jpg",
       "profile_url": "https://x.com/kota_nosukemaru"
+    },
+    {
+      "platform": "x",
+      "handle": "tomoeru_",
+      "display_name": "ともえる4ページ🧪📖",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1989708144722022400/tzBNTq1t_400x400.jpg",
+      "profile_url": "https://x.com/tomoeru_"
     },
     {
       "platform": "x",
