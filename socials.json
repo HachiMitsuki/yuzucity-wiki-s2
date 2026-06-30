@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T23:47:11+09:00",
+  "updated_at": "2026-06-30T09:15:17+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1449,6 +1449,13 @@
       "display_name": "信介",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1021984910905630721/qomOJBue_400x400.jpg",
       "profile_url": "https://x.com/shin_v0_0v0729"
+    },
+    {
+      "platform": "x",
+      "handle": "tenshino_hane57",
+      "display_name": "天使乃はね💌✨️",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2067256741432274944/4lfXbId1_400x400.jpg",
+      "profile_url": "https://x.com/tenshino_hane57"
     }
   ]
 }
