@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T22:24:47+09:00",
+  "updated_at": "2026-06-30T22:29:57+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -7,6 +7,13 @@
       "display_name": "柚木なつな🌻",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1899701968039501824/QeRguiqF_400x400.jpg",
       "profile_url": "https://x.com/natsuna_ch"
+    },
+    {
+      "platform": "x",
+      "handle": "yy_on613",
+      "display_name": "ゆの*お仕事募集中",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1763393604914176000/39Q4wjFY_400x400.jpg",
+      "profile_url": "https://x.com/yy_on613"
     },
     {
       "platform": "x",
