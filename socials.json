@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T22:29:57+09:00",
+  "updated_at": "2026-06-30T22:42:51+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -364,6 +364,13 @@
       "display_name": "@KiKi🥒💤",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2071941492826914816/JZ4rps_w_400x400.jpg",
       "profile_url": "https://x.com/kiki_tempus"
+    },
+    {
+      "platform": "x",
+      "handle": "misao_1090",
+      "display_name": "今給黎 操 ゲームしてる人",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1800580052800966656/MKhz-ded_400x400.jpg",
+      "profile_url": "https://x.com/misao_1090"
     }
   ]
 }
