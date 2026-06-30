@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T23:02:55+09:00",
+  "updated_at": "2026-07-01T02:13:57+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -378,6 +378,13 @@
       "display_name": "飛鷹悠月🐥🌙*ﾟ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2065037596846399488/h3VBBoRt_400x400.jpg",
       "profile_url": "https://x.com/yuzuki_hidaka_v"
+    },
+    {
+      "platform": "x",
+      "handle": "tennnnx_",
+      "display_name": "羽雲てん☁️ 休止中",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2009521785956597760/ZrvwwqEd_400x400.jpg",
+      "profile_url": "https://x.com/tennnnx_"
     }
   ]
 }
