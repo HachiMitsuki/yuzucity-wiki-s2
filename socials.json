@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-30T04:12:01.355Z",
+  "updated_at": "2026-06-30T20:10:52+09:00",
   "accounts": [
+    {
+      "platform": "x",
+      "handle": "natsuna_ch",
+      "display_name": "柚木なつな🌻",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1899701968039501824/QeRguiqF_400x400.jpg",
+      "profile_url": "https://x.com/natsuna_ch"
+    },
     {
       "platform": "x",
       "handle": "hakurou_runa",
