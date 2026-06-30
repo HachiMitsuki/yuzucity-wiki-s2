@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T20:10:52+09:00",
+  "updated_at": "2026-06-30T20:16:39+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -329,6 +329,13 @@
       "display_name": "天使乃はね💌✨️",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2067256741432274944/4lfXbId1_400x400.jpg",
       "profile_url": "https://x.com/tenshino_hane57"
+    },
+    {
+      "platform": "x",
+      "handle": "tonchannel46",
+      "display_name": "トンちゃん🚬🐷",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1991423570883624960/yuyPE5nD_400x400.jpg",
+      "profile_url": "https://x.com/tonchannel46"
     }
   ]
 }
