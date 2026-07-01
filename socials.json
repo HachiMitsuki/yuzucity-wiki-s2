@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T14:41:56+09:00",
+  "updated_at": "2026-07-01T16:03:01+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -469,6 +469,13 @@
       "display_name": "≪ARX≫ 蝶 夢 Vtuber",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2053718772280877056/glr3kqgd_400x400.jpg",
       "profile_url": "https://x.com/tefutefu_0627"
+    },
+    {
+      "platform": "x",
+      "handle": "murokk66",
+      "display_name": "むろおじいちゃん/66☁➿個人勢Vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039982931465404416/Gqw2tcOa_400x400.jpg",
+      "profile_url": "https://x.com/murokk66"
     }
   ]
 }
