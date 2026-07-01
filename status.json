@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T23:43:36+09:00",
+  "updated_at": "2026-07-02T00:58:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -91,6 +91,16 @@
       "display_name": "白狼るな",
       "profile_image_url": "https://yt3.ggpht.com/KU3rDUbo1KzqBO4qUGDMtpbr-xBTbg0R-sMGxMQQLz5EifOMJDg67a-s8UDP3BkDnyC_pr1y=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40%E7%99%BD%E7%8B%BC%E3%82%8B%E3%81%AA-0131",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCHMmSdcdC4JwSw04eyRg6KA",
+      "channel_id": "UCHMmSdcdC4JwSw04eyRg6KA",
+      "handle": "@ひつじのあーしぇ",
+      "display_name": "ひつじのあーしぇ",
+      "profile_image_url": "https://yt3.ggpht.com/429ssJfL6ePCYzYvFC2N3hQbfpBf4FAvj379F3z4uqb8SkCJwyu2RcmM6Y4xOV1MDp5Rl-BMfg=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E3%81%B2%E3%81%A4%E3%81%98%E3%81%AE%E3%81%82%E3%83%BC%E3%81%97%E3%81%87",
       "is_live": false
     }
   ]
