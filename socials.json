@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-01T16:03:01+09:00",
+  "updated_at": "2026-07-01T17:22:45+09:00",
   "accounts": [
+    {
+      "platform": "x",
+      "handle": "ryusakigamech",
+      "display_name": "龍咲",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2051873626585260032/RtB5cGxO_400x400.jpg",
+      "profile_url": "https://x.com/ryusakigamech"
+    },
     {
       "platform": "x",
       "handle": "natsuna_ch",
