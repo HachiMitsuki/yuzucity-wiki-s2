@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T20:06:57+09:00",
+  "updated_at": "2026-07-01T20:07:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -23,6 +23,16 @@
       "display_name": "つっきぃ",
       "profile_image_url": "https://yt3.ggpht.com/d2HkKgTtmAUevO2BJCB6-fqCCGRqEUYXV9BSjeKwmX2vFkKrixkrglcfMcXCcUip4Z3mIVKGH8k=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40tsukkyi_vl",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCUJONHCbKcqlm0CRy8Rl3mA",
+      "channel_id": "UCUJONHCbKcqlm0CRy8Rl3mA",
+      "handle": "@komori_riko",
+      "display_name": "KomoRiko Ch.　狐杜りこ【演劇系Vtuber】",
+      "profile_image_url": "https://yt3.ggpht.com/yCRjJqgXsX0qczhFSihM6aPRU8WYPIb1l94_FiTB2EZ1VdiNYaPREPQ32FnUUO77ZxiioQPpMw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40komori_riko",
       "is_live": false
     }
   ]
