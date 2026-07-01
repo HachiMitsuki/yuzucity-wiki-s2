@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T09:51:03+09:00",
+  "updated_at": "2026-07-01T11:59:28+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -21,6 +21,13 @@
       "display_name": "戌丸こた🐶💜🥟newばーじょん！",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2067435075462135808/_s5SEkZl_400x400.jpg",
       "profile_url": "https://x.com/kota_nosukemaru"
+    },
+    {
+      "platform": "x",
+      "handle": "himari_yuzu_",
+      "display_name": "陽葵ゆず✿︎個人VTuber🌻🍊",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2044027804707397632/FbwzVD22_400x400.jpg",
+      "profile_url": "https://x.com/himari_yuzu_"
     },
     {
       "platform": "x",
