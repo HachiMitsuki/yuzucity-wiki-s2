@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T19:04:11+09:00",
+  "updated_at": "2026-07-01T19:10:59+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -28,6 +28,13 @@
       "display_name": "ゆの*お仕事募集中",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1763393604914176000/39Q4wjFY_400x400.jpg",
       "profile_url": "https://x.com/yy_on613"
+    },
+    {
+      "platform": "x",
+      "handle": "rindou_azuki",
+      "display_name": "竜胆小豆",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1886339347835977728/1NRpeQ2L_400x400.jpg",
+      "profile_url": "https://x.com/rindou_azuki"
     },
     {
       "platform": "x",
