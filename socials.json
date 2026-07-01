@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T17:22:45+09:00",
+  "updated_at": "2026-07-01T17:28:24+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -483,6 +483,13 @@
       "display_name": "むろおじいちゃん/66☁➿個人勢Vtuber",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2039982931465404416/Gqw2tcOa_400x400.jpg",
       "profile_url": "https://x.com/murokk66"
+    },
+    {
+      "platform": "x",
+      "handle": "tonsato_10310",
+      "display_name": "とんさと🐽",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1875874750280704000/qqDtHBvL_400x400.jpg",
+      "profile_url": "https://x.com/tonsato_10310"
     }
   ]
 }
