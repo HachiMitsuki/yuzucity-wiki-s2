@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T09:46:31+09:00",
+  "updated_at": "2026-07-01T09:51:03+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -413,6 +413,13 @@
       "display_name": "【GTTQ】u.👶🏼",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2005618711810691072/9PWMIhN-_400x400.jpg",
       "profile_url": "https://x.com/u_udr22"
+    },
+    {
+      "platform": "x",
+      "handle": "hibiki_scatlive",
+      "display_name": "紅音ひびき🌹🎤元刑務官系Vライバー",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1728307924496445440/AhhJVohY_400x400.jpg",
+      "profile_url": "https://x.com/hibiki_scatlive"
     }
   ]
 }
