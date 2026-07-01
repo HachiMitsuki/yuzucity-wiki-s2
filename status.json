@@ -1,4 +1,15 @@
 {
-  "updated_at": "2026-07-01T04:00:56+09:00",
-  "streamers": []
+  "updated_at": "2026-07-01T20:06:06+09:00",
+  "streamers": [
+    {
+      "platform": "youtube",
+      "id": "UCmYiRtMNElbau1ZMpWmMdfQ",
+      "channel_id": "UCmYiRtMNElbau1ZMpWmMdfQ",
+      "handle": "@tsukkyi_vl",
+      "display_name": "つっきぃ",
+      "profile_image_url": "https://yt3.ggpht.com/d2HkKgTtmAUevO2BJCB6-fqCCGRqEUYXV9BSjeKwmX2vFkKrixkrglcfMcXCcUip4Z3mIVKGH8k=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40tsukkyi_vl",
+      "is_live": false
+    }
+  ]
 }
