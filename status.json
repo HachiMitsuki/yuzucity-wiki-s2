@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T20:07:45+09:00",
+  "updated_at": "2026-07-01T20:08:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -42,6 +42,16 @@
       "game_name": "",
       "started_at": "2026-07-01T10:37:53Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_makotomo_twitch-{width}x{height}.jpg"
+    },
+    {
+      "platform": "youtube",
+      "id": "UCsRxwj50vO9V4ue01qpiHlA",
+      "channel_id": "UCsRxwj50vO9V4ue01qpiHlA",
+      "handle": "@komugisui",
+      "display_name": "Komugisui",
+      "profile_image_url": "https://yt3.ggpht.com/mfiXarTCExY0iKaDQCcutZUB5-APIN8kgD7LONWrRwpPCUpl7sTIHcZgIB4i7RqtfDe2gkoR=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40komugisui",
+      "is_live": false
     },
     {
       "platform": "youtube",
