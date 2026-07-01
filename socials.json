@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-01T17:58:31+09:00",
+  "updated_at": "2026-07-01T19:04:11+09:00",
   "accounts": [
+    {
+      "platform": "x",
+      "handle": "m4k41on",
+      "display_name": "m4k41on【マカロン】Twitch",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1804859500958232576/T9AJogHB_400x400.jpg",
+      "profile_url": "https://x.com/m4k41on"
+    },
     {
       "platform": "x",
       "handle": "ryusakigamech",
