@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T20:08:25+09:00",
+  "updated_at": "2026-07-01T20:08:26+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -71,6 +71,16 @@
       "display_name": "KomoRiko Ch.　狐杜りこ【演劇系Vtuber】",
       "profile_image_url": "https://yt3.ggpht.com/yCRjJqgXsX0qczhFSihM6aPRU8WYPIb1l94_FiTB2EZ1VdiNYaPREPQ32FnUUO77ZxiioQPpMw=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40komori_riko",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCbFu5DDaiZZ9VeZQUnU4cWA",
+      "channel_id": "UCbFu5DDaiZZ9VeZQUnU4cWA",
+      "handle": "@白狼るな-0131",
+      "display_name": "白狼るな",
+      "profile_image_url": "https://yt3.ggpht.com/KU3rDUbo1KzqBO4qUGDMtpbr-xBTbg0R-sMGxMQQLz5EifOMJDg67a-s8UDP3BkDnyC_pr1y=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E7%99%BD%E7%8B%BC%E3%82%8B%E3%81%AA-0131",
       "is_live": false
     }
   ]
