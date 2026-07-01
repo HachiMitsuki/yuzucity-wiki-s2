@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T09:39:50+09:00",
+  "updated_at": "2026-07-01T09:46:31+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -406,6 +406,13 @@
       "display_name": "月羅☪︎",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2039360574195429376/-DBJVosD_400x400.jpg",
       "profile_url": "https://x.com/tsukira_nico"
+    },
+    {
+      "platform": "x",
+      "handle": "u_udr22",
+      "display_name": "【GTTQ】u.👶🏼",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2005618711810691072/9PWMIhN-_400x400.jpg",
+      "profile_url": "https://x.com/u_udr22"
     }
   ]
 }
