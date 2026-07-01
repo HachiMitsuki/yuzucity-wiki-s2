@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T14:28:37+09:00",
+  "updated_at": "2026-07-01T14:41:56+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -462,6 +462,13 @@
       "display_name": "桃瀬ゆきな🎀👑",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2021022673506361344/HRYcTLbZ_400x400.jpg",
       "profile_url": "https://x.com/momose__yukina"
+    },
+    {
+      "platform": "x",
+      "handle": "tefutefu_0627",
+      "display_name": "≪ARX≫ 蝶 夢 Vtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2053718772280877056/glr3kqgd_400x400.jpg",
+      "profile_url": "https://x.com/tefutefu_0627"
     }
   ]
 }
