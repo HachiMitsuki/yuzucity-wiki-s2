@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T11:59:28+09:00",
+  "updated_at": "2026-07-01T12:04:57+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -427,6 +427,13 @@
       "display_name": "紅音ひびき🌹🎤元刑務官系Vライバー",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1728307924496445440/AhhJVohY_400x400.jpg",
       "profile_url": "https://x.com/hibiki_scatlive"
+    },
+    {
+      "platform": "x",
+      "handle": "cocoa_yy",
+      "display_name": "猫羽心々愛",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2006652870373089280/d2SHvruV_400x400.jpg",
+      "profile_url": "https://x.com/cocoa_yy"
     }
   ]
 }
