@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T19:10:59+09:00",
+  "updated_at": "2026-07-01T19:49:52+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -7,6 +7,13 @@
       "display_name": "m4k41on【マカロン】Twitch",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1804859500958232576/T9AJogHB_400x400.jpg",
       "profile_url": "https://x.com/m4k41on"
+    },
+    {
+      "platform": "x",
+      "handle": "rukimafu",
+      "display_name": "るきまふ🐰",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1944642270134755328/HGxanv9Y_400x400.jpg",
+      "profile_url": "https://x.com/rukimafu"
     },
     {
       "platform": "x",
