@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-02T18:05:12+09:00",
+  "updated_at": "2026-07-02T18:06:00+09:00",
   "streamers": [
+    {
+      "platform": "twitch",
+      "id": "frcl_orito",
+      "login": "frcl_orito",
+      "user_id": "515772750",
+      "display_name": "おりとさん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/frcl_orito",
+      "is_live": true,
+      "title": "yuzucity_day2 ファームファームファーム",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-02T09:05:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+    },
     {
       "platform": "twitch",
       "id": "natsuna33",
