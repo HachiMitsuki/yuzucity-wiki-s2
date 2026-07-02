@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-02T21:28:32+09:00",
+  "updated_at": "2026-07-02T21:28:51+09:00",
   "streamers": [
+    {
+      "platform": "twitch",
+      "id": "yuzuki_pooh",
+      "login": "yuzuki_pooh",
+      "user_id": "908123673",
+      "display_name": "柚稀ぷー",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/yuzuki_pooh",
+      "is_live": true,
+      "title": "[YuzuCity2] 柚白 day2 バイクか車か #新人Vtuber #YCGTA #ゆず鯖",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-02T12:27:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
+    },
     {
       "platform": "twitch",
       "id": "sakazuki_kyan",
