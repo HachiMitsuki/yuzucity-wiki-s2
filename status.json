@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T18:55:16+09:00",
+  "updated_at": "2026-07-02T19:02:51+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -243,6 +243,16 @@
       "display_name": "がじゃり子。",
       "profile_image_url": "https://yt3.ggpht.com/rlB0c0zlOuJiOr5HHW_-7EEkBS2QMVbohU6DNazHt7vuwHLR6XV5IrjFiMTYi9Y6h5KpRhAVTHE=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40gaja_rico",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UC0U8iCjkCl3y_BWZy4ny2tg",
+      "channel_id": "UC0U8iCjkCl3y_BWZy4ny2tg",
+      "handle": "@imokenpi_10",
+      "display_name": "佐々和けんぴ",
+      "profile_image_url": "https://yt3.ggpht.com/z3P8BeFCX-d8Y_smspgxLtb-dZHpIDRA4nQNRyBErBA0gjQsOU02SQkXo_NUVSAr2rOaG3QWrQ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40imokenpi_10",
       "is_live": false
     }
   ]
