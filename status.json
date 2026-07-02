@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T18:06:09+09:00",
+  "updated_at": "2026-07-02T18:09:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -102,6 +102,20 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_suzune4nori-{width}x{height}.jpg"
     },
     {
+      "platform": "twitch",
+      "id": "yoshipon9",
+      "login": "yoshipon9",
+      "user_id": "491776753",
+      "display_name": "ヨシポン_ココいま",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/yoshipon9",
+      "is_live": true,
+      "title": "【yuzucity】2日目 ギャングになるための金稼ぎ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-02T09:05:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
+    },
+    {
       "platform": "youtube",
       "id": "UCsRxwj50vO9V4ue01qpiHlA",
       "channel_id": "UCsRxwj50vO9V4ue01qpiHlA",
@@ -159,6 +173,16 @@
       "display_name": "甘羽 りる -Amaha Riru-",
       "profile_image_url": "https://yt3.ggpht.com/DBTsRi5DI5U9aVukyyL6F-Mshmf65VNCCNaUO4xgQU4zoPmOfggkux0ACBSuoMiUyav5v8EFJjg=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40-amahariru-",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCgCPVSwNG-zHFf7Z3FBUgUg",
+      "channel_id": "UCgCPVSwNG-zHFf7Z3FBUgUg",
+      "handle": "@ゔぃて-ココからいまから",
+      "display_name": "ココからいまからch【ゔぃて】",
+      "profile_image_url": "https://yt3.ggpht.com/LI88t97MvtQKqHMQ0k80s2EPZyonT8CGm6224bOOU5nsA4VLARJmtRf4B3QBEyNwTmq36KdAzA=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E3%82%94%E3%81%83%E3%81%A6-%E3%82%B3%E3%82%B3%E3%81%8B%E3%82%89%E3%81%84%E3%81%BE%E3%81%8B%E3%82%89",
       "is_live": false
     }
   ]
