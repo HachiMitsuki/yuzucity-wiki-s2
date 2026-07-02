@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T20:47:24+09:00",
+  "updated_at": "2026-07-02T20:48:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -305,6 +305,16 @@
       "display_name": "佐々和けんぴ",
       "profile_image_url": "https://yt3.ggpht.com/z3P8BeFCX-d8Y_smspgxLtb-dZHpIDRA4nQNRyBErBA0gjQsOU02SQkXo_NUVSAr2rOaG3QWrQ=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40imokenpi_10",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCU42ChDSTs1Lv6kQuDegw7A",
+      "channel_id": "UCU42ChDSTs1Lv6kQuDegw7A",
+      "handle": "@狐糸さと877",
+      "display_name": "狐糸さと / Koito Sato",
+      "profile_image_url": "https://yt3.ggpht.com/CQZNtqyzjNxnlic-7uW3blisyIVLWc_jVouRzLixnPIHjS8faYqMQEra3l53M5Qn0GoZ09Nt=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E7%8B%90%E7%B3%B8%E3%81%95%E3%81%A8877",
       "is_live": false
     }
   ]
