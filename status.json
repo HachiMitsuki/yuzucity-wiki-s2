@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T20:56:40+09:00",
+  "updated_at": "2026-07-02T21:02:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -61,11 +61,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "ゆずシティ２ １日遅れでパンダが来たヨ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-02T10:35:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -220,6 +216,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-07-02T10:40:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "opan_tyuu2",
+      "login": "opan_tyuu2",
+      "user_id": "1238022629",
+      "display_name": "おぱんおじさん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/opan_tyuu2",
+      "is_live": true,
+      "title": "【GTA5】Yuzu City Season2 Day2",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-02T11:56:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
