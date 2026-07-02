@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T18:03:57+09:00",
+  "updated_at": "2026-07-02T18:04:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,7 +9,11 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": false
+      "is_live": true,
+      "title": "🔴LIVE【 #YCGTA 】柚月なつな  day2 #ゆず鯖 #YCGTA #FiveM",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-02T09:03:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -64,6 +68,20 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "suzune4nori",
+      "login": "suzune4nori",
+      "user_id": "1330461208",
+      "display_name": "鈴音しのり",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a8b5cd7-f2a6-488f-8777-5c65f2bbdd11-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/suzune4nori",
+      "is_live": true,
+      "title": "【YUZU CITY β2 #2】DAY 2┆今日も走りまわろう【鬼紗霧 詩織】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-02T09:01:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_suzune4nori-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
