@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T20:15:16+09:00",
+  "updated_at": "2026-07-02T20:47:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -66,6 +66,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-07-02T10:35:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "tonpuson_84",
+      "login": "tonpuson_84",
+      "user_id": "882255748",
+      "display_name": "トンちゃんねる",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/tonpuson_84",
+      "is_live": true,
+      "title": "［Yuzu City β2］如月 団の新たな街での生活！♯2",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-02T11:46:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
