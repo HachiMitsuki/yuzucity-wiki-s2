@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T15:12:04+09:00",
+  "updated_at": "2026-07-02T15:13:32+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -77,6 +77,13 @@
       "display_name": "ともえる4ページ🧪📖",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1989708144722022400/tzBNTq1t_400x400.jpg",
       "profile_url": "https://x.com/tomoeru_"
+    },
+    {
+      "platform": "x",
+      "handle": "56s_",
+      "display_name": "Liphaly/りふぁりー",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1995984679074398208/AQ-1efIF_400x400.jpg",
+      "profile_url": "https://x.com/56s_"
     },
     {
       "platform": "x",
