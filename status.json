@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T21:02:33+09:00",
+  "updated_at": "2026-07-02T21:09:16+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -51,7 +51,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzu２日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-02T12:07:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -339,6 +343,16 @@
       "display_name": "狐糸さと / Koito Sato",
       "profile_image_url": "https://yt3.ggpht.com/CQZNtqyzjNxnlic-7uW3blisyIVLWc_jVouRzLixnPIHjS8faYqMQEra3l53M5Qn0GoZ09Nt=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40%E7%8B%90%E7%B3%B8%E3%81%95%E3%81%A8877",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCpFA557kzFg6YHIEieKWCdQ",
+      "channel_id": "UCpFA557kzFg6YHIEieKWCdQ",
+      "handle": "@yzpom陽葵ゆず",
+      "display_name": "陽葵ゆず🌼ひまりゆず",
+      "profile_image_url": "https://yt3.ggpht.com/KcojntmT0KqpnZ3oiY0B0eOynV5vpDIsk6spBaGa1dx5W2pUb3zgQTP8w-E-op_10DL6byCw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40yzpom%E9%99%BD%E8%91%B5%E3%82%86%E3%81%9A",
       "is_live": false
     }
   ]
