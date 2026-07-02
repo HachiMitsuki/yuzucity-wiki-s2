@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T01:40:15+09:00",
+  "updated_at": "2026-07-03T01:42:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -181,11 +181,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【Yuzu City】 Day2-湊星いぐれ視点 アンボスやるってよ #yuzucity #YCGTA #ゆず鯖 @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-02T16:38:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -249,6 +245,16 @@
       "display_name": "甘生ゑび",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53c97d45-a04c-4c31-8ba6-946ad0939fc3-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ebi_tabetayo",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "warm_kntr",
+      "login": "warm_kntr",
+      "user_id": "517553691",
+      "display_name": "わぁむっぽいなにか",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/warm_kntr",
       "is_live": false
     },
     {
