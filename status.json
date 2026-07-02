@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T18:11:32+09:00",
+  "updated_at": "2026-07-02T18:27:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -128,10 +128,24 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
       "is_live": true,
-      "title": "【Yuzu City】新米警官、今日も街の平和を守ります！",
+      "title": "【Yuzu City】新米警官、今日も街の平和を守ります！Day ２",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-07-02T09:07:14Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "i_minatoboshi",
+      "login": "i_minatoboshi",
+      "user_id": "167633002",
+      "display_name": "湊星いぐれ",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/i_minatoboshi",
+      "is_live": true,
+      "title": "【Yuzu City】 Day2-湊星いぐれ視点 アンボスやるってよ #yuzucity #YCGTA #ゆず鯖 @i_minatoboshi",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-02T09:23:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
