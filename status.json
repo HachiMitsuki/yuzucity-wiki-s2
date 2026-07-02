@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T18:06:00+09:00",
+  "updated_at": "2026-07-02T18:06:09+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -149,6 +149,16 @@
       "display_name": "ひつじのあーしぇ",
       "profile_image_url": "https://yt3.ggpht.com/429ssJfL6ePCYzYvFC2N3hQbfpBf4FAvj379F3z4uqb8SkCJwyu2RcmM6Y4xOV1MDp5Rl-BMfg=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40%E3%81%B2%E3%81%A4%E3%81%98%E3%81%AE%E3%81%82%E3%83%BC%E3%81%97%E3%81%87",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCWYyxAiljvdBjUeyS4dGf8Q",
+      "channel_id": "UCWYyxAiljvdBjUeyS4dGf8Q",
+      "handle": "@-amahariru-",
+      "display_name": "甘羽 りる -Amaha Riru-",
+      "profile_image_url": "https://yt3.ggpht.com/DBTsRi5DI5U9aVukyyL6F-Mshmf65VNCCNaUO4xgQU4zoPmOfggkux0ACBSuoMiUyav5v8EFJjg=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40-amahariru-",
       "is_live": false
     }
   ]
