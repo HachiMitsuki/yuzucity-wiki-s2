@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T20:47:52+09:00",
+  "updated_at": "2026-07-02T20:47:53+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -77,6 +77,13 @@
       "display_name": "狐糸さと🍌",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1809402591098605568/O5PTEp6x_400x400.jpg",
       "profile_url": "https://x.com/koito_sato35"
+    },
+    {
+      "platform": "x",
+      "handle": "mitora_shino",
+      "display_name": "三虎しの",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2043212032145854464/n_zR9Gup_400x400.jpg",
+      "profile_url": "https://x.com/mitora_shino"
     },
     {
       "platform": "x",
