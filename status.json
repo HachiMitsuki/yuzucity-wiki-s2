@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T01:30:16+09:00",
+  "updated_at": "2026-07-03T01:35:15+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -64,7 +64,7 @@
       "is_live": true,
       "title": "yuzu２日目",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-02T12:07:26Z",
+      "started_at": "2026-07-02T16:34:26Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
@@ -89,11 +89,7 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": true,
-      "title": "［Yuzu City β2］如月 団の新たな街での生活！♯2",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-02T11:46:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -185,11 +181,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【Yuzu City】 Day2-湊星いぐれ視点 アンボスやるってよ #yuzucity #YCGTA #ゆず鯖 @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-02T16:28:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
