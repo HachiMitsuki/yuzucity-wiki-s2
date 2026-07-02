@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T03:05:14+09:00",
+  "updated_at": "2026-07-03T03:35:15+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -120,7 +120,7 @@
       "is_live": true,
       "title": "day2 今日はクラフト進めたりする！ 【奈羅鬼 玲央】  #yuzucity #YCGTA #ゆず鯖",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-02T09:04:02Z",
+      "started_at": "2026-07-02T18:24:43Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
     },
     {
@@ -241,7 +241,11 @@
       "display_name": "猫羽ゆけむり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekohayukemuri",
-      "is_live": false
+      "is_live": true,
+      "title": "【 VALORANT 】寝付けないのでVALO",
+      "game_name": "VALORANT",
+      "started_at": "2026-07-02T18:33:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekohayukemuri-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
