@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T01:50:16+09:00",
+  "updated_at": "2026-07-03T02:04:49+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -33,11 +33,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "yuzucity_day2 ファームファームファーム",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-02T09:05:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -256,6 +252,20 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "nekohayukemuri",
+      "login": "nekohayukemuri",
+      "user_id": "929650711",
+      "display_name": "猫羽ゆけむり",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/nekohayukemuri",
+      "is_live": true,
+      "title": "【 #YuzuCity 】実質Day1 #夢羽ゆけ /今日から新しい生活！！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-02T14:26:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekohayukemuri-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
