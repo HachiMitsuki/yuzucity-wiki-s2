@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T18:11:20+09:00",
+  "updated_at": "2026-07-02T18:11:32+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -118,6 +118,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-07-02T09:05:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "tosshi2532",
+      "login": "tosshi2532",
+      "user_id": "942807425",
+      "display_name": "tosshi2532",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/tosshi2532",
+      "is_live": true,
+      "title": "【Yuzu City】新米警官、今日も街の平和を守ります！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-02T09:07:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
