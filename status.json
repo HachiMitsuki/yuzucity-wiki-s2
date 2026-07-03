@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T20:40:18+09:00",
+  "updated_at": "2026-07-03T21:05:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -179,11 +179,7 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": true,
-      "title": "【yuzucity】3日目 今日は少しだけ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-03T10:02:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
