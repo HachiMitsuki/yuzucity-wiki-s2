@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T20:47:53+09:00",
+  "updated_at": "2026-07-03T11:29:03+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -105,6 +105,13 @@
       "display_name": "ねころんぱん🐾",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1801899906703220736/j_skeqNn_400x400.jpg",
       "profile_url": "https://x.com/nekkopan"
+    },
+    {
+      "platform": "x",
+      "handle": "yuzuriha_012",
+      "display_name": "🍃ユズリハ🍃",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2065614816329523200/6oWtT8Qj_400x400.jpg",
+      "profile_url": "https://x.com/yuzuriha_012"
     },
     {
       "platform": "x",
