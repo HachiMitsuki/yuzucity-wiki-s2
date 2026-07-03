@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T12:06:11+09:00",
+  "updated_at": "2026-07-03T16:26:14+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -581,6 +581,13 @@
       "display_name": "こるぅな(2026年冷凍食品禁止中)",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1912486157889249280/cJCRE07h_400x400.jpg",
       "profile_url": "https://x.com/koruuna"
+    },
+    {
+      "platform": "x",
+      "handle": "nekohayukemuri",
+      "display_name": "猫羽ゆけむり",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2063171697189236736/mD3SKHVT_400x400.jpg",
+      "profile_url": "https://x.com/nekohayukemuri"
     }
   ]
 }
