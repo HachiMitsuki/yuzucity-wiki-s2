@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T21:30:19+09:00",
+  "updated_at": "2026-07-03T21:40:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -85,11 +85,7 @@
       "display_name": "竜胆小豆",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaf01dbf-da30-41ce-8d0c-eabb3d8c0b31-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rindou_azuki",
-      "is_live": true,
-      "title": "Yuzu City Season2 今日は台のデバック",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-03T08:59:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rindou_azuki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
