@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T22:00:19+09:00",
+  "updated_at": "2026-07-03T22:10:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -75,7 +75,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティ２ パンダが来たヨ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-03T13:09:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
