@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T21:10:19+09:00",
+  "updated_at": "2026-07-03T21:14:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -296,6 +296,20 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekohayukemuri",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "channel_yoshi",
+      "login": "channel_yoshi",
+      "user_id": "826477534",
+      "display_name": "よっしー_チャンネル",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/channel_yoshi",
+      "is_live": true,
+      "title": "【#yuzucity】#1 別街で黒市民 こちらでも素材屋",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-03T09:28:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
