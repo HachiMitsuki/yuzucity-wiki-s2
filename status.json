@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T17:05:14+09:00",
+  "updated_at": "2026-07-03T17:06:09+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -381,6 +381,16 @@
       "display_name": "陽葵ゆず🌼ひまりゆず",
       "profile_image_url": "https://yt3.ggpht.com/KcojntmT0KqpnZ3oiY0B0eOynV5vpDIsk6spBaGa1dx5W2pUb3zgQTP8w-E-op_10DL6byCw=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40yzpom%E9%99%BD%E8%91%B5%E3%82%86%E3%81%9A",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UC-0gx_jvPU_ugSl43Kox7kg",
+      "channel_id": "UC-0gx_jvPU_ugSl43Kox7kg",
+      "handle": "@tefuyu-0627",
+      "display_name": "蝶夢.VTuber.offcial",
+      "profile_image_url": "https://yt3.ggpht.com/Bq-iZ9-Eo6RLP3uq46PloXEYbTCP4-nME5FA433PIEsdX3T8gHwS-yiPFe7hPXQCkscdPNe5VA=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40tefuyu-0627",
       "is_live": false
     }
   ]
