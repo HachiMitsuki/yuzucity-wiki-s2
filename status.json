@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T17:51:00+09:00",
+  "updated_at": "2026-07-04T18:30:59+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -81,7 +81,11 @@
       "display_name": "竜胆小豆",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaf01dbf-da30-41ce-8d0c-eabb3d8c0b31-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rindou_azuki",
-      "is_live": false
+      "is_live": true,
+      "title": "Yuzu City Season2  明日の開店に向けて準備",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-04T09:29:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rindou_azuki-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -91,11 +95,7 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": true,
-      "title": "［Yuzu City β2］如月 団の新たな街での生活！♯3",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-04T08:25:42Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
