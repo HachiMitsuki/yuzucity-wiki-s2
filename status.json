@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T21:01:02+09:00",
+  "updated_at": "2026-07-04T21:06:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,7 +49,7 @@
       "channel_url": "https://www.twitch.tv/natsuna33",
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】柚月なつな  day4 #ゆず鯖 #YCGTA #FiveM  →【 #VALORANT】スクリム",
-      "game_name": "Grand Theft Auto V",
+      "game_name": "VALORANT",
       "started_at": "2026-07-04T09:39:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -255,7 +255,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTA5】Yuzu City Season2 Day4",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-04T12:02:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
