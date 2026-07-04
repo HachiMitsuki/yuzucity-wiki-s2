@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T19:21:02+09:00",
+  "updated_at": "2026-07-04T19:32:50+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -62,6 +62,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-07-04T08:25:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "raionmiyabi",
+      "login": "raionmiyabi",
+      "user_id": "694904415",
+      "display_name": "雷音雅",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/raionmiyabi",
+      "is_live": true,
+      "title": "【#ゆず鯖 】何するか考え中 ４日目【#vtuber /雷音雅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-04T10:32:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -333,6 +347,16 @@
       "display_name": "早崎ずぅ",
       "profile_image_url": "https://yt3.ggpht.com/QRabUm0I7vRMi2DcSPYvWHyYy2n9MCYVG7z3pGo-72ic_8b4G3yS4PM0WPkNC_sGBKVg6L8ZvA=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40zuu_hayasaki",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCuRPizKyVSmDQThwJlNSVNw",
+      "channel_id": "UCuRPizKyVSmDQThwJlNSVNw",
+      "handle": "@雷音_雅",
+      "display_name": "雷音雅",
+      "profile_image_url": "https://yt3.ggpht.com/gOEfK2lUndDvPJRXnPdJGSyZi14euSqf6Ihm5pN4Wd1IyygzKuBxY33jBcucjUE_WwLwFWU5xw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E9%9B%B7%E9%9F%B3_%E9%9B%85",
       "is_live": false
     },
     {
