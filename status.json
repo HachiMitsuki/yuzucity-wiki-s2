@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T05:00:55+09:00",
+  "updated_at": "2026-07-05T05:05:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -69,11 +69,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#ゆず鯖 】何するか考え中 ４日目【#vtuber /雷音雅】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-04T10:32:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -153,11 +149,7 @@
       "display_name": "鈴音しのり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a8b5cd7-f2a6-488f-8777-5c65f2bbdd11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/suzune4nori",
-      "is_live": true,
-      "title": "【YUZU CITY β2 #4】DAY 4┆新たの職場でスタート【鬼紗霧 詩織】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-04T14:21:52Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_suzune4nori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -187,11 +179,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【Yuzu City】 Day4-湊星いぐれ視点 活動４周年らしいけどGTA  #yuzucity #YCGTA #ゆず鯖 @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-04T08:11:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
