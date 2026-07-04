@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T02:16:05+09:00",
+  "updated_at": "2026-07-05T02:46:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -53,11 +53,7 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": true,
-      "title": "🔴LIVE【 #YCGTA 】柚月なつな  day4 #ゆず鯖 #YCGTA #FiveM  →【 #VALORANT】スクリム",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-04T09:39:57Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -303,7 +299,7 @@
       "channel_url": "https://www.twitch.tv/warm_kntr",
       "is_live": true,
       "title": "【YuzuCity】＃３ 新米警官【GTA5】",
-      "game_name": "Grand Theft Auto V",
+      "game_name": "VALORANT",
       "started_at": "2026-07-04T14:25:48Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
     },
