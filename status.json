@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T21:41:08+09:00",
+  "updated_at": "2026-07-04T21:48:30+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -99,7 +99,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティ２ やるべきこと #yuzucity",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-04T12:47:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -354,6 +358,20 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
     },
     {
+      "platform": "twitch",
+      "id": "xsettyanx",
+      "login": "xsettyanx",
+      "user_id": "1112894507",
+      "display_name": "一色刹那",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/xsettyanx",
+      "is_live": true,
+      "title": "Yuzu City2",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-04T12:15:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
+    },
+    {
       "platform": "youtube",
       "id": "UCjtNUzbnglluVtV7ZH8lz5Q",
       "channel_id": "UCjtNUzbnglluVtV7ZH8lz5Q",
@@ -491,6 +509,16 @@
       "display_name": "蝶夢.VTuber.offcial",
       "profile_image_url": "https://yt3.ggpht.com/Bq-iZ9-Eo6RLP3uq46PloXEYbTCP4-nME5FA433PIEsdX3T8gHwS-yiPFe7hPXQCkscdPNe5VA=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40tefuyu-0627",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCg7Unu9Ke5_Uc-NVaWkbhfQ",
+      "channel_id": "UCg7Unu9Ke5_Uc-NVaWkbhfQ",
+      "handle": "@setsuna.issiki",
+      "display_name": "setsuna ch. 一色刹那",
+      "profile_image_url": "https://yt3.ggpht.com/2qe-5NBnmVc_XuUSF_R1vS1DuuE8rJCOrfa7GS-XocwbZu1wNlkztnqBD0QM0Wk5CRB-RmaJLwU=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40setsuna.issiki",
       "is_live": false
     }
   ]
