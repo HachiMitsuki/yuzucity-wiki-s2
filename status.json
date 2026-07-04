@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T22:36:03+09:00",
+  "updated_at": "2026-07-04T23:26:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -59,7 +59,7 @@
       "channel_url": "https://www.twitch.tv/natsuna33",
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】柚月なつな  day4 #ゆず鯖 #YCGTA #FiveM  →【 #VALORANT】スクリム",
-      "game_name": "VALORANT",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-07-04T09:39:57Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -189,7 +189,11 @@
       "display_name": "鈴音しのり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a8b5cd7-f2a6-488f-8777-5c65f2bbdd11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/suzune4nori",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY β2 #4】DAY 4┆新たの職場でスタート【鬼紗霧 詩織】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-04T14:21:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_suzune4nori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
