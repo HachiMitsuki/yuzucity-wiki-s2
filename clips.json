@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-06T05:07:26+09:00",
+  "updated_at": "2026-07-06T05:41:02+09:00",
   "clips": [
+    {
+      "id": 233,
+      "source": "twitch",
+      "source_id": "CrispyPlainCamelBloodTrail-THD5yrn4aDKCWilu",
+      "url": "https://www.twitch.tv/digitamama/clip/CrispyPlainCamelBloodTrail-THD5yrn4aDKCWilu",
+      "embed_url": "https://clips.twitch.tv/embed?clip=CrispyPlainCamelBloodTrail-THD5yrn4aDKCWilu",
+      "title": "タイミング",
+      "description": "タイミング\nhttps://www.twitch.tv/digitamama/clip/CrispyPlainCamelBloodTrail-THD5yrn4aDKCWilu",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b7585c99-0a7b-4ca5-aebd-4d1509ae169f/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 9,
+      "broadcaster_name": "でじたまま",
+      "author_name": "たますけ/でじたま",
+      "author_avatar": "https://cdn.discordapp.com/avatars/173074733267419136/0ecab3e4cd8d777d04bd5cba3c9c6a86.png?size=128",
+      "posted_at": "2026-07-06T05:41:02+09:00"
+    },
     {
       "id": 232,
       "source": "twitch",
