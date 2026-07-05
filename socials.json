@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T12:24:17+09:00",
+  "updated_at": "2026-07-05T16:15:23+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -105,6 +105,13 @@
       "display_name": "ねころんぱん🐾",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1801899906703220736/j_skeqNn_400x400.jpg",
       "profile_url": "https://x.com/nekkopan"
+    },
+    {
+      "platform": "x",
+      "handle": "asahimukuto",
+      "display_name": "浅緋椋蕃(むくと)",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2069382437336174592/2XlccuPc_400x400.jpg",
+      "profile_url": "https://x.com/asahimukuto"
     },
     {
       "platform": "x",
