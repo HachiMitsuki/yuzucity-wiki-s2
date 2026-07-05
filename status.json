@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T02:50:19+09:00",
+  "updated_at": "2026-07-06T03:00:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -63,11 +63,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【Yuzu City】ゆずに帰ってきたぞ！！！#1【鳩禁止】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-05T08:05:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -121,11 +117,7 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": true,
-      "title": "［Yuzu City β2］如月 団の新たな街での生活！♯4",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-05T15:06:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
