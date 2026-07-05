@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T17:51:00+09:00",
+  "updated_at": "2026-07-05T18:21:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -77,7 +77,11 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖 】金もなにもかもたりない ５日目【#vtuber /雷音雅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-05T09:17:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
