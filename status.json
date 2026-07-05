@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T03:00:19+09:00",
+  "updated_at": "2026-07-06T03:05:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -263,11 +263,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【YuzuCity】PD業務4日目！今日も検挙しまくるぞ！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-05T09:37:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -297,11 +293,7 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": true,
-      "title": "【YuzuCity】＃４ まだまだ下っ端【GTA5】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-05T17:37:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
