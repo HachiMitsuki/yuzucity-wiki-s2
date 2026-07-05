@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T21:01:12+09:00",
+  "updated_at": "2026-07-05T21:11:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -43,7 +43,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity_day5 元気になりました",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-05T12:08:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
