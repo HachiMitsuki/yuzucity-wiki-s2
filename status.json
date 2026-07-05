@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T02:05:20+09:00",
+  "updated_at": "2026-07-06T02:35:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -155,11 +155,7 @@
       "display_name": "makotomo_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a2ef1b9-5416-4066-b346-dd181f875d54-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/makotomo_twitch",
-      "is_live": true,
-      "title": "【FiveM】Yuzu City Season2 まこともるーく視点。また少し羽ばたこうかな！#5",
-      "game_name": "",
-      "started_at": "2026-07-05T15:18:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_makotomo_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
