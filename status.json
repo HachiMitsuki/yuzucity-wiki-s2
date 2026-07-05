@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T00:20:22+09:00",
+  "updated_at": "2026-07-06T00:50:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -95,11 +95,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#ゆず鯖 】金もなにもかもたりない ５日目【#vtuber /雷音雅】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-05T09:17:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -390,7 +386,7 @@
       "is_live": true,
       "title": "【#YCGTA】今日は良い日になるかな～ Crazy Panda視点 5日目 【#yuzucity #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-05T08:05:24Z",
+      "started_at": "2026-07-05T15:44:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
     },
     {
