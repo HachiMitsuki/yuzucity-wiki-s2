@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T01:35:20+09:00",
+  "updated_at": "2026-07-06T01:38:11+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -380,6 +380,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-07-05T15:44:50Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "kumish11",
+      "login": "kumish11",
+      "user_id": "650166912",
+      "display_name": "Kumish11",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3074226c-9264-41f6-968d-83cd1b3654ca-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/kumish11",
+      "is_live": true,
+      "title": "[GTA5RP]この街での生活。。",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-05T16:17:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kumish11-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
