@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T21:41:02+09:00",
+  "updated_at": "2026-07-05T21:44:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -138,6 +138,20 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "yuzumal_vtuber",
+      "login": "yuzumal_vtuber",
+      "user_id": "748435014",
+      "display_name": "琉楓",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
+      "is_live": true,
+      "title": "【#yuzucity】Season2 / DAY 2『犯罪ぶんまわすぞ』#YCGTA #ゆず鯖 #ストリーマーグラセフ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-05T09:16:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
