@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T22:45:22+09:00",
+  "updated_at": "2026-07-05T23:03:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -215,11 +215,7 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": true,
-      "title": "【yuzucity】5日目昨日は寝落ちしちゃったw",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-05T10:03:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -349,11 +345,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【#yuzucity】#3 内心は心臓バクバクしてます",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-05T08:06:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -541,6 +533,16 @@
       "display_name": "setsuna ch. 一色刹那",
       "profile_image_url": "https://yt3.ggpht.com/2qe-5NBnmVc_XuUSF_R1vS1DuuE8rJCOrfa7GS-XocwbZu1wNlkztnqBD0QM0Wk5CRB-RmaJLwU=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40setsuna.issiki",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCx5x7Rw6pbn7Fze0aYR-5Pw",
+      "channel_id": "UCx5x7Rw6pbn7Fze0aYR-5Pw",
+      "handle": "@who_404_ch",
+      "display_name": "who ch.",
+      "profile_image_url": "https://yt3.ggpht.com/ADak2EvRswnBUCvktVg582EwjJ2kKwr7w2orlRBUPY18DWuWX3kXu-FDLp__d0l3g6SnNTCDD6w=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40who_404_ch",
       "is_live": false
     }
   ]
