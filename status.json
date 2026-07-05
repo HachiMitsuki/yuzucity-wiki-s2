@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T23:15:24+09:00",
+  "updated_at": "2026-07-05T23:20:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -85,7 +85,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzu5日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-05T14:15:05Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -163,11 +167,7 @@
       "display_name": "makotomo_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a2ef1b9-5416-4066-b346-dd181f875d54-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/makotomo_twitch",
-      "is_live": true,
-      "title": "【FiveM】Yuzu City Season2 まこともるーく視点。また少し羽ばたこうかな！#5",
-      "game_name": "",
-      "started_at": "2026-07-05T11:05:58Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_makotomo_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -201,7 +201,11 @@
       "display_name": "鈴音しのり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a8b5cd7-f2a6-488f-8777-5c65f2bbdd11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/suzune4nori",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY β2 #5】DAY 5 (後半)┆continental Yuzu 開店日!!!【鬼紗霧 詩織】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-05T14:19:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_suzune4nori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
