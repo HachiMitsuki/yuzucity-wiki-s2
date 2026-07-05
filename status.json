@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T01:55:20+09:00",
+  "updated_at": "2026-07-06T02:05:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -145,11 +145,7 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": true,
-      "title": "【#yuzucity】ゆず鯖五日目・「なんかイベントがあるらしい」【#YCGTA】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-05T09:21:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -238,7 +234,7 @@
       "is_live": true,
       "title": "【Yuzu City】 Day5-湊星いぐれ視点 金稼ぎ！トライアスロンもあるってよ  #yuzucity #YCGTA #ゆず鯖 @i_minatoboshi",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-05T08:28:51Z",
+      "started_at": "2026-07-05T16:58:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
@@ -385,11 +381,7 @@
       "display_name": "Kumish11",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3074226c-9264-41f6-968d-83cd1b3654ca-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kumish11",
-      "is_live": true,
-      "title": "[GTA5RP]この街での生活。。",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-05T16:17:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kumish11-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
