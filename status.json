@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T17:01:01+09:00",
+  "updated_at": "2026-07-06T17:06:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -163,7 +163,11 @@
       "display_name": "レイざえもん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "day6 今日は色々変化がありそうな予感！？【奈羅鬼 玲央】  #yuzucity #YCGTA #ゆず鯖",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-06T08:05:24Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -335,7 +339,11 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YCGTA】さーて今日もやりますかっと Crazy Panda視点 6日目 【#yuzucity #ゆず鯖】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-06T08:00:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
