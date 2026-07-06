@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T21:36:06+09:00",
+  "updated_at": "2026-07-06T21:38:11+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -425,6 +425,16 @@
       "display_name": "Kumish11",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3074226c-9264-41f6-968d-83cd1b3654ca-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kumish11",
+      "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "has_man_ch",
+      "login": "has_man_ch",
+      "user_id": "882785632",
+      "display_name": "はすまん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/has_man_ch",
       "is_live": false
     },
     {
