@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T17:41:01+09:00",
+  "updated_at": "2026-07-06T17:46:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -299,7 +299,11 @@
       "display_name": "猫羽ゆけむり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekohayukemuri",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #YuzuCity 】Day３ #夢羽ゆけ / わるいことしたいな",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-06T08:44:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekohayukemuri-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
