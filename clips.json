@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-06T16:01:49+09:00",
+  "updated_at": "2026-07-06T18:57:38+09:00",
   "clips": [
+    {
+      "id": 238,
+      "source": "discord",
+      "source_id": "1523628983437234227",
+      "url": "https://media.discordapp.net/attachments/1511982692764356648/1523628983437234227/0706_1.mp4?ex=6a4ccd91&is=6a4b7c11&hm=3b4df36006a8704bfb9f2289374b9976511082065baf6618d0dda5cc229252c0&",
+      "embed_url": null,
+      "title": null,
+      "description": null,
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "CogNac",
+      "author_avatar": "https://cdn.discordapp.com/avatars/273719924726300672/e57db7a831fd4f984f307acca2d87855.png?size=128",
+      "posted_at": "2026-07-06T18:57:37+09:00"
+    },
     {
       "id": 237,
       "source": "youtube",
