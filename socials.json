@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T11:53:47+09:00",
+  "updated_at": "2026-07-06T15:26:09+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -623,6 +623,13 @@
       "display_name": "917",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2031062996534046720/_iaNx_V4_400x400.jpg",
       "profile_url": "https://x.com/quina_king"
+    },
+    {
+      "platform": "x",
+      "handle": "jura_nano",
+      "display_name": "🦕樹空💭",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1775682448791310336/RrTZSjXv_400x400.jpg",
+      "profile_url": "https://x.com/jura_nano"
     }
   ]
 }
