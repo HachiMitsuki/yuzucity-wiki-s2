@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-06T05:41:02+09:00",
+  "updated_at": "2026-07-06T14:06:06+09:00",
   "clips": [
+    {
+      "id": 234,
+      "source": "twitch",
+      "source_id": "SparklingShortAdminCurseLit-R4JCVIgxNf6J-ONp",
+      "url": "https://www.twitch.tv/digitamama/clip/SparklingShortAdminCurseLit-R4JCVIgxNf6J-ONp",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SparklingShortAdminCurseLit-R4JCVIgxNf6J-ONp",
+      "title": "うそ発見器",
+      "description": "うそ発見器\nhttps://www.twitch.tv/digitamama/clip/SparklingShortAdminCurseLit-R4JCVIgxNf6J-ONp",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/4bdd7e17-cd73-4d85-93b8-ef7739fdaacb/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 14,
+      "broadcaster_name": "でじたまま",
+      "author_name": "たますけ/でじたま",
+      "author_avatar": "https://cdn.discordapp.com/avatars/173074733267419136/0ecab3e4cd8d777d04bd5cba3c9c6a86.png?size=128",
+      "posted_at": "2026-07-06T14:06:06+09:00"
+    },
     {
       "id": 233,
       "source": "twitch",
