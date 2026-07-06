@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-06T14:06:06+09:00",
+  "updated_at": "2026-07-06T14:12:36+09:00",
   "clips": [
+    {
+      "id": 235,
+      "source": "twitch",
+      "source_id": "SplendidTawdrySquidOSkomodo-5lga2Rpzgj6KtgoE",
+      "url": "https://www.twitch.tv/digitamama/clip/SplendidTawdrySquidOSkomodo-5lga2Rpzgj6KtgoE",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SplendidTawdrySquidOSkomodo-5lga2Rpzgj6KtgoE",
+      "title": "おごり金額クイズ",
+      "description": "https://www.twitch.tv/digitamama/clip/SplendidTawdrySquidOSkomodo-5lga2Rpzgj6KtgoE",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7c6aeb98-defc-4769-bd79-e089534d3d91/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 45,
+      "broadcaster_name": "でじたまま",
+      "author_name": "たますけ/でじたま",
+      "author_avatar": "https://cdn.discordapp.com/avatars/173074733267419136/0ecab3e4cd8d777d04bd5cba3c9c6a86.png?size=128",
+      "posted_at": "2026-07-06T14:12:35+09:00"
+    },
     {
       "id": 234,
       "source": "twitch",
