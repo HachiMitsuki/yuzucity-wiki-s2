@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-06T14:12:36+09:00",
+  "updated_at": "2026-07-06T15:18:26+09:00",
   "clips": [
+    {
+      "id": 236,
+      "source": "twitch",
+      "source_id": "AnnoyingSillyShrewShazBotstix-t3yOHB43GCg-UPcz",
+      "url": "https://www.twitch.tv/sakeshiro_rei/clip/AnnoyingSillyShrewShazBotstix-t3yOHB43GCg-UPcz",
+      "embed_url": "https://clips.twitch.tv/embed?clip=AnnoyingSillyShrewShazBotstix-t3yOHB43GCg-UPcz",
+      "title": "引かれる酒カス",
+      "description": "https://www.twitch.tv/sakeshiro_rei/clip/AnnoyingSillyShrewShazBotstix-t3yOHB43GCg-UPcz",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f4275972-64ca-429c-9da3-820eb0da8c04/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 9,
+      "broadcaster_name": "酒白ﾚｲ",
+      "author_name": "酒白レイ(酒白フル",
+      "author_avatar": "https://cdn.discordapp.com/avatars/970661732471177237/0bfb107b9b8c7d65e4aaf4cec3729a7c.png?size=128",
+      "posted_at": "2026-07-06T15:18:26+09:00"
+    },
     {
       "id": 235,
       "source": "twitch",
