@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T23:01:09+09:00",
+  "updated_at": "2026-07-07T23:01:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -474,6 +474,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-07-07T09:53:38Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "ohigames14",
+      "login": "ohigames14",
+      "user_id": "1317670669",
+      "display_name": "はまりんさん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/ohigames14",
+      "is_live": true,
+      "title": "【GTARP,Yuzucity】浜田凛太郎の生活",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-07T12:46:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
