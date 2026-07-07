@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T20:01:09+09:00",
+  "updated_at": "2026-07-07T20:06:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -187,7 +187,11 @@
       "display_name": "makotomo_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a2ef1b9-5416-4066-b346-dd181f875d54-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/makotomo_twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "【FiveM】Yuzu City Season2 まこともるーく視点。また少し羽ばたこうかな！#7",
+      "game_name": "",
+      "started_at": "2026-07-07T11:04:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_makotomo_twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -253,7 +257,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALO】トリオコンペよ～",
+      "game_name": "VALORANT",
+      "started_at": "2026-07-07T11:01:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
