@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T23:21:07+09:00",
+  "updated_at": "2026-07-07T23:26:09+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -375,11 +375,7 @@
       "display_name": "猫羽ゆけむり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekohayukemuri",
-      "is_live": true,
-      "title": "【 #YuzuCity 】Day4 #夢羽ゆけ / いい子なろうかな",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-07T13:35:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekohayukemuri-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -457,11 +453,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【YuzuCIty】7日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-07T09:53:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
