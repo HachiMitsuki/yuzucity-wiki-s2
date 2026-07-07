@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T18:55:10+09:00",
+  "updated_at": "2026-07-07T19:01:07+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -251,7 +251,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】 Day7-湊星いぐれ視点 新しい目標 #yuzucity #YCGTA #ゆず鯖 @i_minatoboshi",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-07T09:56:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
