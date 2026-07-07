@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T03:01:03+09:00",
+  "updated_at": "2026-07-08T03:06:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -205,11 +205,7 @@
       "display_name": "鈴音しのり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a8b5cd7-f2a6-488f-8777-5c65f2bbdd11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/suzune4nori",
-      "is_live": true,
-      "title": "【YUZU CITY β2 #7】DAY 7┆スロット... 打ちたい!!【鬼紗霧 詩織】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-07T15:00:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_suzune4nori-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -239,11 +235,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【Yuzu City】 Day7-湊星いぐれ視点 新しい目標 #yuzucity #YCGTA #ゆず鯖 @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-07T09:56:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
