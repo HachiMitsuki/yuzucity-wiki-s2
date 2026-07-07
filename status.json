@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T16:26:01+09:00",
+  "updated_at": "2026-07-07T17:06:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -143,7 +143,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "#yuzucity 7日目 副署長の日常",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-07T08:03:53Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -173,7 +177,11 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】Hasta la vista俺達がギャングだ#7",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-07T08:05:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -193,7 +201,11 @@
       "display_name": "鈴音しのり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a8b5cd7-f2a6-488f-8777-5c65f2bbdd11-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/suzune4nori",
-      "is_live": false
+      "is_live": true,
+      "title": "【YUZU CITY β2 #7】DAY 7┆スロット... 打ちたい!!【鬼紗霧 詩織】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-07T08:04:44Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_suzune4nori-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -343,7 +355,11 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YCGTA】七夕らしいべ  Crazy Panda視点 7日目 【#yuzucity #ゆず鯖】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-07T08:01:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
