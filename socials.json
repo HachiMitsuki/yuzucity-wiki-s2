@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T15:35:54+09:00",
+  "updated_at": "2026-07-08T05:23:33+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -98,6 +98,13 @@
       "display_name": "ともえる4ページ🧪📖",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1989708144722022400/tzBNTq1t_400x400.jpg",
       "profile_url": "https://x.com/tomoeru_"
+    },
+    {
+      "platform": "x",
+      "handle": "otonagi_riu",
+      "display_name": "音和りうVtuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1836055570341851137/MqyThSes_400x400.jpg",
+      "profile_url": "https://x.com/otonagi_riu"
     },
     {
       "platform": "x",
