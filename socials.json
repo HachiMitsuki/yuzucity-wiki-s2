@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T15:12:01+09:00",
+  "updated_at": "2026-07-07T15:35:54+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -175,6 +175,13 @@
       "display_name": "_ごはん",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1965191177013264384/fOn9QAKC_400x400.jpg",
       "profile_url": "https://x.com/gohan_twitch"
+    },
+    {
+      "platform": "x",
+      "handle": "akagamiglass",
+      "display_name": "あか🪓🦉AKAGAMIGLASS+",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1623745237100408832/H8NDgF0m_400x400.jpg",
+      "profile_url": "https://x.com/akagamiglass"
     },
     {
       "platform": "x",
