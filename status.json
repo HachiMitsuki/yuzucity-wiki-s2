@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T22:31:10+09:00",
+  "updated_at": "2026-07-07T22:36:10+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -383,11 +383,7 @@
       "display_name": "猫羽ゆけむり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekohayukemuri",
-      "is_live": true,
-      "title": "【APEX】火曜日は @nabe438 とAPEX/初見歓迎",
-      "game_name": "Apex Legends",
-      "started_at": "2026-07-07T12:30:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekohayukemuri-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
