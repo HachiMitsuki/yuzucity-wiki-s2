@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T23:26:09+09:00",
+  "updated_at": "2026-07-07T23:31:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -637,6 +637,16 @@
       "display_name": "who ch.",
       "profile_image_url": "https://yt3.ggpht.com/ADak2EvRswnBUCvktVg582EwjJ2kKwr7w2orlRBUPY18DWuWX3kXu-FDLp__d0l3g6SnNTCDD6w=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40who_404_ch",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCj4JYT7vlgl-ujPkyafGWcA",
+      "channel_id": "UCj4JYT7vlgl-ujPkyafGWcA",
+      "handle": "@lalala_fujinkun",
+      "display_name": "富士さなえ",
+      "profile_image_url": "https://yt3.ggpht.com/Bj5tsaLZ8Sr8lmu69IOEPvy7ApvQ3bSHAu9Y_2QzRSYxZGjwJ4iGpuEwZL6ypmAwu0szKwb3pQ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40lalala_fujinkun",
       "is_live": false
     }
   ]
