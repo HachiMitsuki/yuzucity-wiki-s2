@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T23:41:08+09:00",
+  "updated_at": "2026-07-07T23:46:08+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -261,7 +261,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】そろそろ慣れてこんとな Day６",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-07T14:43:55Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -285,11 +289,7 @@
       "display_name": "とんさと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/tonsato",
-      "is_live": true,
-      "title": "[Yuzu city Beta2]DAY4 やっと起きれたぁ/遠坂 聡",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-07T09:18:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -439,7 +439,11 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": false
+      "is_live": true,
+      "title": "［yuzu city2］正義を捨てた男...誕生その名は『セメトル・ジュース』6日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-07T14:44:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
