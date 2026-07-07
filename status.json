@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T17:36:04+09:00",
+  "updated_at": "2026-07-07T17:37:33+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -397,6 +397,16 @@
       "display_name": "早崎ずぅ",
       "profile_image_url": "https://yt3.ggpht.com/QRabUm0I7vRMi2DcSPYvWHyYy2n9MCYVG7z3pGo-72ic_8b4G3yS4PM0WPkNC_sGBKVg6L8ZvA=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40zuu_hayasaki",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCF_jPkJBlWxpvTgSt6PUALw",
+      "channel_id": "UCF_jPkJBlWxpvTgSt6PUALw",
+      "handle": "@おすしえる_etoa",
+      "display_name": "おすしえる",
+      "profile_image_url": "https://yt3.ggpht.com/6SxHBNnF1443TGrw_HzQrp0Br7Ja-RyAMUHJQ8bXMZBFOBhnmmIpB-1cy3s-QokA7MU5nIkEhw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40%E3%81%8A%E3%81%99%E3%81%97%E3%81%88%E3%82%8B_etoa",
       "is_live": false
     },
     {
