@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T14:57:28+09:00",
+  "updated_at": "2026-07-07T15:12:01+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -98,6 +98,13 @@
       "display_name": "ともえる4ページ🧪📖",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1989708144722022400/tzBNTq1t_400x400.jpg",
       "profile_url": "https://x.com/tomoeru_"
+    },
+    {
+      "platform": "x",
+      "handle": "gekka_shigure",
+      "display_name": "月下時雨🌘☂",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2008873911665283072/rZ_HYIcm_400x400.jpg",
+      "profile_url": "https://x.com/gekka_shigure"
     },
     {
       "platform": "x",
