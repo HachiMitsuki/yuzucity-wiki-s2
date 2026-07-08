@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-08T15:01:33+09:00",
+  "updated_at": "2026-07-09T03:44:10+09:00",
   "clips": [
+    {
+      "id": 240,
+      "source": "twitch",
+      "source_id": "LittleReliableBibimbapNomNom-KWEe2EB0XIyJSyqu",
+      "url": "https://www.twitch.tv/limesan_ttv/clip/LittleReliableBibimbapNomNom-KWEe2EB0XIyJSyqu",
+      "embed_url": "https://clips.twitch.tv/embed?clip=LittleReliableBibimbapNomNom-KWEe2EB0XIyJSyqu",
+      "title": "大砲ぶち込まれました",
+      "description": "https://www.twitch.tv/limesan_ttv/clip/LittleReliableBibimbapNomNom-KWEe2EB0XIyJSyqu",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d9306a2e-aac3-44a3-84fa-5f969cefde0b/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 22,
+      "broadcaster_name": "らいむさん",
+      "author_name": "limesan_1120",
+      "author_avatar": "https://cdn.discordapp.com/avatars/166438665252241409/e0815dda3ec8d1bd7d832ecdea362bce.png?size=128",
+      "posted_at": "2026-07-09T02:00:23+09:00"
+    },
     {
       "id": 239,
       "source": "youtube",
