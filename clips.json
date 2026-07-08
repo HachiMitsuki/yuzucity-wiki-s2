@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-06T18:57:38+09:00",
+  "updated_at": "2026-07-08T15:01:33+09:00",
   "clips": [
+    {
+      "id": 239,
+      "source": "youtube",
+      "source_id": "XSowcMiqs1s",
+      "url": "https://youtube.com/shorts/XSowcMiqs1s",
+      "embed_url": "https://www.youtube.com/embed/XSowcMiqs1s",
+      "title": null,
+      "description": "https://youtube.com/shorts/XSowcMiqs1s?si=3XXJYFOxaK9xHKCX",
+      "thumbnail_url": "https://i.ytimg.com/vi/XSowcMiqs1s/maxresdefault.jpg",
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "MEGA",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1467125943461220526/0a877d7bdb6ffd2eb440d17835525e53.png?size=128",
+      "posted_at": "2026-07-08T15:01:32+09:00"
+    },
     {
       "id": 238,
       "source": "discord",
