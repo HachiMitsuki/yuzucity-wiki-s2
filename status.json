@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T01:36:15+09:00",
+  "updated_at": "2026-07-10T01:51:13+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -57,11 +57,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "yuzucity_day9 ほすきゃばDAY1",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-09T07:08:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -246,9 +242,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
       "is_live": true,
-      "title": "【YuzuCity】考えるのをやめたPD Day8.5",
+      "title": "【YuzuCity】考えるのをやめたPD Day8.9",
       "game_name": "VALORANT",
-      "started_at": "2026-07-09T15:47:13Z",
+      "started_at": "2026-07-09T16:37:11Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
@@ -259,11 +255,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【Yuzu City】 Day8-湊星いぐれ視点 次はRSX！ #yuzucity #YCGTA #ゆず鯖 @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-09T08:34:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
