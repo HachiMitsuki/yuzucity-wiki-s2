@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-10T01:10:39+09:00",
+  "updated_at": "2026-07-10T04:55:59+09:00",
   "clips": [
+    {
+      "id": 242,
+      "source": "discord",
+      "source_id": "1524866728415203528",
+      "url": "https://media.discordapp.net/attachments/1511982692764356648/1524866728415203528/1.mp4?ex=6a514e4e&is=6a4ffcce&hm=e654162a82361df3d122054bc024f5a38b7b8641dfdeaa79a617074d87105780&",
+      "embed_url": null,
+      "title": null,
+      "description": null,
+      "thumbnail_url": null,
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "しらす",
+      "author_avatar": "https://cdn.discordapp.com/avatars/535858519673667612/537b1abfd81c0e0d0006c0fd54ad7128.png?size=128",
+      "posted_at": "2026-07-10T04:55:59+09:00"
+    },
     {
       "id": 241,
       "source": "twitch",
