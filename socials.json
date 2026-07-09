@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T16:14:24+09:00",
+  "updated_at": "2026-07-10T03:13:59+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -679,6 +679,13 @@
       "display_name": "白兎なお🐰🎮🎙",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1677288995414482945/VXZ0KS_s_400x400.jpg",
       "profile_url": "https://x.com/shiratonao"
+    },
+    {
+      "platform": "x",
+      "handle": "siyau_game",
+      "display_name": "紫夜雨-siyau-",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1973310574571429898/vgJznIry_400x400.jpg",
+      "profile_url": "https://x.com/siyau_game"
     }
   ]
 }
