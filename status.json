@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T18:26:03+09:00",
+  "updated_at": "2026-07-09T18:41:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -161,7 +161,11 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#yuzucity】ゆず鯖九日目・「友達を全力で推すゾ！」【#YCGTA】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-09T09:40:38Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -283,7 +287,11 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】PD業務8日目！ 今日は最初まったりしよかな？",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-09T09:40:17Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
