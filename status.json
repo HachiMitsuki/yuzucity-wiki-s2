@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T21:21:04+09:00",
+  "updated_at": "2026-07-09T21:26:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -69,7 +69,7 @@
       "channel_url": "https://www.twitch.tv/natsuna33",
       "is_live": true,
       "title": "🔴LIVE【 #YCGTA 】柚月なつな  day9 #ゆず鯖 #YCGTA #FiveM  →【 #VALORANT】スクリム",
-      "game_name": "Grand Theft Auto V",
+      "game_name": "VALORANT",
       "started_at": "2026-07-09T11:14:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -119,7 +119,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "【めっちゃカメレオン】 Onyxメンツでお絵かきかくれんぼ",
+      "game_name": "MECCHA CHAMELEON",
+      "started_at": "2026-07-09T12:23:22Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
