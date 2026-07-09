@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-09T03:44:10+09:00",
+  "updated_at": "2026-07-10T01:10:39+09:00",
   "clips": [
+    {
+      "id": 241,
+      "source": "twitch",
+      "source_id": "UninterestedCallousGrasshopperSmoocherZ-ofnwRSlmL3rp6McU",
+      "url": "https://www.twitch.tv/sakazuki_kyan/clip/UninterestedCallousGrasshopperSmoocherZ-ofnwRSlmL3rp6McU",
+      "embed_url": "https://clips.twitch.tv/embed?clip=UninterestedCallousGrasshopperSmoocherZ-ofnwRSlmL3rp6McU",
+      "title": "「くわがた下ったとこにいる」って言いたかった...",
+      "description": "https://www.twitch.tv/sakazuki_kyan/clip/UninterestedCallousGrasshopperSmoocherZ-ofnwRSlmL3rp6McU",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/99616e81-32f5-41a4-b37e-29035c278ae6/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 24,
+      "broadcaster_name": "酒月きゃん",
+      "author_name": "酒月きゃん",
+      "author_avatar": "https://cdn.discordapp.com/avatars/802022260868907050/3e9ba8b4c4beb70f4ecabda1034fcae2.png?size=128",
+      "posted_at": "2026-07-10T01:10:38+09:00"
+    },
     {
       "id": 240,
       "source": "twitch",
