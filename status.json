@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T16:11:01+09:00",
+  "updated_at": "2026-07-09T17:06:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -73,7 +73,11 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】一旦スロットか？#4【鳩禁止】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-09T08:04:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -143,7 +147,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "#yuzucity 9日目 副署長の日常",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-09T08:03:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -183,7 +191,11 @@
       "display_name": "レイざえもん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "day9 ヘリ落ちないように頑張らないと！！【奈羅鬼 玲央】  #yuzucity #YCGTA #ゆず鯖",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-09T08:03:25Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -213,7 +225,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】考えるのをやめたPD Day8",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-09T08:01:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
