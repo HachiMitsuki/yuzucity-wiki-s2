@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T02:56:12+09:00",
+  "updated_at": "2026-07-10T03:01:11+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -221,11 +221,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【YuzuCity】考えるのをやめたPD Day8.9",
-      "game_name": "VALORANT",
-      "started_at": "2026-07-09T16:37:11Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -269,11 +265,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【GTA5】Yuzu City Season2 Day9",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-09T11:04:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -347,11 +339,7 @@
       "display_name": "live_zer0",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e4d821e-d3fb-4538-ab7d-db54c2bf8f04-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/live_zer0",
-      "is_live": true,
-      "title": "【yuzucityシーズン2】今日も頑張るぞ！ ＃9",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-09T12:08:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_live_zer0-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
