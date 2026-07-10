@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T22:21:17+09:00",
+  "updated_at": "2026-07-10T22:31:16+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -129,11 +129,7 @@
       "display_name": "竜胆小豆",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaf01dbf-da30-41ce-8d0c-eabb3d8c0b31-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rindou_azuki",
-      "is_live": true,
-      "title": "Yuzu City Season2    体調復活",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-10T11:03:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rindou_azuki-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -419,7 +415,11 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YCGTA】どうやらホスイベ2日目らしい  Crazy Panda視点 10日目 【#yuzucity #ゆず鯖】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-10T13:30:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
