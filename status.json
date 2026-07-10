@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T20:41:15+09:00",
+  "updated_at": "2026-07-10T20:46:18+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -183,7 +183,11 @@
       "display_name": "makotomo_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a2ef1b9-5416-4066-b346-dd181f875d54-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/makotomo_twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "【FiveM】Yuzu City Season2 まこともるーく視点。また少し羽ばたこうかな！#10",
+      "game_name": "",
+      "started_at": "2026-07-10T11:45:10Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_makotomo_twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -289,7 +293,11 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": false
+      "is_live": true,
+      "title": "【GTA5】Yuzu City Season2 Day10",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-10T11:43:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
