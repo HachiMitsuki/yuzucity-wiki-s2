@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-10T09:16:39+09:00",
+  "updated_at": "2026-07-10T09:19:14+09:00",
   "clips": [
+    {
+      "id": 246,
+      "source": "youtube",
+      "source_id": "1W5FHdfjKJg",
+      "url": "https://youtube.com/shorts/1W5FHdfjKJg",
+      "embed_url": "https://www.youtube.com/embed/1W5FHdfjKJg",
+      "title": null,
+      "description": "https://youtube.com/shorts/1W5FHdfjKJg?si=3GipzT3McAsd-kmY",
+      "thumbnail_url": "https://i.ytimg.com/vi/1W5FHdfjKJg/maxresdefault.jpg",
+      "duration_seconds": null,
+      "broadcaster_name": null,
+      "author_name": "がじゃり子。",
+      "author_avatar": "https://cdn.discordapp.com/avatars/676609786363772938/96c55fe4adde8f4b4e9fc604b1163b8a.png?size=128",
+      "posted_at": "2026-07-10T09:19:14+09:00"
+    },
     {
       "id": 245,
       "source": "twitch",
