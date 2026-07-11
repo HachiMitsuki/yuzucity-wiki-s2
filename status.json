@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T02:01:03+09:00",
+  "updated_at": "2026-07-12T02:39:51+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -450,6 +450,20 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "akagamiglass",
+      "login": "akagamiglass",
+      "user_id": "483988497",
+      "display_name": "あかがみぐらす",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/akagamiglass",
+      "is_live": true,
+      "title": "【顔出し】Yuzucity 抗争だって 緋廉 あか !device !sens",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-11T11:26:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
