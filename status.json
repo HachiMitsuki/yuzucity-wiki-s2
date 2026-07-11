@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T17:06:02+09:00",
+  "updated_at": "2026-07-11T17:31:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -73,7 +73,11 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】今日は抗争があるらしいよ#6【鳩禁止】",
+      "game_name": "",
+      "started_at": "2026-07-11T08:26:31Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -385,7 +389,11 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】人が少ない中で何をするか！？",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-11T08:29:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
