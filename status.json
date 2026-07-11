@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T23:56:06+09:00",
+  "updated_at": "2026-07-12T00:06:06+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -120,8 +120,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
       "is_live": true,
-      "title": "【めっちゃカメレオン】 Onyxメンツでお絵かきかくれんぼ",
-      "game_name": "MECCHA CHAMELEON",
+      "title": "ゆずシティ２ 頑張ってます！！#yuzu",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-07-11T13:36:40Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
@@ -391,11 +391,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【#yuzucity】#9 釣りとスロカスと宝探し",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-11T08:01:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -459,11 +455,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【Yuzu City】人が少ない中で何をするか！？",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-11T08:29:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
