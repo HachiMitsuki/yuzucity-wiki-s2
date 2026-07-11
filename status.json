@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T19:21:04+09:00",
+  "updated_at": "2026-07-11T19:23:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -118,6 +118,20 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaf01dbf-da30-41ce-8d0c-eabb3d8c0b31-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rindou_azuki",
       "is_live": false
+    },
+    {
+      "platform": "twitch",
+      "id": "nix_yuki0",
+      "login": "nix_yuki0",
+      "user_id": "731183445",
+      "display_name": "こゆきくん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/nix_yuki0",
+      "is_live": true,
+      "title": "【Yuzu City】Day１１ 抗争だってよ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-11T08:44:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
