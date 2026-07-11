@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T05:36:18+09:00",
+  "updated_at": "2026-07-11T16:55:08+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -105,6 +105,13 @@
       "display_name": "むむいばっとえんど",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1791691026606014464/vQxKd1Wg_400x400.jpg",
       "profile_url": "https://x.com/muiff14s2"
+    },
+    {
+      "platform": "x",
+      "handle": "nix_yuki0",
+      "display_name": "こゆきくん❄*.+ﾟ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1546074130734231552/jW3Ry5I2_400x400.jpg",
+      "profile_url": "https://x.com/nix_yuki0"
     },
     {
       "platform": "x",
