@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T05:40:57+09:00",
+  "updated_at": "2026-07-12T05:55:57+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -153,11 +153,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "#yuzucity 11日目 副署長の日常",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-11T15:39:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -241,11 +237,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【Yuzu City】 Day10-湊星いぐれ視点 何買おうかな～👼 #yuzucity #YCGTA #ゆず鯖 @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-11T12:47:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
