@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T15:15:59+09:00",
+  "updated_at": "2026-07-12T15:46:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -103,11 +103,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "アサシンクリードブラックフラッグRE 海賊にアサシンに多忙だな今回も",
-      "game_name": "Assassin's Creed Black Flag Resynced",
-      "started_at": "2026-07-12T05:21:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
