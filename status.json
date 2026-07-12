@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T04:10:55+09:00",
+  "updated_at": "2026-07-13T05:00:55+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -227,11 +227,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【YuzuCity】チル大事 Day11",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-12T18:26:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -241,11 +237,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【Yuzu City】 Day11-湊星いぐれ視点 結末と今後 #yuzucity #YCGTA #ゆず鯖 @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-12T17:00:46Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -285,11 +277,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【YuzuCity】PD業務11日目！ 寝ても覚めてもスロット三昧！？",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-12T12:31:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
