@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T17:51:00+09:00",
+  "updated_at": "2026-07-12T18:21:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -61,7 +61,7 @@
       "channel_url": "https://www.twitch.tv/natsuna33",
       "is_live": true,
       "title": "🔴LIVE【 #VALORANT】【Dchanボーナス杯 feat よし】Day2",
-      "game_name": "Palworld",
+      "game_name": "VALORANT",
       "started_at": "2026-07-12T06:02:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
@@ -245,7 +245,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】 Day11-湊星いぐれ視点 結末と今後 #yuzucity #YCGTA #ゆず鯖 @i_minatoboshi",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-12T09:16:34Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
