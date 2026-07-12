@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T18:56:00+09:00",
+  "updated_at": "2026-07-12T19:01:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -171,7 +171,11 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": false
+      "is_live": true,
+      "title": "【#BloodshiftCityRP】紫 紅華37日目【千紫万紅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-12T10:00:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
