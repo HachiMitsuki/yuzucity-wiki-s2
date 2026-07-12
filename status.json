@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T21:36:05+09:00",
+  "updated_at": "2026-07-12T22:16:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -196,9 +196,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
       "is_live": true,
-      "title": "【#BloodshiftCityRP】紫 紅華37日目【千紫万紅】",
+      "title": "【#yuzucity】ゆず鯖壱拾弐日目その弐・「今日も抗争！」【#YCGTA】",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-12T10:00:04Z",
+      "started_at": "2026-07-12T12:43:20Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
     },
     {
@@ -435,11 +435,7 @@
       "display_name": "Kumish11",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3074226c-9264-41f6-968d-83cd1b3654ca-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kumish11",
-      "is_live": true,
-      "title": "[GTA5RP]この街での生活。。",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-12T12:00:25Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kumish11-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
