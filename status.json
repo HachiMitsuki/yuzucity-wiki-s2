@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T02:01:08+09:00",
+  "updated_at": "2026-07-13T02:06:09+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -115,11 +115,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "ゆずシティ２ パンダはおそらく今日が最後 #yuzucity",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-12T12:28:43Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -149,11 +145,7 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": true,
-      "title": "［Yuzu City β2］如月 団の新たな街での生活！♯8",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-12T10:55:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -211,11 +203,7 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": true,
-      "title": "【YuzuCity】Hasta la vista今日は抗争メイン！！#12",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-12T12:06:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -269,7 +257,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】 Day11-湊星いぐれ視点 結末と今後 #yuzucity #YCGTA #ゆず鯖 @i_minatoboshi",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-12T17:00:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
