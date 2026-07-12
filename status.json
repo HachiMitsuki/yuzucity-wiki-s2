@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T19:01:01+09:00",
+  "updated_at": "2026-07-12T19:06:01+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -87,7 +87,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzu12日目抗争",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-12T10:05:26Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
