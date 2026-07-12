@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T23:21:06+09:00",
+  "updated_at": "2026-07-12T23:31:09+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -471,11 +471,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【Yuzu City】ご飯も食べながら",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-12T11:48:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
