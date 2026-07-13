@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-13T14:49:55+09:00",
+  "updated_at": "2026-07-13T16:53:32+09:00",
   "clips": [
+    {
+      "id": 255,
+      "source": "twitch",
+      "source_id": "ApatheticComfortableMallardWTRuck--F8l_KTRlR986dom",
+      "url": "https://www.twitch.tv/rukimafu/clip/ApatheticComfortableMallardWTRuck--F8l_KTRlR986dom",
+      "embed_url": "https://clips.twitch.tv/embed?clip=ApatheticComfortableMallardWTRuck--F8l_KTRlR986dom",
+      "title": "おもしろバンジェ　～猫白 るき視点～",
+      "description": "https://www.twitch.tv/rukimafu/clip/ApatheticComfortableMallardWTRuck--F8l_KTRlR986dom",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0de4274f-5815-486e-89b4-4df35dc62ebb/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 36,
+      "broadcaster_name": "rukimafu",
+      "author_name": "るきまふ🐰 / 猫白 るき",
+      "author_avatar": "https://cdn.discordapp.com/avatars/293775930407780363/ee1c517ce469cb7c8b5a747ef62f08dc.png?size=128",
+      "posted_at": "2026-07-13T16:53:29+09:00"
+    },
     {
       "id": 254,
       "source": "twitch",
