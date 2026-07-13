@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-13T01:31:28+09:00",
+  "updated_at": "2026-07-13T13:50:56+09:00",
   "clips": [
+    {
+      "id": 253,
+      "source": "twitch",
+      "source_id": "ExquisiteMoralSrirachaChefFrank-JJLs2YPCzBZm4oOS",
+      "url": "https://www.twitch.tv/opan_tyuu2/clip/ExquisiteMoralSrirachaChefFrank-JJLs2YPCzBZm4oOS",
+      "embed_url": "https://clips.twitch.tv/embed?clip=ExquisiteMoralSrirachaChefFrank-JJLs2YPCzBZm4oOS",
+      "title": "異次元逮捕ｗｗｗ",
+      "description": "https://www.twitch.tv/opan_tyuu2/clip/ExquisiteMoralSrirachaChefFrank-JJLs2YPCzBZm4oOS",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6d2c1035-ce99-4adb-beea-ec92a700a429/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 30,
+      "broadcaster_name": "おぱんおじさん",
+      "author_name": "おぱん",
+      "author_avatar": "https://cdn.discordapp.com/avatars/665450601831727124/cf0f96616455a991095b74b5d892f992.png?size=128",
+      "posted_at": "2026-07-13T13:50:55+09:00"
+    },
     {
       "id": 252,
       "source": "twitch",
