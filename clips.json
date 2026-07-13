@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-13T13:50:56+09:00",
+  "updated_at": "2026-07-13T14:49:55+09:00",
   "clips": [
+    {
+      "id": 254,
+      "source": "twitch",
+      "source_id": "IgnorantHeartlessBobaBrainSlug-UZ1jqieB2h2smOsm",
+      "url": "https://www.twitch.tv/k6o_minase/clip/IgnorantHeartlessBobaBrainSlug-UZ1jqieB2h2smOsm",
+      "embed_url": "https://clips.twitch.tv/embed?clip=IgnorantHeartlessBobaBrainSlug-UZ1jqieB2h2smOsm",
+      "title": "情報過多バンジェ",
+      "description": "https://www.twitch.tv/k6o_minase/clip/IgnorantHeartlessBobaBrainSlug-UZ1jqieB2h2smOsm",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2ced8f20-92b3-4eea-b20e-f51599e733cd/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 60,
+      "broadcaster_name": "水無瀬九炉",
+      "author_name": "水無瀬　九炉",
+      "author_avatar": "https://cdn.discordapp.com/avatars/211332263038812160/4e32909d49211b1fb1c63932a698ff52.png?size=128",
+      "posted_at": "2026-07-13T14:49:54+09:00"
+    },
     {
       "id": 253,
       "source": "twitch",
