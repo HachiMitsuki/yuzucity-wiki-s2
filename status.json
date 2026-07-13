@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T00:41:04+09:00",
+  "updated_at": "2026-07-14T01:11:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -221,11 +221,7 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": true,
-      "title": "【YuzuCity】Hasta la vista今日は限定大型やりたいな#13",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-13T11:07:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
