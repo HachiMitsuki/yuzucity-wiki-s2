@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T01:56:11+09:00",
+  "updated_at": "2026-07-15T02:03:43+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -253,11 +253,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【YGSRast】ファームだ！ファームだ！5.5日目",
-      "game_name": "Rust",
-      "started_at": "2026-07-14T13:37:01Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -458,6 +454,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-07-14T10:14:03Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "limesan_ttv",
+      "login": "limesan_ttv",
+      "user_id": "118631684",
+      "display_name": "らいむさん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/limesan_ttv",
+      "is_live": true,
+      "title": "【 #YCGTA 】最後の超大型【 #ゆず鯖 】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-14T13:42:40Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
