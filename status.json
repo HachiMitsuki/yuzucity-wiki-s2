@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T21:31:12+09:00",
+  "updated_at": "2026-07-14T21:56:13+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -255,7 +255,11 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": false
+      "is_live": true,
+      "title": "【yuzucity】11日目最終回うめやんと帰るか",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-14T12:55:46Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
