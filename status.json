@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T21:06:21+09:00",
+  "updated_at": "2026-07-14T21:11:11+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -111,7 +111,11 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#ゆず鯖 】今日は大型行きますか １４日目【#vtuber /雷音雅】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-14T12:08:32Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -357,7 +361,11 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】＃５ わむ男だけ最終日 【GTA5】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-14T12:06:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
