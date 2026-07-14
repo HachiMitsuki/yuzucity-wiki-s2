@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T10:25:15+09:00",
+  "updated_at": "2026-07-15T01:44:31+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -147,6 +147,13 @@
       "display_name": "Liphaly/りふぁりー",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1995984679074398208/AQ-1efIF_400x400.jpg",
       "profile_url": "https://x.com/56s_"
+    },
+    {
+      "platform": "x",
+      "handle": "frcl_orito",
+      "display_name": "おりと",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2070826163984011264/NSXzIFug_400x400.jpg",
+      "profile_url": "https://x.com/frcl_orito"
     },
     {
       "platform": "x",
