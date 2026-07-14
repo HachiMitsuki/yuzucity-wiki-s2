@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T02:51:10+09:00",
+  "updated_at": "2026-07-15T03:01:10+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,7 +49,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity_day？？ エスケープフロムロスサントス",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-14T18:00:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -173,11 +177,7 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": true,
-      "title": "【#yuzucity】ゆず鯖壱拾肆日目・「ライブ♪ライブ♪」【#YCGTA】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-14T07:58:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -295,11 +295,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【YuzuCity】  PD業務13日目！ 犯罪者の皆さん、捕まえさせてください",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-14T10:04:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -379,11 +375,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【#YCGTA】なにしよっかなー Crazy Panda視点 14日目 【#yuzucity #ゆず鯖】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-14T10:34:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
