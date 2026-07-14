@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T21:26:12+09:00",
+  "updated_at": "2026-07-14T21:31:12+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -218,7 +218,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
       "is_live": true,
-      "title": "【YuzuCity】Hasta la vista残された時間は残りわずか#13",
+      "title": "【YuzuCity】Hasta la vista残された時間は残りわずか#14",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-07-14T12:11:25Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
@@ -265,11 +265,7 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": true,
-      "title": "【YGSRast】ファームだ！ファームだ！5.5日目",
-      "game_name": "Rust",
-      "started_at": "2026-07-14T11:24:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
