@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T16:28:16+09:00",
+  "updated_at": "2026-07-14T10:25:15+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -133,6 +133,13 @@
       "display_name": "月下時雨🌘☂",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2008873911665283072/rZ_HYIcm_400x400.jpg",
       "profile_url": "https://x.com/gekka_shigure"
+    },
+    {
+      "platform": "x",
+      "handle": "mitsuniwa_vt",
+      "display_name": "三庭雪彦@6/6シニカルナイトプラン歌ってみた投稿",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2063247659385917440/KTgQ9D6Q_400x400.jpg",
+      "profile_url": "https://x.com/mitsuniwa_vt"
     },
     {
       "platform": "x",
