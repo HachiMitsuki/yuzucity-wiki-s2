@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T20:01:05+09:00",
+  "updated_at": "2026-07-14T20:26:06+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -137,7 +137,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【Yuzu City】Day１２ 最終日前日！でっかい仕事成功させるぞ",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-14T11:23:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -245,7 +249,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【YGSRast】ファームだ！ファームだ！5.5日目",
+      "game_name": "Rust",
+      "started_at": "2026-07-14T11:24:04Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
