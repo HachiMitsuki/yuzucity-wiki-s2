@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T02:39:31+09:00",
+  "updated_at": "2026-07-16T03:46:26+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -7,6 +7,13 @@
       "display_name": "🐿レイざえもん👑🌹✖️🍳👾💤🥞💫🍒✨",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1920091963287830528/7A6PJ9fP_400x400.jpg",
       "profile_url": "https://x.com/reizaemon00"
+    },
+    {
+      "platform": "x",
+      "handle": "dec29_25",
+      "display_name": "炬白(こはく)😼💜",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039257177098248194/7OxR7YU5_400x400.jpg",
+      "profile_url": "https://x.com/dec29_25"
     },
     {
       "platform": "x",
