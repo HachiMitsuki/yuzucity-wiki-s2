@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T00:47:36+09:00",
+  "updated_at": "2026-07-16T00:49:36+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -742,6 +742,13 @@
       "display_name": "綾",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2035108895342174208/_zr2Tvrb_400x400.jpg",
       "profile_url": "https://x.com/ayaya1hp"
+    },
+    {
+      "platform": "x",
+      "handle": "zakisaragi",
+      "display_name": "如月",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1380507046605295617/6l67IIdc_400x400.jpg",
+      "profile_url": "https://x.com/zakisaragi"
     }
   ]
 }
