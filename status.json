@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T23:21:09+09:00",
+  "updated_at": "2026-07-15T23:46:09+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -219,11 +219,7 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": true,
-      "title": "【#yuzucity】ゆず鯖最終日・「花に嵐のたとえも あるさ」【#YCGTA】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-15T08:19:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -532,7 +528,7 @@
       "is_live": true,
       "title": "【 #YCGTA 】ありがとう！YUZUCITY！【 #ゆず鯖 】",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-15T08:45:36Z",
+      "started_at": "2026-07-15T14:23:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
     },
     {
