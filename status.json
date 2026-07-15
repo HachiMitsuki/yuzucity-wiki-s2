@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T00:01:09+09:00",
+  "updated_at": "2026-07-16T00:06:08+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -63,11 +63,7 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": true,
-      "title": "🔴LIVE【 #YCGTA 】柚月なつな  最終日 #ゆず鯖 #YCGTA #FiveM",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-15T12:16:30Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -111,11 +107,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#ゆず鯖 】最後くらいね？ 最終日【#vtuber /雷音雅】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-15T10:10:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -177,11 +169,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "【#yuzucity】Season2 / DAY ?『最終日犯罪だア嗚呼ああ』#YCGTA #ゆず鯖 #ストリーマーグラセフ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-15T13:37:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -191,11 +179,7 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": true,
-      "title": "最終日だって  #yuzucity #YCGTA #ゆず鯖",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-15T10:10:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -225,11 +209,7 @@
       "display_name": "makotomo_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a2ef1b9-5416-4066-b346-dd181f875d54-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/makotomo_twitch",
-      "is_live": true,
-      "title": "【FiveM】Yuzu City Season2 まこともるーく視点。また少し羽ばたこうかな！#最終日",
-      "game_name": "",
-      "started_at": "2026-07-15T12:08:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_makotomo_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -440,7 +420,7 @@
       "is_live": true,
       "title": "【#YCGTA】おい…嘘だろ？？最終日？？？ Crazy Panda視点 15日目 【#yuzucity #ゆず鯖】",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-15T10:51:19Z",
+      "started_at": "2026-07-15T15:05:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
     },
     {
@@ -462,9 +442,9 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
       "is_live": true,
-      "title": "［yuzu city2 end］正義を捨てた男...誕生その名は『セメトル・ジュース』14日目 最終日",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-15T13:25:40Z",
+      "title": "皆で初カメレオン",
+      "game_name": "MECCHA CHAMELEON",
+      "started_at": "2026-07-15T15:05:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
     {
