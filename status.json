@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T21:30:33+09:00",
+  "updated_at": "2026-07-15T22:02:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -364,7 +364,7 @@
       "is_live": true,
       "title": "【YuzuCity】  PD業務最終日！ 楽しんでいくぞ！",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-15T11:23:02Z",
+      "started_at": "2026-07-15T12:32:35Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
     },
     {
@@ -526,6 +526,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-07-15T08:45:36Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "momotarou_vt",
+      "login": "momotarou_vt",
+      "user_id": "415624926",
+      "display_name": "ももたろうさん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e963178f-1359-427c-864a-23aaeb8d383b-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/momotarou_vt",
+      "is_live": true,
+      "title": "【YuzuCity】最終日！【ここここしここし/ももたろう】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-15T13:00:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
@@ -715,6 +729,16 @@
       "display_name": "如月 Kisaragi",
       "profile_image_url": "https://yt3.ggpht.com/ytc/AIdro_k1hICWUbjkDrNPVpNFzUR6qmmOIH6hh2R6ERdZN2LcqA=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40kisaragi6791",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCnrRpT8zUpvTvwpiMtdQzEg",
+      "channel_id": "UCnrRpT8zUpvTvwpiMtdQzEg",
+      "handle": "@momotarou_vt",
+      "display_name": "ももたろう",
+      "profile_image_url": "https://yt3.ggpht.com/F_KG2hmPmbHW-qcOQnBnMHBkc5yJ5Ap47AKX6BJvKPUYghKiJHUVrMmKmaAIFL5cbCPLtQihRw=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40momotarou_vt",
       "is_live": false
     }
   ]
