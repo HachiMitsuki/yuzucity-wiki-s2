@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T17:21:01+09:00",
+  "updated_at": "2026-07-15T17:36:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -211,7 +211,11 @@
       "display_name": "レイざえもん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "day15 明日が最終日らしい！！【奈羅鬼 玲央】  #yuzucity #YCGTA #ゆず鯖",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-15T08:33:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -299,7 +303,11 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": false
+      "is_live": true,
+      "title": "【YuzuCity】  PD業務最終日！ 楽しんでいくぞ！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-15T08:33:43Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
