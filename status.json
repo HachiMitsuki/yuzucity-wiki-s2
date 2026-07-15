@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T20:56:03+09:00",
+  "updated_at": "2026-07-15T21:04:47+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,7 +49,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity_day15 おつかれさま",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-15T12:02:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -122,7 +126,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
       "is_live": true,
-      "title": "DCPグラセフ２ 新米は新米らしく",
+      "title": "DCPグラセフ２ 新米は新米らしく ９話目",
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-07-15T11:55:33Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
@@ -675,6 +679,16 @@
       "display_name": "富士さなえ",
       "profile_image_url": "https://yt3.ggpht.com/Bj5tsaLZ8Sr8lmu69IOEPvy7ApvQ3bSHAu9Y_2QzRSYxZGjwJ4iGpuEwZL6ypmAwu0szKwb3pQ=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40lalala_fujinkun",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UC6J1TM3Fskzol-ZmBZ-W9kg",
+      "channel_id": "UC6J1TM3Fskzol-ZmBZ-W9kg",
+      "handle": "@kisaragi6791",
+      "display_name": "如月 Kisaragi",
+      "profile_image_url": "https://yt3.ggpht.com/ytc/AIdro_k1hICWUbjkDrNPVpNFzUR6qmmOIH6hh2R6ERdZN2LcqA=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40kisaragi6791",
       "is_live": false
     }
   ]
