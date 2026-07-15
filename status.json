@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T21:04:47+09:00",
+  "updated_at": "2026-07-15T21:16:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -191,7 +191,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "#yuzucity Last 副署長の日常",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-15T12:11:30Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -218,7 +222,7 @@
       "is_live": true,
       "title": "【FiveM】Yuzu City Season2 まこともるーく視点。また少し羽ばたこうかな！#最終日",
       "game_name": "",
-      "started_at": "2026-07-15T11:18:42Z",
+      "started_at": "2026-07-15T12:08:29Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_makotomo_twitch-{width}x{height}.jpg"
     },
     {
@@ -277,7 +281,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【YGSRast】レベル上げやってこ6日目",
+      "game_name": "VALORANT",
+      "started_at": "2026-07-15T12:15:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -417,7 +425,11 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": false
+      "is_live": true,
+      "title": "Yuzu City2",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-15T12:13:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
