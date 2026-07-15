@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T20:21:02+09:00",
+  "updated_at": "2026-07-15T20:46:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -155,7 +155,11 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": false
+      "is_live": true,
+      "title": "［Yuzu City β2］如月 団の新たな街での生活！♯11(Last Day)",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-15T11:42:52Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -330,7 +334,7 @@
       "is_live": true,
       "title": "【YuzuCity】  PD業務最終日！ 楽しんでいくぞ！",
       "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-15T08:33:43Z",
+      "started_at": "2026-07-15T11:23:02Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
     },
     {
