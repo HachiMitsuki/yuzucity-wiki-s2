@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T16:29:27+09:00",
+  "updated_at": "2026-07-16T00:09:21+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -231,6 +231,13 @@
       "display_name": "海月 織 Tw🪼VTuber準備中",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1982838573918228480/aYhAxU2b_400x400.jpg",
       "profile_url": "https://x.com/mitsuki_shiki_"
+    },
+    {
+      "platform": "x",
+      "handle": "kaineman_",
+      "display_name": "三依カイネ@スト鯖Rust主催",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1798645369112612864/evO4-h8V_400x400.jpg",
+      "profile_url": "https://x.com/kaineman_"
     },
     {
       "platform": "x",
