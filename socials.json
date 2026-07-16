@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T00:26:41+09:00",
+  "updated_at": "2026-07-17T00:28:30+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -280,6 +280,13 @@
       "display_name": "_ごはん",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1965191177013264384/fOn9QAKC_400x400.jpg",
       "profile_url": "https://x.com/gohan_twitch"
+    },
+    {
+      "platform": "x",
+      "handle": "mega31500123",
+      "display_name": "MEGAちゃんねる_お気楽配信者",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2018722316818296832/myJPDUR2_400x400.jpg",
+      "profile_url": "https://x.com/mega31500123"
     },
     {
       "platform": "x",
