@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-17T00:27:53+09:00",
+  "updated_at": "2026-07-17T01:48:47+09:00",
   "clips": [
+    {
+      "id": 263,
+      "source": "twitch",
+      "source_id": "ArtsyTenuousKimchiGivePLZ-ejFGudr5K3tJbtYN",
+      "url": "https://www.twitch.tv/i_minatoboshi/clip/ArtsyTenuousKimchiGivePLZ-ejFGudr5K3tJbtYN",
+      "embed_url": "https://clips.twitch.tv/embed?clip=ArtsyTenuousKimchiGivePLZ-ejFGudr5K3tJbtYN",
+      "title": "すばる、ストラーーーイク！！",
+      "description": "https://www.twitch.tv/i_minatoboshi/clip/ArtsyTenuousKimchiGivePLZ-ejFGudr5K3tJbtYN",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/229d36fc-428b-4235-8f35-fdd716fc288d/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 22,
+      "broadcaster_name": "湊星いぐれ",
+      "author_name": "湊星いぐれ",
+      "author_avatar": "https://cdn.discordapp.com/avatars/307857300029308928/784e53ffbb88ba836c13d21314ba27b3.png?size=128",
+      "posted_at": "2026-07-17T01:48:46+09:00"
+    },
     {
       "id": 262,
       "source": "twitch",
