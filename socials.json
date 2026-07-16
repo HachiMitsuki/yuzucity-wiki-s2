@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T10:05:41+09:00",
+  "updated_at": "2026-07-16T10:39:46+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -210,6 +210,13 @@
       "display_name": "むぎち",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1807005346730565632/AQW8J3Dg_400x400.jpg",
       "profile_url": "https://x.com/mugimugi230926"
+    },
+    {
+      "platform": "x",
+      "handle": "haizuki_rou",
+      "display_name": "灰月ロウ🌙🐺/声良VTuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2009244622846038016/EU0xYKTD_400x400.jpg",
+      "profile_url": "https://x.com/haizuki_rou"
     },
     {
       "platform": "x",
