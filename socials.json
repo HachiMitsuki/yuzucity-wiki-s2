@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T11:09:52+09:00",
+  "updated_at": "2026-07-16T13:02:15+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -791,6 +791,13 @@
       "display_name": "如月",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1380507046605295617/6l67IIdc_400x400.jpg",
       "profile_url": "https://x.com/zakisaragi"
+    },
+    {
+      "platform": "x",
+      "handle": "yuranunusu",
+      "display_name": "ゆらぬぬす",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1981815800165027840/WZpEdJyY_400x400.jpg",
+      "profile_url": "https://x.com/yuranunusu"
     }
   ]
 }
