@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T21:46:05+09:00",
+  "updated_at": "2026-07-16T23:26:06+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -124,8 +124,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
       "is_live": true,
-      "title": "【#アークナイツ 】ガチャの時間だっ！？！？【#vtuber /雷音雅】",
-      "game_name": "Grand Theft Auto V",
+      "title": "【#星の翼 】久々だけどだいじょぶそ？【#vtuber /雷音雅】",
+      "game_name": "StarWard",
       "started_at": "2026-07-16T11:38:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
@@ -367,11 +367,7 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": true,
-      "title": "【VALORANT】がんばる",
-      "game_name": "VALORANT",
-      "started_at": "2026-07-16T10:11:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -411,11 +407,7 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": true,
-      "title": "Yuzu City2",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-16T12:09:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
