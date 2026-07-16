@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T21:01:05+09:00",
+  "updated_at": "2026-07-16T21:11:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -101,7 +101,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ぱーじでい",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-16T12:10:02Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -383,7 +387,11 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": false
+      "is_live": true,
+      "title": "Yuzu City2",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-16T12:09:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
