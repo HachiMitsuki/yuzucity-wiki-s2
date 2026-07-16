@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-16T13:38:36+09:00",
+  "updated_at": "2026-07-17T00:27:53+09:00",
   "clips": [
+    {
+      "id": 262,
+      "source": "twitch",
+      "source_id": "PrettySlipperyNigiriHeyGuys-TOmDOSdWjhhrc7aD",
+      "url": "https://www.twitch.tv/opan_tyuu2/clip/PrettySlipperyNigiriHeyGuys-TOmDOSdWjhhrc7aD",
+      "embed_url": "https://clips.twitch.tv/embed?clip=PrettySlipperyNigiriHeyGuys-TOmDOSdWjhhrc7aD",
+      "title": "爆発エンド",
+      "description": "反省はしてますが後悔はしてません\nお疲れさまでした！！\nhttps://www.twitch.tv/opan_tyuu2/clip/PrettySlipperyNigiriHeyGuys-TOmDOSdWjhhrc7aD",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7cb3e517-5682-4d6f-bc1a-942b3b7da36b/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 41,
+      "broadcaster_name": "おぱんおじさん",
+      "author_name": "おぱん",
+      "author_avatar": "https://cdn.discordapp.com/avatars/665450601831727124/cf0f96616455a991095b74b5d892f992.png?size=128",
+      "posted_at": "2026-07-17T00:27:51+09:00"
+    },
     {
       "id": 261,
       "source": "twitch",
