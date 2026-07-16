@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T00:31:09+09:00",
+  "updated_at": "2026-07-17T00:36:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,11 +19,7 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": true,
-      "title": "[VALORANT] 初コラボの方たちと /w.神指かつや3 三味線草ゴギョウ3 詩茶はや3 まーげーみんぐ3 #新人Vtuber #valorant募集",
-      "game_name": "VALORANT",
-      "started_at": "2026-07-16T12:28:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
