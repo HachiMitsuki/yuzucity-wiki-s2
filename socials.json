@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T23:21:59+09:00",
+  "updated_at": "2026-07-17T00:26:41+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -168,6 +168,13 @@
       "display_name": "月下時雨🌘☂",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2008873911665283072/rZ_HYIcm_400x400.jpg",
       "profile_url": "https://x.com/gekka_shigure"
+    },
+    {
+      "platform": "x",
+      "handle": "sourei_2525",
+      "display_name": "蒼澪@Vstreamer",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2066205828726902784/7u-qwset_400x400.jpg",
+      "profile_url": "https://x.com/sourei_2525"
     },
     {
       "platform": "x",
