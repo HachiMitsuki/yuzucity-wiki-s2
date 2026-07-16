@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T00:11:06+09:00",
+  "updated_at": "2026-07-17T00:26:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -53,11 +53,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "yuzucity_day16 END",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-16T11:01:31Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -229,11 +225,7 @@
       "display_name": "レイざえもん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
-      "is_live": true,
-      "title": "day16 今日が本当の最終日【奈羅鬼 玲央】  #yuzucity #YCGTA #ゆず鯖",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-16T12:34:39Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -263,7 +255,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【YGSRast】スタートラインどこ？ｗ７.5日目",
+      "game_name": "VALORANT",
+      "started_at": "2026-07-16T15:23:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -297,11 +293,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【Yuzu city】アスタラビスタ 祐月 EX日目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-16T12:37:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -311,11 +303,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【GTA5】Yuzu City Season2 additional time",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-16T10:51:21Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -395,11 +383,7 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": true,
-      "title": "Yuzu City2",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-16T14:55:34Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -429,11 +413,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "［yuzu city2］エンド後の街何してもいいので何しよう！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-16T11:50:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
