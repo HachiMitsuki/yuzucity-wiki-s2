@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-16T10:39:46+09:00",
+  "updated_at": "2026-07-16T11:09:52+09:00",
   "accounts": [
+    {
+      "platform": "x",
+      "handle": "ugetsushiramine",
+      "display_name": "白峰ウゲツ🪄🎷",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2019204612251869184/cA7vlYXb_400x400.jpg",
+      "profile_url": "https://x.com/ugetsushiramine"
+    },
     {
       "platform": "x",
       "handle": "reizaemon00",
