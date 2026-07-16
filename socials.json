@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T00:28:30+09:00",
+  "updated_at": "2026-07-17T02:04:36+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -77,6 +77,13 @@
       "display_name": "ゆの*お仕事募集中",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1763393604914176000/39Q4wjFY_400x400.jpg",
       "profile_url": "https://x.com/yy_on613"
+    },
+    {
+      "platform": "x",
+      "handle": "rtsn_2",
+      "display_name": "KIE_早崎 ずぅ🌼🐥",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1906923389715181568/Mfep1PLF_400x400.jpg",
+      "profile_url": "https://x.com/rtsn_2"
     },
     {
       "platform": "x",
