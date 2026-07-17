@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T21:16:04+09:00",
+  "updated_at": "2026-07-17T21:21:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -161,7 +161,11 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "【#GooseGooseDuck】久しぶりのグースグースダックコラボ",
+      "game_name": "Goose Goose Duck",
+      "started_at": "2026-07-17T12:17:07Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
