@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T21:06:03+09:00",
+  "updated_at": "2026-07-17T21:16:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -221,7 +221,11 @@
       "display_name": "レイざえもん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe91130-a96d-40ec-b5b9-739aa5dec3c7-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/relly_o_ttv",
-      "is_live": false
+      "is_live": true,
+      "title": "day1 次はパルワールドの世界に降り立ってみた！",
+      "game_name": "Palworld",
+      "started_at": "2026-07-17T12:13:01Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_relly_o_ttv-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -241,11 +245,7 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": true,
-      "title": "【CODシリーズ】MW3配信",
-      "game_name": "Call of Duty: Warzone",
-      "started_at": "2026-07-17T10:42:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
