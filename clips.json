@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-17T14:10:08+09:00",
+  "updated_at": "2026-07-17T19:18:09+09:00",
   "clips": [
+    {
+      "id": 265,
+      "source": "twitch",
+      "source_id": "SuccessfulCleverGrasshopperFreakinStinkin-zUmPGegF3dXMiLL-",
+      "url": "https://www.twitch.tv/senshi_bankou/clip/SuccessfulCleverGrasshopperFreakinStinkin-zUmPGegF3dXMiLL-",
+      "embed_url": "https://clips.twitch.tv/embed?clip=SuccessfulCleverGrasshopperFreakinStinkin-zUmPGegF3dXMiLL-",
+      "title": "【#yuzucity】私！心あります！！【#YCGTA】",
+      "description": "https://www.twitch.tv/senshi_bankou/clip/SuccessfulCleverGrasshopperFreakinStinkin-zUmPGegF3dXMiLL-",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/440157de-9bac-4bc6-b0c2-b7ce59f2c6a5/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 44,
+      "broadcaster_name": "千紫万紅",
+      "author_name": "千紫 万紅",
+      "author_avatar": "https://cdn.discordapp.com/avatars/758189443386703903/b77c1aad293d304b3534fd4905c4b093.png?size=128",
+      "posted_at": "2026-07-17T19:18:08+09:00"
+    },
     {
       "id": 264,
       "source": "twitch",
