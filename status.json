@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T23:26:05+09:00",
+  "updated_at": "2026-07-17T23:36:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,11 +49,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "yuzucityの人たちとスト６",
-      "game_name": "Street Fighter 6",
-      "started_at": "2026-07-17T11:57:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -151,11 +147,7 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": true,
-      "title": "スト6 感覚を取り戻す→21時からYuzuCityスト6対戦会！！",
-      "game_name": "Street Fighter 6",
-      "started_at": "2026-07-17T11:28:08Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -168,7 +160,7 @@
       "is_live": true,
       "title": "【#GooseGooseDuck】久しぶりのグースグースダックコラボ",
       "game_name": "Goose Goose Duck",
-      "started_at": "2026-07-17T12:17:07Z",
+      "started_at": "2026-07-17T14:35:05Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
