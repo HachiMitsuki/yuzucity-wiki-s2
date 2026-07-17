@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T02:04:36+09:00",
+  "updated_at": "2026-07-17T21:36:09+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -861,6 +861,13 @@
       "display_name": "ハーメルン",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1041325561161777152/fBBX3LWM_400x400.jpg",
       "profile_url": "https://x.com/syarurannsu"
+    },
+    {
+      "platform": "x",
+      "handle": "kame2game",
+      "display_name": "カメつ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2078094319861592064/P4LsNaYp_400x400.jpg",
+      "profile_url": "https://x.com/kame2game"
     }
   ]
 }
