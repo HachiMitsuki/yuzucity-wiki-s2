@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T02:06:00+09:00",
+  "updated_at": "2026-07-18T03:06:00+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -173,11 +173,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "yuzucityの二次会valo",
-      "game_name": "VALORANT",
-      "started_at": "2026-07-17T14:15:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
