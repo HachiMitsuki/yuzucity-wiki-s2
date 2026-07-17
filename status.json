@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T00:41:03+09:00",
+  "updated_at": "2026-07-18T01:06:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -161,11 +161,7 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": true,
-      "title": "【#GooseGooseDuck】久しぶりのグースグースダックコラボ",
-      "game_name": "Goose Goose Duck",
-      "started_at": "2026-07-17T14:37:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -445,11 +441,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【リズム天国ミラクルスターズ】天才だから完全初見でもいけちゃうってこと。",
-      "game_name": "Rhythm Heaven Groove",
-      "started_at": "2026-07-17T15:08:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
