@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T23:46:05+09:00",
+  "updated_at": "2026-07-18T00:11:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -465,7 +465,11 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": false
+      "is_live": true,
+      "title": "【リズム天国ミラクルスターズ】天才だから完全初見でもいけちゃうってこと。",
+      "game_name": "Rhythm Heaven Groove",
+      "started_at": "2026-07-17T15:08:37Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
