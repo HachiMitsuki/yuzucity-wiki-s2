@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T01:16:02+09:00",
+  "updated_at": "2026-07-18T01:21:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -313,11 +313,7 @@
       "display_name": "ネスタゆぅ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c1eed7-6cd6-4ce3-891d-91a7c3ac3a3e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nestayuu59",
-      "is_live": true,
-      "title": "【APEX】  天上天下唯我独尊ソロラン修行編",
-      "game_name": "Apex Legends",
-      "started_at": "2026-07-17T13:23:20Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nestayuu59-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
