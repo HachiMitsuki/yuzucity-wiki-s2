@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T00:36:05+09:00",
+  "updated_at": "2026-07-19T00:46:06+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -315,11 +315,7 @@
       "display_name": "おぱんおじさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/225c9ba6-965e-4e35-90cc-4f6edb019162-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/opan_tyuu2",
-      "is_live": true,
-      "title": "【めっちゃカメレオン】Yuzu City の住民たちと2次会",
-      "game_name": "MECCHA CHAMELEON",
-      "started_at": "2026-07-18T11:06:53Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opan_tyuu2-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
