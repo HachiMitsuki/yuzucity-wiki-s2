@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T02:01:04+09:00",
+  "updated_at": "2026-07-19T02:36:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -103,11 +103,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#星の翼】ランク回すよ【#vtuber /雷音雅】",
-      "game_name": "StarWard",
-      "started_at": "2026-07-18T11:06:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -215,11 +211,7 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": true,
-      "title": "【ClownRP】今日はラーク上手くやりたい",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-18T11:47:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
