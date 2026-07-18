@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T02:36:03+09:00",
+  "updated_at": "2026-07-19T02:56:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -265,11 +265,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【#DCPグラセフ2】8日目 -青鞠いぐれ視点 金が必要なんだ！ @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-18T05:48:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
