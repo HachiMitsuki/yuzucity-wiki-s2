@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T21:06:04+09:00",
+  "updated_at": "2026-07-18T21:21:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -74,7 +74,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
       "is_live": true,
-      "title": "〖 Mimesis〗タイミー警察メンバーで飲酒コラボ w/ 紡音ちゃん びじょさん RusKさん",
+      "title": "【Mimesis】タイミー警察メンバーで飲酒コラボ w/ 紡音ちゃん びじょさん RusKさん",
       "game_name": "MIMESIS",
       "started_at": "2026-07-18T12:04:16Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
@@ -267,7 +267,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【YGSRast】経験値が上がるってさ9.5日目",
+      "game_name": "Rust",
+      "started_at": "2026-07-18T12:19:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
