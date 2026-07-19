@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-19T14:28:57+09:00",
+  "updated_at": "2026-07-19T19:37:42+09:00",
   "clips": [
+    {
+      "id": 267,
+      "source": "twitch",
+      "source_id": "ThoughtfulWanderingYakRedCoat-gjhUm4OfnnwYABVB",
+      "url": "https://www.twitch.tv/gekka_shigure/clip/ThoughtfulWanderingYakRedCoat-gjhUm4OfnnwYABVB",
+      "embed_url": "https://clips.twitch.tv/embed?clip=ThoughtfulWanderingYakRedCoat-gjhUm4OfnnwYABVB",
+      "title": "パージデーの開幕はどこも修羅場",
+      "description": "https://www.twitch.tv/gekka_shigure/clip/ThoughtfulWanderingYakRedCoat-gjhUm4OfnnwYABVB",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/78456341-8fe6-43cd-bd63-918542a069f2/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "duration_seconds": 51,
+      "broadcaster_name": "月下時雨",
+      "author_name": "月下時雨/切り抜き◎",
+      "author_avatar": "https://cdn.discordapp.com/avatars/258988771549249537/5a704d005dbb54c40b4f190a9ebee7c8.png?size=128",
+      "posted_at": "2026-07-19T19:37:41+09:00"
+    },
     {
       "id": 266,
       "source": "youtube",
