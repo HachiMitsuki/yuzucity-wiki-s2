@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T01:56:04+09:00",
+  "updated_at": "2026-07-20T02:01:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -109,11 +109,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２ 本気と書いてミスディレクションとはよまねえよ１２話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-19T12:44:16Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -253,11 +249,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【#DCPグラセフ2】9日目 -青鞠いぐれ視点 今日は寝ません、多分 @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-19T07:22:49Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
