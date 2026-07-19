@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T13:06:02+09:00",
+  "updated_at": "2026-07-19T13:21:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -51,7 +51,7 @@
       "channel_url": "https://www.twitch.tv/frcl_orito",
       "is_live": true,
       "title": "まったり焚き火雑談しようと思ったら暑くて無理だった",
-      "game_name": "Just Chatting",
+      "game_name": "League of Legends",
       "started_at": "2026-07-19T02:34:52Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
@@ -167,11 +167,7 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": true,
-      "title": "寝起きそぃLOL",
-      "game_name": "League of Legends",
-      "started_at": "2026-07-19T01:41:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
