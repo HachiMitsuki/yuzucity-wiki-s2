@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T22:01:05+09:00",
+  "updated_at": "2026-07-19T22:06:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -397,7 +397,11 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": false
+      "is_live": true,
+      "title": "【#Minecraft】リハビリマイクラ【1日目】",
+      "game_name": "Minecraft",
+      "started_at": "2026-07-19T13:04:27Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
