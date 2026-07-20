@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T00:41:04+09:00",
+  "updated_at": "2026-07-21T00:46:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -107,11 +107,7 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": true,
-      "title": "【#星の翼】ランク回すよ【#vtuber /雷音雅】 @surinew",
-      "game_name": "StarWard",
-      "started_at": "2026-07-20T11:54:33Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -429,11 +425,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【Valorant】ピッカピカの一年生によるバロ。うまくなる日記",
-      "game_name": "VALORANT",
-      "started_at": "2026-07-20T14:20:28Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
