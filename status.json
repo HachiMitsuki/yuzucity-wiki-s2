@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T20:36:02+09:00",
+  "updated_at": "2026-07-20T20:56:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -103,7 +103,11 @@
       "display_name": "雷音雅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8e587a73-dcde-46e7-aab6-4611fcede0db-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/raionmiyabi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#星の翼】ランク回すよ【#vtuber /雷音雅】",
+      "game_name": "StarWard",
+      "started_at": "2026-07-20T11:54:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raionmiyabi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -194,7 +198,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a2ef1b9-5416-4066-b346-dd181f875d54-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/makotomo_twitch",
       "is_live": true,
-      "title": "【FiveM】Yuzu City Season2 まこともるーく視点。また少し羽ばたこうかな！#最終日",
+      "title": "【VALORANT】フルパコンペ！",
       "game_name": "",
       "started_at": "2026-07-20T11:23:24Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_makotomo_twitch-{width}x{height}.jpg"
@@ -237,11 +241,7 @@
       "display_name": "ヨシポン_ココいま",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f79ca048-8f90-4e9b-b3d1-94ef2d64e6b4-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yoshipon9",
-      "is_live": true,
-      "title": "【CODシリーズ】MW2配信",
-      "game_name": "Call of Duty: Warzone",
-      "started_at": "2026-07-20T11:15:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoshipon9-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -379,7 +379,11 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆらぎ鯖 RUST",
+      "game_name": "Rust",
+      "started_at": "2026-07-20T11:50:45Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
