@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T00:26:12+09:00",
+  "updated_at": "2026-07-21T00:31:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -121,11 +121,7 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": true,
-      "title": "DCPグラセフ２ スイッチって大きな声で言ってもわかるやつは一定数１３話目",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-20T12:04:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -273,11 +269,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【#DCPグラセフ2】10日目 -青鞠いぐれ視点 今日も今日とてお仕事です @i_minatoboshi",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-20T09:32:07Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
