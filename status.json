@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T00:31:03+09:00",
+  "updated_at": "2026-07-21T00:36:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -423,11 +423,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【APEX】このチームで勝つっては・な・し⭐ w/ギギ、こんこん",
-      "game_name": "Apex Legends",
-      "started_at": "2026-07-20T12:25:41Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
