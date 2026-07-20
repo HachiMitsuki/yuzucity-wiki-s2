@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T21:51:05+09:00",
+  "updated_at": "2026-07-20T22:06:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,7 +19,11 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": false
+      "is_live": true,
+      "title": "[VALORANT] サバ内カスタム！最終日  楽しむぞ#新人Vtuber #valorant募集",
+      "game_name": "VALORANT",
+      "started_at": "2026-07-20T13:02:15Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -39,11 +43,7 @@
       "display_name": "酒月きゃん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69ee40cb-4092-4840-a108-7af3558a9628-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
-      "is_live": true,
-      "title": "パルワールドめぇめ鯖 DAY3",
-      "game_name": "Palworld",
-      "started_at": "2026-07-20T11:26:06Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -425,7 +425,11 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": false
+      "is_live": true,
+      "title": "【パルワールド】初めてなんだけど何したらいい？",
+      "game_name": "Palworld",
+      "started_at": "2026-07-20T13:04:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
