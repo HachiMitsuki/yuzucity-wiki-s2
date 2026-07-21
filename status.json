@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T21:51:09+09:00",
+  "updated_at": "2026-07-21T21:56:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -253,7 +253,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【#DCPグラセフ2】11日目 -青鞠いぐれ視点 お前ら水分取れよ @i_minatoboshi",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-21T12:52:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -375,7 +379,11 @@
       "display_name": "一色刹那",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/922e59bc-b703-4a01-9a7f-138614da090d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/xsettyanx",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆらぎ鯖 RUST",
+      "game_name": "Rust",
+      "started_at": "2026-07-21T12:53:42Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xsettyanx-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -405,7 +413,11 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": false
+      "is_live": true,
+      "title": "【パルワールド】サーバー作ってもらったのでやりたい人集まれー",
+      "game_name": "Palworld",
+      "started_at": "2026-07-21T12:52:33Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
