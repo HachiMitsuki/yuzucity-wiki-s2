@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T21:11:04+09:00",
+  "updated_at": "2026-07-21T21:26:03+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -337,7 +337,11 @@
       "display_name": "猫羽ゆけむり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekohayukemuri",
-      "is_live": false
+      "is_live": true,
+      "title": "【 APEX 】今日も @nabe438 とAPEX/日頃のいらいらをぶつける",
+      "game_name": "Apex Legends",
+      "started_at": "2026-07-21T12:20:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekohayukemuri-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -421,11 +425,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【Valorant】ピッカピカの一年生によるバロ。うまくなる日記",
-      "game_name": "VALORANT",
-      "started_at": "2026-07-21T12:09:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
