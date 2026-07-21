@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T22:16:04+09:00",
+  "updated_at": "2026-07-21T23:06:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -53,7 +53,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "何も考えてないけど名作ホラゲいこか",
+      "game_name": "Yomawari: Night Alone",
+      "started_at": "2026-07-21T14:04:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -349,11 +353,7 @@
       "display_name": "猫羽ゆけむり",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fee201a0-1646-49a1-8844-832f04474392-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nekohayukemuri",
-      "is_live": true,
-      "title": "【 APEX 】今日も @nabe438 とAPEX/日頃のいらいらをぶつける",
-      "game_name": "Apex Legends",
-      "started_at": "2026-07-21T12:20:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nekohayukemuri-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
