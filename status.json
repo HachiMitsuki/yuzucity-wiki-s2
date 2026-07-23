@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T22:06:04+09:00",
+  "updated_at": "2026-07-23T22:16:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -73,11 +73,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【パルワールド】クエスト進めなきゃね！  #3",
-      "game_name": "Palworld",
-      "started_at": "2026-07-23T12:38:35Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -279,11 +275,7 @@
       "display_name": "とんさと",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/tonsato",
-      "is_live": true,
-      "title": "【ラフシティ】雅風 夾 / ニートになったけどどうするよ",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-23T11:46:24Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
