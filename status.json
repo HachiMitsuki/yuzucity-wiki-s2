@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T01:01:01+09:00",
+  "updated_at": "2026-07-24T01:06:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -421,11 +421,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【Valorant】ピッカピカの一年生によるバロ。うまくなる日記",
-      "game_name": "VALORANT",
-      "started_at": "2026-07-23T13:03:29Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
