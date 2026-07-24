@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T23:56:10+09:00",
+  "updated_at": "2026-07-25T00:06:11+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -198,7 +198,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
       "is_live": true,
-      "title": "もうすぐ誕生日なのにヴァロラントらしい",
+      "title": "誕生日ヴァロラント",
       "game_name": "VALORANT",
       "started_at": "2026-07-24T13:20:37Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
@@ -449,7 +449,11 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": false
+      "is_live": true,
+      "title": "【いろいろやる】今日は好きなことを気分そのままにやる",
+      "game_name": "VALORANT",
+      "started_at": "2026-07-24T15:02:39Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
