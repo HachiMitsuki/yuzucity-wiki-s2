@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T16:06:07+09:00",
+  "updated_at": "2026-07-24T18:16:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -377,7 +377,11 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": false
+      "is_live": true,
+      "title": "【#Hintown】院長代理とかいてママと呼びます（？） Crazy Panda視点 【3日目】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-24T09:15:06Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -428,8 +432,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d058b1a-211c-4564-b68d-b973a3915768-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/akagamiglass",
       "is_live": true,
-      "title": "休みになるとやること無い drops有効です !device !sens",
-      "game_name": "Wuthering Waves",
+      "title": "休みになるとやること無い !device !sens",
+      "game_name": "FINAL FANTASY XIV ONLINE",
       "started_at": "2026-07-24T02:35:30Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akagamiglass-{width}x{height}.jpg"
     },
