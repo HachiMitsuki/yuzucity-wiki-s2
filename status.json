@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T21:51:12+09:00",
+  "updated_at": "2026-07-24T22:06:10+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -73,7 +73,11 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": false
+      "is_live": true,
+      "title": "【VALORANT】3人でコンペ！ w/ ひかるさん うさちちゃん",
+      "game_name": "VALORANT",
+      "started_at": "2026-07-24T13:05:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
