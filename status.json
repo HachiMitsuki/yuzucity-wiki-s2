@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T00:41:09+09:00",
+  "updated_at": "2026-07-25T01:01:08+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,11 +9,7 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": true,
-      "title": "れんしゅう【龍咲】【#VALORANT 】",
-      "game_name": "VALORANT",
-      "started_at": "2026-07-24T13:23:47Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
