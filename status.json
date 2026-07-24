@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T09:16:02+09:00",
+  "updated_at": "2026-07-24T10:51:02+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -69,11 +69,7 @@
       "display_name": "rukimafu",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b810b381-0164-4158-a2a3-9a7eff9c6a39-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/rukimafu",
-      "is_live": true,
-      "title": "【パルワールド】マップ開拓しなきゃね  #4",
-      "game_name": "Palworld",
-      "started_at": "2026-07-23T22:55:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rukimafu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
