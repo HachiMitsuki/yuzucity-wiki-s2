@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T02:01:06+09:00",
+  "updated_at": "2026-07-26T03:01:04+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -173,11 +173,7 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": true,
-      "title": "誕生日配信ですはい",
-      "game_name": "VALORANT",
-      "started_at": "2026-07-25T10:48:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -381,11 +377,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【#Hintown】ママが街にJoinするみたいです（？） Crazy Panda視点 【4日目】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-25T12:41:04Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
