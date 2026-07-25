@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T23:46:13+09:00",
+  "updated_at": "2026-07-25T23:51:13+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -469,11 +469,7 @@
       "display_name": "らいむさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/567c0e08-fc4a-4db6-9cb7-69b66a5fa25a-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/limesan_ttv",
-      "is_live": true,
-      "title": "【#ピコパーク】BIGPOTATOメンバーと一緒に！",
-      "game_name": "PICO PARK 2",
-      "started_at": "2026-07-25T12:05:32Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limesan_ttv-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -483,11 +479,7 @@
       "display_name": "ももたろうさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e963178f-1359-427c-864a-23aaeb8d383b-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/momotarou_vt",
-      "is_live": true,
-      "title": "【APEX】あんみつカスタム～食物連鎖～きのこもタコも食べちゃうｿﾞｯ【ももたろう】",
-      "game_name": "Apex",
-      "started_at": "2026-07-25T12:04:02Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_momotarou_vt-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "youtube",
