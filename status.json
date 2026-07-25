@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T15:56:06+09:00",
+  "updated_at": "2026-07-25T16:56:05+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -179,11 +179,7 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": true,
-      "title": "【#せんしらいぶ】暑いので突発の歌枠【千紫万紅】※ビッツ＆サブスクギフト禁止歌枠",
-      "game_name": "Karaoke Joysound for Streamer",
-      "started_at": "2026-07-25T06:46:44Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -377,11 +373,7 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": true,
-      "title": "【#Hintown】ママが街にJoinするみたいです（？） Crazy Panda視点 【4日目】",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-25T06:02:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
