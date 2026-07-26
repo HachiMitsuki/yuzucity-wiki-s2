@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T21:16:20+09:00",
+  "updated_at": "2026-07-26T21:56:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -343,11 +343,7 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": true,
-      "title": "【DARK SOULS Ⅲ】え！あなた王目指してるんですか！？奇遇ですね私もなんです～！",
-      "game_name": "DARK SOULS III",
-      "started_at": "2026-07-26T06:45:36Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
