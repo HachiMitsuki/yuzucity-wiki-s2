@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T01:21:21+09:00",
+  "updated_at": "2026-07-28T01:36:21+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -143,11 +143,7 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": true,
-      "title": "［Phasmophobia］うるさい狐と冷静な虎とヤニカスと",
-      "game_name": "Phasmophobia",
-      "started_at": "2026-07-27T13:29:17Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -281,11 +277,7 @@
       "display_name": "十一月祐",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63b9049d-13bc-4fa2-b1b5-f202d74e8924-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/totsugi_yu",
-      "is_live": true,
-      "title": "【ストグラFV】飛花 落葉 145日目 #ストグラFV",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-27T12:23:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_totsugi_yu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
