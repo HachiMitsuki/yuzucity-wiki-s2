@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T20:26:21+09:00",
+  "updated_at": "2026-07-28T21:06:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -303,7 +303,11 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": false
+      "is_live": true,
+      "title": "CJ4RP #空凪紫雨",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-28T12:03:51Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -397,7 +401,11 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": false
+      "is_live": true,
+      "title": "【パルワールド】久々にパルって行かない？",
+      "game_name": "Palworld",
+      "started_at": "2026-07-28T12:05:19Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
