@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T22:31:24+09:00",
+  "updated_at": "2026-07-28T23:41:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -339,11 +339,7 @@
       "display_name": "空凪紫雨",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe6e87f-adf1-47af-b368-1609dcf473d1-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/soranagishigure",
-      "is_live": true,
-      "title": "CJ4RP #空凪紫雨",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-28T12:03:51Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soranagishiu-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -455,11 +451,7 @@
       "display_name": "こるぅな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3dae5ce-b02a-4982-94a3-ce4aa72fd971-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/koruuna",
-      "is_live": true,
-      "title": "【VALORANT】腕痛いめぅ",
-      "game_name": "VALORANT",
-      "started_at": "2026-07-28T12:50:10Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koruuna-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
