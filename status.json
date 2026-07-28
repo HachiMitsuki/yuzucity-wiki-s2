@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T23:51:24+09:00",
+  "updated_at": "2026-07-29T00:01:23+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -83,11 +83,7 @@
       "display_name": "黒島みそぎ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83688376-93e6-419d-8119-c806d19dce6d-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/kurosimamisogi",
-      "is_live": true,
-      "title": "【REPO】わちゃわちゃレポするぞ！！！ｗななし、ひもぉ、浅緋むくと【初見歓迎】",
-      "game_name": "R.E.P.O.",
-      "started_at": "2026-07-28T12:06:23Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kurosimamisogi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -175,11 +171,7 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": true,
-      "title": "めっちゃミメしス",
-      "game_name": "MIMESIS",
-      "started_at": "2026-07-28T13:03:14Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -434,8 +426,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
       "is_live": true,
-      "title": "【パルワールド】久々にパルって行かない？",
-      "game_name": "Palworld",
+      "title": "【VALORANT】やります",
+      "game_name": "VALORANT",
       "started_at": "2026-07-28T12:05:19Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
     },
