@@ -3,14 +3,64 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>YUZU CITY ／ Season 2 Beta — 非公式 Wiki</title>
-<meta name="description" content="Yuzu City — FiveM ロールプレイサーバー Season 2 Beta の非公式 Wiki。ルール・職業・カタログ・最新情報を編集部が整理。">
-<meta property="og:title" content="YUZU CITY ／ Season 2 Beta — 非公式 Wiki">
-<meta property="og:description" content="『あったらいいなこんなもの。』を叶える街、第2章（Beta）。2026.07.01 開幕。">
+<title>YUZU CITY ／ 本番環境 Season 1 は 2026.08.01 開幕</title>
+<meta name="description" content="Yuzu City — FiveM ロールプレイサーバー。2度のベータを経て、本番環境の正式版 Season 1 は2026年8月1日開幕予定。">
+<meta property="og:title" content="YUZU CITY ／ 本番環境 Season 1 は 2026.08.01 開幕">
+<meta property="og:description" content="『あったらいいなこんなもの。』を叶える街。Season 2 Beta から本番環境（正式版 Season 1）へ。2026.08.01 開幕予定。">
 <meta property="og:type" content="website">
 <meta property="og:image" content="images/s2/hero-city.jpg">
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="stylesheet" href="styles.css?v=s2-fix3">
+<style>
+  /* 移行カウントダウン（本体スタイルは流用、ヒーローの質感に合わせた追加分のみ） */
+  .cd-wrap{ display:flex; flex-wrap:wrap; gap:.55rem; margin-top:1.5rem; }
+  .cd-box{
+    background:rgba(6,9,19,.55); border:1px solid var(--line-bright); border-radius:8px;
+    backdrop-filter:blur(6px); -webkit-backdrop-filter:blur(6px);
+    padding:.7rem .5rem .6rem; text-align:center; min-width:clamp(66px,15vw,94px);
+  }
+  .cd-n{
+    font-family:var(--font-fat); font-weight:400; font-variant-numeric:tabular-nums;
+    font-size:clamp(1.7rem,5vw,2.9rem); line-height:1; color:var(--yuzu-bright);
+    text-shadow:0 0 20px rgba(255,217,46,.45);
+  }
+  .cd-l{
+    font-family:var(--font-mono); font-size:.52rem; letter-spacing:.22em;
+    text-transform:uppercase; color:var(--paper-dim); margin-top:.45rem;
+  }
+  .cd-deadline{
+    margin-top:1rem; font-family:var(--font-mono); font-size:.66rem; letter-spacing:.2em;
+    text-transform:uppercase; color:var(--paper); text-shadow:0 2px 12px rgba(0,0,0,.8);
+  }
+  .cd-deadline strong{ color:var(--yuzu-bright); font-weight:700; }
+  .cd-open{
+    font-family:var(--font-display); font-style:italic; font-weight:800;
+    font-size:clamp(1.4rem,4vw,2rem); color:var(--yuzu-bright);
+    text-shadow:0 2px 20px rgba(0,0,0,.7); margin-top:1.4rem;
+  }
+  @media(max-width:560px){ .cd-box{ min-width:calc(25% - .5rem); } }
+
+  /* 8/1 開幕 → 本番サイト誘導オーバーレイ */
+  #launch-redirect{
+    position:fixed; inset:0; z-index:9999; display:none;
+    align-items:center; justify-content:center; text-align:center; padding:2rem 1.4rem;
+    background:
+      radial-gradient(ellipse 70% 50% at 50% 36%, rgba(244,196,48,.12), transparent 60%),
+      linear-gradient(180deg, var(--ink-2) 0%, var(--ink) 62%, #04060d 100%);
+  }
+  .lr-inner{ position:relative; max-width:640px; }
+  .lr-kicker{ font-family:var(--font-mono); font-size:.66rem; letter-spacing:.42em; text-transform:uppercase; color:var(--sky); text-shadow:0 0 14px rgba(79,200,255,.6); margin-bottom:1.3rem; }
+  .lr-lemon{ font-size:clamp(2.6rem,8vw,4rem); display:inline-block; filter:drop-shadow(0 0 25px rgba(244,196,48,.5)); animation:float 6s var(--ease-out) infinite; }
+  .lr-title{ font-family:var(--font-fat); font-weight:400; font-size:clamp(2.6rem,10vw,5.4rem); line-height:.95; color:#fff; text-shadow:3px 0 0 rgba(255,123,200,.5),-3px 0 0 rgba(79,200,255,.5),0 6px 40px rgba(0,0,0,.7); margin:.5rem 0 .8rem; }
+  .lr-open{ font-family:var(--font-display); font-style:italic; font-weight:800; font-size:clamp(1.4rem,5vw,2.3rem); color:var(--yuzu-bright); text-shadow:0 2px 24px rgba(244,196,48,.35); margin-bottom:1rem; }
+  .lr-sub{ font-family:var(--font-mincho); font-size:clamp(1rem,3vw,1.2rem); color:var(--paper); margin-bottom:1.6rem; }
+  .lr-count{ font-family:var(--font-mono); font-size:.82rem; letter-spacing:.14em; color:var(--text-dim); margin-bottom:1.5rem; }
+  #lr-sec{ color:var(--yuzu-bright); font-weight:700; font-size:1.25em; }
+  .lr-btn{ display:inline-flex; align-items:center; gap:.5rem; font-family:var(--font-mono); font-weight:700; font-size:.9rem; letter-spacing:.08em; padding:1rem 2rem; background:var(--yuzu); color:var(--ink); border:1px solid var(--yuzu); border-radius:3px; text-decoration:none !important; box-shadow:0 0 30px rgba(244,196,48,.3); transition:transform .18s var(--ease-out), background .2s, box-shadow .2s; }
+  .lr-btn:hover{ transform:translateY(-2px); background:var(--yuzu-bright); box-shadow:0 0 44px rgba(244,196,48,.5); }
+  .lr-btn.disabled{ background:var(--ink-4); color:var(--text-faint); border-color:var(--line-2); box-shadow:none; pointer-events:none; }
+  .lr-manual{ margin-top:1.2rem; font-size:.72rem; color:var(--text-faint); }
+</style>
 </head>
 <body data-page="index">
 <header class="topbar" id="topbar"></header>
@@ -18,38 +68,51 @@
   <aside class="sidebar" id="sidebar"></aside>
   <main>
 
-    <!-- =================== COVER — generated key visual =================== -->
+    <!-- =================== COVER — 移行キービジュアル =================== -->
     <section style="margin-bottom:1.4rem">
       <div class="s2-cover">
         <div class="s2-cover-bg"></div>
         <div class="s2-cover-content">
-          <div class="s2-kicker">FiveM Roleplay Server ／ 深夜営業中</div>
-          <div><span class="s2-tape">Season 02 Beta ／ 2026.07.01 Open</span></div>
+          <div class="s2-kicker">FiveM Roleplay Server ／ 本番環境へ移行</div>
+          <div><span class="s2-tape">Season 2 Beta ▶ Season 1 Official</span></div>
           <h1 class="s2-wordmark">YUZU CITY</h1>
-          <p class="s2-sub">『あったらいいなこんなもの。』を叶える街、第2章。</p>
+          <p class="s2-sub">『あったらいいなこんなもの。』を叶える街、本番始動。</p>
           <div class="s2-chips">
-            <span class="s2-chip">開幕 <strong>2026.07.01</strong></span>
-            <span class="s2-chip">入国 <strong>面接制</strong></span>
-            <span class="s2-chip">区分 <strong>Beta</strong></span>
-            <span class="s2-chip">職業RP <strong>中心</strong></span>
+            <span class="s2-chip">本番開幕 <strong>2026.08.01</strong></span>
+            <span class="s2-chip">区分 <strong>Official</strong></span>
+            <span class="s2-chip">これまで <strong>Beta ×2</strong></span>
+            <span class="s2-chip">続報 <strong>公式X</strong></span>
           </div>
+
+          <!-- カウントダウン中 -->
+          <div id="cd-before">
+            <div class="cd-wrap" role="timer" aria-label="正式版 Season 1 開幕までのカウントダウン">
+              <div class="cd-box"><div class="cd-n" id="cd-days">--</div><div class="cd-l">Days</div></div>
+              <div class="cd-box"><div class="cd-n" id="cd-hours">--</div><div class="cd-l">Hours</div></div>
+              <div class="cd-box"><div class="cd-n" id="cd-mins">--</div><div class="cd-l">Minutes</div></div>
+              <div class="cd-box"><div class="cd-n" id="cd-secs">--</div><div class="cd-l">Seconds</div></div>
+            </div>
+            <div class="cd-deadline">🚀 <strong>2026.08.01</strong>（土）00:00 JST ／ 正式版 Season 1 Open 予定</div>
+          </div>
+          <!-- 開幕後は #launch-redirect オーバーレイで本番サイトへ誘導 -->
+
         </div>
       </div>
 
       <div class="s2-marquee" aria-hidden="true">
         <div class="s2-marquee-track">
-          <span>Yuzu City</span><span>◆</span><span>Season 02 Beta</span><span>◆</span><span>2026.07.01 Open</span><span>◆</span><span>夜のユズシティ、開幕。</span><span>◆</span><span>FiveM Roleplay</span><span>◆</span>
-          <span>Yuzu City</span><span>◆</span><span>Season 02 Beta</span><span>◆</span><span>2026.07.01 Open</span><span>◆</span><span>夜のユズシティ、開幕。</span><span>◆</span><span>FiveM Roleplay</span><span>◆</span>
+          <span>Yuzu City</span><span>◆</span><span>Beta 完走、ありがとう</span><span>◆</span><span>Season 1 Official</span><span>◆</span><span>2026.08.01 Open</span><span>◆</span><span>本番環境へ</span><span>◆</span>
+          <span>Yuzu City</span><span>◆</span><span>Beta 完走、ありがとう</span><span>◆</span><span>Season 1 Official</span><span>◆</span><span>2026.08.01 Open</span><span>◆</span><span>本番環境へ</span><span>◆</span>
         </div>
       </div>
     </section>
 
-    <!-- =================== SEASON 2 NOTICE =================== -->
+    <!-- =================== 移行 NOTICE =================== -->
     <section style="margin-bottom:3rem">
       <div class="notice notice-info">
-        <div class="notice-title">🌃 Season 2 Beta が開幕しました</div>
-        本 wiki は Season 2 の情報へ順次更新していきます。料金・ルール等は Season 1 から変更される場合があります。
-        Season 1 Beta（2026.05.01–05.31）の記録は <a href="archive.html">アーカイブ</a> から閲覧できます。
+        <div class="notice-title">🌙 Season 2 Beta は、まもなく幕を下ろします</div>
+        2度のベータテスト（Season 1・Season 2）は終了し、YUZU CITY は<strong>本番環境</strong>へ移行します。
+        正式版 <strong>Season 1</strong> は <strong>2026年8月1日</strong> 開幕予定。これまでのベータの記録は <a href="archive.html">アーカイブ</a> から閲覧できます。
       </div>
     </section>
 
@@ -58,13 +121,13 @@
       <div class="s2-foreword">
         <div class="s2-foreword-body">
           <div style="font-family:var(--font-mono);font-size:.6rem;letter-spacing:.3em;color:var(--sky);text-transform:uppercase;margin-bottom:.5rem">Nº 00 ／ FOREWORD</div>
-          <div style="font-family:var(--font-display);font-size:1.25rem;color:var(--text);line-height:1.4;margin-bottom:1rem">夜が、もう一度はじまる</div>
+          <div style="font-family:var(--font-display);font-size:1.25rem;color:var(--text);line-height:1.4;margin-bottom:1rem">夜は、本番へ。</div>
           <p style="font-size:.95rem;line-height:1.95;color:var(--text);margin-bottom:.6rem">
             <span style="font-family:var(--font-fat);font-size:3rem;float:left;line-height:.95;margin:.1rem .6rem -.1rem 0;color:var(--yuzu);text-shadow:0 0 24px rgba(255,217,46,.4)">Y</span>
-            uzu City は『あったらいいなこんなもの。』を叶える街。1ヶ月の Season 1 Beta を経て、街は第2章へ。自作スクリプト多数、初心者から上級者まで不便なく楽しめる街を目指しています。職業RPを中心とし、警察・救急・整備士・飲食店・ギャングなど、それぞれの役割を演じながら生活していきます。
+            uzu City は『あったらいいなこんなもの。』を叶える街。2度のベータ（Season 1・Season 2）を経て、街はいよいよ本番環境へ。2026年8月1日、<strong>正式版 Season 1</strong> として新たに開幕します。これまでベータにご参加くださった皆さま、たくさんの思い出を、本当にありがとうございました。
           </p>
           <p style="font-size:.85rem;color:var(--text-dim);line-height:1.85">
-            身内固まりすぎを抑制し、新しい交流やストーリー作りを推奨。RP経験者から初めての方まで、幅広く参加可能。
+            職業RPを中心に、初心者から上級者まで不便なく楽しめる街を——変わらぬ Yuzu City で。新しい街で、またお会いしましょう。続報は公式 X にて。
           </p>
           <div style="font-family:var(--font-mono);font-size:.6rem;letter-spacing:.18em;color:var(--text-faint);text-transform:uppercase;margin-top:1rem">From the editor</div>
         </div>
@@ -75,21 +138,20 @@
     <!-- =================== STATS =================== -->
     <section style="margin-bottom:3rem">
       <div class="section-header" data-num="Nº 01 ／ AT A GLANCE">
-        <h1 class="section-title"><span class="section-title-icon">🌃</span>街の概要</h1>
-        <p class="section-subtitle">Yuzu City は職業RPを中心にしたFiveMロールプレイサーバーです。</p>
+        <h1 class="section-title"><span class="section-title-icon">🌃</span>本番環境への移行</h1>
+        <p class="section-subtitle">Season 2 Beta から、正式版 Season 1 へ。</p>
       </div>
 
       <div class="stats">
-        <div class="stat"><div class="stat-num">2026.07.01</div><div class="stat-label">Season 2 開幕</div></div>
-        <div class="stat"><div class="stat-num">17:00→5:00</div><div class="stat-label">街の開放時間</div></div>
+        <div class="stat"><div class="stat-num">2026.08.01</div><div class="stat-label">本番 開幕予定</div></div>
+        <div class="stat"><div class="stat-num">Season 1</div><div class="stat-label">正式版シーズン</div></div>
         <div class="stat"><div class="stat-num">面接制</div><div class="stat-label">入国審査</div></div>
-        <div class="stat"><div class="stat-num">Beta</div><div class="stat-label">シーズン区分</div></div>
+        <div class="stat"><div class="stat-num">Official</div><div class="stat-label">シーズン区分</div></div>
       </div>
 
       <div class="notice notice-info">
         <div class="notice-title">サーバー接続について</div>
-        運営の入国面接を通過した方のみ街に参加可能です。接続情報は審査通過後に Discord 内でご案内されます。
-        
+        本番環境も、運営の入国面接を通過した方のみ街に参加可能です。接続情報・開放時間などの詳細は、確定し次第このページと公式 X でご案内します。
       </div>
     </section>
 
@@ -97,7 +159,7 @@
     <section style="margin-bottom:3rem">
       <div class="section-header" data-num="Nº 02 ／ FEATURES">
         <h1 class="section-title"><span class="section-title-icon">🔧</span>主な特徴</h1>
-        <p class="section-subtitle">この街を構成する、4つの柱。</p>
+        <p class="section-subtitle">本番でも変わらない、この街を構成する4つの柱。</p>
       </div>
       <div class="card-grid">
         <div class="card">
@@ -143,7 +205,7 @@
     <section style="margin-bottom:3rem">
       <div class="section-header" data-num="Nº 04 ／ TABLE OF CONTENTS">
         <h1 class="section-title"><span class="section-title-icon">📚</span>wiki カテゴリ</h1>
-        <p class="section-subtitle">街のあらゆる情報を、編集部が整理しました。</p>
+        <p class="section-subtitle">街のあらゆる情報を、編集部が整理しました。（本番版へ順次更新）</p>
       </div>
 
       <div class="s2-banner alley">
@@ -161,11 +223,11 @@
         <div class="s2-banner-title"><span class="s2-banner-en">Rules ／ 04.04–04.08</span><span class="s2-banner-jp">ルール</span></div>
       </div>
       <div class="card-grid">
-        <a href="rules-general.html" class="card"><div class="card-meta">04.04</div><div class="card-title">📜 一般ルール</div><p>Season 2 ルールは発表され次第掲載</p></a>
-        <a href="rules-rp.html" class="card"><div class="card-meta">04.05</div><div class="card-title">🎭 RPルール</div><p>Season 2 ルールは発表され次第掲載</p></a>
-        <a href="rules-combat.html" class="card"><div class="card-meta">04.06</div><div class="card-title">⚔️ 戦闘ルール</div><p>Season 2 ルールは発表され次第掲載</p></a>
-        <a href="rules-vehicle.html" class="card"><div class="card-meta">04.07</div><div class="card-title">🚗 車両ルール</div><p>Season 2 ルールは発表され次第掲載</p></a>
-        <a href="rules-relationship.html" class="card"><div class="card-meta">04.08</div><div class="card-title">💕 恋愛RP</div><p>Season 2 ルールは発表され次第掲載</p></a>
+        <a href="rules-general.html" class="card"><div class="card-meta">04.04</div><div class="card-title">📜 一般ルール</div><p>本番版ルールは発表され次第掲載</p></a>
+        <a href="rules-rp.html" class="card"><div class="card-meta">04.05</div><div class="card-title">🎭 RPルール</div><p>本番版ルールは発表され次第掲載</p></a>
+        <a href="rules-combat.html" class="card"><div class="card-meta">04.06</div><div class="card-title">⚔️ 戦闘ルール</div><p>本番版ルールは発表され次第掲載</p></a>
+        <a href="rules-vehicle.html" class="card"><div class="card-meta">04.07</div><div class="card-title">🚗 車両ルール</div><p>本番版ルールは発表され次第掲載</p></a>
+        <a href="rules-relationship.html" class="card"><div class="card-meta">04.08</div><div class="card-title">💕 恋愛RP</div><p>本番版ルールは発表され次第掲載</p></a>
       </div>
 
       <div class="s2-banner jobs">
@@ -178,7 +240,7 @@
         <a href="job-doctor.html" class="card"><div class="card-meta">04.11</div><div class="card-title">⚕️ 個人医</div><p>ルール・料金表は発表され次第掲載</p></a>
         <a href="job-mechanic.html" class="card"><div class="card-meta">04.12</div><div class="card-title">🔧 メカニック</div><p>ルール・修理/部品料金表は発表され次第掲載</p></a>
         <a href="job-food.html" class="card"><div class="card-meta">04.13</div><div class="card-title">🍔 飲食店</div><p>ルール・販売価格は発表され次第掲載</p></a>
-        <a href="job-crime.html" class="card"><div class="card-meta">04.14</div><div class="card-title">💀 犯罪ルール</div><p>Season 2 ルールは発表され次第掲載</p></a>
+        <a href="job-crime.html" class="card"><div class="card-meta">04.14</div><div class="card-title">💀 犯罪ルール</div><p>本番版ルールは発表され次第掲載</p></a>
       </div>
 
       <div class="s2-banner catalog">
@@ -186,9 +248,9 @@
         <div class="s2-banner-title"><span class="s2-banner-en">Catalog ／ 04.15–04.17</span><span class="s2-banner-jp">カタログ</span></div>
       </div>
       <div class="card-grid">
-        <a href="dealer.html" class="card"><div class="card-meta">04.15</div><div class="card-title">🚗 ディーラー</div><p>Coming Soon — Season 2 カタログ準備中</p></a>
-        <a href="nekocafenau.html" class="card"><div class="card-meta">04.16</div><div class="card-title">🐱 猫カフェNAU</div><p>Coming Soon — Season 2 メニュー準備中</p></a>
-        <a href="burgershot.html" class="card"><div class="card-meta">04.17</div><div class="card-title">🍔 BurgerShot</div><p>Coming Soon — Season 2 メニュー準備中</p></a>
+        <a href="dealer.html" class="card"><div class="card-meta">04.15</div><div class="card-title">🚗 ディーラー</div><p>Coming Soon — 本番版カタログ準備中</p></a>
+        <a href="nekocafenau.html" class="card"><div class="card-meta">04.16</div><div class="card-title">🐱 猫カフェNAU</div><p>Coming Soon — 本番版メニュー準備中</p></a>
+        <a href="burgershot.html" class="card"><div class="card-meta">04.17</div><div class="card-title">🍔 BurgerShot</div><p>Coming Soon — 本番版メニュー準備中</p></a>
       </div>
 
       <div class="s2-banner latest">
@@ -215,8 +277,88 @@
 <footer>
   <strong>Yuzu City Wiki</strong> · 非公式ガイド ／
   <a href="https://x.com/yuzu_server" target="_blank">𝕏 @YUZU_SERVER</a>
-  <div style="margin-top:1.2rem;font-size:.55rem;letter-spacing:.4em;color:var(--text-deep)">YUZU CITY ／ SEASON 02 BETA ／ 編集部</div>
+  <div style="margin-top:1.2rem;font-size:.55rem;letter-spacing:.4em;color:var(--text-deep)">YUZU CITY ／ SEASON 1 OFFICIAL ／ 編集部</div>
 </footer>
+
+<!-- ========= 8/1 00:00 JST に本番 Season 1 サイトへ誘導するオーバーレイ ========= -->
+<div id="launch-redirect" aria-live="polite">
+  <div class="lr-inner">
+    <div class="lr-kicker">Season 1 Official ／ Now Live</div>
+    <div class="lr-lemon">🍋</div>
+    <h1 class="lr-title">YUZU CITY</h1>
+    <div class="lr-open">正式版 Season 1、開幕しました</div>
+    <p class="lr-sub">本番環境の新しい街が、始まりました。</p>
+    <div class="lr-count" id="lr-count"><span id="lr-sec">5</span> 秒後に本番サイトへ自動で移動します</div>
+    <a class="lr-btn" id="lr-link" href="#">本番 Season 1 サイトへ移動する →</a>
+    <div class="lr-manual" id="lr-manual">自動で移動しない場合は、上のボタンを押してください</div>
+  </div>
+</div>
+
 <script src="common.js?v=s2-fix2"></script>
+<script>
+/* ═══ 移行カウントダウン ═══ */
+(function(){
+  var TARGET = new Date('2026-08-01T00:00:00+09:00').getTime();
+  var before = document.getElementById('cd-before');
+  var after  = document.getElementById('cd-after');
+  var dd=document.getElementById('cd-days'), hh=document.getElementById('cd-hours'),
+      mm=document.getElementById('cd-mins'), ss=document.getElementById('cd-secs');
+  function pad(n){ return (n<10?'0':'')+n; }
+  function showOpen(){ if(before) before.style.display='none'; if(after) after.style.display='block'; }
+  var timer;
+  function tick(){
+    var diff = TARGET - Date.now();
+    if(diff<=0){ showOpen(); if(timer) clearInterval(timer); return; }
+    dd.textContent = Math.floor(diff/86400000);
+    hh.textContent = pad(Math.floor((diff%86400000)/3600000));
+    mm.textContent = pad(Math.floor((diff%3600000)/60000));
+    ss.textContent = pad(Math.floor((diff%60000)/1000));
+  }
+  tick();
+  if(Date.now() < TARGET) timer = setInterval(tick, 1000);
+})();
+</script>
+<script>
+/* ═══ 8/1 開幕 → 本番 Season 1 サイトへ誘導（＋自動遷移） ═══ */
+(function(){
+  /* ★★★ 本番 Season 1 サイトの URL が決まったら、この "" の中に入れてください ★★★
+     例: var S1_URL = "https://wiki.yuzucity.com/";
+     空のままだと、開幕画面は出ますが自動遷移はせず「準備中」と表示します。 */
+  var S1_URL = "https://s1.yuzucity.com/";
+  var REDIRECT_SEC = 5;
+
+  var TARGET   = new Date('2026-08-01T00:00:00+09:00').getTime();
+  var force    = location.search.indexOf('launch=1') >= 0;  /* ?launch=1 で開幕画面をプレビュー確認 */
+  var overlay  = document.getElementById('launch-redirect');
+  var link     = document.getElementById('lr-link');
+  var secEl    = document.getElementById('lr-sec');
+  var countEl  = document.getElementById('lr-count');
+  var manualEl = document.getElementById('lr-manual');
+
+  function launch(){
+    var before = document.getElementById('cd-before');
+    if(before) before.style.display = 'none';
+    overlay.style.display = 'flex';
+    if(S1_URL){
+      link.href = S1_URL;
+      var n = REDIRECT_SEC;
+      secEl.textContent = n;
+      var iv = setInterval(function(){
+        n--;
+        if(n <= 0){ clearInterval(iv); location.href = S1_URL; return; }
+        secEl.textContent = n;
+      }, 1000);
+    } else {
+      link.classList.add('disabled');
+      link.textContent = '本番サイト 準備中 …';
+      link.removeAttribute('href');
+      countEl.textContent = '本番サイトの URL は近日公開されます。';
+      manualEl.textContent = '最新情報は公式 X（@yuzu_server）にて。';
+    }
+  }
+
+  if(force || Date.now() >= TARGET){ launch(); }
+})();
+</script>
 </body>
 </html>
