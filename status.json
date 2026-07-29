@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T01:46:19+09:00",
+  "updated_at": "2026-07-30T02:16:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -143,11 +143,7 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": true,
-      "title": "［ナイトレイン］ゆず街闇医者仲間と今日も楽しく夜渡り！※ビッツ禁止",
-      "game_name": "ELDEN RING NIGHTREIGN",
-      "started_at": "2026-07-29T12:00:59Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -167,11 +163,7 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": true,
-      "title": "【完全初見】ナイトレイン no.2 【チアビッツ禁止】 /w ゆらぬぬすさん とんちゃん",
-      "game_name": "ELDEN RING NIGHTREIGN",
-      "started_at": "2026-07-29T12:01:18Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -211,7 +203,11 @@
       "display_name": "えらーのげーむ部屋",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e23d1386-5caa-4260-9f74-98bf671f4808-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/error__twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "【LienCity】犯罪情報集めやるぞ！！#4",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-29T17:12:54Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
