@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T21:11:25+09:00",
+  "updated_at": "2026-07-29T21:31:22+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -178,7 +178,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
       "is_live": true,
-      "title": "ヴァロコンペ ＠２あつまったらフルパ",
+      "title": "ヴァロフルパ",
       "game_name": "VALORANT",
       "started_at": "2026-07-29T11:40:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
@@ -251,7 +251,11 @@
       "display_name": "tosshi2532",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed91c879-ec3a-4fb5-9376-e1e6b4a42404-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tosshi2532",
-      "is_live": false
+      "is_live": true,
+      "title": "【paruwald】ADY2までのパル鯖生活 ２日目",
+      "game_name": "Palworld",
+      "started_at": "2026-07-29T12:29:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tosshi2532-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
