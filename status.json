@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T22:11:22+09:00",
+  "updated_at": "2026-07-29T22:16:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -113,7 +113,11 @@
       "display_name": "ただノパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2dcd8c27-0856-4674-9927-4cf4a4ddd986-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tadanopannda",
-      "is_live": false
+      "is_live": true,
+      "title": "DCPグラセフ２  念願達成？１８話目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-29T13:12:16Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tadanopannda-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -421,11 +425,7 @@
       "display_name": "はすまん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab28af-ed7b-4ca9-a0c0-836fc519171f-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/has_man_ch",
-      "is_live": true,
-      "title": "【パルワールド】今日は愉快な仲間が来てくれます！",
-      "game_name": "Palworld",
-      "started_at": "2026-07-29T12:40:05Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_has_man_ch-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
