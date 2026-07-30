@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T21:01:18+09:00",
+  "updated_at": "2026-07-30T21:06:24+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -129,7 +129,11 @@
       "display_name": "こゆきくん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/524473b5-a2a9-4fdf-b92f-91dc01ca8a26-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/nix_yuki0",
-      "is_live": false
+      "is_live": true,
+      "title": "【Stardew Vallry】ゆるふわ天使の完全初見スタバレ with ゆずメンバー",
+      "game_name": "Stardew Valley",
+      "started_at": "2026-07-30T12:02:35Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nix_yuki0-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -149,7 +153,11 @@
       "display_name": "琉楓",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20a3269d-b5ee-4358-9d32-7f45c849ea46-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzumal_vtuber",
-      "is_live": false
+      "is_live": true,
+      "title": "【めっちゃカメレオン】和菓子をお供にめっちゃカメレオン6人でやるよ",
+      "game_name": "MECCHA CHAMELEON",
+      "started_at": "2026-07-30T12:01:47Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzumal_vtuber-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -169,7 +177,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "ヴァロフルパ びきちゃん 神崎さん なくな かずおさん",
+      "game_name": "VALORANT",
+      "started_at": "2026-07-30T12:02:11Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
