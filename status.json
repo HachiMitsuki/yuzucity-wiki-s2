@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T20:01:17+09:00",
+  "updated_at": "2026-07-30T20:06:19+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -257,11 +257,7 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": true,
-      "title": "【VALORANT/solo】すごく下手になったチェンバー @i_minatoboshi",
-      "game_name": "VALORANT",
-      "started_at": "2026-07-30T07:42:09Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
