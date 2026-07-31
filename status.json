@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T00:16:38+09:00",
+  "updated_at": "2026-08-01T00:21:43+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -19,11 +19,7 @@
       "display_name": "柚稀ぷー",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a23ac480-cb79-4ee4-abd7-6e84d669fa86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yuzuki_pooh",
-      "is_live": true,
-      "title": "[めっちゃカメレオン] YuzuCity闇医者こらぼ #新人Vtuber ＃ゆず鯖",
-      "game_name": "MECCHA CHAMELEON",
-      "started_at": "2026-07-31T13:03:13Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yuzuki_pooh-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -155,11 +151,7 @@
       "display_name": "トンちゃんねる",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ff8c73d2-0fa0-43e6-b8bd-0e6deb8b210e-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/tonpuson_84",
-      "is_live": true,
-      "title": "［めっちゃカメレオン］ゆず街闇医者コラボ！めっちゃかくれんぼするよ！",
-      "game_name": "MECCHA CHAMELEON",
-      "started_at": "2026-07-31T13:19:12Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonpuson_84-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -179,11 +171,7 @@
       "display_name": "御蔵かなた",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78fe7931-a8e3-4f35-b97f-670f7ca72665-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ockanata",
-      "is_live": true,
-      "title": "闇医者カメレオン #yuzucity #YCGTA #ゆず鯖",
-      "game_name": "MECCHA CHAMELEON",
-      "started_at": "2026-07-31T13:03:37Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ockanata-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -203,11 +191,7 @@
       "display_name": "千紫万紅",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29efe5ed-d291-429c-bee8-eca3cb5f3335-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/senshi_bankou",
-      "is_live": true,
-      "title": "【#yuzucity】闇医者のみんなとめっちゃカメレオン遊ぶよー【#YCGTA】",
-      "game_name": "MECCHA CHAMELEON",
-      "started_at": "2026-07-31T13:02:56Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senshi_bankou-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
