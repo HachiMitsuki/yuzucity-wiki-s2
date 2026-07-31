@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T18:46:34+09:00",
+  "updated_at": "2026-07-31T19:26:34+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -50,8 +50,8 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
       "is_live": true,
-      "title": "カフェの店長、おれ。",
-      "game_name": "Coffee Talk",
+      "title": "作業雑談←カフェの店長、おれ。",
+      "game_name": "",
       "started_at": "2026-07-31T09:00:56Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
@@ -377,7 +377,11 @@
       "display_name": "クレイジーパンダ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ea4c9c7-58a4-4c83-b171-14f573ce6f91-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/karagenki0011",
-      "is_live": false
+      "is_live": true,
+      "title": "【#Hintown】明日が最終日らしい… Crazy Panda視点 【10日目】",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-07-31T10:25:29Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karagenki0011-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
