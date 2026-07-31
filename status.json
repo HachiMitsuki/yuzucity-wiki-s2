@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T21:06:37+09:00",
+  "updated_at": "2026-07-31T21:11:37+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -9,7 +9,11 @@
       "display_name": "Ryusaki_twitch",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf1de48-d45d-4d7c-86f8-26f066b56039-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ryusaki_twitch",
-      "is_live": false
+      "is_live": true,
+      "title": "プラチナ2まじか【龍咲】【#VALORANT 】",
+      "game_name": "VALORANT",
+      "started_at": "2026-07-31T12:09:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryusaki_twitch-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -177,7 +181,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "ヴァロラントフルパ 神崎さん 龍咲 びきちゃん なくな",
+      "game_name": "VALORANT",
+      "started_at": "2026-07-31T12:07:57Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
