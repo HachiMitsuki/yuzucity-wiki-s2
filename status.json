@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T22:51:40+09:00",
+  "updated_at": "2026-07-31T23:01:38+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -57,7 +57,11 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity前夜祭飲酒雑談コラボ",
+      "game_name": "Just Chatting",
+      "started_at": "2026-07-31T13:56:28Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -383,11 +387,7 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": true,
-      "title": "【ストグラFVCasual】#25 夏祭りに行こう！",
-      "game_name": "Grand Theft Auto V",
-      "started_at": "2026-07-31T11:23:38Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
