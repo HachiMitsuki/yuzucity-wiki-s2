@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T23:59:43+09:00",
+  "updated_at": "2026-08-02T00:01:45+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1036,6 +1036,13 @@
       "display_name": "沖（おき）@ゴルふぁ〜",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1285594558693138436/jHXkW5ir_400x400.jpg",
       "profile_url": "https://x.com/oki_zp"
+    },
+    {
+      "platform": "x",
+      "handle": "samebxs",
+      "display_name": "水嶺さめ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2083136557972860928/jV6o4ar5_400x400.jpg",
+      "profile_url": "https://x.com/samebxs"
     }
   ]
 }
