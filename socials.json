@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T19:45:05+09:00",
+  "updated_at": "2026-08-01T20:46:59+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -49,6 +49,13 @@
       "display_name": "神薙るい@Fivem開発見習い",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1988606642691489792/YUBnQzan_400x400.jpg",
       "profile_url": "https://x.com/kannagi_rui"
+    },
+    {
+      "platform": "x",
+      "handle": "takutakuenjo",
+      "display_name": "たくくん",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1901654128641892354/Vtl5rAIF_400x400.jpg",
+      "profile_url": "https://x.com/takutakuenjo"
     },
     {
       "platform": "x",
