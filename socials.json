@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T13:47:16+09:00",
+  "updated_at": "2026-08-01T14:04:29+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -910,6 +910,13 @@
       "display_name": "TANI‎",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1991551309334683648/nEK9YkM__400x400.jpg",
       "profile_url": "https://x.com/tani_taso0817"
+    },
+    {
+      "platform": "x",
+      "handle": "mochioyade",
+      "display_name": "もちお",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2051637518307819520/6bfSHEq6_400x400.jpg",
+      "profile_url": "https://x.com/mochioyade"
     }
   ]
 }
