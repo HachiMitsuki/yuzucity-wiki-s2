@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T19:06:19+09:00",
+  "updated_at": "2026-08-01T20:16:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -49,11 +49,7 @@
       "display_name": "おりとさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/459c6aa1-2ad3-482c-b417-2dfc29e03d68-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/frcl_orito",
-      "is_live": true,
-      "title": "ノーマル",
-      "game_name": "League of Legends",
-      "started_at": "2026-08-01T10:01:50Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_frcl_orito-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
@@ -347,7 +343,11 @@
       "display_name": "よっしー_チャンネル",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf06365-99cb-410c-aedd-d1a243de45b6-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/channel_yoshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【リズム天国 ミラクルスターズ】#4 今日で残りラストまでできるか検証‼",
+      "game_name": "Rhythm Heaven Groove",
+      "started_at": "2026-08-01T11:13:49Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_channel_yoshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -421,11 +421,7 @@
       "display_name": "はまりんさん",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b26b567e-06c1-41eb-83f6-fb7d0bd3e9fd-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ohigames14",
-      "is_live": true,
-      "title": "【Valorant】ピッカピカの一年生によるバロ。うまくなる日記",
-      "game_name": "VALORANT",
-      "started_at": "2026-08-01T08:06:40Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ohigames14-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
