@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T00:01:45+09:00",
+  "updated_at": "2026-08-02T05:24:09+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1043,6 +1043,13 @@
       "display_name": "水嶺さめ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2083136557972860928/jV6o4ar5_400x400.jpg",
       "profile_url": "https://x.com/samebxs"
+    },
+    {
+      "platform": "x",
+      "handle": "yumegasaki_vt",
+      "display_name": "夢ヶ咲 よう☀️🪐",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2001551824793538560/dwhAs15t_400x400.jpg",
+      "profile_url": "https://x.com/yumegasaki_vt"
     }
   ]
 }
