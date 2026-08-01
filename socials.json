@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T05:24:09+09:00",
+  "updated_at": "2026-08-02T06:43:53+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1050,6 +1050,13 @@
       "display_name": "夢ヶ咲 よう☀️🪐",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2001551824793538560/dwhAs15t_400x400.jpg",
       "profile_url": "https://x.com/yumegasaki_vt"
+    },
+    {
+      "platform": "x",
+      "handle": "chaya_2_trpg",
+      "display_name": "kasaya/白緑ネム",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2079822075980902400/Zuk7GHDE_400x400.jpg",
+      "profile_url": "https://x.com/chaya_2_trpg"
     }
   ]
 }
