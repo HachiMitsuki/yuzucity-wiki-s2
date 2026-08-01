@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T15:44:22+09:00",
+  "updated_at": "2026-08-01T15:58:49+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -938,6 +938,13 @@
       "display_name": "あとむ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2007482237915394049/laeCyF-X_400x400.jpg",
       "profile_url": "https://x.com/atom_0049"
+    },
+    {
+      "platform": "x",
+      "handle": "mutsukimaki",
+      "display_name": "CRE 睦月 舞綺💙⚔🌹",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1921857883009900544/a7XZVWkz_400x400.jpg",
+      "profile_url": "https://x.com/mutsukimaki"
     }
   ]
 }
