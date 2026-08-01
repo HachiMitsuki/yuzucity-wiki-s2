@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T12:50:26+09:00",
+  "updated_at": "2026-08-01T12:52:36+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -882,6 +882,13 @@
       "display_name": "おかず",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2037376664989241344/gdkCLoEw_400x400.jpg",
       "profile_url": "https://x.com/ae_86_5801"
+    },
+    {
+      "platform": "x",
+      "handle": "takurusu8",
+      "display_name": "たくるす（Takurusu）",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2083392672501559296/vlLOFS7W_400x400.jpg",
+      "profile_url": "https://x.com/takurusu8"
     }
   ]
 }
