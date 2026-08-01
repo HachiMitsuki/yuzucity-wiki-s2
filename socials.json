@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T06:43:53+09:00",
+  "updated_at": "2026-08-02T08:36:46+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1057,6 +1057,13 @@
       "display_name": "kasaya/白緑ネム",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2079822075980902400/Zuk7GHDE_400x400.jpg",
       "profile_url": "https://x.com/chaya_2_trpg"
+    },
+    {
+      "platform": "x",
+      "handle": "rumd4rk",
+      "display_name": "RUMD4rk（ラムダーク）",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1977969522729783296/-mwt6m_v_400x400.jpg",
+      "profile_url": "https://x.com/rumd4rk"
     }
   ]
 }
