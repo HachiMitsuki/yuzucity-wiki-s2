@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T19:28:00+09:00",
+  "updated_at": "2026-08-01T19:34:22+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -980,6 +980,13 @@
       "display_name": "夢喰みなと💤@新人vtuber",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1932988832783425536/8kgk1NOa_400x400.jpg",
       "profile_url": "https://x.com/yumekuiminato"
+    },
+    {
+      "platform": "x",
+      "handle": "wint4r__",
+      "display_name": "うぃんた",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2061146521597509632/JkP7vGDd_400x400.jpg",
+      "profile_url": "https://x.com/wint4r__"
     }
   ]
 }
