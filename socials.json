@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T19:34:22+09:00",
+  "updated_at": "2026-08-01T19:45:05+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -987,6 +987,13 @@
       "display_name": "うぃんた",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2061146521597509632/JkP7vGDd_400x400.jpg",
       "profile_url": "https://x.com/wint4r__"
+    },
+    {
+      "platform": "x",
+      "handle": "koinunanika66",
+      "display_name": "琥戌ナニカ 🐶👾321",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039207624810618880/7zV5Jvt5_400x400.jpg",
+      "profile_url": "https://x.com/koinunanika66"
     }
   ]
 }
