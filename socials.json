@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T12:52:36+09:00",
+  "updated_at": "2026-08-01T12:59:01+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -889,6 +889,13 @@
       "display_name": "たくるす（Takurusu）",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2083392672501559296/vlLOFS7W_400x400.jpg",
       "profile_url": "https://x.com/takurusu8"
+    },
+    {
+      "platform": "x",
+      "handle": "kioca_snht314",
+      "display_name": "希於佳/kioca",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1687628674248650754/BGZ3iLqP_400x400.jpg",
+      "profile_url": "https://x.com/kioca_snht314"
     }
   ]
 }
