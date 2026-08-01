@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T15:56:20+09:00",
+  "updated_at": "2026-08-01T16:41:20+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -264,7 +264,7 @@
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d034f1e4-9496-4054-8942-2f5a11ad35f0-profile_image-300x300.jpeg",
       "channel_url": "https://www.twitch.tv/tonsato",
       "is_live": true,
-      "title": "【VALORANT】テスト配信もかねてコンペ w/ふくちゃ おりえ3 ヨルにい",
+      "title": "【VALORANT】テスト配信もかねてコンペ w/ふくちゃ おりえ3",
       "game_name": "VALORANT",
       "started_at": "2026-08-01T04:04:32Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tonsato-{width}x{height}.jpg"
@@ -327,11 +327,7 @@
       "display_name": "わぁむっぽいなにか",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e647dc61-28e6-4e76-b8bd-450c55515662-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/warm_kntr",
-      "is_live": true,
-      "title": "【VALORANT】少しだけアップ、本番を待つ",
-      "game_name": "VALORANT",
-      "started_at": "2026-08-01T06:34:55Z",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warm_kntr-{width}x{height}.jpg"
+      "is_live": false
     },
     {
       "platform": "twitch",
