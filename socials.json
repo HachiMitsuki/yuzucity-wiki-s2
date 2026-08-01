@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T14:32:38+09:00",
+  "updated_at": "2026-08-01T15:44:22+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -931,6 +931,13 @@
       "display_name": "白狼 うるふ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2082543755639570433/dQZJ7TcC_400x400.jpg",
       "profile_url": "https://x.com/hakurou_urufu"
+    },
+    {
+      "platform": "x",
+      "handle": "atom_0049",
+      "display_name": "あとむ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2007482237915394049/laeCyF-X_400x400.jpg",
+      "profile_url": "https://x.com/atom_0049"
     }
   ]
 }
