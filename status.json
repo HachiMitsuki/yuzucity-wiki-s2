@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T20:36:25+09:00",
+  "updated_at": "2026-08-02T20:46:27+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -41,7 +41,7 @@
       "channel_url": "https://www.twitch.tv/sakazuki_kyan",
       "is_live": true,
       "title": "YCGTA Day1 ～Re:Start～",
-      "game_name": "Palworld",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-02T10:33:06Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakazuki_kyan-{width}x{height}.jpg"
     },
@@ -67,7 +67,11 @@
       "display_name": "柚木なつな",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c683c860-8df2-4993-b771-342e330ffd6c-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/natsuna33",
-      "is_live": false
+      "is_live": true,
+      "title": "🔴LIVE【 #YCGTA 】day1 #ゆず鯖 #YCGTA #FiveM",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T11:42:14Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natsuna33-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -233,7 +237,7 @@
       "channel_url": "https://www.twitch.tv/error__twitch",
       "is_live": true,
       "title": "【YuzuCity】またギャングなるか#1日目",
-      "game_name": "Powerful Pro Yakyuu 2026-2027",
+      "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-02T11:21:22Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_error__twitch-{width}x{height}.jpg"
     },
