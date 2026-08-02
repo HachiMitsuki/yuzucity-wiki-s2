@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T17:58:41+09:00",
+  "updated_at": "2026-08-02T18:55:40+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1113,6 +1113,13 @@
       "display_name": "薑らりて🫚💜",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2061827201553858560/FX2FPTNE_400x400.jpg",
       "profile_url": "https://x.com/rariteyan_game"
+    },
+    {
+      "platform": "x",
+      "handle": "ranokaku_u",
+      "display_name": "架空らの",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2005603254433189888/atlzjD7n_400x400.jpg",
+      "profile_url": "https://x.com/ranokaku_u"
     }
   ]
 }
