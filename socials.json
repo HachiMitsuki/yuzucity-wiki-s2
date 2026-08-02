@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T13:51:13+09:00",
+  "updated_at": "2026-08-02T14:54:48+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -119,6 +119,13 @@
       "display_name": "戌丸こた🐶💜🥟newばーじょん！",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2067435075462135808/_s5SEkZl_400x400.jpg",
       "profile_url": "https://x.com/kota_nosukemaru"
+    },
+    {
+      "platform": "x",
+      "handle": "marl__kuro",
+      "display_name": "黒田りと🧸♔",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2028076171003588608/XzgG-L_j_400x400.jpg",
+      "profile_url": "https://x.com/marl__kuro"
     },
     {
       "platform": "x",
