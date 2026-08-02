@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T19:11:05+09:00",
+  "updated_at": "2026-08-02T19:13:56+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -97,7 +97,11 @@
       "display_name": "yutaa0000",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40cca9c9-8bf2-4650-a23e-922da9afc4aa-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/yutaa0000",
-      "is_live": false
+      "is_live": true,
+      "title": "ゆずシティー 一日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:13:09Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yutaa0000-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -577,6 +581,16 @@
       "display_name": "Komugisui",
       "profile_image_url": "https://yt3.ggpht.com/mfiXarTCExY0iKaDQCcutZUB5-APIN8kgD7LONWrRwpPCUpl7sTIHcZgIB4i7RqtfDe2gkoR=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40komugisui",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCmIUqEv4JaJQniS6OddFXog",
+      "channel_id": "UCmIUqEv4JaJQniS6OddFXog",
+      "handle": "@yonerun1",
+      "display_name": "よねるん",
+      "profile_image_url": "https://yt3.ggpht.com/-5sjK8AakqdkP49bQNDrBktclIYKvHTm3FRs_D0H4rKo-zGqzhdkFi0o1RQGB7K1AmUhWLn8s14=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40yonerun1",
       "is_live": false
     },
     {
