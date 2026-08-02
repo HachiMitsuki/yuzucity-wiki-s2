@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T19:02:35+09:00",
+  "updated_at": "2026-08-02T19:03:14+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -249,7 +249,11 @@
       "display_name": "湊星いぐれ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af6d5bbc-39ba-4a25-900d-0dc1ec879c86-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/i_minatoboshi",
-      "is_live": false
+      "is_live": true,
+      "title": "【 #yuzucity 】 1日目 まずは道を決めないとね【湊星いぐれ視点】 #YCGTA #ゆず鯖  #gta @i_minatoboshi",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:02:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_i_minatoboshi-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -476,6 +480,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-02T10:00:04Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mutsukimaki-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "imwint4r",
+      "login": "imwint4r",
+      "user_id": "1101478750",
+      "display_name": "うぃんたです",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce86d022-1a8d-4907-a62c-270f40730725-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/imwint4r",
+      "is_live": true,
+      "title": "【YuzuCity】さぁこれからたのしみますかぁ！day1",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:01:20Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imwint4r-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
