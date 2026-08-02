@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T17:20:46+09:00",
+  "updated_at": "2026-08-02T17:58:41+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -315,6 +315,13 @@
       "display_name": "ともサバ ＠Twitch Vstreamer",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1648144041455030273/SnXHP5dK_400x400.jpg",
       "profile_url": "https://x.com/tomosava0919"
+    },
+    {
+      "platform": "x",
+      "handle": "0401_mako_",
+      "display_name": "Mako a.k.a 瑠唯",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1732264893792092160/qGKS-bb0_400x400.jpg",
+      "profile_url": "https://x.com/0401_mako_"
     },
     {
       "platform": "x",
