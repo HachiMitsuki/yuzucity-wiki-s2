@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T19:41:25+09:00",
+  "updated_at": "2026-08-02T19:46:25+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -193,7 +193,11 @@
       "display_name": "917です",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b469fac-930b-49bd-994d-466aeaab7710-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/manmarquina",
-      "is_live": false
+      "is_live": true,
+      "title": "yuzucity １日目",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:44:56Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_manmarquina-{width}x{height}.jpg"
     },
     {
       "platform": "twitch",
@@ -581,7 +585,11 @@
       "display_name": "ぽんちゃんだよぉ",
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dc189b5-2916-47cf-bfd2-a3dfdef981e8-profile_image-300x300.png",
       "channel_url": "https://www.twitch.tv/ponchan15",
-      "is_live": false
+      "is_live": true,
+      "title": "【#YCGTA】初参戦です！",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:41:21Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
