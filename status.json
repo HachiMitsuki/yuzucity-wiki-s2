@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T20:46:27+09:00",
+  "updated_at": "2026-08-02T20:46:29+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -608,6 +608,20 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponchan15-{width}x{height}.jpg"
     },
     {
+      "platform": "twitch",
+      "id": "syokoraaan_channel",
+      "login": "syokoraaan_channel",
+      "user_id": "689159284",
+      "display_name": "しょこらんらん",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/83a73518-307e-4d36-96d7-ecfdf09a372a-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/syokoraaan_channel",
+      "is_live": true,
+      "title": "無職です！ 初見さん◎ROM◎Drops◎",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:01:12Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syokoraaan_channel-{width}x{height}.jpg"
+    },
+    {
       "platform": "youtube",
       "id": "UCjtNUzbnglluVtV7ZH8lz5Q",
       "channel_id": "UCjtNUzbnglluVtV7ZH8lz5Q",
@@ -835,6 +849,16 @@
       "display_name": "DoloHololo",
       "profile_image_url": "https://yt3.ggpht.com/47HDK9DQm-FPPKKZAGs36u1HAXqiZ69XvC67mG8yzHPnxaVlS55Ly1sjQoT-OgKiTm9-Fg5_hg=s800-c-k-c0x00ffffff-no-rj",
       "channel_url": "https://www.youtube.com/%40dolohololo",
+      "is_live": false
+    },
+    {
+      "platform": "youtube",
+      "id": "UCdjcwYo1yxH1AZY_b8nf3-A",
+      "channel_id": "UCdjcwYo1yxH1AZY_b8nf3-A",
+      "handle": "@syokoraaanvtuber",
+      "display_name": "しょこらんVTuber",
+      "profile_image_url": "https://yt3.ggpht.com/1NhAxYLWYxHmIqlgo9e35OtMz6-RD7hP1ntSXDaTqmJ9_d4ZuANnjWGIzjU9M4Ls2aurqAzz=s800-c-k-c0x00ffffff-no-rj",
+      "channel_url": "https://www.youtube.com/%40syokoraaanvtuber",
       "is_live": false
     }
   ]
