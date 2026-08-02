@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T12:22:36+09:00",
+  "updated_at": "2026-08-02T13:38:43+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1078,6 +1078,13 @@
       "display_name": "DoloHololo",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1966206661569437696/yIuhf8Sa_400x400.jpg",
       "profile_url": "https://x.com/dolohololo"
+    },
+    {
+      "platform": "x",
+      "handle": "sikinodori2142",
+      "display_name": "しきのどり",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2030344945333346304/DJqkUeyv_400x400.jpg",
+      "profile_url": "https://x.com/sikinodori2142"
     }
   ]
 }
