@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T19:31:24+09:00",
+  "updated_at": "2026-08-02T19:31:53+09:00",
   "streamers": [
     {
       "platform": "twitch",
@@ -554,6 +554,20 @@
       "game_name": "Grand Theft Auto V",
       "started_at": "2026-08-02T10:02:13Z",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_takurusu8-{width}x{height}.jpg"
+    },
+    {
+      "platform": "twitch",
+      "id": "kashuker_spg",
+      "login": "kashuker_spg",
+      "user_id": "162145012",
+      "display_name": "カシュケア",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24cd7518-115d-4e44-a79d-fb4492d808a8-profile_image-300x300.png",
+      "channel_url": "https://www.twitch.tv/kashuker_spg",
+      "is_live": true,
+      "title": "[#YuzuCity]キャラクリから行くやで（）",
+      "game_name": "Grand Theft Auto V",
+      "started_at": "2026-08-02T10:25:36Z",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kashuker_spg-{width}x{height}.jpg"
     },
     {
       "platform": "youtube",
