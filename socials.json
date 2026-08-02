@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T13:38:43+09:00",
+  "updated_at": "2026-08-02T13:51:13+09:00",
   "accounts": [
     {
       "platform": "x",
@@ -1085,6 +1085,13 @@
       "display_name": "しきのどり",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2030344945333346304/DJqkUeyv_400x400.jpg",
       "profile_url": "https://x.com/sikinodori2142"
+    },
+    {
+      "platform": "x",
+      "handle": "syokoraaan",
+      "display_name": "しょこらん/VTuber",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2040035621939650562/bqYgjRCn_400x400.jpg",
+      "profile_url": "https://x.com/syokoraaan"
     }
   ]
 }
